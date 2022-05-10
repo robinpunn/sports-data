@@ -1,0 +1,47 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  background: url(robin.jpeg) no-repeat center center fixed;
+  background-size: cover;
+}
+
+.container {
+  justify-content: center;
+}
+
+h1 {
+  color: #cb6e2c;
+}
+
+hr {
+  border-color: #081f05;
+  border-width: 2px;
+  border-style: solid;
+  width: 100px;
+  margin: 20px auto;
+  opacity: 1;
+}
+
+.buffer {
+  height: 50px;
+}
+
+.btn {
+  font-weight: 700;
+  border-radius: 300px;
+  text-transform: uppercase;
+}
+
+.btn-clr {
+  background-color: #cb6e2c;
+  padding: 1rem 2rem;
+  border-color: #cb6e2c;
+}
+
+.btn:hover {
+  background-color: #237918;
+  border-color: #237918;
+  border-width: 4px;
+}
