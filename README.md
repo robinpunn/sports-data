@@ -14,3 +14,33 @@
         - Client = computer that is accessing the remote server
 2. SSH Command
     - `ssh [username]@[host]`
+    - Easy to use with linux and mac, windows requires a third party program
+    - the `ssh` command instructs the computer to open a secure shell connection
+    - `[user]` represents the account to be accessed
+    - `[host]` represents the remote server to be accessed
+3. How SSH Works
+    - There are three techniques used in SSH
+        - Symmetrical Encryption
+        - Asymmetrical Encryption
+        - Hashing
+4. Symmetric Encyption
+    - Symmetric encryption uses the same key to encrypt and decrypt data
+    - Key exchange algorithm is used to exchange the key between the client and the server
+        - The key is never transmitted over the network
+        - Secret key is specific to each session
+        - Generated prior to client and server authentication
+5. Asymmetric Encryption
+    - Uses two keys, a public key and a private key
+    - The public key is used to encrypt data and the private key is used to decrypt data
+    - Only used during the key exchange process
+    - Diffie-Hellman key exchange algorithm is used to exchange the keys
+6. Hashing
+    - SSH uses both symmetric and asymmetric encryption
+        - Assymetric is used to share the symmetric key
+        - Key is used by the symmetric encryption
+        - The host server creates a message that is encrypted with the public key to prove its identity
+    - Hashing solves the man-in-the-middle-problem
+        - Hashing is a one-way function
+    - Hashes verify the authenticity of the message
+        - HMAC (Hash-based Message Authentication Code) is used to verify the integrity of the message
+            - Each message transmitted must contain a message authentication code
