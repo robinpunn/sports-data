@@ -44,3 +44,24 @@
     - Hashes verify the authenticity of the message
         - HMAC (Hash-based Message Authentication Code) is used to verify the integrity of the message
             - Each message transmitted must contain a message authentication code
+7. Passwords or SSH?
+    - Two ways to authenticate when using SSH
+        - Password
+        - Public Key
+8. SSH into a sever
+    - RSA keys are used to authenticate
+    - RSA keys are a pair of keys, a public key and a private key
+    - The public key is used to encrypt data and the private key is used to decrypt data
+    - The private key is never shared
+    - The public key is shared with the server
+    - The server uses the public key to encrypt a message
+    - The client uses the private key to decrypt the message
+    - The client then uses the public key to encrypt a message
+    - The server uses the private key to decrypt the message
+9. Summary
+    1. Diffie-Hellman key exchange algorithm is used to exchange the keys
+    2. Arrive at a symmetric key
+    3. Hashing is used to verify there is no tampering
+    4. User is authenticated
+        - use password
+        - use rsa keys
