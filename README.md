@@ -183,3 +183,23 @@
         - Above the fold loading
         - Media attributes
         - Less specificity
+10. Critical Render Path 3
+    - JavaScript is exectucuted after the DOM and CSSOM are created
+    - JavaScript can access and modify the DOM and CSSOM
+    - JavaScript is parser blocking
+        - JavaScript needs to complete before the page can be rendered
+    - JS
+        - Load scripts asynchronously
+        - Defer loading scripts
+        - Minimize DOM manipulation
+        - Avoid long running scripts
+    - Async and Defer can be used to load files that are non-essential to user experience
+        - The difference between async and defer is that async will load the file as soon as possible and defer will load the file after the DOM is created
+        - If core functionality of the page is dependent on the file, use async
+        - [Script Tag - async and defer](https://stackoverflow.com/questions/10808109/script-tag-async-defer)
+11. Critical Render Path 4
+    - Render Tree is created from the DOM and CSSOM
+    - Browser uses the render tree to create the visual representation of the page
+    - The browser paints the page
+    - The browser loads the page
+    - JavaScript can cause a new rendering by changing the DOM or CSSOM
