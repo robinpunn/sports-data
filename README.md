@@ -65,3 +65,121 @@
     4. User is authenticated
         - use password
         - use rsa keys
+
+### Performance Part 1
+1. Introduction to Performance Part 1
+    - Client + Server relationship
+        - Client = browser
+        - Server = computer that is serving the website
+    - HTML file gives indication of what files are needed from the server
+    - Browser requests the files from the server
+    - Server sends the files to the browser
+    - Browser renders the files
+2. Keys to performance
+    - Three ways to improve performance
+        - Front-end rendering
+        - Transfer of files
+        - Back-end processing
+    - Front-end
+        - Critical rendering path
+            - HTML -> CSS -> JS
+            - Optimized code
+            - Progressive web apps
+    - Transfer of files
+        - Minimize files
+        - Minimize delivery
+    - Back-end
+        - CDNs
+        - Caching
+        - Load balancing
+        - DB scaling
+        - Gzip
+3. Network Performance
+    - Reduce size of files
+        - Minimize text and optimize images
+4. Image file and formats
+    - The best way to reduce the size of an image is by choosing the right format
+    - The most common image formats are
+        - JPEG
+        - PNG
+        - GIF
+        - SVG
+    - JPEG (joint photographic experts group)
+        - use for images with many colors
+        - use for photos
+        - can't have transparency
+        - larger file size
+    - GIF (graphics interchange format)
+        - use for images with few colors
+        - small animations
+        - can have transparency
+        - smaller file size
+    - PNG (portable network graphics)
+        - limit the number of colors
+        - good for logos
+        - can have transparency
+        - smaller file size
+    - SVG (scalable vector graphics)
+        - image can be expanded or reduced without losing quality
+        - use for logos, simplistic images
+        - can have transparency
+        - smaller file size
+    - Pick the right format and compress the image without losing quality
+5. Image Optimizations
+    - Minimize Images
+    - If you want transparency: use PNG
+    - If you want animation: use GIF
+    - If you want quality: use JPEG
+    - If you want simple icons, logos, and illustrations: use SVG
+    - Reduce PNG with PNGQuant, PNGCrush, PNGOut, TinyPNG
+    - Reduce JPEG with JPEGMini, JPEGTran, TinyJPG, JPEG-Optimizer
+    - Try to use simple illustrations over highly detailed images
+    - Always lower jpeg quality (30-60%)... the larger the resolution, the larger the file size
+    - Resize images to the size they will be displayed
+    - Display different sized images for different backgrounds (media queries)
+    - Use CDNs like imgix, cloudinary, and fastly
+    - Remove image metadata
+    - [View and Remove Exif Online](https://www.verexif.com/en/)
+    - [Media Queries](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
+    - [Media Query Cheat Sheet](https://gist.github.com/bartholomej/8415655)
+6. Delivery Optimizations
+    - Reducing frequency
+    - Reducing the amount of files that need to be retrieved
+    - [Max Parallel Requests Per Browser](https://stackoverflow.com/questions/985431/max-parallel-http-connections-in-a-browser)
+        - Chrome: 6
+        - Firefox: 6
+        - Safari: 6
+        - IE: 2
+        - Opera: 4
+7. Critical Render Path Introduction
+    - Critical Render Path
+        1. Client requests site and server returns HTML file
+        2. HTML file is parsed and DOM(document object model) tree is created
+            - DOM describes the structure of the page
+        3. CSS files are requested and parsed
+            - CSSOM (CSS object model) is created
+        4. JS files are requested and parsed
+            - JS executes any changes to the DOM and CSSOM
+        5. Render tree is created which is a combination of the DOM and CSSOM
+        6. Render tree is used to create the visual representation of the page
+        7. Images are not part of the critical render path
+    - DOM -> CSSOM -> (DOM content loaded) Render Tree -> Layout -> Paint (Load)
+8. Critical Render Path Part 1
+    - Try to load CSS as soon as possible
+    - Try to load JS as late as possible with a few exceptions
+        - JS that is needed to render the page
+        - JS that is needed to render the page quickly
+        - JS that is needed to render the page correctly
+    - JS requires HTML and CSS parsing before it can run
+    - HTML
+        - Load style sheets in the head
+        - Load scripts at the bottom of the body
+9. Critical Render Path Part 2
+    - CSS is render blocking
+        - CSS needs to complete before the page can be rendered
+    - Try to make CSS as small as possible so the user can see the page as soon as possible
+    -CSS
+        - Only load whatever is needed
+        - Above the fold loading
+        - Media attributes
+        - Less specificity
