@@ -203,3 +203,11 @@
     - The browser paints the page
     - The browser loads the page
     - JavaScript can cause a new rendering by changing the DOM or CSSOM
+12. HTTP/2
+    - Protocol update to improve network latency
+    - Bundling may not have the same effect with HTTP/2 because of multiplexing
+        - Multiplexing allows multiple requests to be sent at the same time
+    - Binary protocol instead of text
+    - Server push... server can push files to the client before the client requests them
+    - [Into to HTTP/2](https://web.dev/performance-http2/)
+    - [HTTP/3](https://blog.cloudflare.com/http3-the-past-present-and-future/)
