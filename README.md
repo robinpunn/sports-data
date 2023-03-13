@@ -211,3 +211,27 @@
     - Server push... server can push files to the client before the client requests them
     - [Into to HTTP/2](https://web.dev/performance-http2/)
     - [HTTP/3](https://blog.cloudflare.com/http3-the-past-present-and-future/)
+
+### Performance Part 2
+1. Section Overview
+    - Optimizing code by writing efficient functions
+        - Code splitting
+    - Progressive Web Apps
+        - Trying to make the web more like native mobile apps
+2. Optimizing Code
+    - JavaScript's heaviest cost is parsing and compiling code (read and understand the code)
+    - Chrome Dev tools allows for recording and analyzing performance in the Performance tab
+        - The summary tab shows the total time it took to load the page (loading, scripting, rendering, painting, etc.)
+    - Sites like [WebPageTest](https://www.webpagetest.org/) and [GTmetrix](https://gtmetrix.com/) can be used to analyze performance
+    - Ahead of time compilation
+        - Compiling code before it is run
+    - Just in time compilation
+        - Compiling code as it is run
+    - To limit the amount of processing that needs to be done, limit animations and transitions
+3. Code Splitting
+    - In http1, websites were bundled into a single javascript file
+    - Code splitting, or progressive bootstrapping, involves sending a minmally functional page needed for the current route
+        - Lazy loading is when code is loaded on demand
+    - Vendor files contain all the files from third party libraries that are required for the site to run
+    - Production builds are much faster than development builds
+        - Minified file that is optimized for production removing debugging tools that might come with third party libraries
