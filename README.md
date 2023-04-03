@@ -6,4 +6,9 @@
 
 ## List of Docs
 - ### React
-    - [Get Started](https://react.dev/learn)
+    - [Get Started](https://github.com/robinpunn/documentation/tree/main/React/GetStarted)
+        - [Quickstart](https://github.com/robinpunn/documentation/tree/main/React/GetStarted/Quickstart)
+
+- ### Svelte
+    - [Part 1: Welcome to Svelte](https://github.com/robinpunn/documentation/tree/main/Svelte/Part1)
+        - [Introduction](https://github.com/robinpunn/documentation/tree/main/Svelte/Part1/Introduction)

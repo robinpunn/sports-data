@@ -2,6 +2,5 @@
 
 ## Get Started
 
-### [Quick Start](https://react.dev/learn)
-    - From the React Documentation
+### [Quick Start](https://github.com/robinpunn/documentation/tree/main/React/GetStarted/Quickstart)
     - A brief introduction to React
