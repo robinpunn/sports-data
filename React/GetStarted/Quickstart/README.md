@@ -1,4 +1,18 @@
 ## [Quick Start](https://react.dev/learn)
+
+### Table of Contents
+ 1. [Creating and Nesting Components](#creating-and-nesting-components)
+ 2. [Writing markup with JSX](#writing-markup-with-jsx)
+ 3. [Adding styles](#adding-styles)
+ 4. [Displaying data](#displaying-data)
+ 5. [Conditional rendering](#conditional-rendering)
+ 6. [Rendering lists](#rendering-lists)
+ 7. [Responding to events](#responding-to-events)
+ 8. [Updating the screen](#updating-the-screen)
+ 9. [Using hooks](#using-hooks)
+10. [Sharing datat between components](#sharing-data-between-components)
+
+
 #### Creating and Nesting Components
 
 - React apps are made out of components. 
