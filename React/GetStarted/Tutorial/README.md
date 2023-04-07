@@ -10,6 +10,13 @@
 
 ### Table of Contents
 1. [What are you building?](#what-are-you-building)
+2. [Setup for the tutorial](#setup-for-the-tutorial)
+3. [Overview](#overview)
+    - [Inspecting the Starter Code](#inspecting-the-starter-code)
+        -[App.js](#appjs)
+        -[style.css](#stylecss)
+        - [index.js](#indexjs)
+    - [Building the board](#building-the-board)
 
 ### What are you building?
 - In this tutorial, you’ll build an interactive tic-tac-toe game with React.
@@ -139,3 +146,60 @@
     - This list gives you a history of all of the moves that have occurred in the game, and it is updated as the game progresses.
 - Once you’ve played around with the finished tic-tac-toe game, keep scrolling.
     - You’ll start with a simpler template in this tutorial. Our next step is to set you up so that you can start building the game.
+
+### Setup for the tutorial
+```js
+//App.js
+export default function Square() {
+  return <button className="square">X</button>;
+}
+```
+
+### Overview
+- Now that you’re set up, let’s get an overview of React!
+
+#### Inspecting the starter code
+- The Files section with a list of files like ``App.js``, ``index.js``, ``styles.css`` and a folder called ``public``
+##### App.js
+- The code in App.js creates a component.
+    - In React, a component is a piece of reusable code that represents a part of a user interface.
+    - Components are used to render, manage, and update the UI elements in your application.
+    - Let’s look at the component line by line to see what’s going on:
+        ```js
+        export default function Square() {
+            return <button className="square">X</button>;
+        }
+        ```
+        - The first line defines a function called ``Square``.
+        - The ``export`` JavaScript keyword makes this function accessible outside of this file.
+        - The ``default`` keyword tells other files using your code that it’s the main function in your file.
+        ```js
+        return <button className="square">X</button>;
+        ```
+        - The second line returns a button.
+        - The ``return`` JavaScript keyword means whatever comes after is returned as a value to the caller of the function.
+        - ``<button>`` is a JSX element.
+        - A JSX element is a combination of JavaScript code and HTML tags that describes what you’d like to display.
+        - ``className="square"`` is a button property or prop that tells CSS how to style the button.
+        - ``X`` is the text displayed inside of the button and ``</button>`` closes the JSX element to indicate that any following content shouldn’t be placed inside the button.
+##### styles.css
+- This file defines the styles for your React app.
+    - The first two CSS selectors (* and body) define the style of large parts of your app while the .square selector defines the style of any component where the className property is set to square.
+    - In your code, that would match the button from your Square component in the App.js file.
+##### index.js
+- You won’t be editing this file during the tutorial but it is the bridge between the component you created in the ``App.js`` file and the web browser.
+    ```js
+    import {StrictMode} from 'react';
+    import {createRoot} from 'react-dom/client';
+    import './styles.css';
+
+    import App from './App';
+    ```
+    - Lines 1-5 brings all the necessary pieces together:
+        - React
+        - React’s library to talk to web browsers (React DOM)
+        - the styles for your components
+        - the component you created in ``App.js``.
+    - The remainder of the file brings all the pieces together and injects the final product into ``index.html`` in the ``public`` folder.
+
+#### Building the board
