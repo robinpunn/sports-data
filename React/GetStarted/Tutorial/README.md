@@ -13,10 +13,12 @@
 2. [Setup for the tutorial](#setup-for-the-tutorial)
 3. [Overview](#overview)
     - [Inspecting the Starter Code](#inspecting-the-starter-code)
-        -[App.js](#appjs)
-        -[style.css](#stylecss)
+        - [App.js](#appjs)
+        - [style.css](#stylecss)
         - [index.js](#indexjs)
     - [Building the board](#building-the-board)
+    - [Passing data through props](#passing-data-through-props)
+    - [Making an interactive component](#making-an-interactive-component)
 
 ### What are you building?
 - In this tutorial, you’ll build an interactive tic-tac-toe game with React.
@@ -203,3 +205,164 @@ export default function Square() {
     - The remainder of the file brings all the pieces together and injects the final product into ``index.html`` in the ``public`` folder.
 
 #### Building the board
+- Let’s get back to App.js. This is where you’ll spend the rest of the tutorial.
+- Currently the board is only a single square, but you need nine!
+- If you just try and copy paste your square to make two squares like this:
+    ```js
+    export default function Square() {
+        return <button className="square">X</button><button className="square">X</button>;
+    }
+    ```
+- You’ll get this error:
+    ```bash
+    /src/App.js: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>?
+    ```
+- React components need to return a single JSX element and not multiple adjacent JSX elements like two buttons.
+- To fix this you can use fragments (<> and </>) to wrap multiple adjacent JSX elements like this:
+    ```js
+    export default function Square() {
+        return (
+            <>
+            <button className="square">X</button>
+            <button className="square">X</button>
+            </>
+        );
+    }
+    ```
+- Now you should see:
+    ![image](https://react.dev/images/tutorial/two-x-filled-squares.png)
+- Great! Now you just need to copy-paste a few times to add nine squares and…
+    ![image](https://react.dev/images/tutorial/nine-x-filled-squares.png)
+- Oh no! The squares are all in a single line, not in a grid like you need for our board.
+    - To fix this you’ll need to group your squares into rows with divs and add some CSS classes.
+    - While you’re at it, you’ll give each square a number to make sure you know where each square is displayed.
+- In the App.js file, update the Square component to look like this:
+    ```js
+    export default function Square() {
+        return (
+            <>
+            <div className="board-row">
+                <button className="square">1</button>
+                <button className="square">2</button>
+                <button className="square">3</button>
+            </div>
+            <div className="board-row">
+                <button className="square">4</button>
+                <button className="square">5</button>
+                <button className="square">6</button>
+            </div>
+            <div className="board-row">
+                <button className="square">7</button>
+                <button className="square">8</button>
+                <button className="square">9</button>
+            </div>
+            </>
+        );
+    }
+    ```
+- The CSS defined in styles.css styles the divs with the className of board-row.
+    - Now that you’ve grouped your components into rows with the styled divs you have your tic-tac-toe board:
+    ![image](https://react.dev/images/tutorial/number-filled-board.png)
+- But you now have a problem. Your component named Square, really isn’t a square anymore. Let’s fix that by changing the name to ``Board``:
+    ```js
+    export default function Board() {
+    //...
+    }
+    ```
+#### Passing data through props
+- Next, you’ll want to change the value of a square from empty to “X” when the user clicks on the square.
+    - With how you’ve built the board so far you would need to copy-paste the code that updates the square nine times (once for each square you have)!
+    - Instead of copy-pasting, React’s component architecture allows you to create a reusable component to avoid messy, duplicated code.
+- First, you are going to copy the line defining your first square (``<button className="square">1</button>``) from your Board component into a new Square component:
+    ```js
+    function Square() {
+        return <button className="square">1</button>;
+    }
+
+    export default function Board() {
+    // ...
+    }
+- Then you’ll update the Board component to render that ``Square`` component using JSX syntax:
+    ```js
+    // ...
+    export default function Board() {
+        return (
+            <>
+            <div className="board-row">
+                <Square />
+                <Square />
+                <Square />
+            </div>
+            <div className="board-row">
+                <Square />
+                <Square />
+                <Square />
+            </div>
+            <div className="board-row">
+                <Square />
+                <Square />
+                <Square />
+            </div>
+            </>
+        );
+    }
+    ```
+- Note how unlike the browser divs, your own components Board and Square must start with a capital letter.
+- Let’s take a look:
+    ![image](https://react.dev/images/tutorial/board-filled-with-ones.png)
+    - Oh no! You lost the numbered squares you had before.
+    - Now each square says “1”.
+    - To fix this, you will use props to pass the value each square should have from the parent component (Board) to its child (Square).
+- Update the ``Square`` component to read the ``value`` prop that you’ll pass from the ``Board``:
+    ```js
+    function Square({ value }) {
+        return <button className="square">1</button>;
+    }
+    ```
+    - ``function Square({ value })`` indicates the Square component can be passed a prop called value.
+- Now you want to display that ``value`` instead of ``1`` inside every square. Try doing it like this:
+    ```js
+    function Square({ value }) {
+        return <button className="square">value</button>;
+    }
+    ```
+- Oops, this is not what you wanted:
+    ![image](https://react.dev/images/tutorial/board-filled-with-value.png)
+- You wanted to render the JavaScript variable called value from your component, not the word “value”.
+    - To “escape into JavaScript” from JSX, you need curly braces. Add curly braces around value in JSX like so:
+    ```js
+    function Square({ value }) {
+        return <button className="square">{value}</button>;
+    }
+    ```
+- For now, you should see an empty board:
+    ![image](https://react.dev/images/tutorial/empty-board.png)
+- This is because the Board component hasn’t passed the value prop to each Square component it renders yet.
+- To fix it you’ll add the value prop to each Square component rendered by the Board component:
+    ```js
+    export default function Board() {
+        return (
+            <>
+            <div className="board-row">
+                <Square value="1" />
+                <Square value="2" />
+                <Square value="3" />
+            </div>
+            <div className="board-row">
+                <Square value="4" />
+                <Square value="5" />
+                <Square value="6" />
+            </div>
+            <div className="board-row">
+                <Square value="7" />
+                <Square value="8" />
+                <Square value="9" />
+            </div>
+            </>
+        );
+    }
+    ```
+- Now you should see a grid of numbers again:
+    ![image](https://react.dev/images/tutorial/number-filled-board.png)
+
+#### Making an interactive component
