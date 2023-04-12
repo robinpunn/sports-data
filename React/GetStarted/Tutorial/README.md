@@ -22,6 +22,9 @@
     - [React Developer Tools](#react-developer-tools)
 4. [Completing the game](#completing-the-game)
     - [Lifting state up](#lifting-state-up)
+    - [Why immutability is important ](#why-immutability-is-important)
+    - [Taking turns](#taking-turns)
+    - [Declaring a winner](#declaring-a-winner)
 
 ### What are you building?
 - In this tutorial, you’ll build an interactive tic-tac-toe game with React.
@@ -692,3 +695,229 @@ export default function Square() {
         - This causes the ``value`` prop of the ``Square`` component with index 0 to change from ``null`` to ``X``.
 - In the end the user sees that the upper left square has changed from empty to having a ``X`` after clicking it.
 > The DOM ``<button>`` element’s ``onClick`` attribute has a special meaning to React because it is a built-in component. For custom components like Square, the naming is up to you. You could give any name to the ``Square``’s ``onSquareClick`` prop or ``Board``’s ``handleClick`` function, and the code would work the same. In React, it’s conventional to use ``onSomething`` names for props which represent events and ``handleSomething`` for the function definitions which handle those events.
+#### Why immutability is important
+- Note how in ``handleClick``, you call ``.slice()`` to create a copy of the ``squares`` array instead of modifying the existing array.
+    - To explain why, we need to discuss immutability and why immutability is important to learn.
+- There are generally two approaches to changing data.
+    - The first approach is to mutate the data by directly changing the data’s values.
+    -The second approach is to replace the data with a new copy which has the desired changes.
+    - Here is what it would look like if you mutated the ``squares`` array:
+    ```js
+    const squares = [null, null, null, null, null, null, null, null, null];
+    squares[0] = 'X';
+    // Now `squares` is ["X", null, null, null, null, null, null, null, null];
+    ```
+    - And here is what it would look like if you changed data without mutating the squares array:
+    ```js
+    const squares = [null, null, null, null, null, null, null, null, null];
+    const nextSquares = ['X', null, null, null, null, null, null, null, null];
+    // Now `squares` is unchanged, but `nextSquares` first element is 'X' rather than `null`
+    ```
+- The result is the same but by not mutating (changing the underlying data) directly, you gain several benefits.
+- Immutability makes complex features much easier to implement.
+    - Later in this tutorial, you will implement a “time travel” feature that lets you review the game’s history and “jump back” to past moves.
+    - This functionality isn’t specific to games - an ability to undo and redo certain actions is a common requirement for apps.
+    - Avoiding direct data mutation lets you keep previous versions of the data intact, and reuse them later.
+- There is also another benefit of immutability.
+    - By default, all child components re-render automatically when the state of a parent component changes.
+    - This includes even the child components that weren’t affected by the change.
+    - Although re-rendering is not by itself noticeable to the user (you shouldn’t actively try to avoid it!), you might want to skip re-rendering a part of the tree that clearly wasn’t affected by it for performance reasons.
+    - Immutability makes it very cheap for components to compare whether their data has changed or not.
+    - You can learn more about how React chooses when to re-render a component in [the ``memo`` API reference](https://react.dev/reference/react/memo).
+#### Taking turns
+- It’s now time to fix a major defect in this tic-tac-toe game: the “O”s cannot be marked on the board.
+- You’ll set the first move to be “X” by default.
+    - Let’s keep track of this by adding another piece of state to the Board component:
+    ```js
+    function Board() {
+        const [xIsNext, setXIsNext] = useState(true);
+        const [squares, setSquares] = useState(Array(9).fill(null));
+
+        // ...
+    }
+    ```
+- Each time a player moves, ``xIsNext`` (a boolean) will be flipped to determine which player goes next and the game’s state will be saved.
+    -You’ll update the ``Board``’s ``handleClick`` function to flip the value of ``xIsNext``:
+    ```js
+    export default function Board() {
+        const [xIsNext, setXIsNext] = useState(true);
+        const [squares, setSquares] = useState(Array(9).fill(null));
+
+        function handleClick(i) {
+            const nextSquares = squares.slice();
+            if (xIsNext) {
+            nextSquares[i] = "X";
+            } else {
+            nextSquares[i] = "O";
+            }
+            setSquares(nextSquares);
+            setXIsNext(!xIsNext);
+        }
+
+        return (
+            //...
+        );
+    }
+    ```
+- Now, as you click on different squares, they will alternate between ``X`` and ``O``, as they should!
+- But wait, there’s a problem. Try clicking on the same square multiple times:
+    ![gif](https://react.dev/images/tutorial/o-replaces-x.gif)
+    - The ``X`` is overwritten by an ``O``! While this would add a very interesting twist to the game, we’re going to stick to the original rules for now.
+- When you mark a square with a ``X`` or an ``O`` you aren’t first checking to see if the square already has a ``X`` or ``O`` value.
+    - You can fix this by returning early.
+    - You’ll check to see if the square already has a ``X`` or an ``O``. If the square is already filled, you will return in the ``handleClick`` function early - before it tries to update the board state.
+    ```js
+    function handleClick(i) {
+        if (squares[i]) {
+            return;
+        }
+        const nextSquares = squares.slice();
+        //...
+    }
+    ```
+    - Now you can only add X’s or O’s to empty squares!
+#### Declaring a winner
+- Now that the players can take turns, you’ll want to show when the game is won and there are no more turns to make.
+    - To do this you’ll add a helper function called ``calculateWinner`` that takes an array of 9 squares, checks for a winner and returns ``'X'``, ``'O'``, or ``null`` as appropriate.
+    - Don’t worry too much about the ``calculateWinner`` function; it’s not specific to React:
+    ```js
+    export default function Board() {
+    //...
+    }
+
+    function calculateWinner(squares) {
+        const lines = [
+            [0, 1, 2],
+            [3, 4, 5],
+            [6, 7, 8],
+            [0, 3, 6],
+            [1, 4, 7],
+            [2, 5, 8],
+            [0, 4, 8],
+            [2, 4, 6]
+        ];
+        for (let i = 0; i < lines.length; i++) {
+            const [a, b, c] = lines[i];
+            if (squares[a] && squares[a] === squares[b] && squares[a] === squares[c]) {
+                return squares[a];
+            }
+        }
+        return null;
+    }
+> It does not matter whether you define ``calculateWinner`` before or after the ``Board``. Let’s put it at the end so that you don’t have to scroll past it every time you edit your components.
+- You will call calculateWinner(squares) in the Board component’s handleClick function to check if a player has won.
+    - You can perform this check at the same time you check if a user has clicked a square that already has a X or and O.
+    - We’d like to return early in both cases:
+    ```js
+    function handleClick(i) {
+        if (squares[i] || calculateWinner(squares)) {
+            return;
+        }
+        const nextSquares = squares.slice();
+        //...
+    }
+    ```
+- To let the players know when the game is over, you can display text such as “Winner: X” or “Winner: O”.
+    - To do that you’ll add a ``status`` section to the ``Board`` component.
+    - The status will display the winner if the game is over and if the game is ongoing you’ll display which player’s turn is next:
+    ```js
+    export default function Board() {
+        // ...
+        const winner = calculateWinner(squares);
+        let status;
+        if (winner) {
+            status = "Winner: " + winner;
+        } else {
+            status = "Next player: " + (xIsNext ? "X" : "O");
+        }
+
+        return (
+            <>
+            <div className="status">{status}</div>
+            <div className="board-row">
+                // ...
+        )
+    }
+- Congratulations!
+    - You now have a working tic-tac-toe game.
+    - And you’ve just learned the basics of React too.
+    - So you are the real winner here.
+    - Here is what the code should look like:
+    ```js
+    import { useState } from 'react';
+
+    function Square({value, onSquareClick}) {
+        return (
+            <button className="square" onClick={onSquareClick}>
+                {value}
+            </button>
+        );
+    }
+
+    export default function Board() {
+        const [xIsNext, setXIsNext] = useState(true);
+        const [squares, setSquares] = useState(Array(9).fill(null));
+
+        function handleClick(i) {
+            if (calculateWinner(squares) || squares[i]) {
+                return;
+            }
+            const nextSquares = squares.slice();
+            if (xIsNext) {
+                nextSquares[i] = 'X';
+            } else {
+                nextSquares[i] = 'O';
+            }
+            setSquares(nextSquares);
+            setXIsNext(!xIsNext);
+        }
+
+        const winner = calculateWinner(squares);
+        let status;
+        if (winner) {
+            status = 'Winner: ' + winner;
+        } else {
+            status = 'Next player: ' + (xIsNext ? 'X' : 'O');
+        }
+
+        return (
+            <>
+            <div className="status">{status}</div>
+            <div className="board-row">
+                <Square value={squares[0]} onSquareClick={() => handleClick(0)} />
+                <Square value={squares[1]} onSquareClick={() => handleClick(1)} />
+                <Square value={squares[2]} onSquareClick={() => handleClick(2)} />
+            </div>
+            <div className="board-row">
+                <Square value={squares[3]} onSquareClick={() => handleClick(3)} />
+                <Square value={squares[4]} onSquareClick={() => handleClick(4)} />
+                <Square value={squares[5]} onSquareClick={() => handleClick(5)} />
+            </div>
+            <div className="board-row">
+                <Square value={squares[6]} onSquareClick={() => handleClick(6)} />
+                <Square value={squares[7]} onSquareClick={() => handleClick(7)} />
+                <Square value={squares[8]} onSquareClick={() => handleClick(8)} />
+            </div>
+            </>
+        );
+    }
+
+    function calculateWinner(squares) {
+        const lines = [
+            [0, 1, 2],
+            [3, 4, 5],
+            [6, 7, 8],
+            [0, 3, 6],
+            [1, 4, 7],
+            [2, 5, 8],
+            [0, 4, 8],
+            [2, 4, 6],
+        ];
+        for (let i = 0; i < lines.length; i++) {
+            const [a, b, c] = lines[i];
+            if (squares[a] && squares[a] === squares[b] && squares[a] === squares[c]) {
+                return squares[a];
+            }
+        }
+        return null;
+    }
