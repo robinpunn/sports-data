@@ -31,7 +31,7 @@
     - [Showing the past moves](#showing-the-past-moves)
     - [Picking a key](#picking-a-key)
     - [Implementing time travel](#implementing-time-travel)
-    - [Final Cleanup](#final-cleanup)
+    - [Final cleanup](#final-cleanup)
     - [Wrapping up](#wrapping-up)
 
 ### What are you building?
@@ -1062,3 +1062,204 @@ export default function Square() {
     - Here, ``[...history, nextSquares]`` creates a new array that contains all the items in ``history``, followed by ``nextSquares``. (You can read the ``...history`` [spread syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax) as “enumerate all the items in ``history``”.)
 - For example, if history is ``[[null,null,null]``, ``["X",null,null]]`` and nextSquares is ``["X",null,"O"]``, then the new ``[...history, nextSquares]`` array will be ``[[null,null,null]``, ``["X",null,null]``, ``["X",null,"O"]]``.
 - At this point, you’ve moved the state to live in the ``Game`` component, and the UI should be fully working, just as it was before the refactor.
+
+#### Showing the past moves
+- Since you are recording the tic-tac-toe game’s history, you can now display a list of past moves to the player.
+- React elements like ``<button>`` are regular JavaScript objects; you can pass them around in your application.
+    - To render multiple items in React, you can use an array of React elements.
+- You already have an array of ``history`` moves in state, so now you need to transform it to an array of React elements.
+    - In JavaScript, to transform one array into another, you can use the [array ``map`` method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map):
+    ```js
+    [1, 2, 3].map((x) => x * 2) // [2, 4, 6]
+    ```
+- You’ll use map to transform your history of moves into React elements representing buttons on the screen, and display a list of buttons to “jump” to past moves.
+    - Let’s map over the history in the Game component:
+    ```js
+    export default function Game() {
+        const [xIsNext, setXIsNext] = useState(true);
+        const [history, setHistory] = useState([Array(9).fill(null)]);
+        const currentSquares = history[history.length - 1];
+
+        function handlePlay(nextSquares) {
+            setHistory([...history, nextSquares]);
+            setXIsNext(!xIsNext);
+        }
+
+        function jumpTo(nextMove) {
+            // TODO
+        }
+
+        const moves = history.map((squares, move) => {
+            let description;
+            if (move > 0) {
+            description = 'Go to move #' + move;
+            } else {
+            description = 'Go to game start';
+            }
+            return (
+            <li>
+                <button onClick={() => jumpTo(move)}>{description}</button>
+            </li>
+            );
+        });
+
+        return (
+            <div className="game">
+            <div className="game-board">
+                <Board xIsNext={xIsNext} squares={currentSquares} onPlay={handlePlay} />
+            </div>
+            <div className="game-info">
+                <ol>{moves}</ol>
+            </div>
+            </div>
+        );
+    }
+    ```
+    - Note that you should see an error in the developer tools console that says: ``Warning: Each child in an array or iterator should have a unique "key" prop. Check the render method of `Game`.``
+        - You’ll fix this error in the next section.
+- As you iterate through ``history`` array inside the function you passed to ``map``, the ``squares`` argument goes through each element of ``history``, and the ``move`` argument goes through each array index: ``0``, ``1``, ``2``, …. (In most cases, you’d need the actual array elements, but to render a list of moves you will only need indexes.)
+- For each move in the tic-tac-toe game’s history, you create a list item ``<li>`` which contains a button ``<button>``.
+    - The button has an ``onClick`` handler which calls a function called ``jumpTo`` (that you haven’t implemented yet).
+- For now, you should see a list of the moves that occurred in the game and an error in the developer tools console.
+- Let’s discuss what the “key” error means.
+
+#### Picking a key
+- When you render a list, React stores some information about each rendered list item.
+    - When you update a list, React needs to determine what has changed.
+    - You could have added, removed, re-arranged, or updated the list’s items.
+- Imagine transitioning from:
+    ```js
+    <li>Alexa: 7 tasks left</li>
+    <li>Ben: 5 tasks left</li>
+    ```
+- to:
+    ```js
+    <li>Ben: 9 tasks left</li>
+    <li>Claudia: 8 tasks left</li>
+    <li>Alexa: 5 tasks left</li>
+    ```
+- In addition to the updated counts, a human reading this would probably say that you swapped Alexa and Ben’s ordering and inserted Claudia between Alexa and Ben.
+    - However, React is a computer program and can’t know what you intended, so you need to specify a key property for each list item to differentiate each list item from its siblings.
+    - If your data was from a database, Alexa, Ben, and Claudia’s database IDs could be used as keys.
+```js
+<li key={user.id}>
+  {user.name}: {user.taskCount} tasks left
+</li>
+```
+- When a list is re-rendered, React takes each list item’s key and searches the previous list’s items for a matching key.
+    - If the current list has a key that didn’t exist before, React creates a component.
+    - If the current list is missing a key that existed in the previous list, React destroys the previous component.
+    - If two keys match, the corresponding component is moved.
+- Keys tell React about the identity of each component, which allows React to maintain state between re-renders.
+    - If a component’s key changes, the component will be destroyed and re-created with a new state.
+- ``key`` is a special and reserved property in React. When an element is created, React extracts the ``key`` property and stores the ``key`` directly on the returned element.
+    - Even though ``key`` may look like it is passed as props, React automatically uses ``key`` to decide which components to update.
+    - There’s no way for a component to ask what ``key`` its parent specified.
+- If no key is specified, React will report an error and use the array index as a key by default.
+    - Using the array index as a key is problematic when trying to re-order a list’s items or inserting/removing list items.
+    - Explicitly passing ``key={i}`` silences the error but has the same problems as array indices and is not recommended in most cases.
+- Keys do not need to be globally unique; they only need to be unique between components and their siblings.
+
+#### Implementing time travel
+- In the tic-tac-toe game’s history, each past move has a unique ID associated with it: it’s the sequential number of the move.
+    - Moves will never be re-ordered, deleted, or inserted in the middle, so it’s safe to use the move index as a key.
+- In the Game function, you can add the key as ``<li key={move}>``, and if you reload the rendered game, React’s “key” error should disappear:
+    ```js
+    const moves = history.map((squares, move) => {
+        //...
+        return (
+            <li key={move}>
+                <button onClick={() => jumpTo(move)}>{description}</button>
+            </li>
+        );
+    });
+    ```
+- Before you can implement ``jumpTo``, you need the ``Game`` component to keep track of which step the user is currently viewing.
+     - To do this, define a new state variable called ``currentMove``, defaulting to ``0``:
+     ```js
+     export default function Game() {
+        const [xIsNext, setXIsNext] = useState(true);
+        const [history, setHistory] = useState([Array(9).fill(null)]);
+        const [currentMove, setCurrentMove] = useState(0);
+        const currentSquares = history[history.length - 1];
+        //...
+    }
+    ```
+- Next, update the ``jumpTo`` function inside ``Game`` to update that ``currentMove``.
+    - You’ll also set ``xIsNext`` to true if the number that you’re changing ``currentMove`` to is even.
+    ```js
+    export default function Game() {
+        // ...
+        function jumpTo(nextMove) {
+            setCurrentMove(nextMove);
+            setXIsNext(nextMove % 2 === 0);
+        }
+        //...
+    }
+    ```
+- You will now make two changes to the ``Game``’s ``handlePlay`` function which is called when you click on a square.
+    - If you “go back in time” and then make a new move from that point, you only want to keep the history up to that point.
+        - Instead of adding ``nextSquares`` after all items (``...`` spread syntax) in history, you’ll add it after all items in ``historyslice(0, currentMove + 1)`` so that you’re only keeping that portion of the old history.
+    - Each time a move is made, you need to update ``currentMove`` to point to the latest history entry.
+    ```js
+    function handlePlay(nextSquares) {
+        const nextHistory = [...history.slice(0, currentMove + 1), nextSquares];
+        setHistory(nextHistory);
+        setCurrentMove(nextHistory.length - 1);
+        setXIsNext(!xIsNext);
+    }
+    ```
+- Finally, you will modify the ``Game`` component to render the currently selected move, instead of always rendering the final move:
+    ```js
+    export default function Game() {
+        const [xIsNext, setXIsNext] = useState(true);
+        const [history, setHistory] = useState([Array(9).fill(null)]);
+        const [currentMove, setCurrentMove] = useState(0);
+        const currentSquares = history[currentMove];
+
+        // ...
+    }
+    ```
+- If you click on any step in the game’s history, the tic-tac-toe board should immediately update to show what the board looked like after that step occurred.
+
+#### Final cleanup
+- If you look at the code very closely, you may notice that ``xIsNext === true`` when ``currentMove`` is even and ``xIsNext === false`` when ``currentMove`` is odd. In other words, if you know the value of ``currentMove``, then you can always figure out what ``xIsNext`` should be.
+- There’s no reason for you to store both of these in state.
+    - In fact, always try to avoid redundant state.
+    - Simplifying what you store in state reduces bugs and makes your code easier to understand.
+    - Change ``Game`` so that it doesn’t store ``xIsNext`` as a separate state variable and instead figures it out based on the ``currentMove``:
+    ```js
+    export default function Game() {
+        const [history, setHistory] = useState([Array(9).fill(null)]);
+        const [currentMove, setCurrentMove] = useState(0);
+        const xIsNext = currentMove % 2 === 0;
+        const currentSquares = history[currentMove];
+
+        function handlePlay(nextSquares) {
+            const nextHistory = [...history.slice(0, currentMove + 1), nextSquares];
+            setHistory(nextHistory);
+            setCurrentMove(nextHistory.length - 1);
+        }
+
+        function jumpTo(nextMove) {
+            setCurrentMove(nextMove);
+        }
+        // ...
+    }
+    ```
+- You no longer need the ``xIsNext`` state declaration or the calls to ``setXIsNext``.
+    - Now, there’s no chance for ``xIsNext`` to get out of sync with ``currentMove``, even if you make a mistake while coding the components.
+
+#### Wrapping up
+- Congratulations! You’ve created a tic-tac-toe game that:
+    - Lets you play tic-tac-toe,
+    - Indicates when a player has won the game,
+    - Stores a game’s history as a game progresses,
+    - Allows players to review a game’s history and see previous versions of a game’s board.
+- Nice work! We hope you now feel like you have a decent grasp of how React works.
+- If you have extra time or want to practice your new React skills, here are some ideas for improvements that you could make to the tic-tac-toe game, listed in order of increasing difficulty:
+    1. For the current move only, show “You are at move #…” instead of a button.
+    1. Rewrite Board to use two loops to make the squares instead of hardcoding them.
+    1. Add a toggle button that lets you sort the moves in either ascending or descending order.
+    1. When someone wins, highlight the three squares that caused the win (and when no one wins, display a message about the result being a draw).
+    1. Display the location for each move in the format (row, col) in the move history list.
