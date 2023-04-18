@@ -8,6 +8,7 @@
 1. [Step 3: Find the minimal but complete representation of UI state](#step-3-find-the-minimal-but-complete-representation-of-ui-state)
     - [Props vs State](#props-vs-state)
 1. [Step 4: Identify where your state should live](#step-4-identify-where-your-state-should-live)
+1. [Step 5: Add inverse data flow ](#step-5-add-inverse-data-flow)
 
 ### Overview
 React can change how you think about the designs you look at and the apps you build. 
@@ -139,4 +140,71 @@ React can change how you think about the designs you look at and the apps you bu
     - ``SearchBar`` needs to display that state (search text and checkbox value).
 1. Find their common parent: The first parent component both components share is ``FilterableProductTable``.
 1. Decide where the state lives: We’ll keep the filter text and checked state values in ``FilterableProductTable``.
-- So the state values will live in FilterableProductTable.
+- So the state values will live in ``FilterableProductTable``.
+- Add state to the component with the ``useState()`` Hook. Hooks are special functions that let you “hook into” React. Add two state variables at the top of ``FilterableProductTable`` and specify their initial state:
+    ```js
+    function FilterableProductTable({ products }) {
+        const [filterText, setFilterText] = useState('');
+        const [inStockOnly, setInStockOnly] = useState(false);
+    ```
+- Then, pass ``filterText`` and ``inStockOnly`` to ``ProductTable`` and ``SearchBar`` as props:
+    ```js
+    <div>
+        <SearchBar
+            filterText={filterText}
+            inStockOnly={inStockOnly} />
+        <ProductTable
+            products={products}
+            filterText={filterText}
+            inStockOnly={inStockOnly} />
+    </div>
+    ```
+- Notice that editing the form doesn’t work yet. There is a console error in the sandbox above explaining why:
+    ```
+    You provided a `value` prop to a form field without an `onChange` handler. This will render a read-only field.
+    ```
+- In the sandbox above, ProductTable and SearchBar read the filterText and inStockOnly props to render the table, the input, and the checkbox.
+    - For example, here is how SearchBar populates the input value:
+    ```js
+    function SearchBar({ filterText, inStockOnly }) {
+        return (
+            <form>
+            <input
+                type="text"
+                value={filterText}
+                placeholder="Search..."/>
+    ```
+    - However, you haven’t added any code to respond to the user actions like typing yet. This will be your final step.
+### Step 5: Add inverse data flow
+- Currently your app renders correctly with props and state flowing down the hierarchy.
+    - But to change the state according to user input, you will need to support data flowing the other way: the form components deep in the hierarchy need to update the state in ``FilterableProductTable``.
+- React makes this data flow explicit, but it requires a little more typing than two-way data binding.
+    - If you try to type or check the box in the example above, you’ll see that React ignores your input.
+        - This is intentional.
+    - By writing ``<input value={filterText} />``, you’ve set the ``value`` prop of the ``input`` to always be equal to the ``filterText`` state passed in from ``FilterableProductTable``.
+        - Since ``filterText`` state is never set, the input never changes.
+- You want to make it so whenever the user changes the form inputs, the state updates to reflect those changes.
+    - The state is owned by ``FilterableProductTable``, so only it can call ``setFilterText`` and ``setInStockOnly``.
+    - To let ``SearchBar`` update the ``FilterableProductTable``’s state, you need to pass these functions down to ``SearchBar``:
+    ```js
+    function FilterableProductTable({ products }) {
+        const [filterText, setFilterText] = useState('');
+        const [inStockOnly, setInStockOnly] = useState(false);
+
+        return (
+            <div>
+            <SearchBar
+                filterText={filterText}
+                inStockOnly={inStockOnly}
+                onFilterTextChange={setFilterText}
+                onInStockOnlyChange={setInStockOnly} />
+    ```
+- Inside the ``SearchBar``, you will add the ``onChange`` event handlers and set the parent state from them:
+    ```js
+    <input
+        type="text"
+        value={filterText}
+        placeholder="Search..."
+        onChange={(e) => onFilterTextChange(e.target.value)} />
+    ```
+- Now the application fully works!
