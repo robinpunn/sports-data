@@ -12,3 +12,7 @@
 
 ### [Thinking in React](https://github.com/robinpunn/documentation/tree/main/React/GetStarted/3-ThinkingInReact)
     - A guide to thinking in React
+
+---
+## [Describing the UI](https://github.com/robinpunn/documentation/tree/main/React/DescribingTheUI)
+---
