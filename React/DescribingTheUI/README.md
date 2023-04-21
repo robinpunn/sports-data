@@ -13,6 +13,8 @@
 1. [JavaScript in JSX with curly braces](#javascript-in-jsx-with-curly-braces)
 1. [Passing props to a component](#passing-props-to-a-component)
 1. [Conditional rendering](#conditional-rendering)
+1. [Rendering lists](#rendering-lists)
+1. [Keeping Components Pure](#keeping-components-pure)
 ---
 
 ### Your first component 
@@ -253,3 +255,124 @@ export default function PackingList() {
 }
 ```
 > Read [Conditional Rendering](https://github.com/robinpunn/documentation/tree/main/React/DescribingTheUI/6-ConditionalRendering) to learn the different ways to render content conditionally.
+
+### Rendering lists
+- You will often want to display multiple similar components from a collection of data.
+  - You can use JavaScript’s ``filter()`` and ``map()`` with React to filter and transform your array of data into an array of components.
+- For each array item, you will need to specify a ``key``.
+  - Usually, you will want to use an ID from the database as a ``key``.
+  - Keys let React keep track of each item’s place in the list even if the list changes.
+```js
+// App.js
+import { people } from './data.js';
+import { getImageUrl } from './utils.js';
+
+export default function List() {
+  const listItems = people.map(person =>
+    <li key={person.id}>
+      <img
+        src={getImageUrl(person)}
+        alt={person.name}
+      />
+      <p>
+        <b>{person.name}:</b>
+        {' ' + person.profession + ' '}
+        known for {person.accomplishment}
+      </p>
+    </li>
+  );
+  return (
+    <article>
+      <h1>Scientists</h1>
+      <ul>{listItems}</ul>
+    </article>
+  );
+}
+
+//data.js
+export const people = [{
+  id: 0,
+  name: 'Creola Katherine Johnson',
+  profession: 'mathematician',
+  accomplishment: 'spaceflight calculations',
+  imageId: 'MK3eW3A'
+}, {
+  id: 1,
+  name: 'Mario José Molina-Pasquel Henríquez',
+  profession: 'chemist',
+  accomplishment: 'discovery of Arctic ozone hole',
+  imageId: 'mynHUSa'
+}, {
+  id: 2,
+  name: 'Mohammad Abdus Salam',
+  profession: 'physicist',
+  accomplishment: 'electromagnetism theory',
+  imageId: 'bE7W1ji'
+}, {
+  id: 3,
+  name: 'Percy Lavon Julian',
+  profession: 'chemist',
+  accomplishment: 'pioneering cortisone drugs, steroids and birth control pills',
+  imageId: 'IOjWm71'
+}, {
+  id: 4,
+  name: 'Subrahmanyan Chandrasekhar',
+  profession: 'astrophysicist',
+  accomplishment: 'white dwarf star mass calculations',
+  imageId: 'lrWQx8l'
+}];
+
+//utils.js
+export function getImageUrl(person) {
+  return (
+    'https://i.imgur.com/' +
+    person.imageId +
+    's.jpg'
+  );
+}
+```
+> Read [Rendering Lists](https://github.com/robinpunn/documentation/tree/main/React/DescribingTheUI/7-RenderingLists) to learn how to render a list of components, and how to choose a key.
+
+### Keeping components pure
+- Some JavaScript functions are pure. A pure function:
+  - Minds its own business.
+    - It does not change any objects or variables that existed before it was called.
+  - Same inputs, same output.
+    - Given the same inputs, a pure function should always return the same result.
+- By strictly only writing your components as pure functions, you can avoid an entire class of baffling bugs and unpredictable behavior as your codebase grows. Here is an example of an impure component:
+```js
+let guest = 0;
+
+function Cup() {
+  // Bad: changing a preexisting variable!
+  guest = guest + 1;
+  return <h2>Tea cup for guest #{guest}</h2>;
+}
+
+export default function TeaSet() {
+  return (
+    <>
+      <Cup />
+      <Cup />
+      <Cup />
+    </>
+  );
+}
+```
+- You can make this component pure by passing a prop instead of modifying a preexisting variable:
+```js
+function Cup({ guest }) {
+  return <h2>Tea cup for guest #{guest}</h2>;
+}
+
+export default function TeaSet() {
+  return (
+    <>
+      <Cup guest={1} />
+      <Cup guest={2} />
+      <Cup guest={3} />
+    </>
+  );
+}
+```
+> Read [Keeping Components Pure](https://github.com/robinpunn/documentation/tree/main/React/DescribingTheUI/8-KeepingComponentsPure) to learn how to write components as pure, predictable functions.
