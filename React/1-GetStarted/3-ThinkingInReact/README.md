@@ -31,7 +31,7 @@ React can change how you think about the designs you look at and the apps you bu
     ]
     ```
 - The mockup looks like this:
-    ![Mockup](https://react.dev/images/docs/s_thinking-in-react_ui.png)
+![Mockup](https://react.dev/images/docs/s_thinking-in-react_ui.png)
 - To implement a UI in React, you will usually follow the same five steps.
 
 ### Step 1: Break the UI into a component hierarchy
