@@ -43,7 +43,7 @@
         );
     }
     ```
-> Read [Your First Component](https://github.com/robinpunn/documentation/tree/main/React/DescribingTheUI/1-YourFirstComponent) to learn how to declare and use React components.
+> Read [Your First Component](https://github.com/robinpunn/documentation/tree/main/React/2-DescribingTheUI/1-YourFirstComponent) to learn how to declare and use React components.
 
 ### Importing and exporting components
 - You can declare many components in one file, but large files can get difficult to navigate. 
@@ -73,7 +73,7 @@
         );
     }
     ```
-> Read [Importing and Exporting Components](https://github.com/robinpunn/documentation/tree/main/React/DescribingTheUI/2-ImportingAndExportingComponents) to learn how to split components into their own files.
+> Read [Importing and Exporting Components](https://github.com/robinpunn/documentation/tree/main/React/2-DescribingTheUI/2-ImportingAndExportingComponents) to learn how to split components into their own files.
 
 ### Writing markup with JSX
 - Each React component is a JavaScript function that may contain some markup that React renders into the browser. 

@@ -16,3 +16,7 @@
 ---
 ## [Describing the UI](https://github.com/robinpunn/documentation/tree/main/React/2-DescribingTheUI)
 ---
+
+### [Your First Component](https://github.com/robinpunn/documentation/tree/main/React/2-DescribingTheUI/1-YourFirstComponent)
+
+### [Importing and Exporting Components](https://github.com/robinpunn/documentation/tree/main/React/2-DescribingTheUI/2-ImportingAndExportingComponents)
