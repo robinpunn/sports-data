@@ -18,5 +18,10 @@
 ---
 
 ### [Your First Component](https://github.com/robinpunn/documentation/tree/main/React/2-DescribingTheUI/1-YourFirstComponent)
+- Create a component
 
 ### [Importing and Exporting Components](https://github.com/robinpunn/documentation/tree/main/React/2-DescribingTheUI/2-ImportingAndExportingComponents)
+- Import and Export Components
+
+### [Writing Markup with JSX](https://github.com/robinpunn/documentation/tree/main/React/2-DescribingTheUI/3-WritingMarkupWithJSX)
+- Learn JSX
