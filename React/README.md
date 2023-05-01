@@ -25,3 +25,13 @@
 
 ### [Writing Markup with JSX](https://github.com/robinpunn/documentation/tree/main/React/2-DescribingTheUI/3-WritingMarkupWithJSX)
 - Learn JSX
+
+### [JavaScript In JSX With CurlyBraces](https://github.com/robinpunn/documentation/tree/main/React/2-DescribingTheUI/4-JavaScriptInJSXWithCurlyBraces)
+
+### [Passing Props to a Component](https://github.com/robinpunn/documentation/tree/main/React/2-DescribingTheUI/5-PassingPropsToAComponent)
+
+### [Conditional Rendering](https://github.com/robinpunn/documentation/tree/main/React/2-DescribingTheUI/6-ConditionalRendering)
+
+### [Rendering Lists](https://github.com/robinpunn/documentation/tree/main/React/2-DescribingTheUI/7-RenderingLists)
+
+### [Keeping Components Pure](https://github.com/robinpunn/documentation/tree/main/React/2-DescribingTheUI/8-KeepingComponentsPure)

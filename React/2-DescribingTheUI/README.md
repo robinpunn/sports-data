@@ -130,7 +130,7 @@ Error
         );
     }
     ```
-> Read [Writing Markup with JSX](https://github.com/robinpunn/documentation/tree/main/React/DescribingTheUI/3-WritingMarkupWithJSX) to learn how to write valid JSX.
+> Read [Writing Markup with JSX](https://github.com/robinpunn/documentation/tree/main/React/2-DescribingTheUI/3-WritingMarkupWithJSX) to learn how to write valid JSX.
 
 ### JavaScript in JSX with curly braces
 - JSX lets you write HTML-like markup inside a JavaScript file, keeping rendering logic and content in the same place.
@@ -163,7 +163,7 @@ Error
             );
         }
         ```
-> Read [JavaScript in JSX with Curly Braces](https://github.com/robinpunn/documentation/tree/main/React/DescribingTheUI/4-JavaScriptInJSXWithCurlyBraces) to learn how to access JavaScript data from JSX.
+> Read [JavaScript in JSX with Curly Braces](https://github.com/robinpunn/documentation/tree/main/React/2-DescribingTheUI/4-JavaScriptInJSXWithCurlyBraces) to learn how to access JavaScript data from JSX.
 
 ### Passing props to a component
 - React components use props to communicate with each other.
@@ -217,7 +217,7 @@ export function getImageUrl(person, size = 's') {
   );
 }
 ```
-> Read [Passing Props to a Component](https://github.com/robinpunn/documentation/tree/main/React/DescribingTheUI/5-PassingPropsToAComponent) to learn how to pass and read props.
+> Read [Passing Props to a Component](https://github.com/robinpunn/documentation/tree/main/React/2-DescribingTheUI/5-PassingPropsToAComponent) to learn how to pass and read props.
 
 ### Conditional rendering
 - Your components will often need to display different things depending on different conditions.
@@ -254,7 +254,7 @@ export default function PackingList() {
   );
 }
 ```
-> Read [Conditional Rendering](https://github.com/robinpunn/documentation/tree/main/React/DescribingTheUI/6-ConditionalRendering) to learn the different ways to render content conditionally.
+> Read [Conditional Rendering](https://github.com/robinpunn/documentation/tree/main/React/2-DescribingTheUI/6-ConditionalRendering) to learn the different ways to render content conditionally.
 
 ### Rendering lists
 - You will often want to display multiple similar components from a collection of data.
@@ -331,7 +331,7 @@ export function getImageUrl(person) {
   );
 }
 ```
-> Read [Rendering Lists](https://github.com/robinpunn/documentation/tree/main/React/DescribingTheUI/7-RenderingLists) to learn how to render a list of components, and how to choose a key.
+> Read [Rendering Lists](https://github.com/robinpunn/documentation/tree/main/React/2-DescribingTheUI/7-RenderingLists) to learn how to render a list of components, and how to choose a key.
 
 ### Keeping components pure
 - Some JavaScript functions are pure. A pure function:
@@ -375,4 +375,4 @@ export default function TeaSet() {
   );
 }
 ```
-> Read [Keeping Components Pure](https://github.com/robinpunn/documentation/tree/main/React/DescribingTheUI/8-KeepingComponentsPure) to learn how to write components as pure, predictable functions.
+> Read [Keeping Components Pure](https://github.com/robinpunn/documentation/tree/main/React/2-DescribingTheUI/8-KeepingComponentsPure) to learn how to write components as pure, predictable functions.
