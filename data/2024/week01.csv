@@ -1,0 +1,17 @@
+Away Team,Home Team,Closing Spread,Total,Away Implied Score,Home Implied Score,Favorite,Actual winner,Away Score,Home Score,Post Game Spread,Favorite Covered,Underdog won,Road dog,Road dog won,Home dog,Home dog won,Actual Total,Over/Under
+BAL,KC,2.5,46.0,21.75,24.25,KC,KC,20.0,27.0,4.5,True,False,True,False,False,False,47.0,Over
+GB,PHI,1.0,49.5,24.25,25.25,PHI,PHI,29.0,34.0,4.0,True,False,True,False,False,False,63.0,Over
+ARI,BUF,6.5,45.5,19.5,26.0,BUF,BUF,28.0,34.0,0.5,False,False,True,False,False,False,62.0,Over
+HOU,IND,3.0,47.5,25.25,22.25,HOU,HOU,29.0,27.0,1.0,False,False,False,False,True,False,56.0,Over
+MIN,NYG,1.0,42.0,21.5,20.5,MIN,MIN,28.0,6.0,21.0,True,False,False,False,True,False,34.0,Under
+NE,CIN,7.5,41.0,16.75,24.25,CIN,NE,16.0,10.0,13.5,False,True,True,True,False,False,26.0,Under
+PIT,ATL,4.0,43.0,19.5,23.5,ATL,PIT,18.0,10.0,12.0,False,True,True,True,False,False,28.0,Under
+CAR,NO,3.5,41.5,19.0,22.5,NO,NO,10.0,47.0,33.5,True,False,True,False,False,False,57.0,Over
+TEN,CHI,4.0,43.0,19.5,23.5,CHI,CHI,17.0,24.0,3.0,True,False,True,False,False,False,41.0,Under
+JAC,MIA,3.5,49.5,23.0,26.5,MIA,MIA,17.0,20.0,0.5,False,False,True,False,False,False,37.0,Under
+DEN,SEA,6.5,42.5,18.0,24.5,SEA,SEA,20.0,26.0,0.5,False,False,True,False,False,False,46.0,Over
+LV,LAC,3.0,40.5,18.75,21.75,LAC,LAC,10.0,22.0,9.0,True,False,True,False,False,False,32.0,Under
+WAS,TB,4.0,42.5,19.25,23.25,TB,TB,20.0,37.0,13.0,True,False,True,False,False,False,57.0,Over
+DAL,CLE,2.0,42.5,20.25,22.25,CLE,DAL,33.0,17.0,18.0,False,True,True,True,False,False,50.0,Over
+LA,DET,5.5,53.5,24.0,29.5,DET,DET,20.0,26.0,0.5,True,False,True,False,False,False,46.0,Under
+NYJ,SF,3.5,43.0,19.75,23.25,SF,SF,19.0,32.0,9.5,True,False,True,False,False,False,51.0,Over
