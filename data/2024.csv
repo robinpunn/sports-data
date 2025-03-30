@@ -20,7 +20,7 @@ Regular Season,2,CLE,JAC,3.0,41.5,19.25,22.25,JAC,CLE,18.0,13.0,False,8.0,True,T
 Regular Season,2,NYG,WAS,1.5,43.0,20.75,22.25,WAS,WAS,18.0,21.0,True,1.5,False,True,False,False,False,39.0,Under
 Regular Season,2,IND,GB,2.5,41.5,22.0,19.5,IND,GB,10.0,16.0,False,8.5,True,False,False,True,True,26.0,Under
 Regular Season,2,SEA,NE,3.0,39.0,21.0,18.0,SEA,SEA,23.0,20.0,False,Push,False,False,False,True,False,43.0,Over
-Regular Season,2,NYJ,TEN,4.0,39.0,21.5,17.5,NYJ,NYJ,24.0,17.0,True,3.0,False,False,False,True,False,41.0,Push
+Regular Season,2,NYJ,TEN,4.0,41.0,22.5,18.5,NYJ,NYJ,24.0,17.0,True,3.0,False,False,False,True,False,41.0,Push
 Regular Season,2,TB,DET,7.5,51.5,22.0,29.5,DET,TB,20.0,16.0,False,11.5,True,True,True,False,False,36.0,Under
 Regular Season,2,SF,MIN,4.0,46.5,25.25,21.25,SF,MIN,17.0,23.0,False,10.0,True,False,False,True,True,40.0,Under
 Regular Season,2,NO,DAL,6.5,47.0,20.25,26.75,DAL,NO,44.0,19.0,False,31.5,True,True,True,False,False,63.0,Over
@@ -81,7 +81,7 @@ Regular Season,6,SF,SEA,3.5,49.0,26.25,22.75,SF,SF,36.0,24.0,True,8.5,False,Fals
 Regular Season,6,JAC,CHI,1.0,44.5,22.75,21.75,JAC,CHI,16.0,35.0,False,20.0,True,False,False,True,True,51.0,Over
 Regular Season,6,HOU,NE,6.5,39.0,22.75,16.25,HOU,HOU,41.0,21.0,True,13.5,False,False,False,True,False,62.0,Over
 Regular Season,6,TB,NO,3.5,42.5,23.0,19.5,TB,TB,51.0,27.0,True,20.5,False,False,False,True,False,78.0,Over
-Regular Season,6,ARI,GB,5.5,42.5,18.5,24.0,GB,GB,13.0,34.0,True,15.5,False,True,False,False,False,47.0,Push
+Regular Season,6,ARI,GB,5.5,47.0,20.75,26.25,GB,GB,13.0,34.0,True,15.5,False,True,False,False,False,47.0,Push
 Regular Season,6,CLE,PHI,8.0,42.0,17.0,25.0,PHI,PHI,16.0,20.0,False,4.0,False,True,False,False,False,36.0,Under
 Regular Season,6,WAS,BAL,7.0,50.5,21.75,28.75,BAL,BAL,23.0,30.0,False,Push,False,True,False,False,False,53.0,Over
 Regular Season,6,IND,TEN,2.5,41.5,19.5,22.0,TEN,IND,20.0,17.0,False,5.5,True,True,True,False,False,37.0,Under
@@ -122,20 +122,6 @@ Regular Season,8,CAR,DEN,13.0,40.5,13.75,26.75,DEN,DEN,14.0,28.0,True,1.0,False,
 Regular Season,8,KC,LV,8.5,43.0,25.75,17.25,KC,KC,27.0,20.0,False,1.5,False,False,False,True,False,47.0,Over
 Regular Season,8,DAL,SF,5.5,48.0,21.25,26.75,SF,SF,24.0,30.0,True,0.5,False,True,False,False,False,54.0,Over
 Regular Season,8,NYG,PIT,6.0,37.5,15.75,21.75,PIT,PIT,18.0,26.0,True,2.0,False,True,False,False,False,44.0,Over
-Regular Season,10,CIN,BAL,6.0,53.0,23.5,29.5,BAL,BAL,34.0,35.0,False,5.0,False,True,False,False,False,69.0,Over
-Regular Season,10,NYG,CAR,6.5,40.5,23.5,17.0,NYG,CAR,17.0,20.0,False,9.5,True,False,False,True,True,37.0,Under
-Regular Season,10,MIN,JAC,7.0,42.5,24.75,17.75,MIN,MIN,12.0,7.0,False,2.0,False,False,False,True,False,19.0,Under
-Regular Season,10,BUF,IND,4.5,47.0,25.75,21.25,BUF,BUF,30.0,20.0,True,5.5,False,False,False,True,False,50.0,Over
-Regular Season,10,DEN,KC,7.0,42.5,17.75,24.75,KC,KC,14.0,16.0,False,5.0,False,True,False,False,False,30.0,Under
-Regular Season,10,PIT,WAS,2.0,45.5,21.75,23.75,WAS,PIT,28.0,27.0,False,3.0,True,True,True,False,False,55.0,Over
-Regular Season,10,NE,CHI,6.0,37.5,15.75,21.75,CHI,NE,19.0,3.0,False,22.0,True,True,True,False,False,22.0,Under
-Regular Season,10,SF,TB,6.5,50.0,28.25,21.75,SF,SF,23.0,20.0,False,3.5,False,False,False,True,False,43.0,Under
-Regular Season,10,ATL,NO,3.5,47.5,25.5,22.0,ATL,NO,17.0,20.0,False,6.5,True,False,False,True,True,37.0,Under
-Regular Season,10,TEN,LAC,8.5,39.5,15.5,24.0,LAC,LAC,17.0,27.0,True,1.5,False,True,False,False,False,44.0,Over
-Regular Season,10,NYJ,ARI,2.0,46.0,24.0,22.0,NYJ,ARI,6.0,31.0,False,27.0,True,False,False,True,True,37.0,Under
-Regular Season,10,PHI,DAL,7.0,45.0,26.0,19.0,PHI,PHI,34.0,6.0,True,21.0,False,False,False,True,False,40.0,Under
-Regular Season,10,DET,HOU,4.0,45.0,24.5,20.5,DET,DET,26.0,23.0,False,1.0,False,False,False,True,False,49.0,Push
-Regular Season,10,MIA,LA,2.0,49.5,23.75,25.75,LA,MIA,23.0,15.0,False,10.0,True,True,True,False,False,38.0,Under
 Regular Season,9,HOU,NYJ,2.5,43.0,20.25,22.75,NYJ,NYJ,13.0,21.0,True,5.5,False,True,False,False,False,34.0,Under
 Regular Season,9,NE,TEN,3.5,38.0,17.25,20.75,TEN,TEN,17.0,20.0,False,0.5,False,True,False,False,False,37.0,Under
 Regular Season,9,DEN,BAL,9.0,46.5,18.75,27.75,BAL,BAL,10.0,41.0,True,22.0,False,True,False,False,False,51.0,Over
@@ -151,6 +137,20 @@ Regular Season,9,DET,GB,2.5,48.5,25.5,23.0,DET,DET,24.0,14.0,True,7.5,False,Fals
 Regular Season,9,LA,SEA,2.0,48.5,25.25,23.25,LA,LA,26.0,20.0,True,4.0,False,False,False,True,False,46.0,Under
 Regular Season,9,IND,MIN,5.5,46.0,20.25,25.75,MIN,MIN,13.0,21.0,True,2.5,False,True,False,False,False,34.0,Under
 Regular Season,9,TB,KC,9.0,45.5,18.25,27.25,KC,KC,24.0,30.0,False,3.0,False,True,False,False,False,54.0,Over
+Regular Season,10,CIN,BAL,6.0,53.0,23.5,29.5,BAL,BAL,34.0,35.0,False,5.0,False,True,False,False,False,69.0,Over
+Regular Season,10,NYG,CAR,6.5,40.5,23.5,17.0,NYG,CAR,17.0,20.0,False,9.5,True,False,False,True,True,37.0,Under
+Regular Season,10,MIN,JAC,7.0,42.5,24.75,17.75,MIN,MIN,12.0,7.0,False,2.0,False,False,False,True,False,19.0,Under
+Regular Season,10,BUF,IND,4.5,47.0,25.75,21.25,BUF,BUF,30.0,20.0,True,5.5,False,False,False,True,False,50.0,Over
+Regular Season,10,DEN,KC,7.0,42.5,17.75,24.75,KC,KC,14.0,16.0,False,5.0,False,True,False,False,False,30.0,Under
+Regular Season,10,PIT,WAS,2.0,45.5,21.75,23.75,WAS,PIT,28.0,27.0,False,3.0,True,True,True,False,False,55.0,Over
+Regular Season,10,NE,CHI,6.0,37.5,15.75,21.75,CHI,NE,19.0,3.0,False,22.0,True,True,True,False,False,22.0,Under
+Regular Season,10,SF,TB,6.5,50.0,28.25,21.75,SF,SF,23.0,20.0,False,3.5,False,False,False,True,False,43.0,Under
+Regular Season,10,ATL,NO,3.5,47.5,25.5,22.0,ATL,NO,17.0,20.0,False,6.5,True,False,False,True,True,37.0,Under
+Regular Season,10,TEN,LAC,8.5,39.5,15.5,24.0,LAC,LAC,17.0,27.0,True,1.5,False,True,False,False,False,44.0,Over
+Regular Season,10,NYJ,ARI,2.0,46.0,24.0,22.0,NYJ,ARI,6.0,31.0,False,27.0,True,False,False,True,True,37.0,Under
+Regular Season,10,PHI,DAL,7.0,45.0,26.0,19.0,PHI,PHI,34.0,6.0,True,21.0,False,False,False,True,False,40.0,Under
+Regular Season,10,DET,HOU,4.0,49.0,26.5,22.5,DET,DET,26.0,23.0,False,1.0,False,False,False,True,False,49.0,Push
+Regular Season,10,MIA,LA,2.0,49.5,23.75,25.75,LA,MIA,23.0,15.0,False,10.0,True,True,True,False,False,38.0,Under
 Regular Season,11,WAS,PHI,4.5,49.5,22.5,27.0,PHI,PHI,18.0,26.0,True,3.5,False,True,False,False,False,44.0,Under
 Regular Season,11,LA,NE,4.0,42.0,23.0,19.0,LA,LA,28.0,22.0,True,2.0,False,False,False,True,False,50.0,Over
 Regular Season,11,GB,CHI,6.0,41.0,23.5,17.5,GB,GB,20.0,19.0,False,5.0,False,False,False,True,False,39.0,Under
@@ -218,7 +218,7 @@ Regular Season,15,CIN,TEN,5.5,46.5,26.0,20.5,CIN,CIN,37.0,27.0,True,4.5,False,Fa
 Regular Season,15,NE,ARI,6.0,46.5,20.25,26.25,ARI,ARI,17.0,30.0,True,7.0,False,True,False,False,False,47.0,Over
 Regular Season,15,BUF,DET,2.0,56.0,27.0,29.0,DET,BUF,48.0,42.0,False,8.0,True,True,True,False,False,90.0,Over
 Regular Season,15,PIT,PHI,5.5,43.0,18.75,24.25,PHI,PHI,13.0,27.0,True,8.5,False,True,False,False,False,40.0,Under
-Regular Season,15,IND,DEN,4.5,43.0,19.25,23.75,DEN,DEN,13.0,31.0,True,13.5,False,True,False,False,False,44.0,Push
+Regular Season,15,IND,DEN,4.5,44.0,19.75,24.25,DEN,DEN,13.0,31.0,True,13.5,False,True,False,False,False,44.0,Push
 Regular Season,15,TB,LAC,3.0,46.0,21.5,24.5,LAC,TB,40.0,17.0,False,26.0,True,True,True,False,False,57.0,Over
 Regular Season,15,GB,SEA,2.5,47.5,25.0,22.5,GB,GB,30.0,13.0,True,14.5,False,False,False,True,False,43.0,Under
 Regular Season,15,CHI,MIN,7.0,44.0,18.5,25.5,MIN,MIN,12.0,30.0,True,11.0,False,True,False,False,False,42.0,Under
@@ -255,22 +255,32 @@ Regular Season,17,MIA,CLE,3.0,32.5,17.75,14.75,MIA,MIA,20.0,3.0,True,14.0,False,
 Regular Season,17,GB,MIN,1.0,49.0,24.0,25.0,MIN,MIN,25.0,27.0,True,1.0,False,True,False,False,False,52.0,Over
 Regular Season,17,ATL,WAS,3.5,46.5,21.5,25.0,WAS,WAS,24.0,30.0,True,2.5,False,True,False,False,False,54.0,Over
 Regular Season,17,DET,SF,3.5,50.0,26.75,23.25,DET,DET,40.0,34.0,True,2.5,False,False,False,True,False,74.0,Over
-Regular Season,18,LAC,HOU,2.5,42.0,22.25,19.75,LAC,HOU,12.0,32.0,False,22.5,True,False,False,True,True,44.0,Over
-Regular Season,18,PIT,BAL,8.5,45.0,18.25,26.75,BAL,BAL,14.0,28.0,True,5.5,False,True,False,False,False,42.0,Under
-Regular Season,18,DEN,BUF,7.5,49.0,20.75,28.25,BUF,BUF,7.0,31.0,True,16.5,False,True,False,False,False,38.0,Under
-Regular Season,18,GB,PHI,5.5,46.0,20.25,25.75,PHI,PHI,10.0,22.0,True,6.5,False,True,False,False,False,32.0,Under
-Regular Season,18,WAS,TB,3.0,51.5,24.25,27.25,TB,WAS,23.0,20.0,False,6.0,True,True,True,False,False,43.0,Under
-Regular Season,18,MIN,LA,2.0,47.5,24.75,22.75,MIN,LA,9.0,27.0,False,20.0,True,False,False,True,True,36.0,Under
-Playoffs,Wild Card,LAC,HOU,2.5,42.0,22.25,19.75,LAC,HOU,12.0,32.0,False,22.5,True,False,False,True,True,44.0,Over
-Playoffs,Wild Card,PIT,BAL,8.5,45.0,18.25,26.75,BAL,BAL,14.0,28.0,True,5.5,False,True,False,False,False,42.0,Under
-Playoffs,Wild Card,DEN,BUF,7.5,49.0,20.75,28.25,BUF,BUF,7.0,31.0,True,16.5,False,True,False,False,False,38.0,Under
-Playoffs,Wild Card,GB,PHI,5.5,46.0,20.25,25.75,PHI,PHI,10.0,22.0,True,6.5,False,True,False,False,False,32.0,Under
-Playoffs,Wild Card,WAS,TB,3.0,51.5,24.25,27.25,TB,WAS,23.0,20.0,False,6.0,True,True,True,False,False,43.0,Under
-Playoffs,Wild Card,MIN,LA,2.0,47.5,24.75,22.75,MIN,LA,9.0,27.0,False,20.0,True,False,False,True,True,36.0,Under
+Regular Season,18,CLE,BAL,19.5,42.0,11.25,30.75,BAL,BAL,10.0,35.0,True,5.5,False,True,False,False,False,45.0,Over
+Regular Season,18,CIN,PIT,2.5,48.5,25.5,23.0,CIN,CIN,19.0,17.0,False,0.5,False,False,False,True,False,36.0,Under
+Regular Season,18,JAC,IND,3.5,46.0,21.25,24.75,IND,IND,23.0,26.0,False,0.5,False,True,False,False,False,49.0,Over
+Regular Season,18,BUF,NE,3.0,36.5,19.75,16.75,BUF,NE,16.0,23.0,False,10.0,True,False,False,True,True,39.0,Over
+Regular Season,18,WAS,DAL,7.0,43.5,25.25,18.25,WAS,WAS,23.0,19.0,False,3.0,False,False,False,True,False,42.0,Under
+Regular Season,18,NYG,PHI,3.0,36.0,16.5,19.5,PHI,PHI,13.0,20.0,True,4.0,False,True,False,False,False,33.0,Under
+Regular Season,18,CHI,GB,10.5,41.5,15.5,26.0,GB,CHI,24.0,22.0,False,12.5,True,True,True,False,False,46.0,Over
+Regular Season,18,CAR,ATL,8.0,48.5,20.25,28.25,ATL,CAR,44.0,38.0,False,14.0,True,True,True,False,False,82.0,Over
+Regular Season,18,HOU,TEN,2.5,36.5,17.0,19.5,TEN,HOU,23.0,14.0,False,11.5,True,True,True,False,False,37.0,Over
+Regular Season,18,NO,TB,15.0,44.5,14.75,29.75,TB,TB,19.0,27.0,False,7.0,False,True,False,False,False,46.0,Over
+Regular Season,18,SF,ARI,5.0,43.0,19.0,24.0,ARI,ARI,24.0,47.0,True,18.0,False,True,False,False,False,71.0,Over
+Regular Season,18,SEA,LA,7.5,38.5,23.0,15.5,SEA,SEA,30.0,25.0,False,2.5,False,False,False,True,False,55.0,Over
+Regular Season,18,MIA,NYJ,2.0,39.5,18.75,20.75,NYJ,NYJ,20.0,32.0,True,10.0,False,True,False,False,False,52.0,Over
+Regular Season,18,LAC,LV,7.0,42.0,24.5,17.5,LAC,LAC,34.0,20.0,True,7.0,False,False,False,True,False,54.0,Over
+Regular Season,18,KC,DEN,11.0,40.5,14.75,25.75,DEN,DEN,0.0,38.0,True,27.0,False,True,False,False,False,38.0,Under
+Regular Season,18,MIN,DET,3.0,56.5,26.75,29.75,DET,DET,9.0,31.0,True,19.0,False,True,False,False,False,40.0,Under
+Playoffs,Wildcard,LAC,HOU,2.5,42.0,22.25,19.75,LAC,HOU,12.0,32.0,False,22.5,True,False,False,True,True,44.0,Over
+Playoffs,Wildcard,PIT,BAL,8.5,45.0,18.25,26.75,BAL,BAL,14.0,28.0,True,5.5,False,True,False,False,False,42.0,Under
+Playoffs,Wildcard,DEN,BUF,7.5,49.0,20.75,28.25,BUF,BUF,7.0,31.0,True,16.5,False,True,False,False,False,38.0,Under
+Playoffs,Wildcard,GB,PHI,5.5,46.0,20.25,25.75,PHI,PHI,10.0,22.0,True,6.5,False,True,False,False,False,32.0,Under
+Playoffs,Wildcard,WAS,TB,3.0,51.5,24.25,27.25,TB,WAS,23.0,20.0,False,6.0,True,True,True,False,False,43.0,Under
+Playoffs,Wildcard,MIN,LA,2.0,47.5,24.75,22.75,MIN,LA,9.0,27.0,False,20.0,True,False,False,True,True,36.0,Under
 Playoffs,Divisional,HOU,KC,9.5,41.5,16.0,25.5,KC,KC,14.0,23.0,False,0.5,False,True,False,False,False,37.0,Under
 Playoffs,Divisional,WAS,DET,8.0,55.5,23.75,31.75,DET,WAS,45.0,31.0,False,22.0,True,True,True,False,False,76.0,Over
 Playoffs,Divisional,LA,PHI,7.0,43.5,18.25,25.25,PHI,PHI,22.0,28.0,False,1.0,False,True,False,False,False,50.0,Over
 Playoffs,Divisional,BAL,BUF,1.5,51.5,26.5,25.0,BAL,BUF,25.0,27.0,False,3.5,True,False,False,True,True,52.0,Over
 Playoffs,Conference,WAS,PHI,6.0,47.0,20.5,26.5,PHI,PHI,23.0,55.0,True,26.0,False,True,False,False,False,78.0,Over
 Playoffs,Conference,BUF,KC,1.0,49.5,24.25,25.25,KC,KC,29.0,32.0,True,2.0,False,True,False,False,False,61.0,Over
-Playoffs,Superbowl,KC,PHI,1.0,48.0,24.5,23.5,KC,PHI,22.0,40.0,False,19.0,True,False,False,True,True,62.0,Over
+Playoffs,Super Bowl,KC,PHI,1.0,48.0,24.5,23.5,KC,PHI,22.0,40.0,False,19.0,True,False,False,True,True,62.0,Over
