@@ -1,3 +1,8 @@
-# NFL Data
+# Sports Data
 
-This repo has NFL data from the past 10 seasons as of (the 2024/2025) with some analysis performed with pandas
+This project is mainly for learning web scraping and data analysis
+
+I'm searching for sports data related to betting odds with the intentions of trying to identify "trends"
+
+I currently have 5 years of NFL and 2 years of UFC odds data
+
