@@ -1,4 +1,16 @@
 date,event,weight_class,winner,winner_weight,winner_odds,loser,loser_weight,loser_odds,method,rnd,time
+"May 10, 2025",UFC 315 - Muhammad vs. Della Maddalena,Welterweight,Jack Della Maddalena,170,160,Belal Muhammad,170,-192,Decision (Unanimous),5,5:00
+"May 10, 2025",UFC 315 - Muhammad vs. Della Maddalena,Flyweight,Valentina Shevchenko,124,124,Manon Fiorot,125,-148,Decision (Unanimous),5,5:00
+"May 10, 2025",UFC 315 - Muhammad vs. Della Maddalena,Featherweight,Aiemann Zahabi,142,180,Jose Aldo,143,-218,Decision (Unanimous),3,5:00
+"May 10, 2025",UFC 315 - Muhammad vs. Della Maddalena,Flyweight,Natalia Silva,126,-238,Alexa Grasso,126,195,Decision (Unanimous),3,5:00
+"May 10, 2025",UFC 315 - Muhammad vs. Della Maddalena,Lightweight,Benoit St. Denis,156,-1100,Kyle Prepolec,156,700,Submission (Arm-Triangle Choke),2,2:35
+"May 10, 2025",UFC 315 - Muhammad vs. Della Maddalena,Welterweight,Mike Malott,171,-192,Charlie Radtke,171,160,KO (Punches),2,0:26
+"May 10, 2025",UFC 315 - Muhammad vs. Della Maddalena,Flyweight,Jasmine Jasudavicius,124,-298,Jessica Andrade,126,240,Submission (Rear-Naked Choke),1,2:40
+"May 10, 2025",UFC 315 - Muhammad vs. Della Maddalena,Light Heavyweight,Modestas Bukauskas,203,-112,Ion Cutelaba,205,-108,Decision (Split),3,5:00
+"May 10, 2025",UFC 315 - Muhammad vs. Della Maddalena,Light Heavyweight,Navajo Stirling,205,-298,Ivan Erslan,205,240,Decision (Unanimous),3,5:00
+"May 10, 2025",UFC 315 - Muhammad vs. Della Maddalena,187lb Catchweight,Marc-Andre Barriault,185,-148,Bruno Silva,187: Missed Weight,124,KO (Elbows and Punches),1,1:27
+"May 10, 2025",UFC 315 - Muhammad vs. Della Maddalena,Featherweight,Daniel Santos,146,-105,Jeong Yeong Lee,146,-115,Decision (Unanimous),3,5:00
+"May 10, 2025",UFC 315 - Muhammad vs. Della Maddalena,Bantamweight,Bekzat Almakhan,136,-180,Brad Katona,136,150,KO (Punches),1,1:04
 "May 3, 2025",UFC on ESPN 67 - Sandhagen vs. Figueiredo,Bantamweight,Cory Sandhagen,135.5,-500,Deiveson Figueiredo,135,380,TKO (Knee Injury),2,4:08
 "May 3, 2025",UFC on ESPN 67 - Sandhagen vs. Figueiredo,Middleweight,Reinier de Ridder,185.5,260,Bo Nickal,185.5,-325,TKO (Knees),2,1:53
 "May 3, 2025",UFC on ESPN 67 - Sandhagen vs. Figueiredo,Welterweight,Daniel Rodriguez,170.5,102,Santiago Ponzinibbio,170,-122,TKO (Punches),3,1:12
@@ -11,58 +23,58 @@ date,event,weight_class,winner,winner_weight,winner_odds,loser,loser_weight,lose
 "May 3, 2025",UFC on ESPN 67 - Sandhagen vs. Figueiredo,Bantamweight,Quang Le,135.5,120,Gaston Bolanos,135.5,-142,Technical Submission (Rear-Naked Choke),2,1:54
 "May 3, 2025",UFC on ESPN 67 - Sandhagen vs. Figueiredo,Heavyweight,Thomas Petersen,250,-265,Don'Tale Mayes,259,215,Decision (Unanimous),3,5:00
 "May 3, 2025",UFC on ESPN 67 - Sandhagen vs. Figueiredo,Flyweight,Juliana Miller,126,190,Ivana Petrovic,125.5,-230,Decision (Unanimous),3,5:00
-"Apr 12, 2025",UFC 314 - Volkanovski vs. Lopes,Featherweight,Alexander Volkanovski,145,-122,Diego Lopes,145,102,Decision (Unanimous),5,5:00
-"Apr 12, 2025",UFC 314 - Volkanovski vs. Lopes,Lightweight,Paddy Pimblett,156,-148,Michael Chandler,156,124,TKO (Elbows and Punches),3,3:07
+"Apr 26, 2025",UFC on ESPN 66 - Garry vs. Prates,Welterweight,Ian Garry,171,-135,Carlos Prates,171,114,Decision (Unanimous),5,5:00
+"Apr 26, 2025",UFC on ESPN 66 - Garry vs. Prates,Light Heavyweight,Mingyang Zhang,206,-500,Anthony Smith,206,380,TKO (Elbows),3,3:07
+"Apr 26, 2025",UFC on ESPN 66 - Garry vs. Prates,147lb Catchweight,David Onama,146,-180,Giga Chikadze,147: Missed Weight,150,Decision (Unanimous),3,5:00
+"Apr 26, 2025",UFC on ESPN 66 - Garry vs. Prates,Middleweight,Abusupiyan Magomedov,185.5,130,Michel Pereira,186,-155,Decision (Unanimous),2,3:52
+"Apr 26, 2025",UFC on ESPN 66 - Garry vs. Prates,Welterweight,Randy Brown,171,-238,Nicolas Dalby,171,195,KO (Punch),1,2:24
+"Apr 26, 2025",UFC on ESPN 66 - Garry vs. Prates,Middleweight,Ikram Aliskerov,185.5,-650,Andre Muniz,185,470,TKO (Punches),3,1:12
+"Apr 26, 2025",UFC on ESPN 66 - Garry vs. Prates,Flyweight,Matt Schnell,126,-285,Jimmy Flick,126,230,Decision (Unanimous),3,5:00
+"Apr 26, 2025",UFC on ESPN 66 - Garry vs. Prates,Lightweight,Evan Elder,156,-258,Gauge Young,156,210,Decision (Unanimous),3,5:00
+"Apr 26, 2025",UFC on ESPN 66 - Garry vs. Prates,Featherweight,Chris Gutierrez,146,-130,John Castaneda,146,110,Decision (Split),1,4:15
+"Apr 26, 2025",UFC on ESPN 66 - Garry vs. Prates,Bantamweight,Da'Mon Blackshear,135.5,-375,Heili Alateng,136,295,Decision (Unanimous),1,2:49
+"Apr 26, 2025",UFC on ESPN 66 - Garry vs. Prates,Bantamweight,Malcolm Wellmaker,135,-110,Cameron Saaiman,135,-110,KO (Punch),3,5:00
+"Apr 26, 2025",UFC on ESPN 66 - Garry vs. Prates,Strawweight,Jaqueline Amorim,116,-550,Polyana Viana,115.5,410,Submission (Rear-Naked Choke),2,3:16
+"Apr 26, 2025",UFC on ESPN 66 - Garry vs. Prates,Featherweight,Timothy Cuamba,146,-105,Roberto Romero,145,-115,TKO (Flying Knee),2,1:52
+"Apr 26, 2025",UFC on ESPN 66 - Garry vs. Prates,Bantamweight,Joselyne Edwards,136,-298,Chelsea Chandler,134,240,TKO (Punches),5,5:00
+"Apr 12, 2025",UFC 314 - Volkanovski vs. Lopes,Featherweight,Alexander Volkanovski,145,-122,Diego Lopes,145,102,Decision (Unanimous),1,1:45
+"Apr 12, 2025",UFC 314 - Volkanovski vs. Lopes,Lightweight,Paddy Pimblett,156,-148,Michael Chandler,156,124,TKO (Elbows and Punches),1,2:30
 "Apr 12, 2025",UFC 314 - Volkanovski vs. Lopes,Featherweight,Yair Rodriguez,146,-192,Patricio Freire,145,160,Decision (Unanimous),3,5:00
-"Apr 12, 2025",UFC 314 - Volkanovski vs. Lopes,Featherweight,Jean Silva,146,-278,Bryce Mitchell,146,225,Submission (Ninja Choke),2,3:52
-"Apr 12, 2025",UFC 314 - Volkanovski vs. Lopes,Light Heavyweight,Dominick Reyes,206,150,Nikita Krylov,206,-180,KO (Punch),1,2:24
-"Apr 12, 2025",UFC 314 - Volkanovski vs. Lopes,Featherweight,Dan Ige,146,142,Sean Woodson,146,-170,TKO (Punches),3,1:12
+"Apr 12, 2025",UFC 314 - Volkanovski vs. Lopes,Featherweight,Jean Silva,146,-278,Bryce Mitchell,146,225,Submission (Ninja Choke),1,4:38
+"Apr 12, 2025",UFC 314 - Volkanovski vs. Lopes,Light Heavyweight,Dominick Reyes,206,150,Nikita Krylov,206,-180,KO (Punch),3,5:00
+"Apr 12, 2025",UFC 314 - Volkanovski vs. Lopes,Featherweight,Dan Ige,146,142,Sean Woodson,146,-170,TKO (Punches),1,3:32
 "Apr 12, 2025",UFC 314 - Volkanovski vs. Lopes,Strawweight,Virna Jandiroba,116,-155,Xiaonan Yan,116,130,Decision (Unanimous),3,5:00
 "Apr 12, 2025",UFC 314 - Volkanovski vs. Lopes,Lightweight,Chase Hooper,156,-800,Jim Miller,156,550,Decision (Unanimous),3,5:00
-"Apr 12, 2025",UFC 314 - Volkanovski vs. Lopes,Featherweight,Julian Erosa,145,-355,Darren Elkins,145,280,TKO (Punches),1,4:15
-"Apr 12, 2025",UFC 314 - Volkanovski vs. Lopes,Middleweight,Michal Oleksiejczuk,186,-192,Sedriques Dumas,185,160,TKO (Punches and Elbows),1,2:49
+"Apr 12, 2025",UFC 314 - Volkanovski vs. Lopes,Featherweight,Julian Erosa,145,-355,Darren Elkins,145,280,TKO (Punches),3,5:00
+"Apr 12, 2025",UFC 314 - Volkanovski vs. Lopes,Middleweight,Michal Oleksiejczuk,186,-192,Sedriques Dumas,185,160,TKO (Punches and Elbows),1,4:06
 "Apr 12, 2025",UFC 314 - Volkanovski vs. Lopes,Flyweight,Su Mudaerji,126,-185,Mitch Raposo,126,154,Decision (Split),3,5:00
-"Apr 12, 2025",UFC 314 - Volkanovski vs. Lopes,Middleweight,Marco Tulio,186,-355,Tresean Gore,186,280,TKO (Punch),2,3:16
-"Apr 12, 2025",UFC 314 - Volkanovski vs. Lopes,138lb Catchweight,Nora Cornolle,137.5: Missed Weight,-192,Hailey Cowan,136,160,Submission (Rear-Naked Choke),2,1:52
-"Mar 29, 2025",UFC on ESPN 64 - Moreno vs. Erceg,Flyweight,Brandon Moreno,125,-238,Steve Erceg,125,195,Decision (Unanimous),5,5:00
-"Mar 29, 2025",UFC on ESPN 64 - Moreno vs. Erceg,Lightweight,Manuel Torres,156,-125,Drew Dober,155,105,TKO (Punches),1,1:45
-"Mar 29, 2025",UFC on ESPN 64 - Moreno vs. Erceg,Flyweight,Edgar Chairez,126,-278,C.J. Vergara,126,225,Submission (Face Crank),1,2:30
+"Apr 12, 2025",UFC 314 - Volkanovski vs. Lopes,Middleweight,Marco Tulio,186,-355,Tresean Gore,186,280,TKO (Punch),4,1:39
+"Apr 12, 2025",UFC 314 - Volkanovski vs. Lopes,138lb Catchweight,Nora Cornolle,137.5: Missed Weight,-192,Hailey Cowan,136,160,Submission (Rear-Naked Choke),3,5:00
+"Mar 29, 2025",UFC on ESPN 64 - Moreno vs. Erceg,Flyweight,Brandon Moreno,125,-238,Steve Erceg,125,195,Decision (Unanimous),3,5:00
+"Mar 29, 2025",UFC on ESPN 64 - Moreno vs. Erceg,Lightweight,Manuel Torres,156,-125,Drew Dober,155,105,TKO (Punches),1,4:32
+"Mar 29, 2025",UFC on ESPN 64 - Moreno vs. Erceg,Flyweight,Edgar Chairez,126,-278,C.J. Vergara,126,225,Submission (Face Crank),2,3:42
 "Mar 29, 2025",UFC on ESPN 64 - Moreno vs. Erceg,Bantamweight,Raul Rosas Jr.,135,-375,Vince Morales,136,295,Decision (Unanimous),3,5:00
-"Mar 29, 2025",UFC on ESPN 64 - Moreno vs. Erceg,Bantamweight,David Martinez,135,-395,Saimon Oliveira,135,310,TKO (Knee and Punches),1,4:38
+"Mar 29, 2025",UFC on ESPN 64 - Moreno vs. Erceg,Bantamweight,David Martinez,135,-395,Saimon Oliveira,135,310,TKO (Knee and Punches),3,5:00
 "Mar 29, 2025",UFC on ESPN 64 - Moreno vs. Erceg,127lb Catchweight,Kevin Borjas,125,142,Ronaldo Rodriguez,127: Missed Weight,-170,Decision (Unanimous),3,5:00
-"Mar 29, 2025",UFC on ESPN 64 - Moreno vs. Erceg,Middleweight,Ateba Abega Gautier,186,360,Jose Medina,186,-470,KO (Punches and Knee),1,3:32
+"Mar 29, 2025",UFC on ESPN 64 - Moreno vs. Erceg,Middleweight,Ateba Abega Gautier,186,360,Jose Medina,186,-470,KO (Punches and Knee),3,5:00
 "Mar 29, 2025",UFC on ESPN 64 - Moreno vs. Erceg,Featherweight,Melquizael Costa,145,124,Christian Rodriguez,146,-148,Decision (Unanimous),3,5:00
-"Mar 29, 2025",UFC on ESPN 64 - Moreno vs. Erceg,Strawweight,Lupita Godinez,116,-238,Julia Polastri,116,195,Decision (Unanimous),3,5:00
+"Mar 29, 2025",UFC on ESPN 64 - Moreno vs. Erceg,Strawweight,Lupita Godinez,116,-238,Julia Polastri,116,195,Decision (Unanimous),2,3:22
 "Mar 29, 2025",UFC on ESPN 64 - Moreno vs. Erceg,Lightweight,Rafa Garcia,155,-485,Vinc Pichel,156,370,Decision (Unanimous),3,5:00
-"Mar 29, 2025",UFC on ESPN 64 - Moreno vs. Erceg,Featherweight,Jamall Emmers,145,-340,Gabriel Miranda,145,270,TKO (Knee to the Body and Punches),1,4:06
-"Mar 29, 2025",UFC on ESPN 64 - Moreno vs. Erceg,Lightweight,MarQuel Mederos,156,-192,Austin Hubbard,156,160,Decision (Split),3,5:00
-"Mar 22, 2025",UFC Fight Night 255 - Edwards vs. Brady,Welterweight,Sean Brady,170,-162,Leon Edwards,171,136,Submission (Guillotine Choke),4,1:39
+"Mar 29, 2025",UFC on ESPN 64 - Moreno vs. Erceg,Featherweight,Jamall Emmers,145,-340,Gabriel Miranda,145,270,TKO (Knee to the Body and Punches),3,5:00
+"Mar 29, 2025",UFC on ESPN 64 - Moreno vs. Erceg,Lightweight,MarQuel Mederos,156,-192,Austin Hubbard,156,160,Decision (Split),5,5:00
+"Mar 22, 2025",UFC Fight Night 255 - Edwards vs. Brady,Welterweight,Sean Brady,170,-162,Leon Edwards,171,136,Submission (Guillotine Choke),1,4:03
 "Mar 22, 2025",UFC Fight Night 255 - Edwards vs. Brady,Light Heavyweight,Carlos Ulberg,205,-265,Jan Blachowicz,205,215,Decision (Unanimous),3,5:00
 "Mar 22, 2025",UFC Fight Night 255 - Edwards vs. Brady,Welterweight,Kevin Holland,171,110,Gunnar Nelson,170,-130,Decision (Unanimous),3,5:00
-"Mar 22, 2025",UFC Fight Night 255 - Edwards vs. Brady,Strawweight,Alexia Thainara,116,-185,Molly McCann,116,154,Submission (Rear-Naked Choke),1,4:32
-"Mar 22, 2025",UFC Fight Night 255 - Edwards vs. Brady,Lightweight,Chris Duncan,155,270,Jordan Vucenic,155,-340,Submission (Guillotine Choke),2,3:42
+"Mar 22, 2025",UFC Fight Night 255 - Edwards vs. Brady,Strawweight,Alexia Thainara,116,-185,Molly McCann,116,154,Submission (Rear-Naked Choke),2,1:39
+"Mar 22, 2025",UFC Fight Night 255 - Edwards vs. Brady,Lightweight,Chris Duncan,155,270,Jordan Vucenic,155,-340,Submission (Guillotine Choke),1,4:54
 "Mar 22, 2025",UFC Fight Night 255 - Edwards vs. Brady,Featherweight,Nathaniel Wood,145,136,Morgan Charriere,146,-162,Decision (Unanimous),3,5:00
 "Mar 22, 2025",UFC Fight Night 255 - Edwards vs. Brady,Lightweight,Chris Padilla,155,105,Jai Herbert,156,-125,Decision (Split),3,5:00
 "Mar 22, 2025",UFC Fight Night 255 - Edwards vs. Brady,Flyweight,Lone'er Kavanagh,126,-305,Felipe dos Santos,125,245,Decision (Unanimous),3,5:00
 "Mar 22, 2025",UFC Fight Night 255 - Edwards vs. Brady,Heavyweight,Marcin Tybura,250,-102,Mick Parkin,260,-118,Decision (Unanimous),3,5:00
-"Mar 22, 2025",UFC Fight Night 255 - Edwards vs. Brady,Middleweight,Christian Leroy Duncan,186,455,Andrey Pulyaev,185,-625,Decision (Unanimous),3,5:00
-"Mar 22, 2025",UFC Fight Night 255 - Edwards vs. Brady,Strawweight,Shauna Bannon,116,-180,Puja Tomar,116,150,Submission (Armbar),2,3:22
-"Mar 22, 2025",UFC Fight Night 255 - Edwards vs. Brady,Bantamweight,Caolan Loughran,136,105,Nathan Fletcher,135,-125,Decision (Split),3,5:00
-"Mar 22, 2025",UFC Fight Night 255 - Edwards vs. Brady,Lightweight,Kaue Fernandes,155,330,Guram Kutateladze,155,-425,Decision (Unanimous),3,5:00
-"Apr 26, 2025",UFC on ESPN 66 - Garry vs. Prates,Welterweight,Ian Garry,171,-135,Carlos Prates,171,114,Decision (Unanimous),5,5:00
-"Apr 26, 2025",UFC on ESPN 66 - Garry vs. Prates,Light Heavyweight,Mingyang Zhang,206,-500,Anthony Smith,206,380,TKO (Elbows),1,4:03
-"Apr 26, 2025",UFC on ESPN 66 - Garry vs. Prates,147lb Catchweight,David Onama,146,-180,Giga Chikadze,147: Missed Weight,150,Decision (Unanimous),3,5:00
-"Apr 26, 2025",UFC on ESPN 66 - Garry vs. Prates,Middleweight,Abusupiyan Magomedov,185.5,130,Michel Pereira,186,-155,Decision (Unanimous),3,5:00
-"Apr 26, 2025",UFC on ESPN 66 - Garry vs. Prates,Welterweight,Randy Brown,171,-238,Nicolas Dalby,171,195,KO (Punch),2,1:39
-"Apr 26, 2025",UFC on ESPN 66 - Garry vs. Prates,Middleweight,Ikram Aliskerov,185.5,-650,Andre Muniz,185,470,TKO (Punches),1,4:54
-"Apr 26, 2025",UFC on ESPN 66 - Garry vs. Prates,Flyweight,Matt Schnell,126,-285,Jimmy Flick,126,230,Decision (Unanimous),3,5:00
-"Apr 26, 2025",UFC on ESPN 66 - Garry vs. Prates,Lightweight,Evan Elder,156,-258,Gauge Young,156,210,Decision (Unanimous),3,5:00
-"Apr 26, 2025",UFC on ESPN 66 - Garry vs. Prates,Featherweight,Chris Gutierrez,146,-130,John Castaneda,146,110,Decision (Split),3,5:00
-"Apr 26, 2025",UFC on ESPN 66 - Garry vs. Prates,Bantamweight,Da'Mon Blackshear,135.5,-375,Heili Alateng,136,295,Decision (Unanimous),3,5:00
-"Apr 26, 2025",UFC on ESPN 66 - Garry vs. Prates,Bantamweight,Malcolm Wellmaker,135,-110,Cameron Saaiman,135,-110,KO (Punch),1,1:59
-"Apr 26, 2025",UFC on ESPN 66 - Garry vs. Prates,Strawweight,Jaqueline Amorim,116,-550,Polyana Viana,115.5,410,Submission (Rear-Naked Choke),2,1:49
-"Apr 26, 2025",UFC on ESPN 66 - Garry vs. Prates,Featherweight,Timothy Cuamba,146,-105,Roberto Romero,145,-115,TKO (Flying Knee),2,3:55
-"Apr 26, 2025",UFC on ESPN 66 - Garry vs. Prates,Bantamweight,Joselyne Edwards,136,-298,Chelsea Chandler,134,240,TKO (Punches),1,2:31
+"Mar 22, 2025",UFC Fight Night 255 - Edwards vs. Brady,Middleweight,Christian Leroy Duncan,186,455,Andrey Pulyaev,185,-625,Decision (Unanimous),1,1:59
+"Mar 22, 2025",UFC Fight Night 255 - Edwards vs. Brady,Strawweight,Shauna Bannon,116,-180,Puja Tomar,116,150,Submission (Armbar),2,1:49
+"Mar 22, 2025",UFC Fight Night 255 - Edwards vs. Brady,Bantamweight,Caolan Loughran,136,105,Nathan Fletcher,135,-125,Decision (Split),2,3:55
+"Mar 22, 2025",UFC Fight Night 255 - Edwards vs. Brady,Lightweight,Kaue Fernandes,155,330,Guram Kutateladze,155,-425,Decision (Unanimous),1,2:31
 "Mar 8, 2025",UFC 313 - Pereira vs. Ankalaev,Light Heavyweight,Magomed Ankalaev,205,-105,Alex Pereira,205,-115,Decision (Unanimous),5,5:00
 "Mar 8, 2025",UFC 313 - Pereira vs. Ankalaev,Lightweight,Justin Gaethje,156,124,Rafael Fiziev,156,-148,Decision (Unanimous),3,5:00
 "Mar 8, 2025",UFC 313 - Pereira vs. Ankalaev,Lightweight,Ignacio Bahamondes,156,-118,Jalin Turner,154.5,-102,Submission (Triangle Choke),1,2:29
