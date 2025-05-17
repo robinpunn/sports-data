@@ -1,0 +1,127 @@
+date,event,weight_class,winner,winner_weight,winner_odds,loser,loser_weight,loser_odds,method,rnd,time
+"Apr 27, 2024",UFC on ESPN 55 - Nicolau vs. Perez,Flyweight,Alex Perez,126,NA,Matheus Nicolau,125.5,NA,KO (Punch),2,2:16
+"Apr 27, 2024",UFC on ESPN 55 - Nicolau vs. Perez,Light Heavyweight,Bogdan Guskov,204.5,NA,Ryan Spann,205.5,NA,TKO (Punches),2,3:16
+"Apr 27, 2024",UFC on ESPN 55 - Nicolau vs. Perez,Flyweight,Karine Silva,125.5,NA,Ariane Lipski da Silva,126,NA,Decision (Unanimous),3,5:00
+"Apr 27, 2024",UFC on ESPN 55 - Nicolau vs. Perez,Heavyweight,Jhonata Diniz,255,NA,Austen Lane,254.5,NA,KO (Punches),2,2:12
+"Apr 27, 2024",UFC on ESPN 55 - Nicolau vs. Perez,149lb Catchweight,David Onama,148.5: Missed Weight,NA,Jonathan Pearce,146,NA,Decision (Unanimous),3,5:00
+"Apr 27, 2024",UFC on ESPN 55 - Nicolau vs. Perez,Welterweight,Uros Medic,171,NA,Tim Means,171,NA,TKO (Punches),1,2:09
+"Apr 27, 2024",UFC on ESPN 55 - Nicolau vs. Perez,Bantamweight,Victor Henry,135.5,NA,Rani Yahya,136,NA,TKO (Head Kick and Punches),3,2:36
+"Apr 27, 2024",UFC on ESPN 55 - Nicolau vs. Perez,Lightweight,Austin Hubbard,156,NA,Michal Figlak,155,NA,Decision (Unanimous),3,5:00
+"Apr 27, 2024",UFC on ESPN 55 - Nicolau vs. Perez,Heavyweight,Don'Tale Mayes,264,NA,Caio Machado,251.5,NA,Decision (Unanimous),3,5:00
+"Apr 27, 2024",UFC on ESPN 55 - Nicolau vs. Perez,Strawweight,Ketlen Souza,115.5,NA,Marnic Mann,115.5,NA,Decision (Unanimous),3,5:00
+"Apr 27, 2024",UFC on ESPN 55 - Nicolau vs. Perez,157lb Catchweight,Chris Padilla,NA,NA,James Llontop,154.5,NA,Submission (Rear-Naked Choke),1,4:33
+"Apr 27, 2024",UFC on ESPN 55 - Nicolau vs. Perez,Flyweight,Ivana Petrovic,126,NA,Na Liang,126,NA,Submission (Arm-Triangle Choke),3,1:29
+"Apr 27, 2024",UFC on ESPN 55 - Nicolau vs. Perez,Lightweight,Maheshate Hayisaer,155.5,NA,Gabriel Benitez,155,NA,Decision (Split),3,5:00
+"Apr 13, 2024",UFC 300 - Pereira vs. Hill,Light Heavyweight Title Fight,Alex Pereira,205,-130,Jamahal Hill,205,110,KO (Punches),1,3:14
+"Apr 13, 2024",UFC 300 - Pereira vs. Hill,Strawweight Title Fight,Weili Zhang,115,-485,Xiaonan Yan,115,370,Decision (Unanimous),5,5:00
+"Apr 13, 2024",UFC 300 - Pereira vs. Hill,Lightweight,Max Holloway,156,145,Justin Gaethje,156,-175,KO (Punch),5,4:59
+"Apr 13, 2024",UFC 300 - Pereira vs. Hill,Lightweight,Arman Tsarukyan,156,-225,Charles Oliveira,156,185,Decision (Split),3,5:00
+"Apr 13, 2024",UFC 300 - Pereira vs. Hill,Middleweight,Bo Nickal,186,-2100,Cody Brundage,186,1100,Submission (Rear-Naked Choke),2,3:38
+"Apr 13, 2024",UFC 300 - Pereira vs. Hill,Light Heavyweight,Jiri Prochazka,206,100,Aleksandar Rakic,206,-120,TKO (Punches),2,3:17
+"Apr 13, 2024",UFC 300 - Pereira vs. Hill,Featherweight,Aljamain Sterling,146,-170,Calvin Kattar,145.5,142,Decision (Unanimous),3,5:00
+"Apr 13, 2024",UFC 300 - Pereira vs. Hill,Bantamweight,Kayla Harrison,136,-425,Holly Holm,136,330,Submission (Rear-Naked Choke),2,1:47
+"Apr 13, 2024",UFC 300 - Pereira vs. Hill,Featherweight,Diego Lopes,146,-135,Sodiq Yusuff,146,114,TKO (Punches),1,1:29
+"Apr 13, 2024",UFC 300 - Pereira vs. Hill,Lightweight,Renato Carneiro,156,195,Jalin Turner,155.5,-238,TKO (Elbows and Punches),2,4:11
+"Apr 13, 2024",UFC 300 - Pereira vs. Hill,Strawweight,Jessica Andrade,116,-135,Marina Rodriguez,116,114,Decision (Split),3,5:00
+"Apr 13, 2024",UFC 300 - Pereira vs. Hill,Lightweight,Bobby Green,156,-185,Jim Miller,155.5,154,Decision (Unanimous),3,5:00
+"Apr 13, 2024",UFC 300 - Pereira vs. Hill,Bantamweight,Deiveson Figueiredo,135.5,-310,Cody Garbrandt,136,250,Submission (Rear-Naked Choke),2,4:02
+"Mar 30, 2024",UFC on ESPN 54 - Blanchfield vs. Fiorot,Flyweight,Manon Fiorot,125.25,160,Erin Blanchfield,125,-192,Decision (Unanimous),5,5:00
+"Mar 30, 2024",UFC on ESPN 54 - Blanchfield vs. Fiorot,Welterweight,Joaquin Buckley,170,-108,Vicente Luque,170,-112,TKO (Punches),2,3:17
+"Mar 30, 2024",UFC on ESPN 54 - Blanchfield vs. Fiorot,Middleweight,Chris Weidman,186,230,Bruno Silva,186,-285,Technical Decision (Unanimous),3,2:18
+"Mar 30, 2024",UFC on ESPN 54 - Blanchfield vs. Fiorot,Middleweight,Nursulton Ruziboev,185,-265,Sedriques Dumas,185,215,TKO (Punches),1,3:18
+"Mar 30, 2024",UFC on ESPN 54 - Blanchfield vs. Fiorot,Featherweight,Kyle Nelson,145,185,Bill Algeo,146,-225,TKO (Punches),1,4:00
+"Mar 30, 2024",UFC on ESPN 54 - Blanchfield vs. Fiorot,Welterweight,Chidi Njokuani,170,-142,Rhys McKee,170.25,120,Decision (Split),3,5:00
+"Mar 30, 2024",UFC on ESPN 54 - Blanchfield vs. Fiorot,Featherweight,Nate Landwehr,145.25,180,Jamall Emmers,145,-218,KO (Punches),1,4:43
+"Mar 30, 2024",UFC on ESPN 54 - Blanchfield vs. Fiorot,Strawweight,Virna Jandiroba,115,180,Lupita Godinez,115,-218,Decision (Unanimous),3,5:00
+"Mar 30, 2024",UFC on ESPN 54 - Blanchfield vs. Fiorot,147lb Catchweight,Julio Arce,147: Missed Weight,-410,Herbert Burns,145,320,TKO (Punches),2,2:00
+"Mar 30, 2024",UFC on ESPN 54 - Blanchfield vs. Fiorot,Featherweight,Dennis Buzukja,145.25,-115,Connor Matthews,145,-115,TKO (Punches),3,0:22
+"Mar 30, 2024",UFC on ESPN 54 - Blanchfield vs. Fiorot,Light Heavyweight,Ibo Aslan,205,-125,Anton Turkalj,205,100,TKO (Punch),3,1:32
+"Mar 30, 2024",UFC on ESPN 54 - Blanchfield vs. Fiorot,Middleweight,Jacob Malkoun,185,-205,Andre Petroski,186,170,TKO (Soccer Kick to the Body),2,0:39
+"Mar 30, 2024",UFC on ESPN 54 - Blanchfield vs. Fiorot,Bantamweight,Caolan Loughran,135,-355,Angel Pacheco,135,280,Decision (Unanimous),3,5:00
+"Apr 6, 2024",UFC Fight Night 240 - Allen vs. Curtis 2,Middleweight,Brendan Allen,186,-198,Chris Curtis,186,164,Decision (Split),5,5:00
+"Apr 6, 2024",UFC Fight Night 240 - Allen vs. Curtis 2,148lb Catchweight,Damon Jackson,146,170,Alexander Hernandez,147.5: Missed Weight,-205,Decision (Split),3,5:00
+"Apr 6, 2024",UFC Fight Night 240 - Allen vs. Curtis 2,Featherweight,Jose Mariscal,145.5,102,Morgan Charriere,145,-122,Decision (Split),3,5:00
+"Apr 6, 2024",UFC Fight Night 240 - Allen vs. Curtis 2,Lightweight,Ignacio Bahamondes,156,-345,Christos Giagos,156,275,KO (Head Kick),1,3:34
+"Apr 6, 2024",UFC Fight Night 240 - Allen vs. Curtis 2,Lightweight,Charlie Campbell,155,-205,Trevor Peek,155.5,170,Decision (Unanimous),3,5:00
+"Apr 6, 2024",UFC Fight Night 240 - Allen vs. Curtis 2,Welterweight,Alex Morono,171,-298,Court McGee,170.5,240,Decision (Unanimous),3,5:00
+"Apr 6, 2024",UFC Fight Night 240 - Allen vs. Curtis 2,Heavyweight,Lukasz Brzeski,236,270,Valter Walker,264,-340,Decision (Unanimous),3,5:00
+"Apr 6, 2024",UFC Fight Night 240 - Allen vs. Curtis 2,Bantamweight,Norma Dumont,136,-175,Germaine de Randamie,135,145,Decision (Unanimous),3,5:00
+"Apr 6, 2024",UFC Fight Night 240 - Allen vs. Curtis 2,Bantamweight,Victor Hugo,135.5,NA,Pedro Falcao,136,NA,Decision (Unanimous),3,5:00
+"Apr 6, 2024",UFC Fight Night 240 - Allen vs. Curtis 2,Bantamweight,Jean Matsumoto,136,-185,Dan Argueta,136,154,Submission (Guillotine Choke),2,4:59
+"Apr 6, 2024",UFC Fight Night 240 - Allen vs. Curtis 2,Middleweight,Cesar Almeida,185.5,124,Dylan Budka,185.5,-148,TKO (Elbows and Punches),2,2:13
+"Apr 6, 2024",UFC Fight Night 240 - Allen vs. Curtis 2,139lb Catchweight,Nora Cornolle,138.5: Missed Weight,285,Melissa Mullins,138: Missed Weight,-360,TKO (Knee to the Body and Head Kicks),2,3:06
+"Mar 23, 2024",UFC on ESPN 53 - Ribas vs. Namajunas,Flyweight,Rose Namajunas,125.5,-250,Amanda Ribas,125.5,205,Decision (Unanimous),5,5:00
+"Mar 23, 2024",UFC on ESPN 53 - Ribas vs. Namajunas,Heavyweight,Karl Williams,246.5,-180,Justin Tafa,264.5,150,Decision (Unanimous),3,5:00
+"Mar 23, 2024",UFC on ESPN 53 - Ribas vs. Namajunas,Middleweight,Edmen Shahbazyan,186,-198,A.J. Dobson,185.5,164,KO (Elbows and Punches),1,4:33
+"Mar 23, 2024",UFC on ESPN 53 - Ribas vs. Namajunas,Bantamweight,Payton Talbott,135.5,-148,Cameron Saaiman,135,124,TKO (Punches),2,0:21
+"Mar 23, 2024",UFC on ESPN 53 - Ribas vs. Namajunas,Featherweight,Youssef Zalal,146,124,Billy Quarantillo,145.5,-148,Submission (Rear-Naked Choke),2,1:50
+"Mar 23, 2024",UFC on ESPN 53 - Ribas vs. Namajunas,Featherweight,Fernando Padilla,145,-162,Luis Pajuelo,145,136,Submission (Brabo Choke),1,2:45
+"Mar 23, 2024",UFC on ESPN 53 - Ribas vs. Namajunas,Lightweight,Trey Ogden,155.5,-155,Kurt Holobaugh,155.5,130,Decision (Unanimous),3,5:00
+"Mar 23, 2024",UFC on ESPN 53 - Ribas vs. Namajunas,Featherweight,Julian Erosa,146,130,Ricardo Ramos,145.5,-160,Submission (Guillotine Choke),1,2:15
+"Mar 23, 2024",UFC on ESPN 53 - Ribas vs. Namajunas,Bantamweight,Miles Johns,136,-148,Cody Gibson,135.5,124,Decision (Unanimous),3,5:00
+"Mar 23, 2024",UFC on ESPN 53 - Ribas vs. Namajunas,Featherweight,Jarno Errens,144.5,164,Steven Nguyen,145,-198,Decision (Unanimous),3,5:00
+"Mar 23, 2024",UFC on ESPN 53 - Ribas vs. Namajunas,Bantamweight,Darya Zheleznyakova,135.5,-218,Montserrat Rendon,135,180,Decision (Unanimous),3,5:00
+"Mar 23, 2024",UFC on ESPN 53 - Ribas vs. Namajunas,Flyweight,Andre Lima,126,-180,Igor Severino,125,150,Disqualification (Biting),2,2:52
+"Mar 23, 2024",UFC on ESPN 53 - Ribas vs. Namajunas,Heavyweight,Mick Parkin,262.5,-142,Mohammed Usman,237,120,Decision (Unanimous),3,5:00
+"Mar 2, 2024",UFC Fight Night 238 - Rozenstruik vs. Gaziev,Heavyweight,Jairzinho Rozenstruik,257,124,Shamil Gaziev,261,-148,TKO (Retirement),4,5:00
+"Mar 2, 2024",UFC Fight Night 238 - Rozenstruik vs. Gaziev,Light Heavyweight,Vitor Petrino,205.5,-298,Tyson Pedro,205.5,240,Decision (Unanimous),3,5:00
+"Mar 2, 2024",UFC Fight Night 238 - Rozenstruik vs. Gaziev,Flyweight,Muhammad Mokaev,126,-360,Alex Perez,125.5,285,Decision (Unanimous),3,5:00
+"Mar 2, 2024",UFC Fight Night 238 - Rozenstruik vs. Gaziev,Bantamweight,Umar Nurmagomedov,136,-1200,Bekzat Almakhan,136,750,Decision (Unanimous),3,5:00
+"Mar 2, 2024",UFC Fight Night 238 - Rozenstruik vs. Gaziev,Flyweight,Steve Erceg,126,-325,Matt Schnell,126,260,KO (Punch),2,0:26
+"Mar 2, 2024",UFC Fight Night 238 - Rozenstruik vs. Gaziev,Middleweight,Eryk Anders,185.5,-425,Jamie Pickett,186,330,Decision (Unanimous),3,5:00
+"Mar 2, 2024",UFC Fight Night 238 - Rozenstruik vs. Gaziev,Bantamweight,Vinicius Oliveira,135.5,NA,Bernardo Sopai,135.5,NA,KO (Flying Knee),3,4:41
+"Mar 2, 2024",UFC Fight Night 238 - Rozenstruik vs. Gaziev,Bantamweight,Aiemann Zahabi,135.5,500,Javid Basharat,136,-700,Decision (Unanimous),3,5:00
+"Mar 2, 2024",UFC Fight Night 238 - Rozenstruik vs. Gaziev,Middleweight,Christian Leroy Duncan,186,-298,Claudio Ribeiro,185.5,240,TKO (Elbows and Punches),2,1:57
+"Mar 2, 2024",UFC Fight Night 238 - Rozenstruik vs. Gaziev,Lightweight,Ludovit Klein,156,-835,A.J. Cunningham,155.5,575,TKO (Front Kick to the Body and Punches),1,4:36
+"Mar 2, 2024",UFC Fight Night 238 - Rozenstruik vs. Gaziev,Lightweight,Loik Radzhabov,155.5,140,Abdul-Kareem Al-Selwady,156,-166,KO (Punches),3,0:49
+"Feb 24, 2024",UFC Fight Night 237 - Moreno vs. Royval 2,Flyweight,Brandon Royval,126,220,Brandon Moreno,126,-270,Decision (Split),5,5:00
+"Feb 24, 2024",UFC Fight Night 237 - Moreno vs. Royval 2,Featherweight,Brian Ortega,146,140,Yair Rodriguez,146,-166,Submission (Arm-Triangle Choke),3,0:58
+"Feb 24, 2024",UFC Fight Night 237 - Moreno vs. Royval 2,Lightweight,Daniel Zellhuber,156,-278,Francisco Prado,156,225,Decision (Unanimous),3,5:00
+"Feb 24, 2024",UFC Fight Night 237 - Moreno vs. Royval 2,Strawweight,Yazmin Jauregui,115,-535,Sam Hughes,115,400,Decision (Unanimous),3,5:00
+"Feb 24, 2024",UFC Fight Night 237 - Moreno vs. Royval 2,Lightweight,Manuel Torres,155,-162,Chris Duncan,156,136,Submission (Rear-Naked Choke),1,1:46
+"Feb 24, 2024",UFC Fight Night 237 - Moreno vs. Royval 2,Bantamweight,Raoni Barcelos,135,-175,Cristian Quinonez,135,145,Submission (Rear-Naked Choke),3,2:04
+"Feb 24, 2024",UFC Fight Night 237 - Moreno vs. Royval 2,Flyweight,Jesus Santos Aguilar,126,136,Mateus Mendonca,126,-162,Decision (Split),3,5:00
+"Feb 24, 2024",UFC Fight Night 237 - Moreno vs. Royval 2,131lb Catchweight,Edgar Chairez,131: Missed Weight,-355,Daniel Lacerda,,,Submission (Triangle Choke),1,2:17
+"Feb 24, 2024",UFC Fight Night 237 - Moreno vs. Royval 2,Lightweight,Fares Ziam,156,-218,Claudio Puelles,156,180,Decision (Split),3,5:00
+"Feb 24, 2024",UFC Fight Night 237 - Moreno vs. Royval 2,Flyweight,Ronaldo Rodriguez,126,-115,Denys Bondar,126,-105,Submission (Rear-Naked Choke),2,4:59
+"Feb 24, 2024",UFC Fight Night 237 - Moreno vs. Royval 2,Flyweight,Felipe dos Santos,124,-298,Victor Altamirano,125,240,Decision (Split),3,5:00
+"Feb 24, 2024",UFC Fight Night 237 - Moreno vs. Royval 2,Featherweight,Muhammadjon Naimov,146,-360,Erik Silva,146,285,TKO (Leg Injury),1,0:44
+"Mar 16, 2024",UFC Fight Night 239 - Tuivasa vs. Tybura,Heavyweight,Marcin Tybura,247,105,Tai Tuivasa,265.5,-122,Technical Submission (Rear-Naked Choke),1,4:08
+"Mar 16, 2024",UFC Fight Night 239 - Tuivasa vs. Tybura,Welterweight,Bryan Battle,170,-180,Ange Loosa,171,150,No Contest (Accidental Eye Poke),2,1:00
+"Mar 16, 2024",UFC Fight Night 239 - Tuivasa vs. Tybura,Light Heavyweight,Ovince St. Preux,206,425,Kennedy Nzechukwu,205,-575,Decision (Split),3,5:00
+"Mar 16, 2024",UFC Fight Night 239 - Tuivasa vs. Tybura,Featherweight,Christian Rodriguez,145,160,Isaac Dulgarian,145.5,-192,Decision (Split),3,5:00
+"Mar 16, 2024",UFC Fight Night 239 - Tuivasa vs. Tybura,Bantamweight,Macy Chiasson,135.5,-245,Pannie Kianzad,136,200,Submission (Rear-Naked Choke),1,3:54
+"Mar 16, 2024",UFC Fight Night 239 - Tuivasa vs. Tybura,Middleweight,Gerald Meerschaert,185.5,-245,Bryan Barberena,186,200,Technical Submission (Face Crank),2,4:23
+"Mar 16, 2024",UFC Fight Night 239 - Tuivasa vs. Tybura,157lb Catchweight,Mike Davis,155,-340,Natan Levy,156.5: Missed Weight,270,Submission (Arm-Triangle Choke),2,1:43
+"Mar 16, 2024",UFC Fight Night 239 - Tuivasa vs. Tybura,137lb Catchweight,Chelsea Chandler,137: Missed Weight,114,Josiane Nunes,135,-135,Decision (Unanimous),3,5:00
+"Mar 16, 2024",UFC Fight Night 239 - Tuivasa vs. Tybura,Flyweight,Jafel Filho,125.5,-180,Ode Osbourne,125.5,150,Submission (Rear-Naked Choke),1,4:27
+"Mar 16, 2024",UFC Fight Night 239 - Tuivasa vs. Tybura,149lb Catchweight,Danny Silva,148.5: Missed Weight,160,Joshua Culibao,146,-192,Decision (Split),3,5:00
+"Mar 16, 2024",UFC Fight Night 239 - Tuivasa vs. Tybura,Strawweight,Jaqueline Amorim,116,105,Cory McKenna,115.5,-125,Submission (Armbar),1,1:38
+"Mar 16, 2024",UFC Fight Night 239 - Tuivasa vs. Tybura,Lightweight,Thiago Moises,155.5,-410,Mitch Ramirez,155.5,320,TKO (Leg Kicks),3,0:15
+"Mar 16, 2024",UFC Fight Night 239 - Tuivasa vs. Tybura,Bantamweight,Chad Anheliger,135,136,Charalampos Grigoriou,136,-162,Decision (Unanimous),3,5:00
+"Mar 9, 2024",UFC 299 - O'Malley vs. Vera 2,Bantamweight Title Fight,Sean O'Malley,135,-258,Marlon Vera,135,210,Decision (Unanimous),5,5:00
+"Mar 9, 2024",UFC 299 - O'Malley vs. Vera 2,Lightweight,Dustin Poirier,156,170,Benoit St. Denis,155,-205,KO (Punches),2,2:32
+"Mar 9, 2024",UFC 299 - O'Malley vs. Vera 2,Welterweight,Michael Page,170,114,Kevin Holland,170,-135,Decision (Unanimous),3,5:00
+"Mar 9, 2024",UFC 299 - O'Malley vs. Vera 2,Welterweight,Jack Della Maddalena,170,-162,Gilbert Burns,171,136,KO (Knee and Elbows),3,3:43
+"Mar 9, 2024",UFC 299 - O'Malley vs. Vera 2,Bantamweight,Petr Yan,135,-115,Yadong Song,136,-105,Decision (Unanimous),3,5:00
+"Mar 9, 2024",UFC 299 - O'Malley vs. Vera 2,Heavyweight,Curtis Blaydes,257,-115,Jailton Almeida,241,-108,KO (Punches),2,0:36
+"Mar 9, 2024",UFC 299 - O'Malley vs. Vera 2,Flyweight,Maycee Barber,125,-205,Katlyn Cerminara,125,170,Decision (Unanimous),3,5:00
+"Mar 9, 2024",UFC 299 - O'Malley vs. Vera 2,Lightweight,Mateusz Gamrot,156,-470,Rafael dos Anjos,156,360,Decision (Unanimous),3,5:00
+"Mar 9, 2024",UFC 299 - O'Malley vs. Vera 2,Bantamweight,Kyler Phillips,135,-238,Pedro Munhoz,135,195,Decision (Unanimous),3,5:00
+"Mar 9, 2024",UFC 299 - O'Malley vs. Vera 2,Light Heavyweight,Philipe Lins,206,114,Ion Cutelaba,205,-135,Decision (Unanimous),3,5:00
+"Mar 9, 2024",UFC 299 - O'Malley vs. Vera 2,Middleweight,Michel Pereira,186,-148,Michal Oleksiejczuk,185,124,Technical Submission (Rear-Naked Choke),1,1:01
+"Mar 9, 2024",UFC 299 - O'Malley vs. Vera 2,Heavyweight,Robelis Despaigne,261,-345,Josh Parisian,266,250,TKO (Punches),1,0:18
+"Mar 9, 2024",UFC 299 - O'Malley vs. Vera 2,127lb Catchweight,Asu Almabayev,126,-535,C.J. Vergara,127: Missed Weight,400,Decision (Unanimous),3,5:00
+"Mar 9, 2024",UFC 299 - O'Malley vs. Vera 2,Flyweight,Joanne Wood,125,185,Maryna Moroz,126,-225,Decision (Split),3,5:00
+"Feb 17, 2024",UFC 298 - Volkanovski vs. Topuria,Featherweight Title Fight,Ilia Topuria,144.5,-102,Alexander Volkanovski,144.5,-118,KO (Punch),2,3:32
+"Feb 17, 2024",UFC 298 - Volkanovski vs. Topuria,Middleweight,Robert Whittaker,185.5,-225,Paulo Costa,185.5,185,Decision (Unanimous),3,5:00
+"Feb 17, 2024",UFC 298 - Volkanovski vs. Topuria,Welterweight,Ian Garry,170.5,-225,Geoff Neal,170.5,185,Decision (Split),3,5:00
+"Feb 17, 2024",UFC 298 - Volkanovski vs. Topuria,Bantamweight,Merab Dvalishvili,135,-198,Henry Cejudo,135,164,Decision (Unanimous),3,5:00
+"Feb 17, 2024",UFC 298 - Volkanovski vs. Topuria,Middleweight,Anthony Hernandez,185.5,-205,Roman Kopylov,185,170,Submission (Rear-Naked Choke),2,3:23
+"Feb 17, 2024",UFC 298 - Volkanovski vs. Topuria,Strawweight,Amanda Lemos,115.5,-130,Mackenzie Dern,116,110,Decision (Unanimous),3,5:00
+"Feb 17, 2024",UFC 298 - Volkanovski vs. Topuria,Heavyweight,Marcos Rogerio de Lima,261.5,NA,Junior Tafa,249,NA,TKO (Leg Kick and Punches),2,1:14
+"Feb 17, 2024",UFC 298 - Volkanovski vs. Topuria,Bantamweight,Rinya Nakamura,135.5,-1100,Carlos Vera,135.5,700,Decision (Unanimous),3,5:00
+"Feb 17, 2024",UFC 298 - Volkanovski vs. Topuria,Light Heavyweight,Mingyang Zhang,204.5,-142,Brendson Ribeiro,205.5,120,KO (Punches),1,1:41
+"Feb 17, 2024",UFC 298 - Volkanovski vs. Topuria,Welterweight,Danny Barlow,171,-198,Josh Quinlan,169,164,TKO (Punches),3,1:18
+"Feb 17, 2024",UFC 298 - Volkanovski vs. Topuria,Welterweight,Oban Elliott,170.5,-290,Valentine Woodburn,169.5,235,Decision (Unanimous),3,5:00
+"Feb 17, 2024",UFC 298 - Volkanovski vs. Topuria,Flyweight,Miranda Maverick,126,-192,Andrea Lee,125.5,160,Decision (Unanimous),3,5:00
