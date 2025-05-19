@@ -1,0 +1,364 @@
+date,event,weight_class,winner,winner_weight,winner_odds,loser,loser_weight,loser_odds,method,rnd,time
+"Dec 17, 2022",UFC Fight Night 216 - Cannonier vs. Strickland,Middleweight,Jared Cannonier,185.5,-105,Sean Strickland,186,-115,Decision (Split),5,5:00
+"Dec 17, 2022",UFC Fight Night 216 - Cannonier vs. Strickland,Lightweight,Arman Tsarukyan,155.5,-190,Damir Ismagulov,156,160,Decision (Unanimous),3,5:00
+"Dec 17, 2022",UFC Fight Night 216 - Cannonier vs. Strickland,Flyweight,Amir Albazi,125.5,-425,Alessandro Costa,125.5,350,KO (Punches),3,2:13
+"Dec 17, 2022",UFC Fight Night 216 - Cannonier vs. Strickland,Featherweight,Alex Caceres,145,140,Julian Erosa,145.5,-165,TKO (Head Kick and Punches),1,3:04
+"Dec 17, 2022",UFC Fight Night 216 - Cannonier vs. Strickland,Lightweight,Drew Dober,156,-150,Bobby Green,156,130,KO (Punch),2,2:45
+"Dec 17, 2022",UFC Fight Night 216 - Cannonier vs. Strickland,Middleweight,Michal Oleksiejczuk,186,-275,Cody Brundage,185,230,KO (Punches),1,3:16
+"Dec 17, 2022",UFC Fight Night 216 - Cannonier vs. Strickland,Strawweight,Cory McKenna,115.5,160,Cheyanne Vlismas,115.5,-190,Decision (Unanimous),3,5:00
+"Dec 17, 2022",UFC Fight Night 216 - Cannonier vs. Strickland,Welterweight,Matthew Semelsberger,171,215,Jake Matthews,171,-255,Decision (Unanimous),3,5:00
+"Dec 17, 2022",UFC Fight Night 216 - Cannonier vs. Strickland,Bantamweight,Said Nurmagomedov,136,-110,Saidyokub Kakhramonov,136,-110,Submission (Ninja Choke),2,3:50
+"Dec 17, 2022",UFC Fight Night 216 - Cannonier vs. Strickland,159lb Catchweight,Rafa Garcia,155,-130,Maheshate Hayisaer,158.5: Missed Weight,110,Decision (Unanimous),3,5:00
+"Dec 17, 2022",UFC Fight Night 216 - Cannonier vs. Strickland,Welterweight,Rinat Fakhretdinov,171,-135,Bryan Battle,170,115,Decision (Unanimous),3,5:00
+"Dec 17, 2022",UFC Fight Night 216 - Cannonier vs. Strickland,Flyweight,Manel Kape,126,-240,David Dvorak,125.5,200,Decision (Unanimous),3,5:00
+"Dec 17, 2022",UFC Fight Night 216 - Cannonier vs. Strickland,Bantamweight,Sergey Morozov,136,-280,Journey Newson,135.5,235,Decision (Unanimous),3,5:00
+"Dec 10, 2022",UFC 282 - Blachowicz vs. Ankalaev,Light Heavyweight Title Fight,Jan Blachowicz,204.5,235,Magomed Ankalaev,205,-280,Draw (Split),5,5:00
+"Dec 10, 2022",UFC 282 - Blachowicz vs. Ankalaev,Lightweight,Paddy Pimblett,156,-250,Jared Gordon,155.5,210,Decision (Unanimous),3,5:00
+"Dec 10, 2022",UFC 282 - Blachowicz vs. Ankalaev,180lb Catchweight,Santiago Ponzinibbio,179.5,-175,Alex Morono,179.5,150,TKO (Punches),3,2:29
+"Dec 10, 2022",UFC 282 - Blachowicz vs. Ankalaev,Middleweight,Dricus Du Plessis,185,-180,Darren Till,184.5,155,Submission (Face Crank),3,2:43
+"Dec 10, 2022",UFC 282 - Blachowicz vs. Ankalaev,Featherweight,Ilia Topuria,146,-135,Bryce Mitchell,146,115,Submission (Arm-Triangle Choke),2,3:10
+"Dec 10, 2022",UFC 282 - Blachowicz vs. Ankalaev,Bantamweight,Raul Rosas Jr.,136,-230,Jay Perrin,136,195,Submission (Face Crank),1,2:44
+"Dec 10, 2022",UFC 282 - Blachowicz vs. Ankalaev,Heavyweight,Jairzinho Rozenstruik,261.5,-170,Chris Daukaus,242.5,145,KO (Punch),1,0:23
+"Dec 10, 2022",UFC 282 - Blachowicz vs. Ankalaev,Middleweight,Edmen Shahbazyan,185.5,-280,Dalcha Lungiambula,185.5,235,TKO (Punches),2,4:41
+"Dec 10, 2022",UFC 282 - Blachowicz vs. Ankalaev,Middleweight,Chris Curtis,186,135,Joaquin Buckley,185.5,-155,KO (Punches),2,2:49
+"Dec 10, 2022",UFC 282 - Blachowicz vs. Ankalaev,Featherweight,Billy Quarantillo,146,-165,Alexander Hernandez,145.5,140,TKO (Knees and Punches),2,4:30
+"Dec 10, 2022",UFC 282 - Blachowicz vs. Ankalaev,Featherweight,T.J. Brown,145.5,-110,Erik Silva,146,-110,Submission (Arm-Triangle Choke),3,3:41
+"Dec 10, 2022",UFC 282 - Blachowicz vs. Ankalaev,Bantamweight,Cameron Saaiman,135,-320,Steven Koslow,136,265,TKO (Knees and Punches),3,4:13
+"Dec 3, 2022",UFC on ESPN 42 - Thompson vs. Holland,Welterweight,Stephen Thompson,170,135,Kevin Holland,170.5,-155,TKO (Corner Stoppage),4,5:00
+"Dec 3, 2022",UFC on ESPN 42 - Thompson vs. Holland,Welterweight,Rafael dos Anjos,170,-540,Bryan Barberena,170.5,420,Submission (Neck Crank),2,3:20
+"Dec 3, 2022",UFC on ESPN 42 - Thompson vs. Holland,Flyweight,Matheus Nicolau,126,-380,Matt Schnell,126,310,KO (Punches),2,1:44
+"Dec 3, 2022",UFC on ESPN 42 - Thompson vs. Holland,Heavyweight,Sergei Pavlovich,255,-210,Tai Tuivasa,266,180,KO (Punches),1,0:54
+"Dec 3, 2022",UFC on ESPN 42 - Thompson vs. Holland,Middleweight,Roman Dolidze,185.5,160,Jack Hermansson,186,-190,TKO (Punches),2,4:06
+"Dec 3, 2022",UFC on ESPN 42 - Thompson vs. Holland,Middleweight,Eryk Anders,186,185,Kyle Daukaus,184.5,-215,TKO (Punches),2,2:45
+"Dec 3, 2022",UFC on ESPN 42 - Thompson vs. Holland,174lb Catchweight,Philip Rowe,173.5: Missed Weight,120,Niko Price,170,-140,TKO (Punches),3,3:26
+"Dec 3, 2022",UFC on ESPN 42 - Thompson vs. Holland,Strawweight,Angela Hill,115.5,100,Emily Ducote,115.5,-120,Decision (Unanimous),3,5:00
+"Dec 3, 2022",UFC on ESPN 42 - Thompson vs. Holland,Lightweight,Clay Guida,154.5,130,Scott Holtzman,155.5,-150,Decision (Split),3,5:00
+"Dec 3, 2022",UFC on ESPN 42 - Thompson vs. Holland,Lightweight,Michael Johnson,156,260,Marc Diakiese,155.5,-315,Decision (Unanimous),3,5:00
+"Dec 3, 2022",UFC on ESPN 42 - Thompson vs. Holland,Featherweight,Jonathan Pearce,146,-450,Darren Elkins,145,360,Decision (Unanimous),3,5:00
+"Dec 3, 2022",UFC on ESPN 42 - Thompson vs. Holland,Lightweight,Natan Levy,156,-190,Genaro Valdez,156,160,Decision (Unanimous),3,5:00
+"Dec 3, 2022",UFC on ESPN 42 - Thompson vs. Holland,Featherweight,Francis Marshall,145,-155,Marcelo Rojo,145,135,KO (Punches),2,1:14
+"Dec 3, 2022",UFC on ESPN 42 - Thompson vs. Holland,Strawweight,Yazmin Jauregui,115.5,-305,Istela Nunes,114.5,255,TKO (Punches),2,4:06
+"Nov 19, 2022",UFC Fight Night 215 - Nzechukwu vs. Cutelaba,Light Heavyweight,Kennedy Nzechukwu,205,-175,Ion Cutelaba,206,150,TKO (Flying Knee and Punches),2,1:02
+"Nov 19, 2022",UFC Fight Night 215 - Nzechukwu vs. Cutelaba,Heavyweight,Waldo Cortes-Acosta,259,-210,Chase Sherman,256,180,Decision (Unanimous),3,5:00
+"Nov 19, 2022",UFC Fight Night 215 - Nzechukwu vs. Cutelaba,Welterweight,Muslim Salikhov,170,-110,Andre Fialho,170.5,-110,TKO (Spinning Wheel Kick and Punches),3,1:03
+"Nov 19, 2022",UFC Fight Night 215 - Nzechukwu vs. Cutelaba,Welterweight,Jack Della Maddalena,170,-490,Danny Roberts,170,330,TKO (Punches),1,3:24
+"Nov 19, 2022",UFC Fight Night 215 - Nzechukwu vs. Cutelaba,Flyweight,Charles Johnson,125.5,-155,Zhalgas Zhumagulov,126,135,Decision (Split),3,5:00
+"Nov 19, 2022",UFC Fight Night 215 - Nzechukwu vs. Cutelaba,Flyweight,Jennifer Maia,125,160,Maryna Moroz,124.5,-190,Decision (Unanimous),3,5:00
+"Nov 19, 2022",UFC Fight Night 215 - Nzechukwu vs. Cutelaba,Bantamweight,Miles Johns,136,-165,Vince Morales,136,140,Decision (Unanimous),3,5:00
+"Nov 19, 2022",UFC Fight Night 215 - Nzechukwu vs. Cutelaba,Bantamweight,Ricky Turcios,136,-155,Kevin Natividad,135.5,135,Decision (Split),3,5:00
+"Nov 19, 2022",UFC Fight Night 215 - Nzechukwu vs. Cutelaba,Strawweight,Vanessa Demopoulos,116,-105,Maria Oliveira,115.5,-115,Decision (Unanimous),3,5:00
+"Nov 19, 2022",UFC Fight Night 215 - Nzechukwu vs. Cutelaba,Bantamweight,Brady Hiestand,135,-165,Fernie Garcia,136,140,Decision (Unanimous),3,5:00
+"Nov 19, 2022",UFC Fight Night 215 - Nzechukwu vs. Cutelaba,Flyweight,Natalia Silva,125,-165,Tereza Bleda,125.5,140,TKO (Spinning Back Kick and Punches),3,1:27
+"Nov 12, 2022",UFC 281 - Adesanya vs. Pereira,Middleweight Title Fight,Alex Pereira,184.6,175,Israel Adesanya,185,-205,TKO (Punches),5,2:01
+"Nov 12, 2022",UFC 281 - Adesanya vs. Pereira,Strawweight Title Fight,Weili Zhang,114.8,-340,Carla Esparza,114.8,280,Submission (Rear-Naked Choke),2,1:05
+"Nov 12, 2022",UFC 281 - Adesanya vs. Pereira,Lightweight,Dustin Poirier,156,-210,Michael Chandler,155.8,180,Submission (Rear-Naked Choke),3,2:00
+"Nov 12, 2022",UFC 281 - Adesanya vs. Pereira,Bantamweight,Chris Gutierrez,136,-215,Frankie Edgar,135.6,185,KO (Knee),1,2:01
+"Nov 12, 2022",UFC 281 - Adesanya vs. Pereira,Lightweight,Dan Hooker,155.8,-145,Claudio Puelles,155.2,125,TKO (Front Kick to the Body),2,4:06
+"Nov 12, 2022",UFC 281 - Adesanya vs. Pereira,Lightweight,Renato Carneiro,155.8,-120,Brad Riddell,155.6,100,Submission (Rear-Naked Choke),1,3:20
+"Nov 12, 2022",UFC 281 - Adesanya vs. Pereira,207lb Catchweight,Ryan Spann,206.6: Missed Weight,175,Dominick Reyes,205.4,-205,KO (Punches),1,1:20
+"Nov 12, 2022",UFC 281 - Adesanya vs. Pereira,Flyweight,Erin Blanchfield,125,-390,Molly McCann,125.4,320,Submission (Kimura),1,3:37
+"Nov 12, 2022",UFC 281 - Adesanya vs. Pereira,Middleweight,Andre Petroski,185.8,-195,Wellington Turman,185.2,165,Decision (Unanimous),3,5:00
+"Nov 12, 2022",UFC 281 - Adesanya vs. Pereira,Lightweight,Matt Frevola,154.8,-105,Ottman Azaitar,155.6,-115,KO (Punch),1,2:30
+"Nov 12, 2022",UFC 281 - Adesanya vs. Pereira,Strawweight,Karolina Kowalkiewicz,115.6,-120,Silvana Gomez Juarez,115.6,100,Decision (Unanimous),3,5:00
+"Nov 12, 2022",UFC 281 - Adesanya vs. Pereira,148lb Catchweight,Michael Trizano,147.6: Missed Weight,140,Seung Woo Choi,145.6,-165,KO (Punches),1,4:51
+"Nov 12, 2022",UFC 281 - Adesanya vs. Pereira,Bantamweight,Montel Jackson,135.8,-200,Julio Arce,135.8,170,Decision (Unanimous),3,5:00
+"Nov 12, 2022",UFC 281 - Adesanya vs. Pereira,Light Heavyweight,Carlos Ulberg,205.2,-120,Nicolae Negumereanu,206,100,KO (Punches),1,3:44
+"Nov 5, 2022",UFC Fight Night 214 - Rodriguez vs. Lemos,Strawweight,Amanda Lemos,114.5,180,Marina Rodriguez,115.5,-210,TKO (Punches),3,0:54
+"Nov 5, 2022",UFC Fight Night 214 - Rodriguez vs. Lemos,Welterweight,Neil Magny,170.5,-115,Daniel Rodriguez,170,-105,Submission (Brabo Choke),3,3:33
+"Nov 5, 2022",UFC Fight Night 214 - Rodriguez vs. Lemos,Featherweight,Nuerdanbieke Shayilan,145.5,-205,Darrick Minner,146,175,TKO (Elbows),1,1:07
+"Nov 5, 2022",UFC Fight Night 214 - Rodriguez vs. Lemos,Flyweight,Tagir Ulanbekov,124.5,-210,Nathan Maness,125.5,180,Submission (Guillotine Choke),1,2:11
+"Nov 5, 2022",UFC Fight Night 214 - Rodriguez vs. Lemos,158lb Catchweight,Grant Dawson,157.5: Missed Weight,-215,Mark O. Madsen,155,185,Submission (Rear-Naked Choke),3,2:05
+"Nov 5, 2022",UFC Fight Night 214 - Rodriguez vs. Lemos,Flyweight,Miranda Maverick,125.5,-610,Shanna Young,126,460,Decision (Unanimous),3,5:00
+"Nov 5, 2022",UFC Fight Night 214 - Rodriguez vs. Lemos,139lb Catchweight,Mario Bautista,135.5,-295,Benito Lopez,138.5: Missed Weight,245,Submission (Reverse Triangle Armbar),1,4:54
+"Nov 5, 2022",UFC Fight Night 214 - Rodriguez vs. Lemos,Strawweight,Polyana Viana,115.5,-135,Jinh Yu Frey,115.5,115,KO (Punches),1,0:47
+"Nov 5, 2022",UFC Fight Night 214 - Rodriguez vs. Lemos,Bantamweight,Johnny Munoz Jr.,135.5,-225,Liudvik Sholinian,135.5,190,Decision (Unanimous),3,5:00
+"Nov 5, 2022",UFC Fight Night 214 - Rodriguez vs. Lemos,129lb Catchweight,Jake Hadley,126,-255,Carlos Candelario,128.5: Missed Weight,215,Submission (Triangle Choke),2,2:39
+"Nov 5, 2022",UFC Fight Night 214 - Rodriguez vs. Lemos,137lb Catchweight,Tamires Vidal,134,-140,Ramona Pascual,137: Missed Weight,120,TKO (Flying Knee to the Body),1,3:06
+"Oct 29, 2022",UFC Fight Night 213 - Kattar vs. Allen,Featherweight,Arnold Allen,145.5,NA,Calvin Kattar,146,NA,TKO (Knee Injury),2,0:08
+"Oct 29, 2022",UFC Fight Night 213 - Kattar vs. Allen,Welterweight,Max Griffin,170.5,NA,Tim Means,170.5,NA,Decision (Split),3,5:00
+"Oct 29, 2022",UFC Fight Night 213 - Kattar vs. Allen,Heavyweight,Waldo Cortes-Acosta,260.5,NA,Jared Vanderaa,259,NA,Decision (Unanimous),3,5:00
+"Oct 29, 2022",UFC Fight Night 213 - Kattar vs. Allen,Middleweight,Tresean Gore,185.5,NA,Josh Fremd,185,NA,Technical Submission (Guillotine Choke),2,0:49
+"Oct 29, 2022",UFC Fight Night 213 - Kattar vs. Allen,Light Heavyweight,Khalil Rountree,205,NA,Dustin Jacoby,204,NA,Decision (Split),3,5:00
+"Oct 29, 2022",UFC Fight Night 213 - Kattar vs. Allen,Middleweight,Roman Dolidze,186,NA,Phil Hawes,185.5,NA,KO (Punches),1,4:09
+"Oct 29, 2022",UFC Fight Night 213 - Kattar vs. Allen,Heavyweight,Marcos Rogerio de Lima,261,NA,Andrei Arlovski,241,NA,Submission (Rear-Naked Choke),1,1:50
+"Oct 29, 2022",UFC Fight Night 213 - Kattar vs. Allen,Middleweight,Jun Yong Park,185,NA,Joseph Holmes,185.5,NA,Submission (Rear-Naked Choke),2,3:04
+"Oct 29, 2022",UFC Fight Night 213 - Kattar vs. Allen,Featherweight,Steve Garcia,146,NA,Chase Hooper,145,NA,TKO (Punches),1,1:32
+"Oct 29, 2022",UFC Fight Night 213 - Kattar vs. Allen,Flyweight,Cody Durden,126,NA,Carlos Mota,125.5,NA,Decision (Unanimous),3,5:00
+"Oct 29, 2022",UFC Fight Night 213 - Kattar vs. Allen,140lb Catchweight,Christian Rodriguez,136,NA,Joshua Weems,139.5: Missed Weight,NA,Submission (Anaconda Choke),1,4:07
+"Oct 22, 2022",UFC 280 - Oliveira vs. Makhachev,Lightweight Title Fight,Islam Makhachev,154.5,-190,Charles Oliveira,154.5,160,Submission (Arm-Triangle Choke),2,3:16
+"Oct 22, 2022",UFC 280 - Oliveira vs. Makhachev,Bantamweight Title Fight,Aljamain Sterling,135,-175,T.J. Dillashaw,135,150,TKO (Punches),2,3:44
+"Oct 22, 2022",UFC 280 - Oliveira vs. Makhachev,Bantamweight,Sean O'Malley,135.5,225,Petr Yan,136,-265,Decision (Split),3,5:00
+"Oct 22, 2022",UFC 280 - Oliveira vs. Makhachev,Lightweight,Beneil Dariush,156,165,Mateusz Gamrot,156,-195,Decision (Unanimous),3,5:00
+"Oct 22, 2022",UFC 280 - Oliveira vs. Makhachev,128lb Catchweight,Manon Fiorot,125.5,-200,Katlyn Cerminara,127.5: Missed Weight,170,Decision (Unanimous),3,5:00
+"Oct 22, 2022",UFC 280 - Oliveira vs. Makhachev,Welterweight,Belal Muhammad,170,125,Sean Brady,171,-145,TKO (Punches),2,4:47
+"Oct 22, 2022",UFC 280 - Oliveira vs. Makhachev,Middleweight,Caio Borralho,186,-200,Makhmud Muradov,185.5,170,Decision (Unanimous),3,5:00
+"Oct 22, 2022",UFC 280 - Oliveira vs. Makhachev,Light Heavyweight,Nikita Krylov,206,-165,Volkan Oezdemir,206,140,Decision (Unanimous),3,5:00
+"Oct 22, 2022",UFC 280 - Oliveira vs. Makhachev,Welterweight,Abubakar Nurmagomedov,170.5,-175,Gadzhi Omargadzhiev,171,150,Decision (Unanimous),3,5:00
+"Oct 22, 2022",UFC 280 - Oliveira vs. Makhachev,Middleweight,Armen Petrosyan,186,-205,A.J. Dobson,185,175,Decision (Unanimous),3,5:00
+"Oct 22, 2022",UFC 280 - Oliveira vs. Makhachev,Flyweight,Muhammad Mokaev,126,-850,Malcolm Gordon,126,600,Submission (Armbar),3,4:26
+"Oct 22, 2022",UFC 280 - Oliveira vs. Makhachev,Bantamweight,Karol Rosa,135,-295,Lina Lansberg,135,245,Decision (Majority),3,5:00
+"Oct 15, 2022",UFC Fight Night 212 - Grasso vs. Araujo,Flyweight,Alexa Grasso,125.5,-215,Viviane Araujo,126,185,Decision (Unanimous),5,5:00
+"Oct 15, 2022",UFC Fight Night 212 - Grasso vs. Araujo,Bantamweight,Jonathan Martinez,135.5,-205,Cub Swanson,135,175,TKO (Leg Kick),2,4:19
+"Oct 15, 2022",UFC Fight Night 212 - Grasso vs. Araujo,Middleweight,Dusko Todorovic,186,-205,Jordan Wright,185,175,TKO (Punches and Elbows),2,3:12
+"Oct 15, 2022",UFC Fight Night 212 - Grasso vs. Araujo,Bantamweight,Raphael Assuncao,136,285,Victor Henry,136,-345,Decision (Unanimous),3,5:00
+"Oct 15, 2022",UFC Fight Night 212 - Grasso vs. Araujo,Light Heavyweight,Alonzo Menifield,205.5,-200,Misha Cirkunov,206,170,KO (Punches),1,1:28
+"Oct 15, 2022",UFC Fight Night 212 - Grasso vs. Araujo,Bantamweight,Leomana Martinez,136,-155,Brandon Davis,136,135,Decision (Split),3,5:00
+"Oct 15, 2022",UFC Fight Night 212 - Grasso vs. Araujo,Middleweight,Jacob Malkoun,185.5,115,Nick Maximov,185.5,-135,Decision (Unanimous),3,5:00
+"Oct 15, 2022",UFC Fight Night 212 - Grasso vs. Araujo,Featherweight,Joanderson Brito,146,-350,Lucas Alexander,145.5,255,Submission (Rear-Naked Choke),1,2:02
+"Oct 15, 2022",UFC Fight Night 212 - Grasso vs. Araujo,Strawweight,Piera Rodriguez,115.5,-170,Sam Hughes,115,145,Decision (Unanimous),3,5:00
+"Oct 15, 2022",UFC Fight Night 212 - Grasso vs. Araujo,129lb Catchweight,Tatsuro Taira,126,-240,C.J. Vergara,129: Missed Weight,200,Submission (Armbar),2,4:19
+"Oct 15, 2022",UFC Fight Night 212 - Grasso vs. Araujo,Welterweight,Pete Rodriguez,170.5,-730,Mike Jackson,170,530,KO (Punches and Knee),1,1:33
+"Oct 1, 2022",UFC Fight Night 211 - Dern vs. Yan,Strawweight,Xiaonan Yan,115.5,NA,Mackenzie Dern,115.5,NA,Decision (Majority),5,5:00
+"Oct 1, 2022",UFC Fight Night 211 - Dern vs. Yan,Welterweight,Randy Brown,170.5,NA,Francisco Trinaldo,170,NA,Decision (Unanimous),3,5:00
+"Oct 1, 2022",UFC Fight Night 211 - Dern vs. Yan,Bantamweight,Raoni Barcelos,135.5,NA,Trevin Jones,135,NA,Decision (Unanimous),3,5:00
+"Oct 1, 2022",UFC Fight Night 211 - Dern vs. Yan,Featherweight,Sodiq Yusuff,145.5,NA,Don Shainis,146,NA,Submission (Guillotine Choke),1,0:30
+"Oct 1, 2022",UFC Fight Night 211 - Dern vs. Yan,Lightweight,Mike Davis,155,NA,Viacheslav Borshchev,155.5,NA,Decision (Unanimous),3,5:00
+"Oct 1, 2022",UFC Fight Night 211 - Dern vs. Yan,140lb Catchweight,Daniel Santos,138.5,NA,John Castaneda,139.5,NA,KO (Punches and Knee),2,4:28
+"Oct 1, 2022",UFC Fight Night 211 - Dern vs. Yan,Heavyweight,Ilir Latifi,253,NA,Alexey Oleynik,254,NA,Decision (Unanimous),3,5:00
+"Oct 1, 2022",UFC Fight Night 211 - Dern vs. Yan,Lightweight,Joaquim Silva,155,NA,Jesse Ronson,155.5,NA,TKO (Knee and Punches),2,3:08
+"Oct 1, 2022",UFC Fight Night 211 - Dern vs. Yan,Middleweight,Brendan Allen,186,NA,Krzysztof Jotko,185.5,NA,Submission (Rear-Naked Choke),1,4:17
+"Oct 1, 2022",UFC Fight Night 211 - Dern vs. Yan,140lb Catchweight,Chelsea Chandler,140,NA,Julija Stoliarenko,139.5,NA,TKO (Punches),1,4:15
+"Oct 1, 2022",UFC Fight Night 211 - Dern vs. Yan,Bantamweight,Guido Cannetti,135.5,NA,Randy Costa,135,NA,Submission (Rear-Naked Choke),1,1:04
+"Sep 17, 2022",UFC Fight Night 210 - Sandhagen vs. Song,Bantamweight,Cory Sandhagen,135.5,-195,Yadong Song,135.5,165,TKO (Doctor Stoppage),4,5:00
+"Sep 17, 2022",UFC Fight Night 210 - Sandhagen vs. Song,Middleweight,Gregory Rodrigues,185.5,105,Chidi Njokuani,185.5,-125,TKO (Punches),2,1:27
+"Sep 17, 2022",UFC Fight Night 210 - Sandhagen vs. Song,Featherweight,Andre Fili,145.5,-130,Bill Algeo,146,110,Decision (Split),3,5:00
+"Sep 17, 2022",UFC Fight Night 210 - Sandhagen vs. Song,Middleweight,Joe Pyfer,185,-425,Alen Amedovski,185.5,340,TKO (Punches),1,3:55
+"Sep 17, 2022",UFC Fight Night 210 - Sandhagen vs. Song,Heavyweight,Rodrigo Nascimento,261,140,Tanner Boser,229,-165,Decision (Split),3,5:00
+"Sep 17, 2022",UFC Fight Night 210 - Sandhagen vs. Song,Middleweight,Anthony Hernandez,185.5,-175,Marc-Andre Barriault,185,150,Technical Submission (Arm-Triangle Choke),3,1:53
+"Sep 17, 2022",UFC Fight Night 210 - Sandhagen vs. Song,Featherweight,Damon Jackson,145.5,155,Pat Sabatini,145.5,-180,TKO (Submission to Punches),1,1:09
+"Sep 17, 2022",UFC Fight Night 210 - Sandhagen vs. Song,Welterweight,Trevin Giles,170,-205,Louis Cosce,170.5,175,Decision (Unanimous),3,5:00
+"Sep 17, 2022",UFC Fight Night 210 - Sandhagen vs. Song,Strawweight,Konklak Suphisara,115.5,-225,Denise Gomes,115,190,Decision (Unanimous),3,5:00
+"Sep 17, 2022",UFC Fight Night 210 - Sandhagen vs. Song,Lightweight,Trey Ogden,156,240,Daniel Zellhuber,155,-285,Decision (Unanimous),3,5:00
+"Sep 17, 2022",UFC Fight Night 210 - Sandhagen vs. Song,Flyweight,Gillian Robertson,125,-145,Mariya Agapova,125.5,125,Technical Submission (Rear-Naked Choke),2,2:19
+"Sep 17, 2022",UFC Fight Night 210 - Sandhagen vs. Song,Bantamweight,Javid Basharat,135.5,-165,Tony Gravely,135.5,140,Decision (Unanimous),3,5:00
+"Sep 17, 2022",UFC Fight Night 210 - Sandhagen vs. Song,Lightweight,Nikolas Motta,155,-205,Cameron VanCamp,155.5,175,TKO (Punches),1,3:49
+"Sep 10, 2022",UFC 279 - Diaz vs. Ferguson,Welterweight,Nate Diaz,171,NA,Tony Ferguson,171,NA,Submission (Guillotine Choke),4,2:52
+"Sep 10, 2022",UFC 279 - Diaz vs. Ferguson,180lb Catchweight,Khamzat Chimaev,178.5,NA,Kevin Holland,179.5,NA,Submission (Brabo Choke),1,2:13
+"Sep 10, 2022",UFC 279 - Diaz vs. Ferguson,180lb Catchweight,Daniel Rodriguez,179,NA,Jingliang Li,170.5,NA,Decision (Split),3,5:00
+"Sep 10, 2022",UFC 279 - Diaz vs. Ferguson,140lb Catchweight,Irene Aldana,137.5,NA,Macy Chiasson,139.5: Missed Weight,NA,KO (Upkick to the Body),3,2:21
+"Sep 10, 2022",UFC 279 - Diaz vs. Ferguson,Light Heavyweight,Johnny Walker,205,NA,Ion Cutelaba,205.5,NA,Submission (Rear-Naked Choke),1,4:37
+"Sep 10, 2022",UFC 279 - Diaz vs. Ferguson,150lb Catchweight,Julian Erosa,146,NA,Hakeem Dawodu,149.5: Missed Weight,NA,Decision (Unanimous),3,5:00
+"Sep 10, 2022",UFC 279 - Diaz vs. Ferguson,220lb Catchweight,Jailton Almeida,216.5,NA,Anton Turkalj,214,NA,Submission (Rear-Naked Choke),1,4:27
+"Sep 10, 2022",UFC 279 - Diaz vs. Ferguson,Middleweight,Denis Tiuliulin,186,NA,Jamie Pickett,185.5,NA,TKO (Knees and Punches),2,4:52
+"Sep 10, 2022",UFC 279 - Diaz vs. Ferguson,Heavyweight,Chris Barnett,267.5: Missed Weight,NA,Jake Collier,265,NA,TKO (Punches),2,2:24
+"Sep 10, 2022",UFC 279 - Diaz vs. Ferguson,Featherweight,Norma Dumont,146,NA,Danyelle Wolf,146,NA,Decision (Unanimous),3,5:00
+"Sep 10, 2022",UFC 279 - Diaz vs. Ferguson,Bantamweight,Heili Alateng,135,NA,Chad Anheliger,135.5,NA,Decision (Unanimous),3,5:00
+"Sep 10, 2022",UFC 279 - Diaz vs. Ferguson,Strawweight,Elise Reed,115.5,NA,Melissa Martinez,113.5,NA,Decision (Unanimous),3,5:00
+"Sep 10, 2022",UFC 279 - Diaz vs. Ferguson,Welterweight,Yohan Lainesse,171,NA,Darian Weeks,170.5,NA,Decision (Split),3,5:00
+"Sep 3, 2022",UFC Fight Night 209 - Gane vs. Tuivasa,Heavyweight,Ciryl Gane,247,-540,Tai Tuivasa,266,420,KO (Punches),3,4:23
+"Sep 3, 2022",UFC Fight Night 209 - Gane vs. Tuivasa,Middleweight,Robert Whittaker,186,-230,Marvin Vettori,186,195,Decision (Unanimous),3,5:00
+"Sep 3, 2022",UFC Fight Night 209 - Gane vs. Tuivasa,Middleweight,Nassourdine Imavov,186,-255,Joaquin Buckley,186,215,Decision (Unanimous),3,5:00
+"Sep 3, 2022",UFC Fight Night 209 - Gane vs. Tuivasa,Middleweight,Roman Kopylov,186,-105,Alessio Di Chirico,186,-115,KO (Punches),3,1:09
+"Sep 3, 2022",UFC Fight Night 209 - Gane vs. Tuivasa,Featherweight,William Gomis,146,-220,Jarno Errens,146,195,Decision (Majority),3,5:00
+"Sep 3, 2022",UFC Fight Night 209 - Gane vs. Tuivasa,Featherweight,Nathaniel Wood,146,115,Charles Jourdain,145.5,-135,Decision (Unanimous),3,5:00
+"Sep 3, 2022",UFC Fight Night 209 - Gane vs. Tuivasa,Middleweight,Abusupiyan Magomedov,186,-265,Dustin Stoltzfus,186,225,TKO (Front Kick and Punches),1,0:19
+"Sep 3, 2022",UFC Fight Night 209 - Gane vs. Tuivasa,Lightweight,Nasrat Haqparast,155,-230,John Makdessi,154.5,195,Decision (Unanimous),3,5:00
+"Sep 3, 2022",UFC Fight Night 209 - Gane vs. Tuivasa,Lightweight,Fares Ziam,156,165,Michal Figlak,156,-195,Decision (Unanimous),3,5:00
+"Sep 3, 2022",UFC Fight Night 209 - Gane vs. Tuivasa,Lightweight,Benoit St. Denis,156,-265,Gabriel Miranda,155.5,225,TKO (Punches),2,0:16
+"Sep 3, 2022",UFC Fight Night 209 - Gane vs. Tuivasa,Bantamweight,Cristian Quinonez,136,105,Khalid Taha,135,-125,TKO (Punches),1,3:15
+"Sep 3, 2022",UFC Fight Night 209 - Gane vs. Tuivasa,Featherweight,Stephanie Egger,145,-285,Ailin Perez,144.5,240,Submission (Rear-Naked Choke),2,4:54
+"Aug 20, 2022",UFC 278 - Usman vs. Edwards 2,Welterweight Title Fight,Leon Edwards,170,280,Kamaru Usman,170,-340,KO (Head Kick),5,4:04
+"Aug 20, 2022",UFC 278 - Usman vs. Edwards 2,Middleweight,Paulo Costa,185.5,-295,Luke Rockhold,185.5,245,Decision (Unanimous),3,5:00
+"Aug 20, 2022",UFC 278 - Usman vs. Edwards 2,Bantamweight,Merab Dvalishvili,136,-125,Jose Aldo,136,105,Decision (Unanimous),3,5:00
+"Aug 20, 2022",UFC 278 - Usman vs. Edwards 2,Bantamweight,Lucie Pudilova,135.5,-155,Yanan Wu,136,135,TKO (Elbows),2,4:04
+"Aug 20, 2022",UFC 278 - Usman vs. Edwards 2,Light Heavyweight,Tyson Pedro,205.5,-740,Harry Hunsucker,204.5,540,TKO (Body Kick and Punches),1,1:05
+"Aug 20, 2022",UFC 278 - Usman vs. Edwards 2,Heavyweight,Marcin Tybura,252.5,275,Alexander Romanov,239.5,-325,Decision (Majority),3,5:00
+"Aug 20, 2022",UFC 278 - Usman vs. Edwards 2,Lightweight,Jared Gordon,155.5,-305,Leonardo Santos,156,255,Decision (Unanimous),3,5:00
+"Aug 20, 2022",UFC 278 - Usman vs. Edwards 2,Featherweight,Sean Woodson,146,-305,Luis Saldana,145.5,255,Draw (Split),3,5:00
+"Aug 20, 2022",UFC 278 - Usman vs. Edwards 2,Welterweight,Ange Loosa,170.5,130,A.J. Fletcher,170.5,-150,Decision (Unanimous),3,5:00
+"Aug 20, 2022",UFC 278 - Usman vs. Edwards 2,Flyweight,Amir Albazi,126,-390,Francisco Figueiredo,125.5,320,Submission (Rear-Naked Choke),1,4:34
+"Aug 20, 2022",UFC 278 - Usman vs. Edwards 2,Bantamweight,Qileng Aori,136,-175,Jay Perrin,136,130,Decision (Unanimous),3,5:00
+"Aug 20, 2022",UFC 278 - Usman vs. Edwards 2,Flyweight,Victor Altamirano,125,-200,Daniel Lacerda,126,170,TKO (Punches),1,3:39
+"Aug 13, 2022",UFC on ESPN 41 - Vera vs. Cruz,Bantamweight,Marlon Vera,135.5,-210,Dominick Cruz,135,180,KO (Head Kick),4,2:17
+"Aug 13, 2022",UFC on ESPN 41 - Vera vs. Cruz,Featherweight,Nate Landwehr,145.5,180,David Onama,145,-210,Decision (Majority),3,5:00
+"Aug 13, 2022",UFC on ESPN 41 - Vera vs. Cruz,Strawweight,Yazmin Jauregui,114.5,-210,Iasmin Lucindo,116,180,Decision (Unanimous),3,5:00
+"Aug 13, 2022",UFC on ESPN 41 - Vera vs. Cruz,Light Heavyweight,Azamat Murzakanov,204,-165,Devin Clark,205,140,TKO (Punches),3,1:18
+"Aug 13, 2022",UFC on ESPN 41 - Vera vs. Cruz,Bantamweight,Priscila Cachoeira,135,165,Ariane Lipski da Silva,135.5,-195,TKO (Punches),1,1:05
+"Aug 13, 2022",UFC on ESPN 41 - Vera vs. Cruz,Middleweight,Gerald Meerschaert,185,235,Bruno Silva,186,-280,Submission (Guillotine Choke),3,1:39
+"Aug 13, 2022",UFC on ESPN 41 - Vera vs. Cruz,120lb Catchweight,Angela Hill,119.5,280,Lupita Godinez,119,-340,Decision (Unanimous),3,5:00
+"Aug 13, 2022",UFC on ESPN 41 - Vera vs. Cruz,Heavyweight,Martin Buday,266,-250,Lukasz Brzeski,236.5,210,Decision (Split),3,5:00
+"Aug 13, 2022",UFC on ESPN 41 - Vera vs. Cruz,Flyweight,Nina Nunes,125.5,135,Cynthia Calvillo,125.5,-155,Decision (Split),3,5:00
+"Aug 13, 2022",UFC on ESPN 41 - Vera vs. Cruz,Lightweight,Gabriel Benitez,155,-350,Charlie Ontiveros,155,290,TKO (Punches),1,3:35
+"Aug 13, 2022",UFC on ESPN 41 - Vera vs. Cruz,Flyweight,Tyson Nam,126,195,Ode Osbourne,125,-230,KO (Punches),1,2:59
+"Aug 13, 2022",UFC on ESPN 41 - Vera vs. Cruz,180lb Catchweight,Josh Quinlan,175,-230,Jason Witt,179.5,195,KO (Punch),1,2:09
+"Aug 13, 2022",UFC on ESPN 41 - Vera vs. Cruz,Bantamweight,Da'Mon Blackshear,134,100,Youssef Zalal,135.5,-120,Draw (Majority),3,5:00
+"Aug 6, 2022",UFC on ESPN 40 - Santos vs. Hill,Light Heavyweight,Jamahal Hill,205,-260,Thiago Santos,206,220,TKO (Punches and Elbows),4,2:31
+"Aug 6, 2022",UFC on ESPN 40 - Santos vs. Hill,Welterweight,Geoff Neal,171,150,Vicente Luque,170.5,-175,KO (Punches),3,2:01
+"Aug 6, 2022",UFC on ESPN 40 - Santos vs. Hill,Heavyweight,Mohammed Usman,236.5,195,Zac Pauga,239,-230,KO (Punch),2,0:36
+"Aug 6, 2022",UFC on ESPN 40 - Santos vs. Hill,Flyweight,Juliana Miller,125,-125,Brogan Walker,125.5,105,TKO (Punches and Elbows),3,3:57
+"Aug 6, 2022",UFC on ESPN 40 - Santos vs. Hill,Heavyweight,Serghei Spivac,249.5,-225,Augusto Sakai,260,190,TKO (Punches),2,3:42
+"Aug 6, 2022",UFC on ESPN 40 - Santos vs. Hill,Lightweight,Terrance McKinney,155.5,-850,Erick Gonzalez,155,600,Submission (Rear-Naked Choke),1,2:17
+"Aug 6, 2022",UFC on ESPN 40 - Santos vs. Hill,Middleweight,Michal Oleksiejczuk,185.5,-560,Sam Alvey,186,430,TKO (Punches),1,1:56
+"Aug 6, 2022",UFC on ESPN 40 - Santos vs. Hill,Welterweight,Bryan Battle,171,-215,Takashi Sato,170.5,185,KO (Head Kick),1,0:44
+"Aug 6, 2022",UFC on ESPN 40 - Santos vs. Hill,Strawweight,Cory McKenna,115.5,-225,Miranda Granger,115.5,185,Submission (Shoulder Choke),2,1:03
+"Aug 6, 2022",UFC on ESPN 40 - Santos vs. Hill,Bantamweight,Mayra Bueno Silva,135.5,-110,Stephanie Egger,134.5,-110,Submission (Armbar),1,1:17
+"Jul 30, 2022",UFC 277 - Pena vs. Nunes 2,Bantamweight Title Fight,Amanda Nunes,135,-275,Julianna Pena,134.5,230,Decision (Unanimous),5,5:00
+"Jul 30, 2022",UFC 277 - Pena vs. Nunes 2,Flyweight Title Fight,Brandon Moreno,124.5,-210,Kai Kara-France,124.5,180,TKO (Body Kick and Punches),3,4:34
+"Jul 30, 2022",UFC 277 - Pena vs. Nunes 2,Heavyweight,Sergei Pavlovich,254.5,-125,Derrick Lewis,264.5,105,TKO (Punches),1,0:55
+"Jul 30, 2022",UFC 277 - Pena vs. Nunes 2,Flyweight,Alexandre Pantoja,125.5,-180,Alex Perez,125.5,155,Submission (Neck Crank),1,1:31
+"Jul 30, 2022",UFC 277 - Pena vs. Nunes 2,Light Heavyweight,Magomed Ankalaev,206,-500,Anthony Smith,206,400,TKO (Punches),2,3:09
+"Jul 30, 2022",UFC 277 - Pena vs. Nunes 2,Welterweight,Alex Morono,171,140,Matthew Semelsberger,171,-165,Decision (Unanimous),3,5:00
+"Jul 30, 2022",UFC 277 - Pena vs. Nunes 2,Lightweight,Drew Dober,155.5,-205,Rafael Alves,155.5,175,KO (Punch to the Body),3,1:30
+"Jul 30, 2022",UFC 277 - Pena vs. Nunes 2,Heavyweight,Hamdy Abdelwahab,264.5,155,Don'Tale Mayes,255,-180,No Contest (Overturned),3,5:00
+"Jul 30, 2022",UFC 277 - Pena vs. Nunes 2,Lightweight,Drakkar Klose,155.5,-230,Rafa Garcia,155,195,Decision (Unanimous),3,5:00
+"Jul 30, 2022",UFC 277 - Pena vs. Nunes 2,Welterweight,Michael Morales,170.5,-600,Adam Fugitt,171,450,TKO (Punches),3,1:09
+"Jul 30, 2022",UFC 277 - Pena vs. Nunes 2,138lb Catchweight,Joselyne Edwards,137.5: Missed Weight,-125,Ji Yeon Kim,135,105,Decision (Split),3,5:00
+"Jul 30, 2022",UFC 277 - Pena vs. Nunes 2,Light Heavyweight,Nicolae Negumereanu,205,110,Ihor Potieria,204,-130,TKO (Punches and Knees),2,3:33
+"Jul 30, 2022",UFC 277 - Pena vs. Nunes 2,173lb Catchweight,Orion Cosce,172.5: Missed Weight,-175,Mike Mathetha,169.5,150,Decision (Unanimous),3,5:00
+"Jul 23, 2022",UFC Fight Night 208 - Blaydes vs. Aspinall,Heavyweight,Curtis Blaydes,260,110,Tom Aspinall,251,-130,TKO (Knee Injury),1,0:15
+"Jul 23, 2022",UFC Fight Night 208 - Blaydes vs. Aspinall,Middleweight,Jack Hermansson,186,-115,Chris Curtis,186,-105,Decision (Unanimous),3,5:00
+"Jul 23, 2022",UFC Fight Night 208 - Blaydes vs. Aspinall,Lightweight,Paddy Pimblett,156,-245,Jordan Leavitt,155,205,Submission (Rear-Naked Choke),2,2:46
+"Jul 23, 2022",UFC Fight Night 208 - Blaydes vs. Aspinall,Light Heavyweight,Nikita Krylov,204,-200,Alexander Gustafsson,205,170,KO (Punches),1,1:07
+"Jul 23, 2022",UFC Fight Night 208 - Blaydes vs. Aspinall,Flyweight,Molly McCann,125.5,-390,Hannah Goldy,125,320,TKO (Spinning Back Elbow and Punches),1,3:52
+"Jul 23, 2022",UFC Fight Night 208 - Blaydes vs. Aspinall,Light Heavyweight,Volkan Oezdemir,205.5,-155,Paul Craig,206,135,Decision (Unanimous),3,5:00
+"Jul 23, 2022",UFC Fight Night 208 - Blaydes vs. Aspinall,Lightweight,Ludovit Klein,155,265,Mason Jones,155.5,-320,Decision (Unanimous),3,5:00
+"Jul 23, 2022",UFC Fight Night 208 - Blaydes vs. Aspinall,Lightweight,Marc Diakiese,156,-330,Damir Hadzovic,156,275,Decision (Unanimous),3,5:00
+"Jul 23, 2022",UFC Fight Night 208 - Blaydes vs. Aspinall,Featherweight,Nathaniel Wood,145.5,-520,Charles Rosa,145,410,Decision (Unanimous),3,5:00
+"Jul 23, 2022",UFC Fight Night 208 - Blaydes vs. Aspinall,Featherweight,Jonathan Pearce,145,-200,Makwan Amirkhani,145.5,170,TKO (Punches),2,4:10
+"Jul 23, 2022",UFC Fight Night 208 - Blaydes vs. Aspinall,Flyweight,Muhammad Mokaev,126,-460,Charles Johnson,125.5,370,Decision (Unanimous),3,5:00
+"Jul 23, 2022",UFC Fight Night 208 - Blaydes vs. Aspinall,Lightweight,Jai Herbert,155,-265,Kyle Nelson,155,225,Decision (Unanimous),3,5:00
+"Jul 23, 2022",UFC Fight Night 208 - Blaydes vs. Aspinall,Flyweight,Victoria Leonardo,125.5,110,Mandy Bohm,125,-130,Decision (Unanimous),3,5:00
+"Jul 23, 2022",UFC Fight Night 208 - Blaydes vs. Aspinall,Welterweight,Nicolas Dalby,170,-250,Claudio Silva,170.5,210,Decision (Unanimous),3,5:00
+"Jul 16, 2022",UFC on ABC 3 - Ortega vs. Rodriguez,Featherweight,Yair Rodriguez,145.4,140,Brian Ortega,146,-165,TKO (Shoulder Injury),1,4:11
+"Jul 16, 2022",UFC on ABC 3 - Ortega vs. Rodriguez,Strawweight,Amanda Lemos,116,-315,Michelle Waterson-Gomez,115,260,Submission (Guillotine Choke),2,1:48
+"Jul 16, 2022",UFC on ABC 3 - Ortega vs. Rodriguez,Welterweight,Jingliang Li,170.6,-175,Muslim Salikhov,170.8,150,TKO (Punches and Elbows),2,4:38
+"Jul 16, 2022",UFC on ABC 3 - Ortega vs. Rodriguez,Flyweight,Matt Schnell,126,220,Su Mudaerji,125.8,-260,Technical Submission (Triangle Choke),2,4:24
+"Jul 16, 2022",UFC on ABC 3 - Ortega vs. Rodriguez,Featherweight,Shane Burgos,145.8,-170,Charles Jourdain,145.6,145,Decision (Majority),3,5:00
+"Jul 16, 2022",UFC on ABC 3 - Ortega vs. Rodriguez,Flyweight,Lauren Murphy,125.2,175,Miesha Tate,125.6,-205,Decision (Unanimous),3,5:00
+"Jul 16, 2022",UFC on ABC 3 - Ortega vs. Rodriguez,Middleweight,Punahele Soriano,185.6,-245,Dalcha Lungiambula,185.6,205,KO (Punches),2,0:28
+"Jul 16, 2022",UFC on ABC 3 - Ortega vs. Rodriguez,Bantamweight,Ricky Simon,135.6,140,Jack Shore,136,-165,Submission (Arm-Triangle Choke),2,3:28
+"Jul 16, 2022",UFC on ABC 3 - Ortega vs. Rodriguez,Featherweight,Bill Algeo,146,-200,Herbert Burns,145.4,170,TKO (Retirement),2,1:50
+"Jul 16, 2022",UFC on ABC 3 - Ortega vs. Rodriguez,Light Heavyweight,Dustin Jacoby,205,-130,Da Woon Jung,205.6,110,KO (Punch),1,3:13
+"Jul 16, 2022",UFC on ABC 3 - Ortega vs. Rodriguez,Middleweight,Dustin Stoltzfus,185.6,120,Dwight Grant,184.4,-140,Decision (Unanimous),3,5:00
+"Jul 16, 2022",UFC on ABC 3 - Ortega vs. Rodriguez,Strawweight,Emily Ducote,115.6,-150,Jessica Penne,115.8,130,Decision (Unanimous),3,5:00
+"Jul 9, 2022",UFC on ESPN 39 - Dos Anjos vs. Fiziev,Lightweight,Rafael Fiziev,155,-200,Rafael dos Anjos,156,170,KO (Punches),5,0:18
+"Jul 9, 2022",UFC on ESPN 39 - Dos Anjos vs. Fiziev,Middleweight,Caio Borralho,185.5,-215,Armen Petrosyan,185.5,185,Decision (Unanimous),3,5:00
+"Jul 9, 2022",UFC on ESPN 39 - Dos Anjos vs. Fiziev,Bantamweight,Said Nurmagomedov,135.5,-255,Douglas Silva de Andrade,135.5,215,Decision (Unanimous),3,5:00
+"Jul 9, 2022",UFC on ESPN 39 - Dos Anjos vs. Fiziev,Heavyweight,Chase Sherman,253,155,Jared Vanderaa,263.5,-180,TKO (Punches),3,3:10
+"Jul 9, 2022",UFC on ESPN 39 - Dos Anjos vs. Fiziev,Bantamweight,Aiemann Zahabi,135.5,160,Ricky Turcios,135.5,-190,Decision (Unanimous),3,5:00
+"Jul 9, 2022",UFC on ESPN 39 - Dos Anjos vs. Fiziev,Lightweight,Jamie Mullarkey,155.5,-240,Michael Johnson,155.5,200,Decision (Split),3,5:00
+"Jul 9, 2022",UFC on ESPN 39 - Dos Anjos vs. Fiziev,Middleweight,Cody Brundage,185.5,105,Tresean Gore,185.5,-125,KO (Punches),1,3:50
+"Jul 9, 2022",UFC on ESPN 39 - Dos Anjos vs. Fiziev,Flyweight,Antonina Shevchenko,124.5,-180,Cortney Casey,126,155,Decision (Split),3,5:00
+"Jul 9, 2022",UFC on ESPN 39 - Dos Anjos vs. Fiziev,Featherweight,David Onama,145.5,-800,Garrett Armfield,145,550,Technical Submission (Arm-Triangle Choke),2,3:13
+"Jul 9, 2022",UFC on ESPN 39 - Dos Anjos vs. Fiziev,Light Heavyweight,Kennedy Nzechukwu,205,-125,Karl Roberson,202.5,105,TKO (Elbows),3,2:19
+"Jul 9, 2022",UFC on ESPN 39 - Dos Anjos vs. Fiziev,Bantamweight,Saidyokub Kakhramonov,136,115,Ronnie Lawrence,135.5,-135,Decision (Unanimous),3,5:00
+"Jul 2, 2022",UFC 276 - Adesanya vs. Cannonier,Middleweight Title Fight,Israel Adesanya,183.5,-435,Jared Cannonier,184.5,350,Decision (Unanimous),5,5:00
+"Jul 2, 2022",UFC 276 - Adesanya vs. Cannonier,Featherweight Title Fight,Alexander Volkanovski,144.5,-195,Max Holloway,144.5,165,Decision (Unanimous),5,5:00
+"Jul 2, 2022",UFC 276 - Adesanya vs. Cannonier,Middleweight,Alex Pereira,184.5,-110,Sean Strickland,185.5,-110,KO (Punches),1,2:36
+"Jul 2, 2022",UFC 276 - Adesanya vs. Cannonier,Welterweight,Bryan Barberena,170.5,100,Robbie Lawler,171,-120,TKO (Punches),2,4:47
+"Jul 2, 2022",UFC 276 - Adesanya vs. Cannonier,Bantamweight,Pedro Munhoz,135.5,250,Sean O'Malley,135,-300,No Contest (Accidental Eye Poke),2,3:09
+"Jul 2, 2022",UFC 276 - Adesanya vs. Cannonier,Lightweight,Jalin Turner,155.5,-135,Brad Riddell,155.5,115,Submission (Guillotine Choke),1,0:45
+"Jul 2, 2022",UFC 276 - Adesanya vs. Cannonier,Welterweight,Jim Miller,170.5,-200,Donald Cerrone,170.5,170,Submission (Guillotine Choke),2,1:32
+"Jul 2, 2022",UFC 276 - Adesanya vs. Cannonier,Welterweight,Ian Garry,171,-165,Gabriel Green,170,140,Decision (Unanimous),3,5:00
+"Jul 2, 2022",UFC 276 - Adesanya vs. Cannonier,Middleweight,Dricus Du Plessis,185,-125,Brad Tavares,185.5,105,Decision (Unanimous),3,5:00
+"Jul 2, 2022",UFC 276 - Adesanya vs. Cannonier,Middleweight,Andre Muniz,185.5,235,Uriah Hall,186,-280,Decision (Unanimous),3,5:00
+"Jul 2, 2022",UFC 276 - Adesanya vs. Cannonier,Flyweight,Maycee Barber,126,-240,Jessica Eye,126,200,Decision (Unanimous),3,5:00
+"Jul 2, 2022",UFC 276 - Adesanya vs. Cannonier,Bantamweight,Julija Stoliarenko,136,135,Jessica-Rose Clark,135.5,-155,Submission (Armbar),1,0:42
+"Jun 25, 2022",UFC on ESPN 38 - Tsarukyan vs. Gamrot,Lightweight,Mateusz Gamrot,156,245,Arman Tsarukyan,156,-295,Decision (Unanimous),5,5:00
+"Jun 25, 2022",UFC on ESPN 38 - Tsarukyan vs. Gamrot,Welterweight,Shavkat Rakhmonov,170.5,-390,Neil Magny,171,320,Submission (Guillotine Choke),2,4:58
+"Jun 25, 2022",UFC on ESPN 38 - Tsarukyan vs. Gamrot,Heavyweight,Josh Parisian,265.5,-105,Alan Baudot,253,-115,TKO (Punches),2,3:04
+"Jun 25, 2022",UFC on ESPN 38 - Tsarukyan vs. Gamrot,Lightweight,Thiago Moises,155.5,-255,Christos Giagos,156,215,Submission (Rear-Naked Choke),1,3:05
+"Jun 25, 2022",UFC on ESPN 38 - Tsarukyan vs. Gamrot,Bantamweight,Umar Nurmagomedov,136,-900,Nathan Maness,135,625,Decision (Unanimous),3,5:00
+"Jun 25, 2022",UFC on ESPN 38 - Tsarukyan vs. Gamrot,Middleweight,Chris Curtis,185.5,-135,Rodolfo Vieira,185,115,Decision (Unanimous),3,5:00
+"Jun 25, 2022",UFC on ESPN 38 - Tsarukyan vs. Gamrot,Light Heavyweight,Carlos Ulberg,204.5,-115,Tafon Nchukwi,206,-105,TKO (Punches),1,1:15
+"Jun 25, 2022",UFC on ESPN 38 - Tsarukyan vs. Gamrot,Featherweight,Nuerdanbieke Shayilan,146,180,T.J. Brown,145.5,-210,Decision (Unanimous),3,5:00
+"Jun 25, 2022",UFC on ESPN 38 - Tsarukyan vs. Gamrot,Bantamweight,Sergey Morozov,136,-140,Raulian Paiva,136,120,Decision (Unanimous),3,5:00
+"Jun 25, 2022",UFC on ESPN 38 - Tsarukyan vs. Gamrot,Flyweight,Cody Durden,126,100,J.P. Buys,126,-120,TKO (Punches),1,1:08
+"Jun 25, 2022",UFC on ESPN 38 - Tsarukyan vs. Gamrot,Bantamweight,Mario Bautista,135.5,-165,Brian Kelleher,135.5,140,Submission (Rear-Naked Choke),1,2:27
+"Jun 25, 2022",UFC on ESPN 38 - Tsarukyan vs. Gamrot,Strawweight,Vanessa Demopoulos,115.5,220,Jinh Yu Frey,115.5,-260,Decision (Split),3,5:00
+"Jun 18, 2022",UFC on ESPN 37 - Kattar vs. Emmett,Featherweight,Josh Emmett,145.5,190,Calvin Kattar,146,-235,Decision (Split),5,5:00
+"Jun 18, 2022",UFC on ESPN 37 - Kattar vs. Emmett,Welterweight,Kevin Holland,170,-275,Tim Means,170.5,220,Submission (Brabo Choke),2,1:28
+"Jun 18, 2022",UFC on ESPN 37 - Kattar vs. Emmett,Middleweight,Joaquin Buckley,184,180,Albert Duraev,185.5,-220,TKO (Doctor Stoppage),2,5:00
+"Jun 18, 2022",UFC on ESPN 37 - Kattar vs. Emmett,Lightweight,Damir Ismagulov,155,-155,Guram Kutateladze,155.5,135,Decision (Split),3,5:00
+"Jun 18, 2022",UFC on ESPN 37 - Kattar vs. Emmett,Middleweight,Gregory Rodrigues,185.5,-170,Julian Marquez,185.5,150,KO (Punches),1,3:18
+"Jun 18, 2022",UFC on ESPN 37 - Kattar vs. Emmett,138lb Catchweight,Adrian Yanez,135.5,-320,Tony Kelley,137.5: Missed Weight,250,TKO (Punches),1,3:49
+"Jun 18, 2022",UFC on ESPN 37 - Kattar vs. Emmett,Flyweight,Natalia Silva,125.5,195,Jasmine Jasudavicius,124.75,-240,Decision (Unanimous),3,5:00
+"Jun 18, 2022",UFC on ESPN 37 - Kattar vs. Emmett,Welterweight,Jeremiah Wells,171,100,Court McGee,170,-120,KO (Punch),1,1:34
+"Jun 18, 2022",UFC on ESPN 37 - Kattar vs. Emmett,Featherweight,Ricardo Ramos,146,-300,Danny Chavez,145,235,KO (Spinning Back Elbow),1,1:12
+"Jun 18, 2022",UFC on ESPN 37 - Kattar vs. Emmett,Strawweight,Maria Oliveira,115,215,Gloria de Paula,115,-265,Decision (Split),3,5:00
+"Jun 18, 2022",UFC on ESPN 37 - Kattar vs. Emmett,Bantamweight,Cody Stamann,135.5,-550,Eddie Wineland,135,400,TKO (Punches),1,0:59
+"Jun 18, 2022",UFC on ESPN 37 - Kattar vs. Emmett,Middleweight,Phil Hawes,185,-260,Deron Winn,186,210,TKO (Elbows),2,4:25
+"Jun 18, 2022",UFC on ESPN 37 - Kattar vs. Emmett,Middleweight,Roman Dolidze,185.5,195,Kyle Daukaus,185.5,-240,KO (Knee and Punches),1,1:13
+"Jun 12, 2022",UFC 275 - Teixeira vs. Prochazka,Light Heavyweight Title Fight,Jiri Prochazka,205,-200,Glover Teixeira,205,170,Submission (Rear-Naked Choke),5,4:32
+"Jun 12, 2022",UFC 275 - Teixeira vs. Prochazka,Flyweight Title Fight,Valentina Shevchenko,124.5,-630,Taila Santos,125,450,Decision (Split),5,5:00
+"Jun 12, 2022",UFC 275 - Teixeira vs. Prochazka,Strawweight,Weili Zhang,116,-160,Joanna Jedrzejczyk,116,140,KO (Spinning Backfist),2,2:28
+"Jun 12, 2022",UFC 275 - Teixeira vs. Prochazka,Welterweight,Jake Matthews,170.5,NA,Andre Fialho,170.5,NA,KO (Punches),2,2:24
+"Jun 12, 2022",UFC 275 - Teixeira vs. Prochazka,Welterweight,Jack Della Maddalena,170.5,-155,Ramazan Emeev,171,135,TKO (Punches),1,2:32
+"Jun 12, 2022",UFC 275 - Teixeira vs. Prochazka,Featherweight,Joshua Culibao,146,185,Seung Woo Choi,146,-225,Decision (Split),3,5:00
+"Jun 12, 2022",UFC 275 - Teixeira vs. Prochazka,Lightweight,Maheshate Hayisaer,155.5,155,Steve Garcia,155.5,-180,KO (Punch),1,1:14
+"Jun 12, 2022",UFC 275 - Teixeira vs. Prochazka,Middleweight,Brendan Allen,186,-280,Jacob Malkoun,186,225,Decision (Unanimous),3,5:00
+"Jun 12, 2022",UFC 275 - Teixeira vs. Prochazka,Bantamweight,Kyung Ho Kang,136,130,Batgerel Danaa,135,-150,Decision (Unanimous),3,5:00
+"Jun 12, 2022",UFC 275 - Teixeira vs. Prochazka,Strawweight,Silvana Gomez Juarez,116,-150,Na Liang,116,130,KO (Punches),1,1:22
+"Jun 12, 2022",UFC 275 - Teixeira vs. Prochazka,Featherweight,Joselyne Edwards,145,-170,Ramona Pascual,145,150,Decision (Unanimous),3,5:00
+"Jun 4, 2022",UFC Fight Night 207 - Volkov vs. Rozenstruik,Heavyweight,Alexander Volkov,256.5,-155,Jairzinho Rozenstruik,259,135,TKO (Punches),1,2:12
+"Jun 4, 2022",UFC Fight Night 207 - Volkov vs. Rozenstruik,Featherweight,Movsar Evloev,146,-400,Dan Ige,145.5,300,Decision (Unanimous),3,5:00
+"Jun 4, 2022",UFC Fight Night 207 - Volkov vs. Rozenstruik,Featherweight,Lucas Almeida,145.5,195,Michael Trizano,145.5,-240,TKO (Punches),3,0:55
+"Jun 4, 2022",UFC Fight Night 207 - Volkov vs. Rozenstruik,Flyweight,Karine Silva,125,-125,Poliana Botelho,125.5,105,Submission (Brabo Choke),1,4:55
+"Jun 4, 2022",UFC Fight Night 207 - Volkov vs. Rozenstruik,Flyweight,Ode Osbourne,126,-170,Zarrukh Adashev,125.5,150,KO (Punches),1,1:01
+"Jun 4, 2022",UFC Fight Night 207 - Volkov vs. Rozenstruik,Light Heavyweight,Alonzo Menifield,205,-155,Askar Mozharov,204.5,135,TKO (Elbows),1,4:40
+"Jun 4, 2022",UFC Fight Night 207 - Volkov vs. Rozenstruik,Strawweight,Karolina Kowalkiewicz,115.5,100,Felice Herrig,115,-120,Submission (Rear-Naked Choke),2,4:01
+"Jun 4, 2022",UFC Fight Night 207 - Volkov vs. Rozenstruik,Lightweight,Joe Solecki,155.5,-170,Alex da Silva Coelho,155.5,150,Decision (Majority),3,5:00
+"Jun 4, 2022",UFC Fight Night 207 - Volkov vs. Rozenstruik,Featherweight,Damon Jackson,145.5,-475,Dan Argueta,145.5,350,Decision (Unanimous),3,5:00
+"Jun 4, 2022",UFC Fight Night 207 - Volkov vs. Rozenstruik,Lightweight,Benoit St. Denis,155.5,-160,Niklas Stolze,156,140,Submission (Rear-Naked Choke),2,1:32
+"Jun 4, 2022",UFC Fight Night 207 - Volkov vs. Rozenstruik,Bantamweight,Tony Gravely,135.5,-135,Johnny Munoz Jr.,135,115,KO (Punches),1,1:08
+"Jun 4, 2022",UFC Fight Night 207 - Volkov vs. Rozenstruik,Flyweight,Jeff Molina,125.5,-190,Zhalgas Zhumagulov,126,160,Decision (Split),3,5:00
+"Jun 4, 2022",UFC Fight Night 207 - Volkov vs. Rozenstruik,Welterweight,Rinat Fakhretdinov,170.5,-280,Andreas Michailidis,170.5,225,Decision (Unanimous),3,5:00
+"Jun 4, 2022",UFC Fight Night 207 - Volkov vs. Rozenstruik,Flyweight,Erin Blanchfield,124.5,-525,J.J. Aldrich,125,385,Submission (Guillotine Choke),2,2:38
+"May 21, 2022",UFC Fight Night 206 - Holm vs. Vieira,Bantamweight,Ketlen Vieira,136,195,Holly Holm,135.5,-240,Decision (Split),5,5:00
+"May 21, 2022",UFC Fight Night 206 - Holm vs. Vieira,Welterweight,Michel Pereira,170,-120,Santiago Ponzinibbio,170.5,100,Decision (Split),3,5:00
+"May 21, 2022",UFC Fight Night 206 - Holm vs. Vieira,Middleweight,Chidi Njokuani,185,-190,Dusko Todorovic,185.5,160,KO (Elbow),1,4:48
+"May 21, 2022",UFC Fight Night 206 - Holm vs. Vieira,Strawweight,Tabatha Ricci,115,-120,Polyana Viana,116,100,Decision (Unanimous),3,5:00
+"May 21, 2022",UFC Fight Night 206 - Holm vs. Vieira,Middleweight,Jun Yong Park,185.5,-210,Eryk Anders,186,170,Decision (Split),3,5:00
+"May 21, 2022",UFC Fight Night 206 - Holm vs. Vieira,Middleweight,Joseph Holmes,185,-200,Alen Amedovski,186,170,Submission (Rear-Naked Choke),1,1:04
+"May 21, 2022",UFC Fight Night 206 - Holm vs. Vieira,Heavyweight,Jailton Almeida,224,-650,Parker Porter,265,460,Submission (Rear-Naked Choke),1,4:35
+"May 21, 2022",UFC Fight Night 206 - Holm vs. Vieira,Lightweight,Uros Medic,156,130,Omar Morales,155.5,-150,TKO (Punches),2,3:05
+"May 21, 2022",UFC Fight Night 206 - Holm vs. Vieira,Bantamweight,Jonathan Martinez,135.5,130,Vince Morales,136,-150,Decision (Unanimous),3,5:00
+"May 21, 2022",UFC Fight Night 206 - Holm vs. Vieira,Featherweight,Chase Hooper,145,145,Felipe Colares,145,-165,TKO (Punches),3,3:00
+"May 21, 2022",UFC Fight Night 206 - Holm vs. Vieira,Strawweight,Sam Hughes,115.5,140,Elise Reed,115,-170,TKO (Elbows and Punches),3,3:52
+"May 14, 2022",UFC on ESPN 36 - Blachowicz vs. Rakic,Light Heavyweight,Jan Blachowicz,205.5,155,Aleksandar Rakic,205,-180,TKO (Knee Injury),3,1:11
+"May 14, 2022",UFC on ESPN 36 - Blachowicz vs. Rakic,Light Heavyweight,Ryan Spann,206,180,Ion Cutelaba,205,-220,Submission (Guillotine Choke),1,2:22
+"May 14, 2022",UFC on ESPN 36 - Blachowicz vs. Rakic,Bantamweight,Davey Grant,135.5,-290,Louis Smolka,136,230,KO (Punches),3,0:49
+"May 14, 2022",UFC on ESPN 36 - Blachowicz vs. Rakic,Flyweight,Katlyn Cerminara,125.5,-170,Amanda Ribas,125.5,150,Decision (Split),3,5:00
+"May 14, 2022",UFC on ESPN 36 - Blachowicz vs. Rakic,Lightweight,Manuel Torres,155.5,-130,Frank Camacho,155,110,TKO (Punches),1,3:27
+"May 14, 2022",UFC on ESPN 36 - Blachowicz vs. Rakic,Flyweight,Allan Nascimento,125.5,175,Jake Hadley,125.5,-210,Decision (Unanimous),3,5:00
+"May 14, 2022",UFC on ESPN 36 - Blachowicz vs. Rakic,Flyweight,Viviane Araujo,125,-105,Andrea Lee,125,-115,Decision (Unanimous),3,5:00
+"May 14, 2022",UFC on ESPN 36 - Blachowicz vs. Rakic,Lightweight,Michael Johnson,155,-150,Alan Patrick,156,130,KO (Punches),2,3:22
+"May 14, 2022",UFC on ESPN 36 - Blachowicz vs. Rakic,Strawweight,Virna Jandiroba,115,-165,Angela Hill,115.5,145,Decision (Unanimous),3,5:00
+"May 14, 2022",UFC on ESPN 36 - Blachowicz vs. Rakic,Flyweight,Tatsuro Taira,125,-240,Carlos Candelario,126.5: Missed Weight,195,Decision (Unanimous),3,5:00
+"May 14, 2022",UFC on ESPN 36 - Blachowicz vs. Rakic,Middleweight,Andre Petroski,185,290,Nick Maximov,184.5,-380,Technical Submission (Anaconda Choke),1,1:16
+"May 7, 2022",UFC 274 - Oliveira vs. Gaethje,Lightweight,Charles Oliveira,155.5: Missed Weight,-165,Justin Gaethje,155,145,Submission (Rear-Naked Choke),1,3:22
+"May 7, 2022",UFC 274 - Oliveira vs. Gaethje,Strawweight Title Fight,Carla Esparza,115,165,Rose Namajunas,115,-195,Decision (Split),5,5:00
+"May 7, 2022",UFC 274 - Oliveira vs. Gaethje,Lightweight,Michael Chandler,156,-380,Tony Ferguson,155.5,290,KO (Front Kick),2,0:17
+"May 7, 2022",UFC 274 - Oliveira vs. Gaethje,Light Heavyweight,Ovince St. Preux,205,-240,Mauricio Rua,205.5,195,Decision (Split),3,5:00
+"May 7, 2022",UFC 274 - Oliveira vs. Gaethje,Welterweight,Randy Brown,170.5,100,Kalinn Williams,170.5,-120,Decision (Split),3,5:00
+"May 7, 2022",UFC 274 - Oliveira vs. Gaethje,Welterweight,Francisco Trinaldo,170.5,-115,Danny Roberts,170.5,-105,Decision (Unanimous),3,5:00
+"May 7, 2022",UFC 274 - Oliveira vs. Gaethje,147lb Catchweight,Macy Chiasson,145.5,180,Norma Dumont,146.5: Missed Weight,-220,Decision (Split),3,5:00
+"May 7, 2022",UFC 274 - Oliveira vs. Gaethje,Flyweight,Brandon Royval,125.5,-240,Matt Schnell,125.5,195,Submission (Guillotine Choke),1,2:14
+"May 7, 2022",UFC 274 - Oliveira vs. Gaethje,Heavyweight,Blagoy Ivanov,253.5,-145,Marcos Rogerio de Lima,258.5,125,Decision (Unanimous),3,5:00
+"May 7, 2022",UFC 274 - Oliveira vs. Gaethje,Welterweight,Andre Fialho,170.5,-350,Cameron VanCamp,170,270,KO (Punch),1,2:35
+"May 7, 2022",UFC 274 - Oliveira vs. Gaethje,Flyweight,Tracy Cortez,125.5,-155,Melissa Gatto,125,125,Decision (Unanimous),3,5:00
+"May 7, 2022",UFC 274 - Oliveira vs. Gaethje,Flyweight,C.J. Vergara,126,225,Kleydson Rodrigues,125.5,-300,Decision (Split),3,5:00
+"May 7, 2022",UFC 274 - Oliveira vs. Gaethje,Strawweight,Lupita Godinez,115,-170,Ariane Carnelossi,115.5,150,Decision (Unanimous),3,5:00
+"May 7, 2022",UFC 274 - Oliveira vs. Gaethje,Bantamweight,Journey Newson,135.5,130,Fernie Garcia,135.5,-150,Decision (Unanimous),3,5:00
+"Apr 30, 2022",UFC on ESPN 35 - Font vs. Vera,139lb,Marlon Vera,136,110,Rob Font,138.5: Missed Weight,-140,Decision (Unanimous),5,5:00
+"Apr 30, 2022",UFC on ESPN 35 - Font vs. Vera,Heavyweight,Andrei Arlovski,246,-150,Jake Collier,265,120,Decision (Split),3,5:00
+"Apr 30, 2022",UFC on ESPN 35 - Font vs. Vera,Featherweight,Joanderson Brito,145.5,180,Andre Fili,145.5,-230,TKO (Punches),1,0:41
+"Apr 30, 2022",UFC on ESPN 35 - Font vs. Vera,Lightweight,Grant Dawson,155.5,-190,Jared Gordon,155.5,155,Submission (Rear-Naked Choke),3,4:11
+"Apr 30, 2022",UFC on ESPN 35 - Font vs. Vera,Featherweight,Darren Elkins,145.5,-190,Tristan Connelly,146,155,Decision (Unanimous),3,5:00
+"Apr 30, 2022",UFC on ESPN 35 - Font vs. Vera,Middleweight,Krzysztof Jotko,186,-175,Gerald Meerschaert,185,145,Decision (Unanimous),3,5:00
+"Apr 30, 2022",UFC on ESPN 35 - Font vs. Vera,Heavyweight,Alexander Romanov,236.5,-2500,Chase Sherman,247,900,Submission (Keylock),1,2:11
+"Apr 30, 2022",UFC on ESPN 35 - Font vs. Vera,Flyweight,Francisco Figueiredo,125.5,105,Daniel Lacerda,125,-135,Submission (Kneebar),1,1:18
+"Apr 30, 2022",UFC on ESPN 35 - Font vs. Vera,Welterweight,Gabriel Green,170.5,-135,Yohan Lainesse,169,105,TKO (Punches),2,4:02
+"Apr 30, 2022",UFC on ESPN 35 - Font vs. Vera,Lightweight,Natan Levy,155,-180,Mike Breeden,155.5,150,Decision (Unanimous),3,5:00
+"Apr 30, 2022",UFC on ESPN 35 - Font vs. Vera,Flyweight,Shanna Young,125,150,Gina Mazany,126,-180,TKO (Punches),2,3:11
+"Apr 23, 2022",UFC Fight Night 205 - Lemos vs. Andrade,Strawweight,Jessica Andrade,115.5,NA,Amanda Lemos,115,NA,Submission (Arm-Triangle Choke),1,3:13
+"Apr 23, 2022",UFC Fight Night 205 - Lemos vs. Andrade,Lightweight,Claudio Puelles,155.5,NA,Clay Guida,154,NA,Submission (Kneebar),1,3:01
+"Apr 23, 2022",UFC Fight Night 205 - Lemos vs. Andrade,Flyweight,Maycee Barber,125.5,NA,Montana De La Rosa,125.5,NA,Decision (Unanimous),3,5:00
+"Apr 23, 2022",UFC Fight Night 205 - Lemos vs. Andrade,Featherweight,Charles Jourdain,144.5,NA,Lando Vannata,146,NA,Submission (Guillotine Choke),1,2:32
+"Apr 23, 2022",UFC Fight Night 205 - Lemos vs. Andrade,190lb Catchweight,Marc-Andre Barriault,188.5,NA,Jordan Wright,190,NA,Submission (Guillotine Choke),1,2:36
+"Apr 23, 2022",UFC Fight Night 205 - Lemos vs. Andrade,Welterweight,Sergey Khandozhko,169.5,NA,Dwight Grant,170.5,NA,TKO (Punches),2,4:15
+"Apr 23, 2022",UFC Fight Night 205 - Lemos vs. Andrade,Light Heavyweight,Tyson Pedro,205,NA,Isaac Villanueva,205.5,NA,KO (Leg Kick and Punches),1,4:55
+"Apr 23, 2022",UFC Fight Night 205 - Lemos vs. Andrade,Bantamweight,Qileng Aori,136,NA,Cameron Else,135,NA,TKO (Punches),1,2:48
+"Apr 23, 2022",UFC Fight Night 205 - Lemos vs. Andrade,Welterweight,Preston Parsons,170,NA,Evan Elder,170,NA,Decision (Unanimous),3,5:00
+"Apr 23, 2022",UFC Fight Night 205 - Lemos vs. Andrade,Light Heavyweight,Philipe Lins,205,NA,Marcin Prachnio,205,NA,Decision (Unanimous),3,5:00
+"Apr 23, 2022",UFC Fight Night 205 - Lemos vs. Andrade,Welterweight,Mike Jackson,170,NA,Dean Barry,170.5,NA,Disqualification (Eye Gouging),1,3:52

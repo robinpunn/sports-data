@@ -1,0 +1,521 @@
+date,event,weight_class,winner,winner_weight,winner_odds,loser,loser_weight,loser_odds,method,rnd,time
+"Dec 16, 2023",UFC 296 - Edwards vs. Covington,Welterweight Title Fight,Leon Edwards,170,-148,Colby Covington,169.5,124,Decision (Unanimous),5,5:00
+"Dec 16, 2023",UFC 296 - Edwards vs. Covington,Flyweight Title Fight,Alexandre Pantoja,125,-185,Brandon Royval,124.5,154,Decision (Unanimous),5,5:00
+"Dec 16, 2023",UFC 296 - Edwards vs. Covington,Welterweight,Shavkat Rakhmonov,171,-550,Stephen Thompson,171,410,Submission (Rear-Naked Choke),2,4:56
+"Dec 16, 2023",UFC 296 - Edwards vs. Covington,Lightweight,Paddy Pimblett,155.5,-298,Tony Ferguson,155.5,240,Decision (Unanimous),3,5:00
+"Dec 16, 2023",UFC 296 - Edwards vs. Covington,Featherweight,Josh Emmett,146,185,Bryce Mitchell,145.5,-225,KO (Punch),1,1:57
+"Dec 16, 2023",UFC 296 - Edwards vs. Covington,Light Heavyweight,Alonzo Menifield,204.5,220,Dustin Jacoby,204.5,-270,Decision (Unanimous),3,5:00
+"Dec 16, 2023",UFC 296 - Edwards vs. Covington,Bantamweight,Irene Aldana,136,-205,Karol Rosa,135.5,170,Decision (Unanimous),3,5:00
+"Dec 16, 2023",UFC 296 - Edwards vs. Covington,Bantamweight,Cody Garbrandt,136,-198,Brian Kelleher,136,164,KO (Punch),1,3:42
+"Dec 16, 2023",UFC 296 - Edwards vs. Covington,Flyweight,Ariane Lipski da Silva,126,164,Casey O'Neill,125,-198,Submission (Armbar),2,1:18
+"Dec 16, 2023",UFC 296 - Edwards vs. Covington,Flyweight,Tagir Ulanbekov,126,-170,Cody Durden,126,142,Submission (Face Crank),2,4:25
+"Dec 16, 2023",UFC 296 - Edwards vs. Covington,Featherweight,Andre Fili,145.5,-175,Lucas Almeida,146,145,TKO (Punches),1,3:32
+"Dec 16, 2023",UFC 296 - Edwards vs. Covington,Heavyweight,Shamil Gaziev,259.5,124,Martin Buday,264.5,-148,TKO (Punches),2,0:56
+"Dec 9, 2023",UFC Fight Night 233 - Song vs. Gutierrez,Bantamweight,Yadong Song,136,-380,Chris Gutierrez,136,300,Decision (Unanimous),5,5:00
+"Dec 9, 2023",UFC Fight Night 233 - Song vs. Gutierrez,Light Heavyweight,Khalil Rountree,204,-230,Anthony Smith,205.5,190,TKO (Punches),3,0:56
+"Dec 9, 2023",UFC Fight Night 233 - Song vs. Gutierrez,Lightweight,Nasrat Haqparast,156,-218,Jamie Mullarkey,156,180,TKO (Punches),1,1:44
+"Dec 9, 2023",UFC Fight Night 233 - Song vs. Gutierrez,Bantamweight,Tim Elliott,136,-165,Su Mudaerji,136,135,Technical Submission (Arm-Triangle Choke),1,4:02
+"Dec 9, 2023",UFC Fight Night 233 - Song vs. Gutierrez,Middleweight,Andre Muniz,186,170,Jun Yong Park,185.5,-205,Decision (Split),3,5:00
+"Dec 9, 2023",UFC Fight Night 233 - Song vs. Gutierrez,Welterweight,Kevin Jousset,170.5,-170,Kenan Song,170.5,142,Decision (Unanimous),3,5:00
+"Dec 9, 2023",UFC Fight Night 233 - Song vs. Gutierrez,Flyweight,Hyun Sung Park,126,-425,Shannon Ross,126,330,TKO (Knee and Punches),2,3:59
+"Dec 9, 2023",UFC Fight Night 233 - Song vs. Gutierrez,Lightweight,Steve Garcia,155,225,Melquizael Costa,155.5,-275,KO (Elbows),2,1:01
+"Dec 9, 2023",UFC Fight Night 233 - Song vs. Gutierrez,139lb Catchweight,Luana Santos,139: Missed Weight,-185,Stephanie Egger,135,154,Decision (Unanimous),3,5:00
+"Dec 9, 2023",UFC Fight Night 233 - Song vs. Gutierrez,Flyweight,Tatsuro Taira,125.5,-410,Carlos Hernandez,125,320,TKO (Punches),2,0:55
+"Dec 9, 2023",UFC Fight Night 233 - Song vs. Gutierrez,Strawweight,Talita Alencar,116,124,Rayanne dos Santos,115,-148,Decision (Split),3,5:00
+"Dec 2, 2023",UFC on ESPN 52 - Dariush vs. Tsarukyan,Lightweight,Arman Tsarukyan,155.5,-278,Beneil Dariush,156,225,KO (Knee and Punches),1,1:04
+"Dec 2, 2023",UFC on ESPN 52 - Dariush vs. Tsarukyan,Lightweight,Jalin Turner,156,-245,Bobby Green,155,200,KO (Punches),1,2:49
+"Dec 2, 2023",UFC on ESPN 52 - Dariush vs. Tsarukyan,Bantamweight,Deiveson Figueiredo,135,114,Rob Font,135,-135,Decision (Unanimous),3,5:00
+"Dec 2, 2023",UFC on ESPN 52 - Dariush vs. Tsarukyan,Welterweight,Sean Brady,170,-130,Kelvin Gastelum,170,110,Submission (Kimura),3,1:43
+"Dec 2, 2023",UFC on ESPN 52 - Dariush vs. Tsarukyan,Lightweight,Joaquim Silva,156,-340,Clay Guida,154,270,Decision (Unanimous),3,5:00
+"Dec 2, 2023",UFC on ESPN 52 - Dariush vs. Tsarukyan,Middleweight,Dustin Stoltzfus,185.5,220,Punahele Soriano,185.5,-270,Submission (Rear-Naked Choke),2,4:10
+"Dec 2, 2023",UFC on ESPN 52 - Dariush vs. Tsarukyan,Bantamweight,Miesha Tate,135.5,130,Julia Avila,135.5,-155,Submission (Face Crank),3,1:15
+"Dec 2, 2023",UFC on ESPN 52 - Dariush vs. Tsarukyan,Middleweight,Cody Brundage,185,180,Zachary Reese,185,-218,KO (Slam and Punches),1,1:49
+"Dec 2, 2023",UFC on ESPN 52 - Dariush vs. Tsarukyan,Lightweight,Drakkar Klose,155.5,-125,Joe Solecki,155,105,KO (Slam),1,1:41
+"Dec 2, 2023",UFC on ESPN 52 - Dariush vs. Tsarukyan,Light Heavyweight,Rodolfo Bellato,205.5,-455,Ihor Potieria,204,350,TKO (Punches),2,4:17
+"Dec 2, 2023",UFC on ESPN 52 - Dariush vs. Tsarukyan,Welterweight,Jared Gooden,171,164,Wellington Turman,171,-198,Submission (Rear-Naked Choke),2,1:11
+"Dec 2, 2023",UFC on ESPN 52 - Dariush vs. Tsarukyan,Flyweight,Veronica Hardy,125.5,-112,Jamey-Lyn Horth,125.5,-108,Decision (Split),3,5:00
+"Nov 18, 2023",UFC Fight Night 232 - Allen vs. Craig,Middleweight,Brendan Allen,186,-410,Paul Craig,186,320,Submission (Rear-Naked Choke),3,0:38
+"Nov 18, 2023",UFC Fight Night 232 - Allen vs. Craig,Welterweight,Michael Morales,171,-270,Jake Matthews,170.5,230,Decision (Unanimous),3,5:00
+"Nov 18, 2023",UFC Fight Night 232 - Allen vs. Craig,Lightweight,Chase Hooper,155.5,-230,Jordan Leavitt,155.5,190,Submission (Rear-Naked Choke),1,2:58
+"Nov 18, 2023",UFC Fight Night 232 - Allen vs. Craig,Bantamweight,Payton Talbott,136,-550,Nick Aguirre,136,410,Submission (Rear-Naked Choke),3,0:58
+"Nov 18, 2023",UFC Fight Night 232 - Allen vs. Craig,Strawweight,Amanda Ribas,115.5,-258,Luana Pinheiro,115.5,210,TKO (Spinning Wheel Kick and Punches),3,3:53
+"Nov 18, 2023",UFC Fight Night 232 - Allen vs. Craig,Welterweight,Myktybek Orolbai,170,-140,Uros Medic,171,130,Submission (Neck Crank),2,4:12
+"Nov 18, 2023",UFC Fight Night 232 - Allen vs. Craig,Featherweight,Joanderson Brito,145,110,Jonathan Pearce,145.5,-130,Submission (Ninja Choke),2,3:54
+"Nov 18, 2023",UFC Fight Night 232 - Allen vs. Craig,Bantamweight,Jose Johnson,136,-205,Chad Anheliger,134.5,170,Submission (Rear-Naked Choke),3,4:49
+"Nov 18, 2023",UFC Fight Night 232 - Allen vs. Craig,Middleweight,Christian Leroy Duncan,186,-450,Denis Tiuliulin,186,380,TKO (Elbows and Punches),2,4:24
+"Nov 18, 2023",UFC Fight Night 232 - Allen vs. Craig,Heavyweight,Mick Parkin,262.5,-345,Caio Machado,250,275,Decision (Unanimous),3,5:00
+"Nov 18, 2023",UFC Fight Night 232 - Allen vs. Craig,148lb Catchweight,Jeka Saragih,146,295,Lucas Alexander,148: Missed Weight,-375,KO (Punches),1,1:31
+"Nov 18, 2023",UFC Fight Night 232 - Allen vs. Craig,Bantamweight,Ailin Perez,136,-180,Lucie Pudilova,135.5,150,Decision (Unanimous),3,5:00
+"Nov 18, 2023",UFC Fight Night 232 - Allen vs. Craig,Lightweight,Trey Ogden,155.5,114,Nikolas Motta,155,-135,No Contest (Premature Stoppage),3,3:11
+"Nov 18, 2023",UFC Fight Night 232 - Allen vs. Craig,128lb Catchweight,Rafael Estevam,128: Missed Weight,-125,Charles Johnson,125,105,Decision (Unanimous),3,5:00
+"Nov 11, 2023",UFC 295 - Prochazka vs. Pereira,Light Heavyweight Title Fight,Alex Pereira,204,-130,Jiri Prochazka,204.2,110,TKO (Elbows),2,4:08
+"Nov 11, 2023",UFC 295 - Prochazka vs. Pereira,Heavyweight Title Fight,Tom Aspinall,261.6,-118,Sergei Pavlovich,259.8,-102,KO (Punches),1,1:09
+"Nov 11, 2023",UFC 295 - Prochazka vs. Pereira,Strawweight,Jessica Andrade,116,164,Mackenzie Dern,115.6,-198,TKO (Punches),2,3:15
+"Nov 11, 2023",UFC 295 - Prochazka vs. Pereira,Lightweight,Benoit St. Denis,156,-230,Matt Frevola,155.6,190,KO (Head Kick),1,1:31
+"Nov 11, 2023",UFC 295 - Prochazka vs. Pereira,Featherweight,Diego Lopes,145.4,100,Pat Sabatini,145.8,-120,KO (Punches),1,1:30
+"Nov 11, 2023",UFC 295 - Prochazka vs. Pereira,Flyweight,Steve Erceg,125.6,-166,Alessandro Costa,125.4,140,Decision (Unanimous),3,5:00
+"Nov 11, 2023",UFC 295 - Prochazka vs. Pereira,Strawweight,Lupita Godinez,115,-170,Tabatha Ricci,115.4,142,Decision (Split),3,5:00
+"Nov 11, 2023",UFC 295 - Prochazka vs. Pereira,158lb Catchweight,Mateusz Rebecki,155.8,-700,Roosevelt Roberts,158: Missed Weight,500,Submission (Armbar),1,3:08
+"Nov 11, 2023",UFC 295 - Prochazka vs. Pereira,Lightweight,Viacheslav Borshchev,154.8,114,Nazim Sadykhov,155.6,-135,Draw (Majority),3,5:00
+"Nov 11, 2023",UFC 295 - Prochazka vs. Pereira,Lightweight,Jared Gordon,155.6,-198,Mark O. Madsen,155.6,164,TKO (Elbow and Punches),1,4:42
+"Nov 11, 2023",UFC 295 - Prochazka vs. Pereira,138lb Catchweight,John Castaneda,137.6,-142,Kyung Ho Kang,138,120,Decision (Unanimous),3,5:00
+"Nov 11, 2023",UFC 295 - Prochazka vs. Pereira,Flyweight,Joshua Van,125.8,-218,Kevin Borjas,125.8,180,Decision (Unanimous),3,5:00
+"Nov 11, 2023",UFC 295 - Prochazka vs. Pereira,147lb Catchweight,Jamall Emmers,147: Missed Weight,-258,Dennis Buzukja,145.6,210,TKO (Punches),1,0:49
+"Nov 4, 2023",UFC Fight Night 231 - Almeida vs. Lewis,Heavyweight,Jailton Almeida,236,-485,Derrick Lewis,265,370,Decision (Unanimous),5,5:00
+"Nov 4, 2023",UFC Fight Night 231 - Almeida vs. Lewis,Welterweight,Nicolas Dalby,170.5,455,Gabriel Bonfim,170.5,-625,TKO (Knees and Punches),2,4:33
+"Nov 4, 2023",UFC Fight Night 231 - Almeida vs. Lewis,Heavyweight,Rodrigo Nascimento,264,-185,Don'Tale Mayes,264,154,Decision (Unanimous),3,5:00
+"Nov 4, 2023",UFC Fight Night 231 - Almeida vs. Lewis,Middleweight,Caio Borralho,186,-265,Abusupiyan Magomedov,185,215,Decision (Unanimous),3,5:00
+"Nov 4, 2023",UFC Fight Night 231 - Almeida vs. Lewis,165lb Catchweight,Elves Brener,164,-225,Kaynan Kruschewsky,165,185,KO (Punch),1,4:01
+"Nov 4, 2023",UFC Fight Night 231 - Almeida vs. Lewis,Welterweight,Elizeu Zaleski dos Santos,171,285,Rinat Fakhretdinov,170.5,-360,Draw (Majority),3,5:00
+"Nov 4, 2023",UFC Fight Night 231 - Almeida vs. Lewis,Light Heavyweight,Vitor Petrino,206,-218,Modestas Bukauskas,205.5,180,KO (Punch),2,1:03
+"Nov 4, 2023",UFC Fight Night 231 - Almeida vs. Lewis,Strawweight,Angela Hill,115.5,105,Denise Gomes,115.5,-125,Decision (Unanimous),3,5:00
+"Nov 4, 2023",UFC Fight Night 231 - Almeida vs. Lewis,120lb Catchweight,Eduarda Moura,119.5: Missed Weight,-550,Montserrat Ruiz,114,410,TKO (Punches),2,2:14
+"Nov 4, 2023",UFC Fight Night 231 - Almeida vs. Lewis,Lightweight,Marc Diakiese,155,-155,Kaue Fernandes,155,130,Decision (Split),3,5:00
+"Oct 7, 2023",UFC Fight Night 229 - Dawson vs. Green,Lightweight,Bobby Green,156,300,Grant Dawson,156,-425,KO (Punches),1,0:33
+"Oct 7, 2023",UFC Fight Night 229 - Dawson vs. Green,Middleweight,Joe Pyfer,185,-470,Abdul Razak Alhassan,184.5,360,Technical Submission (Arm-Triangle Choke),2,2:05
+"Oct 7, 2023",UFC Fight Night 229 - Dawson vs. Green,Welterweight,Joaquin Buckley,170,-175,Alex Morono,170.5,145,Decision (Unanimous),3,5:00
+"Oct 7, 2023",UFC Fight Night 229 - Dawson vs. Green,Lightweight,Drew Dober,155.5,-470,Ricky Glenn,155.5,360,TKO (Punches),1,2:36
+"Oct 7, 2023",UFC Fight Night 229 - Dawson vs. Green,Featherweight,Bill Algeo,146,-135,Alexander Hernandez,145.5,114,Decision (Unanimous),3,5:00
+"Oct 7, 2023",UFC Fight Night 229 - Dawson vs. Green,Strawweight,Karolina Kowalkiewicz,116,-162,Diana Belbita,115.5,136,Decision (Unanimous),3,5:00
+"Oct 7, 2023",UFC Fight Night 229 - Dawson vs. Green,Flyweight,Nathan Maness,126,190,Mateus Mendonca,125.5,-230,TKO (Punches),1,4:40
+"Oct 7, 2023",UFC Fight Night 229 - Dawson vs. Green,Strawweight,Vanessa Demopoulos,116,270,Kanako Murata,115.5,-340,Decision (Unanimous),3,5:00
+"Oct 7, 2023",UFC Fight Night 229 - Dawson vs. Green,Bantamweight,Qileng Aori,136,-112,Johnny Munoz Jr.,136,-108,Decision (Unanimous),3,5:00
+"Oct 7, 2023",UFC Fight Night 229 - Dawson vs. Green,Flyweight,J.J. Aldrich,125.5,-102,Montana De La Rosa,126,-118,Decision (Unanimous),3,5:00
+"Oct 14, 2023",UFC Fight Night 230 - Yusuff vs. Barboza,Featherweight,Edson Barboza,146,140,Sodiq Yusuff,145.5,-166,Decision (Unanimous),5,5:00
+"Oct 14, 2023",UFC Fight Night 230 - Yusuff vs. Barboza,Flyweight,Viviane Araujo,126,110,Jennifer Maia,125,-130,Decision (Unanimous),3,5:00
+"Oct 14, 2023",UFC Fight Night 230 - Yusuff vs. Barboza,Bantamweight,Jonathan Martinez,136,-112,Adrian Yanez,135.5,-108,TKO (Leg Kick),2,2:26
+"Oct 14, 2023",UFC Fight Night 230 - Yusuff vs. Barboza,Middleweight,Michel Pereira,186,-180,Andre Petroski,186,150,TKO (Punches),1,1:06
+"Oct 14, 2023",UFC Fight Night 230 - Yusuff vs. Barboza,140lb Catchweight,Christian Rodriguez,140: Missed Weight,-142,Cameron Saaiman,135.5,120,Decision (Unanimous),3,5:00
+"Oct 14, 2023",UFC Fight Night 230 - Yusuff vs. Barboza,Featherweight,Darren Elkins,146,160,T.J. Brown,146,-192,Submission (Rear-Naked Choke),3,2:23
+"Oct 14, 2023",UFC Fight Night 230 - Yusuff vs. Barboza,Bantamweight,Tainara Lisboa,133.5,-380,Ravena Oliveira,133,300,Decision (Unanimous),3,5:00
+"Oct 14, 2023",UFC Fight Night 230 - Yusuff vs. Barboza,Lightweight,Terrance McKinney,155.5,-450,Brendon Marotte,155.5,300,TKO (Knee and Punches),1,0:20
+"Oct 14, 2023",UFC Fight Night 230 - Yusuff vs. Barboza,Bantamweight,Melissa Mullins,135.5,-148,Irina Alekseeva,135,124,Decision (Unanimous),3,5:00
+"Oct 14, 2023",UFC Fight Night 230 - Yusuff vs. Barboza,Bantamweight,Chris Gutierrez,136,-250,Heili Alateng,136,200,Decision (Unanimous),3,5:00
+"Oct 14, 2023",UFC Fight Night 230 - Yusuff vs. Barboza,Strawweight,Emily Ducote,115.5,-340,Ashley Yoder,115.5,270,Decision (Unanimous),3,5:00
+"Oct 21, 2023",UFC 294 - Makhachev vs. Volkanovski 2,Lightweight Title Fight,Islam Makhachev,155,-245,Alexander Volkanovski,154.5,200,KO (Head Kick and Punches),1,3:06
+"Oct 21, 2023",UFC 294 - Makhachev vs. Volkanovski 2,Middleweight,Khamzat Chimaev,185.5,-285,Kamaru Usman,184.5,230,Decision (Majority),3,5:00
+"Oct 21, 2023",UFC 294 - Makhachev vs. Volkanovski 2,Light Heavyweight,Magomed Ankalaev,206,-355,Johnny Walker,205,280,No Contest (Illegal Knee),1,3:13
+"Oct 21, 2023",UFC 294 - Makhachev vs. Volkanovski 2,Middleweight,Ikram Aliskerov,186,-535,Warlley Alves,185.5,410,TKO (Flying Knee and Punches),1,2:07
+"Oct 21, 2023",UFC 294 - Makhachev vs. Volkanovski 2,Bantamweight,Said Nurmagomedov,136,-225,Muin Gafurov,135.5,185,Submission (Guillotine Choke),1,1:13
+"Oct 21, 2023",UFC 294 - Makhachev vs. Volkanovski 2,Flyweight,Muhammad Mokaev,126,-485,Tim Elliott,126,370,Submission (Arm-Triangle Choke),3,3:03
+"Oct 21, 2023",UFC 294 - Makhachev vs. Volkanovski 2,Lightweight,Trevor Peek,155.5,-135,Mohammad Yahya,156,114,Decision (Unanimous),3,5:00
+"Oct 21, 2023",UFC 294 - Makhachev vs. Volkanovski 2,Bantamweight,Javid Basharat,136,-535,Victor Henry,136,400,No Contest (Accidental Groin Kick),2,0:15
+"Oct 21, 2023",UFC 294 - Makhachev vs. Volkanovski 2,Middleweight,Sedriques Dumas,186,-205,Abu Azaitar,186,170,Decision (Unanimous),3,5:00
+"Oct 21, 2023",UFC 294 - Makhachev vs. Volkanovski 2,160lb Catchweight,Mike Breeden,159.5: Missed Weight,245,Anshul Jubli,155.5,-305,KO (Punches),3,3:00
+"Oct 21, 2023",UFC 294 - Makhachev vs. Volkanovski 2,Featherweight,Muhammadjon Naimov,145.5,270,Nathaniel Wood,146,-340,Decision (Unanimous),3,5:00
+"Oct 21, 2023",UFC 294 - Makhachev vs. Volkanovski 2,117lb Catchweight,Victoria Dudakova,116.6: Missed Weight,-500,Jinh Yu Frey,116,380,Decision (Unanimous),3,5:00
+"Oct 21, 2023",UFC 294 - Makhachev vs. Volkanovski 2,Middleweight,Sharabutdin Magomedov,186,-250,Bruno Silva,186,205,Decision (Unanimous),3,5:00
+"Sep 23, 2023",UFC Fight Night 228 - Fiziev vs. Gamrot,Lightweight,Mateusz Gamrot,156,130,Rafael Fiziev,156,-155,TKO (Knee Injury),2,2:03
+"Sep 23, 2023",UFC Fight Night 228 - Fiziev vs. Gamrot,Featherweight,Bryce Mitchell,146,-205,Dan Ige,146,170,Decision (Unanimous),3,5:00
+"Sep 23, 2023",UFC Fight Night 228 - Fiziev vs. Gamrot,Strawweight,Marina Rodriguez,116,-310,Michelle Waterson-Gomez,115.5,250,TKO (Elbows and Punches),2,2:42
+"Sep 23, 2023",UFC Fight Night 228 - Fiziev vs. Gamrot,Welterweight,Bryan Battle,171,-175,A.J. Fletcher,170.5,145,Submission (Rear-Naked Choke),2,4:32
+"Sep 23, 2023",UFC Fight Night 228 - Fiziev vs. Gamrot,Featherweight,Charles Jourdain,145.5,-135,Ricardo Ramos,146,114,Submission (Guillotine Choke),1,3:12
+"Sep 23, 2023",UFC Fight Night 228 - Fiziev vs. Gamrot,Bantamweight,Miles Johns,136,154,Dan Argueta,136,-185,No Contest (Overturned),3,5:00
+"Sep 23, 2023",UFC Fight Night 228 - Fiziev vs. Gamrot,Welterweight,Tim Means,171,150,Andre Fialho,171,-180,TKO (Knee and Punches),3,1:15
+"Sep 23, 2023",UFC Fight Night 228 - Fiziev vs. Gamrot,Middleweight,Cody Brundage,185,370,Jacob Malkoun,186,-485,Disqualification (Illegal Elbow),1,4:15
+"Sep 23, 2023",UFC Fight Night 228 - Fiziev vs. Gamrot,Heavyweight,Mohammed Usman,237,-166,Jake Collier,256.5,140,Decision (Unanimous),3,5:00
+"Sep 23, 2023",UFC Fight Night 228 - Fiziev vs. Gamrot,Strawweight,Mizuki Inoue,115.5,-298,Hannah Goldy,115.5,240,Decision (Unanimous),3,5:00
+"Sep 23, 2023",UFC Fight Night 228 - Fiziev vs. Gamrot,Bantamweight,Montserrat Rendon,135,195,Tamires Vidal,134,-238,Decision (Split),3,5:00
+"Sep 16, 2023",UFC Fight Night 227 - Grasso vs. Shevchenko 2,Flyweight Title Fight,Alexa Grasso,124.5,140,Valentina Shevchenko,124.5,-166,Draw (Split),5,5:00
+"Sep 16, 2023",UFC Fight Night 227 - Grasso vs. Shevchenko 2,Welterweight,Jack Della Maddalena,171,-148,Kevin Holland,170.5,124,Decision (Split),3,5:00
+"Sep 16, 2023",UFC Fight Night 227 - Grasso vs. Shevchenko 2,Bantamweight,Raul Rosas Jr.,135,-575,Terrence Mitchell,135.5,425,TKO (Punches),1,0:54
+"Sep 16, 2023",UFC Fight Night 227 - Grasso vs. Shevchenko 2,Lightweight,Daniel Zellhuber,156,-270,Christos Giagos,156,220,Submission (Anaconda Choke),2,3:26
+"Sep 16, 2023",UFC Fight Night 227 - Grasso vs. Shevchenko 2,Featherweight,Kyle Nelson,146,210,Fernando Padilla,145.5,-258,Decision (Unanimous),3,5:00
+"Sep 16, 2023",UFC Fight Night 227 - Grasso vs. Shevchenko 2,Strawweight,Lupita Godinez,116,-410,Elise Reed,115.5,320,Submission (Rear-Naked Choke),2,3:30
+"Sep 16, 2023",UFC Fight Night 227 - Grasso vs. Shevchenko 2,Middleweight,Roman Kopylov,185.5,-355,Josh Fremd,185.5,280,KO (Punch to the Body),2,4:44
+"Sep 16, 2023",UFC Fight Night 227 - Grasso vs. Shevchenko 2,Flyweight,Edgar Chairez,126,-250,Daniel Lacerda,125.5,200,No Contest (Premature Stoppage),1,3:47
+"Sep 16, 2023",UFC Fight Night 227 - Grasso vs. Shevchenko 2,Flyweight,Tracy Cortez,126,-120,Jasmine Jasudavicius,125.5,100,Decision (Unanimous),3,5:00
+"Sep 16, 2023",UFC Fight Night 227 - Grasso vs. Shevchenko 2,Lightweight,Charlie Campbell,155,-400,Alex Reyes,155.5,300,TKO (Punches),1,3:38
+"Sep 16, 2023",UFC Fight Night 227 - Grasso vs. Shevchenko 2,Strawweight,Josefine Lindgren Knutsson,115.5,-485,Marnic Mann,115,370,Decision (Unanimous),3,5:00
+"Sep 9, 2023",UFC 293 - Adesanya vs. Strickland,Middleweight Title Fight,Sean Strickland,184.9,470,Israel Adesanya,184.8,-650,Decision (Unanimous),5,5:00
+"Sep 9, 2023",UFC 293 - Adesanya vs. Strickland,Heavyweight,Alexander Volkov,262.95,-250,Tai Tuivasa,265.6,205,Submission (Ezekiel Choke),2,4:37
+"Sep 9, 2023",UFC 293 - Adesanya vs. Strickland,Flyweight,Manel Kape,126,-410,Felipe dos Santos,125.4,320,Decision (Unanimous),3,5:00
+"Sep 9, 2023",UFC 293 - Adesanya vs. Strickland,Heavyweight,Justin Tafa,265.2,-218,Austen Lane,242.3,180,KO (Punches),1,1:22
+"Sep 9, 2023",UFC 293 - Adesanya vs. Strickland,Light Heavyweight,Tyson Pedro,205.45,-105,Anton Turkalj,205.35,-115,KO (Punches),1,2:12
+"Sep 9, 2023",UFC 293 - Adesanya vs. Strickland,Light Heavyweight,Carlos Ulberg,204.7,-270,Da Woon Jung,205.3,220,Submission (Rear-Naked Choke),3,4:49
+"Sep 9, 2023",UFC 293 - Adesanya vs. Strickland,Featherweight,Jose Mariscal,145.85,170,Jack Jenkins,145.85,-205,TKO (Arm Injury),2,3:19
+"Sep 9, 2023",UFC 293 - Adesanya vs. Strickland,Lightweight,Jamie Mullarkey,155.35,-265,John Makdessi,155.1,215,Decision (Unanimous),3,5:00
+"Sep 9, 2023",UFC 293 - Adesanya vs. Strickland,Lightweight,Nasrat Haqparast,155.85,-470,Landon Quinones,155.75,360,Decision (Unanimous),3,5:00
+"Sep 9, 2023",UFC 293 - Adesanya vs. Strickland,Welterweight,Charlie Radtke,170.3,-310,Mike Mathetha,170.25,250,Decision (Unanimous),3,5:00
+"Sep 9, 2023",UFC 293 - Adesanya vs. Strickland,150lb Catchweight,Gabriel Miranda,144.95,140,Shane Young,149.75: Missed Weight,-166,Technical Submission (Rear-Naked Choke),1,0:59
+"Sep 9, 2023",UFC 293 - Adesanya vs. Strickland,Welterweight,Kevin Jousset,170.5,-155,Kiefer Crosbie,170.85,130,Submission (Rear-Naked Choke),1,4:49
+"Sep 2, 2023",UFC Fight Night 226 - Gane vs. Spivak,Heavyweight,Ciryl Gane,250,-166,Serghei Spivac,,,TKO (Punches),2,3:44
+"Sep 2, 2023",UFC Fight Night 226 - Gane vs. Spivak,Flyweight,Manon Fiorot,125,-185,Rose Namajunas,125,154,Decision (Unanimous),3,5:00
+"Sep 2, 2023",UFC Fight Night 226 - Gane vs. Spivak,Lightweight,Benoit St. Denis,156,-155,Thiago Moises,156,130,TKO (Punches),2,4:44
+"Sep 2, 2023",UFC Fight Night 226 - Gane vs. Spivak,Light Heavyweight,Volkan Oezdemir,205,-185,Bogdan Guskov,205,154,Submission (Rear-Naked Choke),1,3:46
+"Sep 2, 2023",UFC Fight Night 226 - Gane vs. Spivak,Featherweight,William Gomis,146,-220,Yanis Ghemmouri,146,180,TKO (Body Kick),3,2:20
+"Sep 2, 2023",UFC Fight Night 226 - Gane vs. Spivak,Featherweight,Morgan Charriere,146,-340,Manolo Zecchini,146,270,KO (Body Kick and Punches),1,3:51
+"Sep 2, 2023",UFC Fight Night 226 - Gane vs. Spivak,Bantamweight,Taylor Lapilus,135,NA,Caolan Loughran,136,NA,Decision (Unanimous),3,5:00
+"Sep 2, 2023",UFC Fight Night 226 - Gane vs. Spivak,Welterweight,Ange Loosa,171,-180,Rhys McKee,171,150,Decision (Unanimous),3,5:00
+"Sep 2, 2023",UFC Fight Night 226 - Gane vs. Spivak,Bantamweight,Nora Cornolle,136,-108,Joselyne Edwards,136,-112,Decision (Unanimous),3,5:00
+"Sep 2, 2023",UFC Fight Night 226 - Gane vs. Spivak,Bantamweight,Farid Basharat,136,-325,Kleydson Rodrigues,134.5,260,Submission (Arm-Triangle Choke),1,4:15
+"Sep 2, 2023",UFC Fight Night 226 - Gane vs. Spivak,140lb Catchweight,Jacqueline Cavalcanti,139,-375,Zarah Fairn,140,295,Decision (Unanimous),3,5:00
+"Aug 26, 2023",UFC Fight Night 225 - Holloway vs. Korean Zombie,Featherweight,Max Holloway,146,-850,Chan Sung Jung,146,520,KO (Punch),3,0:23
+"Aug 26, 2023",UFC Fight Night 225 - Holloway vs. Korean Zombie,Light Heavyweight,Anthony Smith,205.5,110,Ryan Spann,205,-130,Decision (Split),3,5:00
+"Aug 26, 2023",UFC Fight Night 225 - Holloway vs. Korean Zombie,Featherweight,Giga Chikadze,146,-245,Alex Caceres,145.5,200,Decision (Unanimous),3,5:00
+"Aug 26, 2023",UFC Fight Night 225 - Holloway vs. Korean Zombie,Bantamweight,Rinya Nakamura,135,-800,Fernie Garcia,135.5,550,Decision (Unanimous),3,5:00
+"Aug 26, 2023",UFC Fight Night 225 - Holloway vs. Korean Zombie,Flyweight,Erin Blanchfield,125.5,-142,Taila Santos,124.5,120,Decision (Unanimous),3,5:00
+"Aug 26, 2023",UFC Fight Night 225 - Holloway vs. Korean Zombie,Heavyweight,Junior Tafa,255,-142,Parker Porter,256,120,KO (Punch),1,1:24
+"Aug 26, 2023",UFC Fight Night 225 - Holloway vs. Korean Zombie,Heavyweight,Waldo Cortes-Acosta,264,-250,Lukasz Brzeski,243,205,KO (Punches),1,3:01
+"Aug 26, 2023",UFC Fight Night 225 - Holloway vs. Korean Zombie,Bantamweight,Garrett Armfield,135,-166,Toshiomi Kazama,135.5,140,TKO (Punches),1,4:16
+"Aug 26, 2023",UFC Fight Night 225 - Holloway vs. Korean Zombie,Middleweight,Michal Oleksiejczuk,186,-115,Chidi Njokuani,185.5,-105,TKO (Punches),1,4:16
+"Aug 26, 2023",UFC Fight Night 225 - Holloway vs. Korean Zombie,Welterweight,Kenan Song,170,270,Rolando Bedoya,170.5,-340,Decision (Unanimous),3,5:00
+"Aug 26, 2023",UFC Fight Night 225 - Holloway vs. Korean Zombie,Welterweight,Billy Goff,170,114,Yusaku Kinoshita,170.5,-135,TKO (Punches),1,3:49
+"Aug 26, 2023",UFC Fight Night 225 - Holloway vs. Korean Zombie,Flyweight,J.J. Aldrich,126,-520,Na Liang,126,390,TKO (Punches and Elbows),2,4:49
+"Aug 26, 2023",UFC Fight Night 225 - Holloway vs. Korean Zombie,Featherweight,Seung Woo Choi,146,-180,Jarno Errens,145,150,Decision (Unanimous),3,5:00
+"Aug 19, 2023",UFC 292 - Sterling vs. O'Malley,Bantamweight Title Fight,Sean O'Malley,135,210,Aljamain Sterling,135,-258,TKO (Punches),2,0:51
+"Aug 19, 2023",UFC 292 - Sterling vs. O'Malley,Strawweight Title Fight,Weili Zhang,115,-305,Amanda Lemos,114,245,Decision (Unanimous),5,5:00
+"Aug 19, 2023",UFC 292 - Sterling vs. O'Malley,Welterweight,Ian Garry,170,-485,Neil Magny,170,370,Decision (Unanimous),3,5:00
+"Aug 19, 2023",UFC 292 - Sterling vs. O'Malley,Bantamweight,Mario Bautista,136,-225,Da'Mon Blackshear,135.5,180,Decision (Unanimous),3,5:00
+"Aug 19, 2023",UFC 292 - Sterling vs. O'Malley,Bantamweight,Marlon Vera,136,-198,Pedro Munhoz,135,164,Decision (Unanimous),3,5:00
+"Aug 19, 2023",UFC 292 - Sterling vs. O'Malley,Middleweight,Brad Tavares,185,-270,Chris Weidman,186,220,Decision (Unanimous),3,5:00
+"Aug 19, 2023",UFC 292 - Sterling vs. O'Malley,Middleweight,Gregory Rodrigues,186,-355,Denis Tiuliulin,185,280,KO (Elbows),1,1:43
+"Aug 19, 2023",UFC 292 - Sterling vs. O'Malley,Lightweight,Kurt Holobaugh,155.5,142,Austin Hubbard,155,-170,Submission (Triangle Choke),2,2:39
+"Aug 19, 2023",UFC 292 - Sterling vs. O'Malley,Bantamweight,Brad Katona,135,-168,Cody Gibson,135,142,Decision (Unanimous),3,5:00
+"Aug 19, 2023",UFC 292 - Sterling vs. O'Malley,Middleweight,Andre Petroski,186,-245,Gerald Meerschaert,185,200,Decision (Split),3,5:00
+"Aug 19, 2023",UFC 292 - Sterling vs. O'Malley,Flyweight,Natalia Silva,125,-355,Andrea Lee,125,280,Decision (Unanimous),3,5:00
+"Aug 19, 2023",UFC 292 - Sterling vs. O'Malley,Flyweight,Karine Silva,125,-155,Maryna Moroz,125,130,Submission (Guillotine Choke),1,4:59
+"Aug 12, 2023",UFC on ESPN 51 - Luque vs. dos Anjos,Welterweight,Vicente Luque,170.5,-102,Rafael dos Anjos,171,-118,Decision (Unanimous),5,5:00
+"Aug 12, 2023",UFC on ESPN 51 - Luque vs. dos Anjos,Featherweight,Cub Swanson,146,190,Hakeem Dawodu,146,-230,Decision (Unanimous),3,5:00
+"Aug 12, 2023",UFC on ESPN 51 - Luque vs. dos Anjos,Light Heavyweight,Khalil Rountree,203.5,-180,Chris Daukaus,205,150,TKO (Punches),1,2:40
+"Aug 12, 2023",UFC on ESPN 51 - Luque vs. dos Anjos,Strawweight,Iasmin Lucindo,116,-198,Polyana Viana,116,164,Submission (Arm-Triangle Choke),2,3:42
+"Aug 12, 2023",UFC on ESPN 51 - Luque vs. dos Anjos,190lb Catchweight,A.J. Dobson,185.5,120,Tafon Nchukwi,189.5: Missed Weight,-142,Decision (Unanimous),3,5:00
+"Aug 12, 2023",UFC on ESPN 51 - Luque vs. dos Anjos,189lb Catchweight,Josh Fremd,189: Missed Weight,-345,Jamie Pickett,186,275,Decision (Unanimous),3,5:00
+"Aug 12, 2023",UFC on ESPN 51 - Luque vs. dos Anjos,Bantamweight,Marcus McGhee,136,-350,J.P. Buys,136,280,KO (Punch),1,2:19
+"Aug 12, 2023",UFC on ESPN 51 - Luque vs. dos Anjos,Lightweight,Terrance McKinney,156,-270,Mike Breeden,156,220,TKO (Punches),1,1:25
+"Aug 12, 2023",UFC on ESPN 51 - Luque vs. dos Anjos,Featherweight,Isaac Dulgarian,145.5,140,Francis Marshall,145.5,-166,TKO (Punches and Elbows),1,4:48
+"Aug 12, 2023",UFC on ESPN 51 - Luque vs. dos Anjos,Heavyweight,Martin Buday,266,-218,Josh Parisian,266,180,Submission (Kimura),1,4:11
+"Aug 12, 2023",UFC on ESPN 51 - Luque vs. dos Anjos,Strawweight,Jaqueline Amorim,116,-238,Montserrat Ruiz,113,195,TKO (Elbows and Punches),3,3:41
+"Aug 12, 2023",UFC on ESPN 51 - Luque vs. dos Anjos,Bantamweight,Da'Mon Blackshear,136,-280,Jose Johnson,135.5,220,Submission (Twister),1,3:47
+"Aug 12, 2023",UFC on ESPN 51 - Luque vs. dos Anjos,Flyweight,Luana Santos,126,-155,Juliana Miller,126,130,TKO (Punches),1,3:41
+"Aug 5, 2023",UFC on ESPN 50 - Sandhagen vs. Font,140lb,Cory Sandhagen,139.5,-330,Rob Font,139,240,Decision (Unanimous),5,5:00
+"Aug 5, 2023",UFC on ESPN 50 - Sandhagen vs. Font,Strawweight,Tatiana Suarez,115.5,-425,Jessica Andrade,115.5,300,Submission (Guillotine Choke),2,1:31
+"Aug 5, 2023",UFC on ESPN 50 - Sandhagen vs. Font,Light Heavyweight,Dustin Jacoby,205,140,Kennedy Nzechukwu,205,-166,TKO (Punches),1,1:22
+"Aug 5, 2023",UFC on ESPN 50 - Sandhagen vs. Font,Featherweight,Diego Lopes,145.5,-170,Gavin Tucker,145,142,Submission (Armbar),1,1:38
+"Aug 5, 2023",UFC on ESPN 50 - Sandhagen vs. Font,Light Heavyweight,Tanner Boser,204.5,-162,Aleksa Camur,204,136,Decision (Unanimous),3,5:00
+"Aug 5, 2023",UFC on ESPN 50 - Sandhagen vs. Font,Lightweight,Ludovit Klein,156,190,Ignacio Bahamondes,156,-230,Decision (Unanimous),3,5:00
+"Aug 5, 2023",UFC on ESPN 50 - Sandhagen vs. Font,Bantamweight,Kyler Phillips,135,-198,Raoni Barcelos,135.5,164,Decision (Unanimous),3,5:00
+"Aug 5, 2023",UFC on ESPN 50 - Sandhagen vs. Font,Welterweight,Carlston Harris,170,110,Jeremiah Wells,170.5,-130,Technical Submission (Anaconda Choke),3,1:50
+"Aug 5, 2023",UFC on ESPN 50 - Sandhagen vs. Font,Featherweight,Billy Quarantillo,145,-175,Damon Jackson,145.5,145,Decision (Unanimous),3,5:00
+"Aug 5, 2023",UFC on ESPN 50 - Sandhagen vs. Font,Flyweight,Cody Durden,125.5,164,Jake Hadley,126,-198,Decision (Unanimous),3,5:00
+"Aug 5, 2023",UFC on ESPN 50 - Sandhagen vs. Font,147lb Catchweight,Sean Woodson,146,-175,Dennis Buzukja,146.5: Missed Weight,145,Decision (Unanimous),3,5:00
+"Aug 5, 2023",UFC on ESPN 50 - Sandhagen vs. Font,Flyweight,Asu Almabayev,125.5,-185,Ode Osbourne,125.5,154,Submission (Rear-Naked Choke),2,3:11
+"Jul 29, 2023",UFC 291 - Poirier vs. Gaethje 2,Lightweight,Justin Gaethje,156,130,Dustin Poirier,155,-150,KO (Head Kick),2,1:00
+"Jul 29, 2023",UFC 291 - Poirier vs. Gaethje 2,Light Heavyweight,Alex Pereira,205.5,105,Jan Blachowicz,205,-125,Decision (Split),3,5:00
+"Jul 29, 2023",UFC 291 - Poirier vs. Gaethje 2,Heavyweight,Derrick Lewis,263.5,185,Marcos Rogerio de Lima,262,-215,TKO (Punches),1,0:33
+"Jul 29, 2023",UFC 291 - Poirier vs. Gaethje 2,Lightweight,Bobby Green,155.5,-410,Tony Ferguson,155,310,Technical Submission (Arm-Triangle Choke),3,4:54
+"Jul 29, 2023",UFC 291 - Poirier vs. Gaethje 2,Welterweight,Kevin Holland,169.5,-145,Michael Chiesa,170,125,Submission (Brabo Choke),1,2:39
+"Jul 29, 2023",UFC 291 - Poirier vs. Gaethje 2,Welterweight,Gabriel Bonfim,170,-320,Trevin Giles,170,265,Submission (Guillotine Choke),1,1:13
+"Jul 29, 2023",UFC 291 - Poirier vs. Gaethje 2,129lb Catchweight,C.J. Vergara,125.5,-160,Vinicius Salvador,128.5: Missed Weight,130,Decision (Unanimous),3,5:00
+"Jul 29, 2023",UFC 291 - Poirier vs. Gaethje 2,Middleweight,Roman Kopylov,185,-240,Claudio Ribeiro,185.5,195,KO (Head Kick),2,0:33
+"Jul 29, 2023",UFC 291 - Poirier vs. Gaethje 2,Welterweight,Jake Matthews,170,-260,Darrius Flowers,170.5,220,Submission (Rear-Naked Choke),2,2:37
+"Jul 29, 2023",UFC 291 - Poirier vs. Gaethje 2,Welterweight,Uros Medic,170.5,175,Matthew Semelsberger,169.5,-205,TKO (Spinning Backfist and Punches),3,2:36
+"Jul 29, 2023",UFC 291 - Poirier vs. Gaethje 2,Flyweight,Miranda Maverick,125.5,-305,Priscila Cachoeira,125,240,Submission (Armbar),3,2:11
+"Jul 22, 2023",UFC Fight Night 224 - Aspinall vs. Tybura,Heavyweight,Tom Aspinall,258,-450,Marcin Tybura,246,350,TKO (Elbow and Punches),1,1:13
+"Jul 22, 2023",UFC Fight Night 224 - Aspinall vs. Tybura,Flyweight,Julija Stoliarenko,125,185,Molly McCann,125,-215,Submission (Armbar),1,1:55
+"Jul 22, 2023",UFC Fight Night 224 - Aspinall vs. Tybura,Featherweight,Nathaniel Wood,146,-195,Andre Fili,145,165,Decision (Unanimous),3,5:00
+"Jul 22, 2023",UFC Fight Night 224 - Aspinall vs. Tybura,Middleweight,Paul Craig,186,185,Andre Muniz,185,-215,TKO (Elbows),2,4:40
+"Jul 22, 2023",UFC Fight Night 224 - Aspinall vs. Tybura,Lightweight,Fares Ziam,155,-155,Jai Herbert,155,135,Decision (Unanimous),3,5:00
+"Jul 22, 2023",UFC Fight Night 224 - Aspinall vs. Tybura,Featherweight,Lerone Murphy,146,-140,Joshua Culibao,146,120,Decision (Unanimous),3,5:00
+"Jul 22, 2023",UFC Fight Night 224 - Aspinall vs. Tybura,Bantamweight,Daniel Marcos,136,-140,Davey Grant,136,120,Decision (Split),3,5:00
+"Jul 22, 2023",UFC Fight Night 224 - Aspinall vs. Tybura,Welterweight,Jonny Parsons,171,-110,Danny Roberts,171,-110,TKO (Punches),2,4:57
+"Jul 22, 2023",UFC Fight Night 224 - Aspinall vs. Tybura,Lightweight,Joel Alvarez,156,-190,Marc Diakiese,156,160,Submission (Brabo Choke),2,4:26
+"Jul 22, 2023",UFC Fight Night 224 - Aspinall vs. Tybura,Heavyweight,Mick Parkin,264,135,Jamal Pogues,266,-155,Decision (Unanimous),3,5:00
+"Jul 22, 2023",UFC Fight Night 224 - Aspinall vs. Tybura,Middleweight,Makhmud Muradov,186,-315,Bryan Barberena,185,245,Decision (Unanimous),3,5:00
+"Jul 22, 2023",UFC Fight Night 224 - Aspinall vs. Tybura,Bantamweight,Ketlen Vieira,135,-150,Pannie Kianzad,136,130,Decision (Unanimous),3,5:00
+"Jul 22, 2023",UFC Fight Night 224 - Aspinall vs. Tybura,Lightweight,Chris Duncan,156,-140,Yanal Ashmouz,155,120,Decision (Unanimous),3,5:00
+"Jul 22, 2023",UFC Fight Night 224 - Aspinall vs. Tybura,Strawweight,Bruna Brasil,115,-150,Shauna Bannon,115,130,Decision (Unanimous),3,5:00
+"Jul 22, 2023",UFC Fight Night 224 - Aspinall vs. Tybura,Flyweight,Jafel Filho,126,-125,Daniel Barez,125,105,Submission (Arm-Triangle Choke),1,3:26
+"Jul 15, 2023",UFC on ESPN 49 - Holm vs. Bueno Silva,Bantamweight,Mayra Bueno Silva,136,145,Holly Holm,135.5,-170,No Contest (Overturned),2,0:38
+"Jul 15, 2023",UFC on ESPN 49 - Holm vs. Bueno Silva,Welterweight,Jack Della Maddalena,171,-625,Bassil Hafez,171,440,Decision (Split),3,5:00
+"Jul 15, 2023",UFC on ESPN 49 - Holm vs. Bueno Silva,Lightweight,Francisco Prado,156,-120,Ottman Azaitar,156,100,TKO (Punches),1,4:05
+"Jul 15, 2023",UFC on ESPN 49 - Holm vs. Bueno Silva,Middleweight,Jun Yong Park,186,-155,Albert Duraev,185,135,Submission (Rear-Naked Choke),2,4:45
+"Jul 15, 2023",UFC on ESPN 49 - Holm vs. Bueno Silva,Featherweight,Norma Dumont,145.5,-140,Chelsea Chandler,145.5,120,Decision (Unanimous),3,5:00
+"Jul 15, 2023",UFC on ESPN 49 - Holm vs. Bueno Silva,Lightweight,Nazim Sadykhov,156,-150,Terrance McKinney,156,130,Submission (Rear-Naked Choke),2,1:07
+"Jul 15, 2023",UFC on ESPN 49 - Holm vs. Bueno Silva,Featherweight,Melsik Baghdasaryan,145.5,-165,Tucker Lutz,146,140,Decision (Unanimous),3,5:00
+"Jul 15, 2023",UFC on ESPN 49 - Holm vs. Bueno Silva,Strawweight,Victoria Dudakova,116,-210,Istela Nunes,115.5,180,TKO (Arm Injury),1,0:34
+"Jul 15, 2023",UFC on ESPN 49 - Holm vs. Bueno Silva,Featherweight,Melquizael Costa,146,-210,Austin Lingo,145.5,180,Decision (Unanimous),3,5:00
+"Jul 15, 2023",UFC on ESPN 49 - Holm vs. Bueno Silva,Lightweight,Evan Elder,156,-295,Genaro Valdez,156,245,Decision (Unanimous),3,5:00
+"Jul 15, 2023",UFC on ESPN 49 - Holm vs. Bueno Silva,Flyweight,Azat Maksum,126,-410,Tyson Nam,126,310,Decision (Split),3,5:00
+"Jul 15, 2023",UFC on ESPN 49 - Holm vs. Bueno Silva,Lightweight,Alex Munoz,155.5,-150,Carl Deaton,156,130,Decision (Unanimous),3,5:00
+"Jul 15, 2023",UFC on ESPN 49 - Holm vs. Bueno Silva,Bantamweight,Ailin Perez,135.5,-200,Ashlee Evans-Smith,135.5,170,Decision (Unanimous),3,5:00
+"Jul 8, 2023",UFC 290 - Volkanovski vs. Rodriguez,Featherweight Title Fight,Alexander Volkanovski,144.5,-380,Yair Rodriguez,145,290,TKO (Punches),3,4:19
+"Jul 8, 2023",UFC 290 - Volkanovski vs. Rodriguez,Flyweight Title Fight,Alexandre Pantoja,125,160,Brandon Moreno,125,-190,Decision (Split),5,5:00
+"Jul 8, 2023",UFC 290 - Volkanovski vs. Rodriguez,Middleweight,Dricus Du Plessis,186,300,Robert Whittaker,185.5,-400,TKO (Punches),2,2:23
+"Jul 8, 2023",UFC 290 - Volkanovski vs. Rodriguez,158lb Catchweight,Dan Hooker,155.5,230,Jalin Turner,158,-275,Decision (Split),3,5:00
+"Jul 8, 2023",UFC 290 - Volkanovski vs. Rodriguez,Middleweight,Bo Nickal,186,-2400,Valentine Woodburn,185.5,1200,TKO (Punches),1,0:38
+"Jul 8, 2023",UFC 290 - Volkanovski vs. Rodriguez,Welterweight,Robbie Lawler,170.5,225,Niko Price,171,-265,KO (Punches),1,0:38
+"Jul 8, 2023",UFC 290 - Volkanovski vs. Rodriguez,130lb Catchweight,Tatsuro Taira,130,-950,Edgar Chairez,129,650,Decision (Unanimous),3,5:00
+"Jul 8, 2023",UFC 290 - Volkanovski vs. Rodriguez,Strawweight,Denise Gomes,115.5,295,Yazmin Jauregui,115.5,-390,TKO (Punches),1,0:20
+"Jul 8, 2023",UFC 290 - Volkanovski vs. Rodriguez,Light Heavyweight,Alonzo Menifield,205.5,100,Jimmy Crute,205,-120,Submission (Guillotine Choke),2,1:55
+"Jul 8, 2023",UFC 290 - Volkanovski vs. Rodriguez,Light Heavyweight,Vitor Petrino,206,-285,Marcin Prachnio,206,240,Submission (Arm-Triangle Choke),3,3:42
+"Jul 8, 2023",UFC 290 - Volkanovski vs. Rodriguez,Bantamweight,Cameron Saaiman,135,-520,Terrence Mitchell,135,380,TKO (Punches),1,3:10
+"Jul 8, 2023",UFC 290 - Volkanovski vs. Rodriguez,Flyweight,Jesus Santos Aguilar,126,-140,Shannon Ross,126,120,KO (Punch),1,0:17
+"Jul 8, 2023",UFC 290 - Volkanovski vs. Rodriguez,Lightweight,Esteban Ribovics,156,-140,Kamuela Kirk,155.5,120,Decision (Unanimous),3,5:00
+"Jul 1, 2023",UFC on ESPN 48 - Strickland vs. Magomedov,Middleweight,Sean Strickland,186,-145,Abusupiyan Magomedov,186,125,TKO (Punches),2,4:20
+"Jul 1, 2023",UFC on ESPN 48 - Strickland vs. Magomedov,Lightweight,Grant Dawson,156,-105,Damir Ismagulov,156,-115,Decision (Unanimous),3,5:00
+"Jul 1, 2023",UFC on ESPN 48 - Strickland vs. Magomedov,Welterweight,Michael Morales,170.5,-240,Max Griffin,170.5,200,Decision (Unanimous),3,5:00
+"Jul 1, 2023",UFC on ESPN 48 - Strickland vs. Magomedov,Flyweight,Ariane Lipski da Silva,126,180,Melissa Gatto,125.5,-210,Decision (Split),3,5:00
+"Jul 1, 2023",UFC on ESPN 48 - Strickland vs. Magomedov,Lightweight,Benoit St. Denis,156,245,Ismael Bonfim,156,-295,Submission (Face Crank),1,4:48
+"Jul 1, 2023",UFC on ESPN 48 - Strickland vs. Magomedov,Middleweight,Nursulton Ruziboev,183.5,165,Brunno Ferreira,185,-195,KO (Punches),1,1:17
+"Jul 1, 2023",UFC on ESPN 48 - Strickland vs. Magomedov,Welterweight,Rinat Fakhretdinov,171,-200,Kevin Lee,171,170,Technical Submission (Guillotine Choke),1,0:55
+"Jul 1, 2023",UFC on ESPN 48 - Strickland vs. Magomedov,Featherweight,Joanderson Brito,145.5,-1400,Westin Wilson,146,850,KO (Punches),1,2:54
+"Jul 1, 2023",UFC on ESPN 48 - Strickland vs. Magomedov,Featherweight,Karol Rosa,146,-175,Yana Santos,144.5,150,Decision (Split),3,5:00
+"Jul 1, 2023",UFC on ESPN 48 - Strickland vs. Magomedov,Lightweight,Elves Brener,155,450,Guram Kutateladze,155,-600,TKO (Punches),3,3:17
+"Jul 1, 2023",UFC on ESPN 48 - Strickland vs. Magomedov,Flyweight,Luana Carolina,126,180,Ivana Petrovic,125.5,-210,Decision (Unanimous),3,5:00
+"Jul 1, 2023",UFC on ESPN 48 - Strickland vs. Magomedov,Heavyweight,Alexander Romanov,264,-135,Blagoy Ivanov,259,115,Decision (Unanimous),3,5:00
+"Jun 24, 2023",UFC on ABC 5 - Emmett vs. Topuria,Featherweight,Ilia Topuria,146,-320,Josh Emmett,145.5,265,Decision (Unanimous),5,5:00
+"Jun 24, 2023",UFC on ABC 5 - Emmett vs. Topuria,Flyweight,Maycee Barber,126,165,Amanda Ribas,125,-195,TKO (Punches and Elbows),2,3:42
+"Jun 24, 2023",UFC on ABC 5 - Emmett vs. Topuria,Heavyweight,Justin Tafa,266,-175,Austen Lane,245.5,150,No Contest (Accidental Eye Poke),1,0:29
+"Jun 24, 2023",UFC on ABC 5 - Emmett vs. Topuria,Featherweight,David Onama,146,195,Gabriel Santos,145,-230,KO (Punch),2,4:13
+"Jun 24, 2023",UFC on ABC 5 - Emmett vs. Topuria,Middleweight,Brendan Allen,185.5,-180,Bruno Silva,186,155,Submission (Rear-Naked Choke),1,4:39
+"Jun 24, 2023",UFC on ABC 5 - Emmett vs. Topuria,Welterweight,Neil Magny,171,-165,Philip Rowe,171,140,Decision (Split),3,5:00
+"Jun 24, 2023",UFC on ABC 5 - Emmett vs. Topuria,Welterweight,Randy Brown,171,-225,Wellington Turman,171,190,Decision (Unanimous),3,5:00
+"Jun 24, 2023",UFC on ABC 5 - Emmett vs. Topuria,158lb Catchweight,Mateusz Rebecki,155.5,-155,Loik Radzhabov,157.25: Missed Weight,135,TKO (Punch),2,2:36
+"Jun 24, 2023",UFC on ABC 5 - Emmett vs. Topuria,Strawweight,Tabatha Ricci,114,-130,Gillian Robertson,116,110,Decision (Unanimous),3,5:00
+"Jun 24, 2023",UFC on ABC 5 - Emmett vs. Topuria,Flyweight,Joshua Van,125.25,165,Zhalgas Zhumagulov,125.5,-195,Decision (Split),3,5:00
+"Jun 24, 2023",UFC on ABC 5 - Emmett vs. Topuria,Lightweight,Jose Mariscal,154,-110,Trevor Peek,156,-110,Decision (Unanimous),3,5:00
+"Jun 24, 2023",UFC on ABC 5 - Emmett vs. Topuria,Featherweight,Jack Jenkins,145.5,170,Jamall Emmers,146,-200,Decision (Split),3,5:00
+"Jun 24, 2023",UFC on ABC 5 - Emmett vs. Topuria,Middleweight,Sedriques Dumas,185,165,Cody Brundage,186,-195,Decision (Unanimous),3,5:00
+"Jun 17, 2023",UFC on ESPN 47 - Vettori vs. Cannonier,Middleweight,Jared Cannonier,185.5,-105,Marvin Vettori,185.5,-115,Decision (Unanimous),5,5:00
+"Jun 17, 2023",UFC on ESPN 47 - Vettori vs. Cannonier,Lightweight,Arman Tsarukyan,155.5,-1050,Joaquim Silva,155.5,700,TKO (Punches),3,3:25
+"Jun 17, 2023",UFC on ESPN 47 - Vettori vs. Cannonier,Middleweight,Armen Petrosyan,186,120,Christian Leroy Duncan,186,-140,Decision (Unanimous),3,5:00
+"Jun 17, 2023",UFC on ESPN 47 - Vettori vs. Cannonier,Featherweight,Pat Sabatini,145,-190,Lucas Almeida,145.5,160,Submission (Arm-Triangle Choke),2,1:48
+"Jun 17, 2023",UFC on ESPN 47 - Vettori vs. Cannonier,Lightweight,Manuel Torres,156,-180,Nikolas Motta,155.5,155,KO (Elbow),1,1:50
+"Jun 17, 2023",UFC on ESPN 47 - Vettori vs. Cannonier,Welterweight,Nicolas Dalby,170.5,160,Muslim Salikhov,170,-190,Decision (Unanimous),3,5:00
+"Jun 17, 2023",UFC on ESPN 47 - Vettori vs. Cannonier,Flyweight,Alessandro Costa,126,-255,Jimmy Flick,125.5,215,TKO (Elbows),2,1:03
+"Jun 17, 2023",UFC on ESPN 47 - Vettori vs. Cannonier,Bantamweight,Kyung Ho Kang,135.5,140,Cristian Quinonez,135,-165,Submission (Rear-Naked Choke),1,2:25
+"Jun 17, 2023",UFC on ESPN 47 - Vettori vs. Cannonier,Flyweight,Carlos Hernandez,125,110,Denys Bondar,126,-130,Technical Decision (Unanimous),3,4:59
+"Jun 17, 2023",UFC on ESPN 47 - Vettori vs. Cannonier,Flyweight,Tereza Bleda,125,-245,Gabriella Fernandes,126,205,Decision (Unanimous),3,5:00
+"Jun 17, 2023",UFC on ESPN 47 - Vettori vs. Cannonier,Bantamweight,Dan Argueta,136,160,Ronnie Lawrence,136,-190,No Contest (Premature Stoppage),1,2:20
+"Jun 17, 2023",UFC on ESPN 47 - Vettori vs. Cannonier,Light Heavyweight,Modestas Bukauskas,205,-200,Zac Pauga,205,170,Decision (Unanimous),3,5:00
+"Jun 10, 2023",UFC 289 - Nunes vs. Aldana,Bantamweight Title Fight,Amanda Nunes,135,-320,Irene Aldana,135,265,Decision (Unanimous),5,5:00
+"Jun 10, 2023",UFC 289 - Nunes vs. Aldana,Lightweight,Charles Oliveira,154,120,Beneil Dariush,156,-140,TKO (Punches),1,4:10
+"Jun 10, 2023",UFC 289 - Nunes vs. Aldana,Welterweight,Mike Malott,169.5,-205,Adam Fugitt,170.75,175,Submission (Guillotine Choke),2,1:06
+"Jun 10, 2023",UFC 289 - Nunes vs. Aldana,Featherweight,Dan Ige,145.5,-250,Nate Landwehr,145.25,210,Decision (Unanimous),3,5:00
+"Jun 10, 2023",UFC 289 - Nunes vs. Aldana,Middleweight,Marc-Andre Barriault,185,-135,Eryk Anders,184.75,115,Decision (Unanimous),3,5:00
+"Jun 10, 2023",UFC 289 - Nunes vs. Aldana,Middleweight,Nassourdine Imavov,185.5,-175,Chris Curtis,185.25,145,No Contest (Accidental Clash of Heads),2,3:04
+"Jun 10, 2023",UFC 289 - Nunes vs. Aldana,Flyweight,Jasmine Jasudavicius,125.25,245,Miranda Maverick,125.5,-295,Decision (Unanimous),3,5:00
+"Jun 10, 2023",UFC 289 - Nunes vs. Aldana,Bantamweight,Aiemann Zahabi,135.75,105,Qileng Aori,135,-125,KO (Punches),1,1:04
+"Jun 10, 2023",UFC 289 - Nunes vs. Aldana,Featherweight,Kyle Nelson,145,200,Blake Bilder,145.5,-240,Decision (Unanimous),3,5:00
+"Jun 10, 2023",UFC 289 - Nunes vs. Aldana,Flyweight,Steve Erceg,125.5,220,David Dvorak,125.5,-260,Decision (Unanimous),3,5:00
+"Jun 10, 2023",UFC 289 - Nunes vs. Aldana,Strawweight,Diana Belbita,114.5,-115,Maria Oliveira,115.5,-105,Decision (Unanimous),3,5:00
+"Jun 3, 2023",UFC on ESPN 46 - Kara-France vs. Albazi,Flyweight,Amir Albazi,126,-110,Kai Kara-France,125.5,-110,Decision (Split),5,5:00
+"Jun 3, 2023",UFC on ESPN 46 - Kara-France vs. Albazi,Featherweight,Alex Caceres,145,-175,Daniel Pineda,145.5,150,Decision (Unanimous),3,5:00
+"Jun 3, 2023",UFC on ESPN 46 - Kara-France vs. Albazi,Lightweight,Jim Miller,155.5,NA,Jesse Butler,154.5,NA,KO (Punch),1,0:23
+"Jun 3, 2023",UFC on ESPN 46 - Kara-France vs. Albazi,Flyweight,Tim Elliott,126,-175,Victor Altamirano,124.5,150,Decision (Unanimous),3,5:00
+"Jun 3, 2023",UFC on ESPN 46 - Kara-France vs. Albazi,Flyweight,Karine Silva,125.5,-225,Ketlen Souza,124.5,190,Submission (Kneebar),1,1:45
+"Jun 3, 2023",UFC on ESPN 46 - Kara-France vs. Albazi,Welterweight,Elizeu Zaleski dos Santos,171,-110,Abubakar Nurmagomedov,170,-110,Decision (Split),3,5:00
+"Jun 3, 2023",UFC on ESPN 46 - Kara-France vs. Albazi,Bantamweight,Daniel Santos,135.5,-205,Johnny Munoz Jr.,136,175,Decision (Unanimous),3,5:00
+"Jun 3, 2023",UFC on ESPN 46 - Kara-France vs. Albazi,Heavyweight,Don'Tale Mayes,262.5,-125,Andrei Arlovski,245,105,TKO (Punches),2,3:17
+"Jun 3, 2023",UFC on ESPN 46 - Kara-France vs. Albazi,Bantamweight,John Castaneda,136,NA,Muin Gafurov,136,NA,Decision (Unanimous),3,5:00
+"Jun 3, 2023",UFC on ESPN 46 - Kara-France vs. Albazi,Lightweight,Muhammadjon Naimov,155.5,400,Jamie Mullarkey,156,-500,TKO (Punches),2,2:59
+"Jun 3, 2023",UFC on ESPN 46 - Kara-France vs. Albazi,Strawweight,Elise Reed,115,-130,Jinh Yu Frey,116,110,Decision (Unanimous),3,5:00
+"Jun 3, 2023",UFC on ESPN 46 - Kara-France vs. Albazi,Bantamweight,Da'Mon Blackshear,136,125,Luan Lacerda,136,-145,TKO (Punches),2,3:54
+"Jun 3, 2023",UFC on ESPN 46 - Kara-France vs. Albazi,Light Heavyweight,Philipe Lins,205.5,115,Maxim Grishin,205,-135,Decision (Unanimous),3,5:00
+"May 20, 2023",UFC Fight Night 223 - Dern vs. Hill,Strawweight,Mackenzie Dern,115,-170,Angela Hill,114.5,145,Decision (Unanimous),5,5:00
+"May 20, 2023",UFC Fight Night 223 - Dern vs. Hill,Middleweight,Anthony Hernandez,186,-240,Edmen Shahbazyan,185.5,200,TKO (Elbows and Punches),3,1:01
+"May 20, 2023",UFC Fight Night 223 - Dern vs. Hill,120lb Catchweight,Lupita Godinez,119.5,-150,Emily Ducote,119.5,130,Decision (Unanimous),3,5:00
+"May 20, 2023",UFC Fight Night 223 - Dern vs. Hill,Welterweight,Joaquin Buckley,170.5,-225,Andre Fialho,169.5,190,TKO (Head Kick),2,4:15
+"May 20, 2023",UFC Fight Night 223 - Dern vs. Hill,Lightweight,Diego Ferreira,154.5,-155,Michael Johnson,155,135,KO (Punch),2,1:50
+"May 20, 2023",UFC Fight Night 223 - Dern vs. Hill,Lightweight,Viacheslav Borshchev,154.5,-165,Maheshate Hayisaer,155.5,140,TKO (Punches),2,2:37
+"May 20, 2023",UFC Fight Night 223 - Dern vs. Hill,118lb Catchweight,Karolina Kowalkiewicz,115.5,-130,Vanessa Demopoulos,117.5: Missed Weight,110,Decision (Unanimous),3,5:00
+"May 20, 2023",UFC Fight Night 223 - Dern vs. Hill,173lb Catchweight,Gilbert Urbina,170,200,Orion Cosce,172.5: Missed Weight,-120,TKO (Front Kick and Knees),2,2:55
+"May 20, 2023",UFC Fight Night 223 - Dern vs. Hill,Heavyweight,Rodrigo Nascimento,264.5,-200,Ilir Latifi,249.5,170,Decision (Split),3,5:00
+"May 20, 2023",UFC Fight Night 223 - Dern vs. Hill,Lightweight,Chase Hooper,156,120,Nick Fiore,154,-140,Decision (Unanimous),3,5:00
+"May 20, 2023",UFC Fight Night 223 - Dern vs. Hill,Flyweight,Natalia Silva,124.5,-800,Victoria Leonardo,124.5,575,TKO (Punches and Head Kick),1,2:58
+"May 20, 2023",UFC Fight Night 223 - Dern vs. Hill,Welterweight,Themba Gorimbo,170,-110,Takashi Sato,170.5,-110,Decision (Unanimous),3,5:00
+"May 13, 2023",UFC on ABC 4 - Rozenstruik vs. Almeida,Heavyweight,Jailton Almeida,231,-490,Jairzinho Rozenstruik,265,390,Submission (Rear-Naked Choke),1,3:43
+"May 13, 2023",UFC on ABC 4 - Rozenstruik vs. Almeida,Light Heavyweight,Johnny Walker,205.5,-110,Anthony Smith,205.5,-110,Decision (Unanimous),3,5:00
+"May 13, 2023",UFC on ABC 4 - Rozenstruik vs. Almeida,Welterweight,Ian Garry,170.5,-285,Daniel Rodriguez,170,240,TKO (Head Kick and Punches),1,2:57
+"May 13, 2023",UFC on ABC 4 - Rozenstruik vs. Almeida,Light Heavyweight,Carlos Ulberg,204.5,-410,Ihor Potieria,204.5,330,TKO (Punches),1,2:09
+"May 13, 2023",UFC on ABC 4 - Rozenstruik vs. Almeida,Welterweight,Alex Morono,169.5,-225,Tim Means,170.5,190,Submission (Guillotine Choke),2,2:09
+"May 13, 2023",UFC on ABC 4 - Rozenstruik vs. Almeida,Welterweight,Matt Brown,170,175,Court McGee,170.5,-205,KO (Punch),1,4:09
+"May 13, 2023",UFC on ABC 4 - Rozenstruik vs. Almeida,Heavyweight,Karl Williams,239.5,-410,Chase Sherman,254,330,Decision (Unanimous),3,5:00
+"May 13, 2023",UFC on ABC 4 - Rozenstruik vs. Almeida,140lb Catchweight,Douglas Silva de Andrade,139.5,135,Cody Stamann,139,-155,Decision (Unanimous),3,5:00
+"May 13, 2023",UFC on ABC 4 - Rozenstruik vs. Almeida,Flyweight,Mandy Bohm,126,165,Ji Yeon Kim,126,-195,Technical Decision (Split),3,1:55
+"May 13, 2023",UFC on ABC 4 - Rozenstruik vs. Almeida,173lb Catchweight,Bryan Battle,173: Missed Weight,120,Gabriel Green,170.5,-140,KO (Punch),1,0:14
+"May 13, 2023",UFC on ABC 4 - Rozenstruik vs. Almeida,Bantamweight,Tainara Lisboa,134,100,Jessica-Rose Clark,135.5,-120,Submission (Rear-Naked Choke),3,4:20
+"May 6, 2023",UFC 288 - Sterling vs. Cejudo,Bantamweight Title Fight,Aljamain Sterling,134,-105,Henry Cejudo,135,-115,Decision (Split),5,5:00
+"May 6, 2023",UFC 288 - Sterling vs. Cejudo,Welterweight,Belal Muhammad,170,105,Gilbert Burns,171,-125,Decision (Unanimous),5,5:00
+"May 6, 2023",UFC 288 - Sterling vs. Cejudo,Strawweight,Xiaonan Yan,115,165,Jessica Andrade,115,-195,KO (Punches),1,2:20
+"May 6, 2023",UFC 288 - Sterling vs. Cejudo,Featherweight,Movsar Evloev,145,-900,Diego Lopes,146,600,Decision (Unanimous),3,5:00
+"May 6, 2023",UFC 288 - Sterling vs. Cejudo,Featherweight,Charles Jourdain,145,-180,Kron Gracie,145,155,Decision (Unanimous),3,5:00
+"May 6, 2023",UFC 288 - Sterling vs. Cejudo,Lightweight,Matt Frevola,155,175,Drew Dober,155.5,-205,TKO (Punches),1,4:08
+"May 6, 2023",UFC 288 - Sterling vs. Cejudo,Light Heavyweight,Kennedy Nzechukwu,205,-190,Devin Clark,205,160,Technical Submission (Guillotine Choke),2,2:28
+"May 6, 2023",UFC 288 - Sterling vs. Cejudo,Welterweight,Kalinn Williams,169,-305,Rolando Bedoya,170,255,Decision (Split),3,5:00
+"May 6, 2023",UFC 288 - Sterling vs. Cejudo,Strawweight,Virna Jandiroba,115,120,Marina Rodriguez,115,-140,Decision (Unanimous),3,5:00
+"May 6, 2023",UFC 288 - Sterling vs. Cejudo,Heavyweight,Parker Porter,249,-170,Braxton Smith,262,145,TKO (Punches),1,2:10
+"May 6, 2023",UFC 288 - Sterling vs. Cejudo,Middleweight,Ikram Aliskerov,186,-210,Phil Hawes,185,180,KO (Punches),1,2:10
+"May 6, 2023",UFC 288 - Sterling vs. Cejudo,189lb Catchweight,Claudio Ribeiro,185,-175,Joseph Holmes,189: Missed Weight,150,TKO (Punches),2,3:21
+"Apr 29, 2023",UFC on ESPN 45 - Song vs. Simon,Bantamweight,Yadong Song,136,-105,Ricky Simon,136,-115,TKO (Punches),5,1:10
+"Apr 29, 2023",UFC on ESPN 45 - Song vs. Simon,Middleweight,Caio Borralho,185.5,-360,Michal Oleksiejczuk,185.5,295,Submission (Rear-Naked Choke),2,2:49
+"Apr 29, 2023",UFC on ESPN 45 - Song vs. Simon,Middleweight,Rodolfo Vieira,186,-240,Cody Brundage,185.5,200,Submission (Arm-Triangle Choke),2,1:28
+"Apr 29, 2023",UFC on ESPN 45 - Song vs. Simon,Featherweight,Fernando Padilla,145.5,130,Julian Erosa,145.5,-150,TKO (Punches),1,1:41
+"Apr 29, 2023",UFC on ESPN 45 - Song vs. Simon,Heavyweight,Marcos Rogerio de Lima,262.5,-180,Waldo Cortes-Acosta,258,155,Decision (Unanimous),3,5:00
+"Apr 29, 2023",UFC on ESPN 45 - Song vs. Simon,Welterweight,Trey Waters,171,155,Josh Quinlan,169,-180,Decision (Unanimous),3,5:00
+"Apr 29, 2023",UFC on ESPN 45 - Song vs. Simon,Heavyweight,Martin Buday,265,-105,Jake Collier,265.5,-115,Decision (Unanimous),3,5:00
+"Apr 29, 2023",UFC on ESPN 45 - Song vs. Simon,Flyweight,Cody Durden,126,125,Charles Johnson,125.5,-145,Decision (Unanimous),3,5:00
+"Apr 29, 2023",UFC on ESPN 45 - Song vs. Simon,140lb Catchweight,Irina Alekseeva,140: Missed Weight,255,Stephanie Egger,135,-305,Submission (Kneebar),1,2:11
+"Apr 29, 2023",UFC on ESPN 45 - Song vs. Simon,140lb Catchweight,Marcus McGhee,140,NA,Journey Newson,138.5,NA,Submission (Rear-Naked Choke),2,2:03
+"Apr 29, 2023",UFC on ESPN 45 - Song vs. Simon,138lb Catchweight,Jamey-Lyn Horth,135.5,-140,Hailey Cowan,137.5: Missed Weight,120,Decision (Unanimous),3,5:00
+"Apr 15, 2023",UFC on ESPN 44 - Holloway vs. Allen,Featherweight,Max Holloway,146,-175,Arnold Allen,146,150,Decision (Unanimous),5,5:00
+"Apr 15, 2023",UFC on ESPN 44 - Holloway vs. Allen,Featherweight,Edson Barboza,146,150,Billy Quarantillo,146,-175,KO (Knee),1,2:37
+"Apr 15, 2023",UFC on ESPN 44 - Holloway vs. Allen,Light Heavyweight,Azamat Murzakanov,205,135,Dustin Jacoby,206,-155,Decision (Unanimous),3,5:00
+"Apr 15, 2023",UFC on ESPN 44 - Holloway vs. Allen,Light Heavyweight,Ion Cutelaba,206,-130,Tanner Boser,203,110,TKO (Punches),1,2:05
+"Apr 15, 2023",UFC on ESPN 44 - Holloway vs. Allen,Bantamweight,Pedro Munhoz,136,170,Chris Gutierrez,136,-200,Decision (Unanimous),3,5:00
+"Apr 15, 2023",UFC on ESPN 44 - Holloway vs. Allen,Lightweight,Rafa Garcia,155,-260,Clay Guida,154.5,220,Decision (Unanimous),3,5:00
+"Apr 15, 2023",UFC on ESPN 44 - Holloway vs. Allen,Featherweight,Bill Algeo,146,-210,T.J. Brown,146,180,Submission (Rear-Naked Choke),2,1:40
+"Apr 15, 2023",UFC on ESPN 44 - Holloway vs. Allen,Flyweight,Brandon Royval,126,180,Matheus Nicolau,126,-210,KO (Knee and Elbows),1,2:09
+"Apr 15, 2023",UFC on ESPN 44 - Holloway vs. Allen,Light Heavyweight,Zak Cummings,206,-225,Ed Herman,206,190,TKO (Punches),3,4:13
+"Apr 15, 2023",UFC on ESPN 44 - Holloway vs. Allen,Strawweight,Gillian Robertson,116,-125,Piera Rodriguez,116,105,Submission (Armbar),2,4:21
+"Apr 15, 2023",UFC on ESPN 44 - Holloway vs. Allen,Lightweight,Daniel Zellhuber,156,-120,Lando Vannata,156,100,Decision (Unanimous),3,5:00
+"Apr 15, 2023",UFC on ESPN 44 - Holloway vs. Allen,Strawweight,Denise Gomes,115,145,Bruna Brasil,116,-170,TKO (Punches),2,2:42
+"Apr 15, 2023",UFC on ESPN 44 - Holloway vs. Allen,Bantamweight,Gaston Bolanos,136,-190,Aaron Phillips,136,160,Decision (Unanimous),3,5:00
+"Apr 15, 2023",UFC on ESPN 44 - Holloway vs. Allen,137lb Catchweight,Joselyne Edwards,136.5: Missed Weight,115,Lucie Pudilova,136,-135,Decision (Split),3,5:00
+"Apr 22, 2023",UFC Fight Night 222 - Pavlovich vs. Blaydes,Heavyweight,Sergei Pavlovich,260.5,145,Curtis Blaydes,262.5,-170,TKO (Punches),1,3:08
+"Apr 22, 2023",UFC Fight Night 222 - Pavlovich vs. Blaydes,Middleweight,Bruno Silva,186,135,Brad Tavares,185,-155,TKO (Knee and Punch),1,3:35
+"Apr 22, 2023",UFC Fight Night 222 - Pavlovich vs. Blaydes,Lightweight,Bobby Green,156,-250,Jared Gordon,155.5,210,No Contest (Accidental Clash of Heads),1,4:35
+"Apr 22, 2023",UFC Fight Night 222 - Pavlovich vs. Blaydes,Flyweight,Iasmin Lucindo,126,-330,Brogan Walker,126,275,Decision (Unanimous),3,5:00
+"Apr 22, 2023",UFC Fight Night 222 - Pavlovich vs. Blaydes,Welterweight,Jeremiah Wells,171,-110,Matthew Semelsberger,171,-110,Decision (Split),3,5:00
+"Apr 22, 2023",UFC Fight Night 222 - Pavlovich vs. Blaydes,Lightweight,Christos Giagos,155.5,140,Ricky Glenn,155.5,-165,KO (Punch),1,1:35
+"Apr 22, 2023",UFC Fight Night 222 - Pavlovich vs. Blaydes,Bantamweight,Montel Jackson,136,-560,Rani Yahya,136,430,KO (Punches),1,3:42
+"Apr 22, 2023",UFC Fight Night 222 - Pavlovich vs. Blaydes,Featherweight,Norma Dumont,145,-115,Karol Rosa,144.5,-105,Decision (Unanimous),3,5:00
+"Apr 22, 2023",UFC Fight Night 222 - Pavlovich vs. Blaydes,Heavyweight,Mohammed Usman,239.5,-105,Junior Tafa,252,-115,Decision (Unanimous),3,5:00
+"Apr 22, 2023",UFC Fight Night 222 - Pavlovich vs. Blaydes,Featherweight,William Gomis,146,175,Francis Marshall,146,-205,Decision (Split),3,5:00
+"Apr 22, 2023",UFC Fight Night 222 - Pavlovich vs. Blaydes,Bantamweight,Brady Hiestand,136,120,Batgerel Danaa,136,-140,TKO (Punches),3,4:21
+"Apr 8, 2023",UFC 287 - Pereira vs. Adesanya 2,Middleweight Title Fight,Israel Adesanya,184.5,-130,Alex Pereira,185,110,KO (Punches),2,4:21
+"Apr 8, 2023",UFC 287 - Pereira vs. Adesanya 2,Welterweight,Gilbert Burns,170,-490,Jorge Masvidal,171,390,Decision (Unanimous),3,5:00
+"Apr 8, 2023",UFC 287 - Pereira vs. Adesanya 2,Bantamweight,Rob Font,135,155,Adrian Yanez,135.5,-180,TKO (Punches),1,2:57
+"Apr 8, 2023",UFC 287 - Pereira vs. Adesanya 2,Welterweight,Kevin Holland,170.5,-245,Santiago Ponzinibbio,171,205,KO (Punch),3,3:16
+"Apr 8, 2023",UFC 287 - Pereira vs. Adesanya 2,137lb Catchweight,Christian Rodriguez,137,190,Raul Rosas Jr.,135,-225,Decision (Unanimous),3,5:00
+"Apr 8, 2023",UFC 287 - Pereira vs. Adesanya 2,Middleweight,Kelvin Gastelum,185,-125,Chris Curtis,186,105,Decision (Unanimous),3,5:00
+"Apr 8, 2023",UFC 287 - Pereira vs. Adesanya 2,Strawweight,Luana Pinheiro,115.5,-165,Michelle Waterson-Gomez,116,140,Decision (Split),3,5:00
+"Apr 8, 2023",UFC 287 - Pereira vs. Adesanya 2,Middleweight,Joe Pyfer,185.5,-190,Gerald Meerschaert,185.5,160,TKO (Punches),1,3:15
+"Apr 8, 2023",UFC 287 - Pereira vs. Adesanya 2,Strawweight,Lupita Godinez,115.5,-275,Cynthia Calvillo,116,230,Decision (Split),3,5:00
+"Apr 8, 2023",UFC 287 - Pereira vs. Adesanya 2,160lb Catchweight,Ignacio Bahamondes,159.5,-345,Trey Ogden,159.5,285,Decision (Unanimous),3,5:00
+"Apr 8, 2023",UFC 287 - Pereira vs. Adesanya 2,Featherweight,Steve Garcia,145.5,170,Nuerdanbieke Shayilan,146,-200,KO (Body Kick and Punches),2,0:36
+"Apr 8, 2023",UFC 287 - Pereira vs. Adesanya 2,Strawweight,Sam Hughes,116,205,Jaqueline Amorim,115.5,-245,Decision (Unanimous),3,5:00
+"Mar 25, 2023",UFC on ESPN 43 - Vera vs. Sandhagen,Bantamweight,Cory Sandhagen,135.5,-165,Marlon Vera,136,140,Decision (Split),5,5:00
+"Mar 25, 2023",UFC on ESPN 43 - Vera vs. Sandhagen,Bantamweight,Holly Holm,135.5,-240,Yana Santos,135,200,Decision (Unanimous),3,5:00
+"Mar 25, 2023",UFC on ESPN 43 - Vera vs. Sandhagen,Featherweight,Nate Landwehr,145.5,-225,Austin Lingo,146,190,Submission (Rear-Naked Choke),2,4:11
+"Mar 25, 2023",UFC on ESPN 43 - Vera vs. Sandhagen,Flyweight,Maycee Barber,125.5,-275,Andrea Lee,126,230,Decision (Split),3,5:00
+"Mar 25, 2023",UFC on ESPN 43 - Vera vs. Sandhagen,Middleweight,Albert Duraev,186,140,Chidi Njokuani,185,-165,Decision (Split),3,5:00
+"Mar 25, 2023",UFC on ESPN 43 - Vera vs. Sandhagen,Featherweight,Daniel Pineda,145.5,235,Tucker Lutz,146,-280,Submission (Guillotine Choke),2,2:50
+"Mar 25, 2023",UFC on ESPN 43 - Vera vs. Sandhagen,Featherweight,Lucas Alexander,146,145,Steven Peterson,146,-170,Decision (Unanimous),3,5:00
+"Mar 25, 2023",UFC on ESPN 43 - Vera vs. Sandhagen,Welterweight,Trevin Giles,170.5,-110,Preston Parsons,171,-110,Decision (Split),3,5:00
+"Mar 25, 2023",UFC on ESPN 43 - Vera vs. Sandhagen,Flyweight,C.J. Vergara,126,-240,Daniel Lacerda,126,200,TKO (Punches),2,4:04
+"Mar 25, 2023",UFC on ESPN 43 - Vera vs. Sandhagen,Flyweight,Victor Altamirano,124.5,-105,Vinicius Salvador,126,-115,Decision (Unanimous),3,5:00
+"Mar 18, 2023",UFC 286 - Edwards vs. Usman 3,Welterweight Title Fight,Leon Edwards,170,205,Kamaru Usman,170,-245,Decision (Majority),5,5:00
+"Mar 18, 2023",UFC 286 - Edwards vs. Usman 3,Lightweight,Justin Gaethje,156,190,Rafael Fiziev,156,-225,Decision (Majority),3,5:00
+"Mar 18, 2023",UFC 286 - Edwards vs. Usman 3,Welterweight,Gunnar Nelson,170,-365,Bryan Barberena,171,300,Submission (Armbar),1,4:51
+"Mar 18, 2023",UFC 286 - Edwards vs. Usman 3,Flyweight,Jennifer Maia,125,140,Casey O'Neill,125,-165,Decision (Unanimous),3,5:00
+"Mar 18, 2023",UFC 286 - Edwards vs. Usman 3,Middleweight,Marvin Vettori,185.5,-275,Roman Dolidze,186,230,Decision (Unanimous),3,5:00
+"Mar 18, 2023",UFC 286 - Edwards vs. Usman 3,Featherweight,Jack Shore,146,-500,Makwan Amirkhani,146,400,Submission (Rear-Naked Choke),2,4:27
+"Mar 18, 2023",UFC 286 - Edwards vs. Usman 3,Lightweight,Chris Duncan,156,105,Omar Morales,156,-125,Decision (Split),3,5:00
+"Mar 18, 2023",UFC 286 - Edwards vs. Usman 3,Lightweight,Yanal Ashmouz,155,255,Sam Patterson,155.5,-265,KO (Punches),1,1:15
+"Mar 18, 2023",UFC 286 - Edwards vs. Usman 3,Flyweight,Muhammad Mokaev,126,-800,Jafel Filho,125.5,575,Submission (Neck Crank),3,4:32
+"Mar 18, 2023",UFC 286 - Edwards vs. Usman 3,Featherweight,Lerone Murphy,145.5,-170,Gabriel Santos,145.5,145,Decision (Split),3,5:00
+"Mar 18, 2023",UFC 286 - Edwards vs. Usman 3,Middleweight,Christian Leroy Duncan,185.5,-215,Dusko Todorovic,186,185,TKO (Knee Injury),1,1:52
+"Mar 18, 2023",UFC 286 - Edwards vs. Usman 3,130lb Catchweight,Jake Hadley,126,-380,Malcolm Gordon,129.5: Missed Weight,310,TKO (Punches),1,1:01
+"Mar 18, 2023",UFC 286 - Edwards vs. Usman 3,Flyweight,Joanne Wood,126,-190,Luana Carolina,126,160,Decision (Split),3,5:00
+"Mar 18, 2023",UFC 286 - Edwards vs. Usman 3,Lightweight,Jai Herbert,156,160,Ludovit Klein,156,-190,Draw (Majority),3,5:00
+"Mar 18, 2023",UFC 286 - Edwards vs. Usman 3,Flyweight,Veronica Hardy,125.5,350,Juliana Miller,125.5,-435,Decision (Unanimous),3,5:00
+"Mar 11, 2023",UFC Fight Night 221 - Yan vs. Dvalishvili,Bantamweight,Merab Dvalishvili,134.5,215,Petr Yan,136,-255,Decision (Unanimous),5,5:00
+"Mar 11, 2023",UFC Fight Night 221 - Yan vs. Dvalishvili,Heavyweight,Alexander Volkov,258,130,Alexander Romanov,264.5,-150,TKO (Punches),1,2:16
+"Mar 11, 2023",UFC Fight Night 221 - Yan vs. Dvalishvili,215lb Catchweight,Nikita Krylov,213,-170,Ryan Spann,213,145,Submission (Triangle Choke),1,3:38
+"Mar 11, 2023",UFC Fight Night 221 - Yan vs. Dvalishvili,Bantamweight,Jonathan Martinez,135.5,200,Said Nurmagomedov,136,-240,Decision (Unanimous),3,5:00
+"Mar 11, 2023",UFC Fight Night 221 - Yan vs. Dvalishvili,Bantamweight,Mario Bautista,136,-1050,Guido Cannetti,136,700,Submission (Rear-Naked Choke),1,3:18
+"Mar 11, 2023",UFC Fight Night 221 - Yan vs. Dvalishvili,Light Heavyweight,Vitor Petrino,204,-110,Anton Turkalj,205,-110,Decision (Unanimous),3,5:00
+"Mar 11, 2023",UFC Fight Night 221 - Yan vs. Dvalishvili,Heavyweight,Karl Williams,240.5,-200,Lukasz Brzeski,245,170,Decision (Unanimous),3,5:00
+"Mar 11, 2023",UFC Fight Night 221 - Yan vs. Dvalishvili,Bantamweight,Davey Grant,136,-140,Raphael Assuncao,136,120,Technical Submission (Inverted Triangle Choke),3,4:43
+"Mar 11, 2023",UFC Fight Night 221 - Yan vs. Dvalishvili,Middleweight,Josh Fremd,186,155,Sedriques Dumas,184.5,-180,Submission (Guillotine Choke),2,3:00
+"Mar 11, 2023",UFC Fight Night 221 - Yan vs. Dvalishvili,Bantamweight,Victor Henry,136,-140,Tony Gravely,136,120,Decision (Split),3,5:00
+"Mar 11, 2023",UFC Fight Night 221 - Yan vs. Dvalishvili,Flyweight,Ariane Lipski da Silva,125.5,265,J.J. Aldrich,125.5,-320,Decision (Unanimous),3,5:00
+"Mar 11, 2023",UFC Fight Night 221 - Yan vs. Dvalishvili,Flyweight,Bruno Silva,125.5,-195,Tyson Nam,125.5,165,Technical Submission (Rear-Naked Choke),2,1:23
+"Mar 11, 2023",UFC Fight Night 221 - Yan vs. Dvalishvili,177lb Catchweight,Carlston Harris,169.5,-300,Jared Gooden,177: Missed Weight,250,Decision (Unanimous),3,5:00
+"Mar 4, 2023",UFC 285 - Jones vs. Gane,Heavyweight Title Fight,Jon Jones,248,-155,Ciryl Gane,247.5,135,Submission (Guillotine Choke),1,2:04
+"Mar 4, 2023",UFC 285 - Jones vs. Gane,Flyweight Title Fight,Alexa Grasso,124.5,450,Valentina Shevchenko,124.5,-600,Submission (Face Crank),4,4:34
+"Mar 4, 2023",UFC 285 - Jones vs. Gane,175lb Catchweight,Shavkat Rakhmonov,171,-500,Geoff Neal,175: Missed Weight,400,Submission (Rear-Naked Choke),3,4:17
+"Mar 4, 2023",UFC 285 - Jones vs. Gane,Lightweight,Mateusz Gamrot,156,-170,Jalin Turner,155.5,145,Decision (Split),3,5:00
+"Mar 4, 2023",UFC 285 - Jones vs. Gane,Middleweight,Bo Nickal,185.5,-1400,Jamie Pickett,186,850,Submission (Arm-Triangle Choke),1,2:54
+"Mar 4, 2023",UFC 285 - Jones vs. Gane,Bantamweight,Cody Garbrandt,136,-165,Trevin Jones,135,140,Decision (Unanimous),3,5:00
+"Mar 4, 2023",UFC 285 - Jones vs. Gane,Middleweight,Dricus Du Plessis,185,-240,Derek Brunson,185.5,200,TKO (Corner Stoppage),2,4:59
+"Mar 4, 2023",UFC 285 - Jones vs. Gane,Flyweight,Amanda Ribas,126,-130,Viviane Araujo,126,110,Decision (Unanimous),3,5:00
+"Mar 4, 2023",UFC 285 - Jones vs. Gane,Middleweight,Marc-Andre Barriault,185,-125,Julian Marquez,186,105,TKO (Punches),2,4:12
+"Mar 4, 2023",UFC 285 - Jones vs. Gane,Welterweight,Ian Garry,171,-620,Kenan Song,171,400,TKO (Punches),3,4:22
+"Mar 4, 2023",UFC 285 - Jones vs. Gane,137lb Catchweight,Cameron Saaiman,135,-250,Leomana Martinez,137: Missed Weight,210,Decision (Majority),3,5:00
+"Mar 4, 2023",UFC 285 - Jones vs. Gane,Strawweight,Tabatha Ricci,115.5,-230,Jessica Penne,116,195,Submission (Armbar),2,2:14
+"Mar 4, 2023",UFC 285 - Jones vs. Gane,Bantamweight,Farid Basharat,136,-410,Da'Mon Blackshear,136,330,Decision (Unanimous),3,5:00
+"Mar 4, 2023",UFC 285 - Jones vs. Gane,Lightweight,Loik Radzhabov,155.5,-250,Esteban Ribovics,156,210,Decision (Unanimous),3,5:00
+"Feb 25, 2023",UFC Fight Night 220 - Muniz vs. Allen,Middleweight,Brendan Allen,186,175,Andre Muniz,186,-205,Submission (Rear-Naked Choke),3,4:25
+"Feb 25, 2023",UFC Fight Night 220 - Muniz vs. Allen,Heavyweight,Augusto Sakai,265,-135,Don'Tale Mayes,261.5,115,Decision (Unanimous),3,5:00
+"Feb 25, 2023",UFC Fight Night 220 - Muniz vs. Allen,Flyweight,Tatiana Suarez,125,-750,Montana De La Rosa,125.5,550,Submission (Guillotine Choke),2,4:15
+"Feb 25, 2023",UFC Fight Night 220 - Muniz vs. Allen,Welterweight,Mike Malott,171,-215,Yohan Lainesse,171,185,Submission (Arm-Triangle Choke),1,4:15
+"Feb 25, 2023",UFC Fight Night 220 - Muniz vs. Allen,Lightweight,Trevor Peek,155.5,-190,Erick Gonzalez,156,160,KO (Punches),1,4:59
+"Feb 25, 2023",UFC Fight Night 220 - Muniz vs. Allen,Flyweight,Jasmine Jasudavicius,125.5,105,Gabriella Fernandes,126,-125,Decision (Unanimous),3,5:00
+"Feb 25, 2023",UFC Fight Night 220 - Muniz vs. Allen,Lightweight,Jordan Leavitt,155.5,-105,Victor Martinez,154.5,-115,TKO (Elbows and Knees),1,2:33
+"Feb 25, 2023",UFC Fight Night 220 - Muniz vs. Allen,130lb Catchweight,Ode Osbourne,130,145,Charles Johnson,130,-170,Decision (Split),3,5:00
+"Feb 25, 2023",UFC Fight Night 220 - Muniz vs. Allen,Lightweight,Joe Solecki,155.5,-520,Carl Deaton,156,410,Technical Submission (Rear-Naked Choke),2,4:55
+"Feb 25, 2023",UFC Fight Night 220 - Muniz vs. Allen,Lightweight,Nurullo Aliev,155,-180,Rafael Alves,155,155,Decision (Majority),3,5:00
+"Feb 18, 2023",UFC Fight Night 219 - Andrade vs. Blanchfield,Flyweight,Erin Blanchfield,125.5,140,Jessica Andrade,124,-165,Submission (Rear-Naked Choke),2,1:37
+"Feb 18, 2023",UFC Fight Night 219 - Andrade vs. Blanchfield,Light Heavyweight,Zac Pauga,205.5,-275,Jordan Wright,204,230,Decision (Unanimous),3,5:00
+"Feb 18, 2023",UFC Fight Night 219 - Andrade vs. Blanchfield,Heavyweight,Jamal Pogues,249.5,-240,Josh Parisian,266,200,Decision (Unanimous),3,5:00
+"Feb 18, 2023",UFC Fight Night 219 - Andrade vs. Blanchfield,Light Heavyweight,Marcin Prachnio,205,-105,William Knight,206,-115,Decision (Unanimous),3,5:00
+"Feb 18, 2023",UFC Fight Night 219 - Andrade vs. Blanchfield,Lightweight,Alexander Hernandez,156,-230,Jim Miller,155.5,195,Decision (Unanimous),3,5:00
+"Feb 18, 2023",UFC Fight Night 219 - Andrade vs. Blanchfield,Lightweight,Nazim Sadykhov,155.5,-170,Evan Elder,155.5,145,TKO (Doctor Stoppage),3,0:38
+"Feb 18, 2023",UFC Fight Night 219 - Andrade vs. Blanchfield,Bantamweight,Mayra Bueno Silva,136,-435,Lina Lansberg,135.5,350,Submission (Kneebar),2,4:45
+"Feb 18, 2023",UFC Fight Night 219 - Andrade vs. Blanchfield,Featherweight,Jamall Emmers,145,105,Khusein Askhabov,146,-125,Decision (Unanimous),3,5:00
+"Feb 18, 2023",UFC Fight Night 219 - Andrade vs. Blanchfield,Light Heavyweight,Philipe Lins,203.5,-225,Ovince St. Preux,206,190,KO (Punches),1,0:49
+"Feb 18, 2023",UFC Fight Night 219 - Andrade vs. Blanchfield,Welterweight,A.J. Fletcher,171,-255,Themba Gorimbo,171,215,Submission (Guillotine Choke),2,1:37
+"Feb 18, 2023",UFC Fight Night 219 - Andrade vs. Blanchfield,Flyweight,Clayton Carpenter,125,-280,Juancamilo Ronderos,125,235,Submission (Rear-Naked Choke),1,3:13
+"Feb 11, 2023",UFC 284 - Makhachev vs. Volkanovski,Lightweight Title Fight,Islam Makhachev,155,-365,Alexander Volkanovski,154.5,300,Decision (Unanimous),5,5:00
+"Feb 11, 2023",UFC 284 - Makhachev vs. Volkanovski,Featherweight Title Fight,Yair Rodriguez,145,-165,Josh Emmett,145,140,Submission (Triangle Choke),2,4:19
+"Feb 11, 2023",UFC 284 - Makhachev vs. Volkanovski,Welterweight,Jack Della Maddalena,171,-315,Randy Brown,171,260,Submission (Rear-Naked Choke),1,2:13
+"Feb 11, 2023",UFC 284 - Makhachev vs. Volkanovski,Heavyweight,Justin Tafa,266,-130,Parker Porter,264,110,KO (Punches),1,1:06
+"Feb 11, 2023",UFC 284 - Makhachev vs. Volkanovski,Light Heavyweight,Jimmy Crute,204.5,-205,Alonzo Menifield,206,175,Draw (Majority),3,5:00
+"Feb 11, 2023",UFC 284 - Makhachev vs. Volkanovski,Light Heavyweight,Modestas Bukauskas,206,200,Tyson Pedro,206,-240,Decision (Unanimous),3,5:00
+"Feb 11, 2023",UFC 284 - Makhachev vs. Volkanovski,Featherweight,Joshua Culibao,146,-120,Melsik Baghdasaryan,146,100,Submission (Rear-Naked Choke),2,2:02
+"Feb 11, 2023",UFC 284 - Makhachev vs. Volkanovski,127lb Catchweight,Kleydson Rodrigues,127: Missed Weight,-320,Shannon Ross,125.5,265,TKO (Punches),1,0:59
+"Feb 11, 2023",UFC 284 - Makhachev vs. Volkanovski,Lightweight,Jamie Mullarkey,155,-250,Francisco Prado,154.5,210,Decision (Unanimous),3,5:00
+"Feb 11, 2023",UFC 284 - Makhachev vs. Volkanovski,Featherweight,Jack Jenkins,145.5,-325,Don Shainis,146,270,Decision (Unanimous),3,5:00
+"Feb 11, 2023",UFC 284 - Makhachev vs. Volkanovski,Strawweight,Konklak Suphisara,115.5,-265,Elise Reed,115.5,225,Submission (Rear-Naked Choke),2,0:44
+"Feb 11, 2023",UFC 284 - Makhachev vs. Volkanovski,Featherweight,Blake Bilder,146,115,Shane Young,145.5,-135,Decision (Unanimous),3,5:00
+"Feb 11, 2023",UFC 284 - Makhachev vs. Volkanovski,158lb Catchweight,Elves Brener,155.5,420,Zubaira Tukhugov,157.5: Missed Weight,-540,Decision (Split),3,5:00
+"Feb 4, 2023",UFC Fight Night 218 - Lewis vs. Spivak,Heavyweight,Serghei Spivac,255.5,-230,Derrick Lewis,265,195,Submission (Arm-Triangle Choke),1,3:05
+"Feb 4, 2023",UFC Fight Night 218 - Lewis vs. Spivak,Light Heavyweight,Devin Clark,204.5,195,Da Woon Jung,205,-230,Decision (Unanimous),3,5:00
+"Feb 4, 2023",UFC Fight Night 218 - Lewis vs. Spivak,Heavyweight,Marcin Tybura,253.5,-145,Blagoy Ivanov,256.5,125,Decision (Unanimous),3,5:00
+"Feb 4, 2023",UFC Fight Night 218 - Lewis vs. Spivak,Featherweight,Doo Ho Choi,145.5,-190,Kyle Nelson,145.5,160,Draw (Majority),3,5:00
+"Feb 4, 2023",UFC Fight Night 218 - Lewis vs. Spivak,Welterweight,Adam Fugitt,170.5,250,Yusaku Kinoshita,170.5,-300,TKO (Elbows),1,4:36
+"Feb 4, 2023",UFC Fight Night 218 - Lewis vs. Spivak,Lightweight,Anshul Jubli,155.5,-110,Jeka Saragih,155,-110,TKO (Punches and Elbows),2,3:44
+"Feb 4, 2023",UFC Fight Night 218 - Lewis vs. Spivak,Featherweight,Jeong Yeong Lee,145,-250,Zha Yi,145.5,210,Decision (Split),3,5:00
+"Feb 4, 2023",UFC Fight Night 218 - Lewis vs. Spivak,Bantamweight,Rinya Nakamura,135,-500,Toshiomi Kazama,136,350,KO (Punch),1,0:33
+"Feb 4, 2023",UFC Fight Night 218 - Lewis vs. Spivak,Flyweight,Hyun Sung Park,124.5,-190,Seung Guk Choi,125.5,160,Submission (Rear-Naked Choke),3,3:11
+"Feb 4, 2023",UFC Fight Night 218 - Lewis vs. Spivak,Middleweight,Jun Yong Park,185.5,-270,Denis Tiuliulin,186,210,Technical Submission (Rear-Naked Choke),1,4:05
+"Feb 4, 2023",UFC Fight Night 218 - Lewis vs. Spivak,Flyweight,Tatsuro Taira,125.5,-1200,Jesus Santos Aguilar,125,800,Submission (Triangle Armbar),1,4:20
+"Jan 21, 2023",UFC 283 - Teixeira vs. Hill,Light Heavyweight Title Fight,Jamahal Hill,204.5,-125,Glover Teixeira,205,105,Decision (Unanimous),5,5:00
+"Jan 21, 2023",UFC 283 - Teixeira vs. Hill,Flyweight Title Fight,Brandon Moreno,125,-110,Deiveson Figueiredo,125,-110,TKO (Doctor Stoppage),3,5:00
+"Jan 21, 2023",UFC 283 - Teixeira vs. Hill,Welterweight,Gilbert Burns,170,-410,Neil Magny,171,330,Submission (Arm-Triangle Choke),1,4:15
+"Jan 21, 2023",UFC 283 - Teixeira vs. Hill,Flyweight,Jessica Andrade,125,-490,Lauren Murphy,125.5,390,Decision (Unanimous),3,5:00
+"Jan 21, 2023",UFC 283 - Teixeira vs. Hill,Light Heavyweight,Johnny Walker,205,-190,Paul Craig,205,160,TKO (Punches),1,2:16
+"Jan 21, 2023",UFC 283 - Teixeira vs. Hill,Light Heavyweight,Ihor Potieria,205,-200,Mauricio Rua,205,170,TKO (Punches),1,4:05
+"Jan 21, 2023",UFC 283 - Teixeira vs. Hill,Middleweight,Brunno Ferreira,185,275,Gregory Rodrigues,186,-330,KO (Punch),1,4:13
+"Jan 21, 2023",UFC 283 - Teixeira vs. Hill,Lightweight,Thiago Moises,155.5,-300,Melquizael Costa,155,250,Submission (Face Crank),2,4:05
+"Jan 21, 2023",UFC 283 - Teixeira vs. Hill,Welterweight,Gabriel Bonfim,171,-190,Mounir Lazzez,170.5,160,Submission (Guillotine Choke),1,0:49
+"Jan 21, 2023",UFC 283 - Teixeira vs. Hill,Heavyweight,Jailton Almeida,232,-900,Shamil Abdurakhimov,263,625,TKO (Punches),2,2:56
+"Jan 21, 2023",UFC 283 - Teixeira vs. Hill,Bantamweight,Cody Stamann,135,-340,Luan Lacerda,136,280,Decision (Unanimous),3,5:00
+"Jan 21, 2023",UFC 283 - Teixeira vs. Hill,Lightweight,Ismael Bonfim,156,105,Terrance McKinney,156,-125,KO (Flying Knee),2,2:17
+"Jan 21, 2023",UFC 283 - Teixeira vs. Hill,Welterweight,Nicolas Dalby,170,105,Warlley Alves,171,-125,Decision (Split),3,5:00
+"Jan 21, 2023",UFC 283 - Teixeira vs. Hill,Featherweight,Josiane Nunes,145.5,-475,Zarah Fairn,146,380,Decision (Unanimous),3,5:00
+"Jan 21, 2023",UFC 283 - Teixeira vs. Hill,Bantamweight,Daniel Marcos,136,145,Saimon Oliveira,136,-170,KO (Knee to the Body and Punches),2,2:18
+"Jan 14, 2023",UFC Fight Night 217 - Strickland vs. Imavov,Light Heavyweight,Sean Strickland,204,-105,Nassourdine Imavov,194,-115,Decision (Unanimous),5,5:00
+"Jan 14, 2023",UFC Fight Night 217 - Strickland vs. Imavov,Featherweight,Dan Ige,145.5,-130,Damon Jackson,145.5,110,KO (Punch),2,4:13
+"Jan 14, 2023",UFC Fight Night 217 - Strickland vs. Imavov,Middleweight,Roman Kopylov,185,140,Punahele Soriano,185.5,-165,TKO (Body Kick and Punches),2,3:19
+"Jan 14, 2023",UFC Fight Night 217 - Strickland vs. Imavov,Bantamweight,Raquel Pennington,135.5,-105,Ketlen Vieira,136,-115,Decision (Split),3,5:00
+"Jan 14, 2023",UFC Fight Night 217 - Strickland vs. Imavov,Bantamweight,Umar Nurmagomedov,135,-610,Raoni Barcelos,135,460,KO (Body Kick and Punch),1,4:40
+"Jan 14, 2023",UFC Fight Night 217 - Strickland vs. Imavov,Bantamweight,Javid Basharat,136,-350,Mateus Mendonca,134.5,290,Decision (Unanimous),3,5:00
+"Jan 14, 2023",UFC Fight Night 217 - Strickland vs. Imavov,Middleweight,Abdul Razak Alhassan,185.5,-110,Claudio Ribeiro,183,-110,KO (Punches),2,0:28
+"Jan 14, 2023",UFC Fight Night 217 - Strickland vs. Imavov,Lightweight,Mateusz Rebecki,155.5,-700,Nick Fiore,155,510,Decision (Unanimous),3,5:00
+"Jan 14, 2023",UFC Fight Night 217 - Strickland vs. Imavov,Flyweight,Allan Nascimento,125.5,-410,Carlos Hernandez,125,330,Submission (Rear-Naked Choke),1,3:16
+"Jan 14, 2023",UFC Fight Night 217 - Strickland vs. Imavov,Featherweight,Dan Argueta,146,-600,Nick Aguirre,145.5,425,Decision (Unanimous),3,5:00
+"Jan 14, 2023",UFC Fight Night 217 - Strickland vs. Imavov,Flyweight,Charles Johnson,126,-345,Jimmy Flick,126,285,TKO (Elbows and Punches),1,4:33
