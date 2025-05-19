@@ -1,4 +1,15 @@
 date,event,weight_class,winner,winner_weight,winner_odds,loser,loser_weight,loser_odds,method,rnd,time
+"May 17, 2025",UFC Fight Night 256 - Burns vs. Morales,Welterweight,Michael Morales,170.5,-850,Gilbert Burns,170,575,TKO (Punches),1,3:39
+"May 17, 2025",UFC Fight Night 256 - Burns vs. Morales,Lightweight,Mairon Santos,155.5,-135,Sodiq Yusuff,155.5,114,Decision (Unanimous),3,5:00
+"May 17, 2025",UFC Fight Night 256 - Burns vs. Morales,Middleweight,Nursulton Ruziboev,185.5,-298,Dustin Stoltzfus,185.5,240,Decision (Unanimous),3,5:00
+"May 17, 2025",UFC Fight Night 256 - Burns vs. Morales,Featherweight,Melquizael Costa,145,-192,Julian Erosa,145,160,Decision (Unanimous),3,5:00
+"May 17, 2025",UFC Fight Night 256 - Burns vs. Morales,Lightweight,Gabriel Green,154.5,144,Matheus Camilo,155,-186,Submission (Face Crank),2,3:43
+"May 17, 2025",UFC Fight Night 256 - Burns vs. Morales,Lightweight,Jared Gordon,156,-110,Thiago Moises,155.5,-110,KO (Punches),1,3:37
+"May 17, 2025",UFC Fight Night 256 - Burns vs. Morales,Featherweight,Yadier Del Valle,145.5,-430,Connor Matthews,145,300,Submission (Rear-Naked Choke),1,2:54
+"May 17, 2025",UFC Fight Night 256 - Burns vs. Morales,Bantamweight,Luana Santos,136,-130,Tainara Lisboa,135.5,110,Submission (Keylock),2,4:59
+"May 17, 2025",UFC Fight Night 256 - Burns vs. Morales,Strawweight,Denise Gomes,115,-575,Elise Reed,115,425,TKO (Punches),2,0:30
+"May 17, 2025",UFC Fight Night 256 - Burns vs. Morales,Flyweight,Hyun Sung Park,125.5,-148,Carlos Hernandez,126,124,Submission (Rear-Naked Choke),1,2:26
+"May 17, 2025",UFC Fight Night 256 - Burns vs. Morales,Strawweight,Tecia Pennington,114.5,-455,Luana Pinheiro,115.5,350,Decision (Unanimous),3,5:00
 "May 10, 2025",UFC 315 - Muhammad vs. Della Maddalena,Welterweight Title Fight,Jack Della Maddalena,170,160,Belal Muhammad,170,-192,Decision (Unanimous),5,5:00
 "May 10, 2025",UFC 315 - Muhammad vs. Della Maddalena,Flyweight Title Fight,Valentina Shevchenko,124,124,Manon Fiorot,125,-148,Decision (Unanimous),5,5:00
 "May 10, 2025",UFC 315 - Muhammad vs. Della Maddalena,Featherweight,Aiemann Zahabi,142,180,Jose Aldo,143,-218,Decision (Unanimous),3,5:00
