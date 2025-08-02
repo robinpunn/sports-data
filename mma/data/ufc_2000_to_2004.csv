@@ -1,0 +1,217 @@
+date,event,weight_class,winner,winner_weight,winner_odds,loser,loser_weight,loser_odds,method,rnd,time
+"Oct 22, 2004",UFC 50 - The War of '04,Light Heavyweight,Tito Ortiz,,,Patrick Cote,,,Decision (Unanimous),3,5:00
+"Oct 22, 2004",UFC 50 - The War of '04,Middleweight,Rich Franklin,,,Jorge Rivera,,,Submission (Armbar),3,4:28
+"Oct 22, 2004",UFC 50 - The War of '04,Welterweight Title Fight,Matt Hughes,,,Georges St. Pierre,,,Submission (Armbar),1,4:59
+"Oct 22, 2004",UFC 50 - The War of '04,Welterweight,Frank Trigg,,,Renato Verissimo,,,TKO (Elbows),2,2:11
+"Oct 22, 2004",UFC 50 - The War of '04,Middleweight,Evan Tanner,,,Robbie Lawler,,,Submission (Triangle Choke),1,2:22
+"Oct 22, 2004",UFC 50 - The War of '04,Middleweight,Ivan Salaverry,,,Tony Fryklund,,,Submission (Body Lock),1,1:36
+"Oct 22, 2004",UFC 50 - The War of '04,Light Heavyweight,Travis Lutter,,,Marvin Eastman,,,KO (Punch),2,0:43
+"Aug 21, 2004",UFC 49 - Unfinished Business,Light Heavyweight Title Fight,Randy Couture,,,Vitor Belfort,,,TKO (Doctor Stoppage),3,5:00
+"Aug 21, 2004",UFC 49 - Unfinished Business,Welterweight,Joe Riggs,,,Joe Doerksen,,,TKO (Submission to Elbows),2,3:39
+"Aug 21, 2004",UFC 49 - Unfinished Business,Light Heavyweight,Chuck Liddell,,,Vernon White,,,KO (Punch),1,4:05
+"Aug 21, 2004",UFC 49 - Unfinished Business,Middleweight,David Terrell,,,Matt Lindland,,,KO (Punches),1,0:24
+"Aug 21, 2004",UFC 49 - Unfinished Business,Heavyweight,Justin Eilers,,,Mike Kyle,,,KO (Punch),1,1:14
+"Aug 21, 2004",UFC 49 - Unfinished Business,Welterweight,Chris Lytle,,,Ronald Jhun,,,Submission (Guillotine Choke),2,1:17
+"Aug 21, 2004",UFC 49 - Unfinished Business,Welterweight,Karo Parisyan,,,Nick Diaz,,,Decision (Split),3,5:00
+"Aug 21, 2004",UFC 49 - Unfinished Business,Lightweight,Yves Edwards,,,Josh Thomson,,,KO (Flying Head Kick and Punches),1,4:32
+"Jun 19, 2004",UFC 48 - Payback,,Ken Shamrock,,,Kimo Leopoldo,,,KO (Knee),1,1:26
+"Jun 19, 2004",UFC 48 - Payback,,Frank Trigg,,,Dennis Hallman,,,TKO (Punches),1,4:15
+"Jun 19, 2004",UFC 48 - Payback,Heavyweight Title Fight,Frank Mir,,,Tim Sylvia,,,Technical Submission (Armbar),1,0:50
+"Jun 19, 2004",UFC 48 - Payback,,Matt Hughes,,,Renato Verissimo,,,Decision (Unanimous),3,5:00
+"Jun 19, 2004",UFC 48 - Payback,,Evan Tanner,,,Phil Baroni,,,Decision (Unanimous),3,5:00
+"Jun 19, 2004",UFC 48 - Payback,Lightweight,Matt Serra,,,Ivan Menjivar,,,Decision (Unanimous),3,5:00
+"Jun 19, 2004",UFC 48 - Payback,,Trevor Prangley,,,Curtis Stout,,,Submission (Scarf Hold),2,1:05
+"Jun 19, 2004",UFC 48 - Payback,,Georges St. Pierre,,,Jay Hieron,,,TKO (Punches),1,1:42
+"Apr 2, 2004",UFC 47 - It's On,Light Heavyweight,Chuck Liddell,,,Tito Ortiz,,,KO (Punches),2,0:38
+"Apr 2, 2004",UFC 47 - It's On,Welterweight,Chris Lytle,,,Tiki Ghosn,,,Submission (Bulldog Choke),2,1:55
+"Apr 2, 2004",UFC 47 - It's On,Lightweight,Yves Edwards,,,Hermes Franca,,,Decision (Split),3,5:00
+"Apr 2, 2004",UFC 47 - It's On,Heavyweight,Andrei Arlovski,,,Wesley Correira,,,TKO (Punches),2,1:15
+"Apr 2, 2004",UFC 47 - It's On,Welterweight,Nick Diaz,,,Robbie Lawler,,,KO (Punch),2,1:31
+"Apr 2, 2004",UFC 47 - It's On,Heavyweight,Mike Kyle,,,Wes Sims,,,KO (Knee and Punches),1,4:59
+"Apr 2, 2004",UFC 47 - It's On,Heavyweight,Jonathan Wiezorek,,,Wade Shipp,,,TKO (Punches),1,4:40
+"Apr 2, 2004",UFC 47 - It's On,Lightweight,Genki Sudo,,,Mike Thomas Brown,,,Submission (Triangle Armbar),1,3:31
+"Jan 31, 2004",UFC 46 - Supernatural,Light Heavyweight Title Fight,Vitor Belfort,,,Randy Couture,,,TKO (Doctor Stoppage),1,0:49
+"Jan 31, 2004",UFC 46 - Supernatural,WelterweightTitle Fight,B.J. Penn,,,Matt Hughes,,,Submission (Rear-Naked Choke),1,4:39
+"Jan 31, 2004",UFC 46 - Supernatural,,Renato Verissimo,,,Carlos Newton,,,Decision (Unanimous),3,5:00
+"Jan 31, 2004",UFC 46 - Supernatural,,Frank Mir,,,Wes Sims,,,KO (Punches),2,4:21
+"Jan 31, 2004",UFC 46 - Supernatural,,Lee Murray,,,Jorge Rivera,,,Submission (Triangle Armbar),1,1:45
+"Jan 31, 2004",UFC 46 - Supernatural,,Georges St. Pierre,,,Karo Parisyan,,,Decision (Unanimous),3,5:00
+"Jan 31, 2004",UFC 46 - Supernatural,,Josh Thomson,,,Hermes Franca,,,Decision (Unanimous),3,5:00
+"Jan 31, 2004",UFC 46 - Supernatural,Lightweight,Matt Serra,,,Jeff Curran,,,Decision (Unanimous),3,5:00
+"Sep 27, 2002",UFC 39 - The Warriors Return,Heavyweight Title Fight,Ricco Rodriguez,,,Randy Couture,,,TKO (Submission to Elbow),5,3:04
+"Sep 27, 2002",UFC 39 - The Warriors Return,,Tim Sylvia,,,Wesley Correira,,,TKO (Corner Stoppage),2,1:43
+"Sep 27, 2002",UFC 39 - The Warriors Return,,B.J. Penn,,,Matt Serra,,,Decision (Unanimous),3,5:00
+"Sep 27, 2002",UFC 39 - The Warriors Return,,Caol Uno,,,Din Thomas,,,Decision (Unanimous),3,5:00
+"Sep 27, 2002",UFC 39 - The Warriors Return,,Gan McGee,,,Pedro Rizzo,,,TKO (Corner Stoppage),1,5:00
+"Sep 27, 2002",UFC 39 - The Warriors Return,,Phil Baroni,,,Dave Menne,,,KO (Punches),1,0:18
+"Sep 27, 2002",UFC 39 - The Warriors Return,,Matt Lindland,,,Ivan Salaverry,,,Decision (Unanimous),3,5:00
+"Sep 27, 2002",UFC 39 - The Warriors Return,,Sean Sherk,,,Benji Radach,,,TKO (Doctor Stoppage),1,4:16
+"Sep 28, 2001",UFC 33 - Victory in Vegas,Title Fight,Tito Ortiz,,,Vladimir Matyushenko,,,Decision (Unanimous),5,5:00
+"Sep 28, 2001",UFC 33 - Victory in Vegas,Title Fight,Jens Pulver,,,Dennis Hallman,,,Decision (Unanimous),5,5:00
+"Sep 28, 2001",UFC 33 - Victory in Vegas,,Chuck Liddell,,,Murilo Bustamante,,,Decision (Unanimous),3,5:00
+"Sep 28, 2001",UFC 33 - Victory in Vegas,,Matt Serra,,,Yves Edwards,,,Decision (Majority),3,5:00
+"Sep 28, 2001",UFC 33 - Victory in Vegas,Title Fight,Dave Menne,,,Gil Castillo,,,Decision (Unanimous),5,5:00
+"Sep 28, 2001",UFC 33 - Victory in Vegas,,Jutaro Nakao,,,Tony DeSouza,,,KO (Punch),2,0:15
+"Sep 28, 2001",UFC 33 - Victory in Vegas,,Ricardo Almeida,,,Eugene Jackson,,,Submission (Triangle Choke),1,4:06
+"Sep 28, 2001",UFC 33 - Victory in Vegas,,Din Thomas,,,Fabiano Iha,,,Decision (Unanimous),3,5:00
+"May 4, 2001",UFC 31 - Locked & Loaded,Title Fight,Randy Couture,,,Pedro Rizzo,,,Decision (Unanimous),5,5:00
+"May 4, 2001",UFC 31 - Locked & Loaded,Title Fight,Carlos Newton,,,Pat Miletich,,,Submission (Bulldog Choke),3,2:50
+"May 4, 2001",UFC 31 - Locked & Loaded,,Chuck Liddell,,,Kevin Randleman,,,KO (Punches),1,1:18
+"May 4, 2001",UFC 31 - Locked & Loaded,,Shonie Carter,,,Matt Serra,,,KO (Spinning Backfist),3,4:51
+"May 4, 2001",UFC 31 - Locked & Loaded,,Semmy Schilt,,,Pete Williams,,,TKO (Kick to the Body and Punches),2,1:28
+"May 4, 2001",UFC 31 - Locked & Loaded,,Matt Lindland,,,Ricardo Almeida,,,Disqualification (Repeated Fouls),3,4:21
+"May 4, 2001",UFC 31 - Locked & Loaded,,B.J. Penn,,,Joey Gilbert,,,TKO (Punches),1,4:57
+"May 4, 2001",UFC 31 - Locked & Loaded,,Tony DeSouza,,,Steve Berger,,,Decision (Unanimous),3,5:00
+"Jun 6, 2003",UFC 43 - Meltdown,Light Heavyweight Title Fight,Randy Couture,,,Chuck Liddell,,,TKO (Punches),3,2:39
+"Jun 6, 2003",UFC 43 - Meltdown,,Kimo Leopoldo,,,David Abbott,,,Submission (Arm-Triangle Choke),1,1:59
+"Jun 6, 2003",UFC 43 - Meltdown,,Yves Edwards,,,Eddie Ruiz,,,Decision (Unanimous),3,5:00
+"Jun 6, 2003",UFC 43 - Meltdown,,Vitor Belfort,,,Marvin Eastman,,,TKO (Knees and Punches),1,1:07
+"Jun 6, 2003",UFC 43 - Meltdown,,Vernon White,,,Ian Freeman,,,Draw (Split),3,5:00
+"Jun 6, 2003",UFC 43 - Meltdown,,Frank Mir,,,Wes Sims,,,Disqualification (Kicking a Downed Opponent),1,2:55
+"Jun 6, 2003",UFC 43 - Meltdown,,Falaniko Vitale,,,Matt Lindland,,,TKO (Slam),1,1:56
+"Jun 6, 2003",UFC 43 - Meltdown,,Pedro Rizzo,,,Tra Telligman,,,TKO (Doctor Stoppage),2,4:24
+"Jun 29, 2001",UFC 32 - Showdown in the Meadowlands,Title Fight,Tito Ortiz,,,Elvis Sinosic,,,TKO (Punches and Elbows),1,3:32
+"Jun 29, 2001",UFC 32 - Showdown in the Meadowlands,,B.J. Penn,,,Din Thomas,,,KO (Knee and Punches),1,2:42
+"Jun 29, 2001",UFC 32 - Showdown in the Meadowlands,,Josh Barnett,,,Semmy Schilt,,,Submission (Armbar),1,4:21
+"Jun 29, 2001",UFC 32 - Showdown in the Meadowlands,,Pat Miletich,,,Shonie Carter,,,KO (Head Kick),2,2:42
+"Jun 29, 2001",UFC 32 - Showdown in the Meadowlands,,Caol Uno,,,Fabiano Iha,,,KO (Punches),1,1:49
+"Jun 29, 2001",UFC 32 - Showdown in the Meadowlands,,Vladimir Matyushenko,,,Yuki Kondo,,,Decision (Unanimous),3,5:00
+"Jun 29, 2001",UFC 32 - Showdown in the Meadowlands,,Ricco Rodriguez,,,Andrei Arlovski,,,TKO (Punches),3,1:23
+"Jun 29, 2001",UFC 32 - Showdown in the Meadowlands,,Tony DeSouza,,,Paul Rodriguez,,,Submission (Guillotine Choke),1,1:05
+"Mar 22, 2002",UFC 36 - Worlds Collide,Title Fight,Josh Barnett,,,Randy Couture,,,TKO (Punches),2,4:35
+"Mar 22, 2002",UFC 36 - Worlds Collide,,Pedro Rizzo,,,Andrei Arlovski,,,KO (Punches),3,1:45
+"Mar 22, 2002",UFC 36 - Worlds Collide,Title Fight,Matt Hughes,,,Hayato Sakurai,,,TKO (Punches),4,3:01
+"Mar 22, 2002",UFC 36 - Worlds Collide,,Matt Lindland,,,Pat Miletich,,,TKO (Punches),1,3:09
+"Mar 22, 2002",UFC 36 - Worlds Collide,,Evan Tanner,,,Elvis Sinosic,,,TKO (Doctor Stoppage),1,2:06
+"Mar 22, 2002",UFC 36 - Worlds Collide,,Frank Mir,,,Pete Williams,,,Submission (Inside Shoulder Lock),1,0:46
+"Mar 22, 2002",UFC 36 - Worlds Collide,,Matt Serra,,,Kelly Dullanty,,,Submission (Triangle Choke),1,2:58
+"Mar 22, 2002",UFC 36 - Worlds Collide,,Sean Sherk,,,Jutaro Nakao,,,Decision (Unanimous),3,5:00
+"Jun 9, 2000",UFC 26 - Ultimate Field of Dreams,Title Fight,Kevin Randleman,,,Pedro Rizzo,,,Decision (Unanimous),5,5:00
+"Jun 9, 2000",UFC 26 - Ultimate Field of Dreams,,Tyrone Roberts,,,David Dodd,,,Decision (Unanimous),3,5:00
+"Jun 9, 2000",UFC 26 - Ultimate Field of Dreams,Title Fight,Pat Miletich,,,John Alessio,,,Submission (Armbar),2,1:43
+"Jun 9, 2000",UFC 26 - Ultimate Field of Dreams,,Amaury Bitetti,,,Alex Andrade,,,Disqualification (Illegal Kicks),2,0:43
+"Jun 9, 2000",UFC 26 - Ultimate Field of Dreams,,Matt Hughes,,,Marcelo Aguiar,,,TKO (Doctor Stoppage),1,4:34
+"Jun 9, 2000",UFC 26 - Ultimate Field of Dreams,,Jens Pulver,,,Joao Roque,,,Decision (Unanimous),3,5:00
+"Jun 9, 2000",UFC 26 - Ultimate Field of Dreams,,Ian Freeman,,,Nate Schroeder,,,TKO (Submission to Punches),2,2:13
+"Jun 9, 2000",UFC 26 - Ultimate Field of Dreams,,Shonie Carter,,,Adrian Serrano,,,Decision (Unanimous),2,5:00
+"Sep 22, 2000",UFC 27 - Ultimate Bad Boyz,,Pedro Rizzo,,,Dan Severn,,,TKO (Submission to Punches),1,1:33
+"Sep 22, 2000",UFC 27 - Ultimate Bad Boyz,,Maurice Smith,,,Bobby Hoffman,,,Decision (Majority),3,5:00
+"Sep 22, 2000",UFC 27 - Ultimate Bad Boyz,,Jeremy Horn,,,Eugene Jackson,,,Submission (Armbar),1,4:32
+"Sep 22, 2000",UFC 27 - Ultimate Bad Boyz,,Fabiano Iha,,,LaVerne Clark,,,Submission (Armbar),1,1:10
+"Sep 22, 2000",UFC 27 - Ultimate Bad Boyz,,Yuki Kondo,,,Alexandre Dantas,,,TKO (Punches),3,2:28
+"Sep 22, 2000",UFC 27 - Ultimate Bad Boyz,,Ian Freeman,,,Tedd Williams,,,Decision (Unanimous),3,5:00
+"Sep 22, 2000",UFC 27 - Ultimate Bad Boyz,,Jeff Monson,,,Tim Lajcik,,,Decision (Unanimous),2,5:00
+"Sep 22, 2000",UFC 27 - Ultimate Bad Boyz,,Brad Gumm,,,CJ Fernandes,,,Draw (Unanimous),2,5:00
+"Jun 22, 2002",UFC 37.5 - As Real As It Gets,,Chuck Liddell,,,Vitor Belfort,,,Decision (Unanimous),3,5:00
+"Jun 22, 2002",UFC 37.5 - As Real As It Gets,,Benji Radach,,,Nick Serra,,,Decision (Unanimous),3,5:00
+"Jun 22, 2002",UFC 37.5 - As Real As It Gets,,Pete Spratt,,,Zach Light,,,Submission (Armbar),1,2:25
+"Jun 22, 2002",UFC 37.5 - As Real As It Gets,,Robbie Lawler,,,Steve Berger,,,TKO (Punches),2,0:27
+"Jun 22, 2002",UFC 37.5 - As Real As It Gets,,Tony Fryklund,,,Rodrigo Ruas,,,TKO (Punches),2,3:34
+"Jun 22, 2002",UFC 37.5 - As Real As It Gets,,Yves Edwards,,,Joao Marcos Pierini,,,TKO (Shoulder Injury),1,1:19
+"Apr 25, 2003",UFC 42 - Sudden Impact,Welterweight Title Fight,Matt Hughes,,,Sean Sherk,,,Decision (Unanimous),5,5:00
+"Apr 25, 2003",UFC 42 - Sudden Impact,,Pete Spratt,,,Robbie Lawler,,,TKO (Knee Injury),2,2:28
+"Apr 25, 2003",UFC 42 - Sudden Impact,,Dave Strasser,,,Romie Aram,,,Decision (Unanimous),3,5:00
+"Apr 25, 2003",UFC 42 - Sudden Impact,,Wesley Correira,,,Sean Alvarez,,,TKO (Knees and Punches),2,1:46
+"Apr 25, 2003",UFC 42 - Sudden Impact,,Rich Franklin,,,Evan Tanner,,,TKO (Punches),1,2:40
+"Apr 25, 2003",UFC 42 - Sudden Impact,,Duane Ludwig,,,Genki Sudo,,,Decision (Unanimous),3,5:00
+"Apr 25, 2003",UFC 42 - Sudden Impact,,Hermes Franca,,,Rich Crunkilton,,,Decision (Unanimous),3,5:00
+"Apr 25, 2003",UFC 42 - Sudden Impact,,David Loiseau,,,Mark Weir,,,KO (Punches),1,3:55
+"May 10, 2002",UFC 37 - High Impact,Title Fight,Murilo Bustamante,,,Matt Lindland,,,Submission (Guillotine Choke),3,1:33
+"May 10, 2002",UFC 37 - High Impact,,Ricco Rodriguez,,,Tsuyoshi Kosaka,,,TKO (Punches),2,3:25
+"May 10, 2002",UFC 37 - High Impact,,B.J. Penn,,,Paul Creighton,,,TKO (Punches),2,3:23
+"May 10, 2002",UFC 37 - High Impact,,Phil Baroni,,,Amar Suloev,,,TKO (Punches),1,2:55
+"May 10, 2002",UFC 37 - High Impact,,Caol Uno,,,Yves Edwards,,,Decision (Unanimous),3,5:00
+"May 10, 2002",UFC 37 - High Impact,,Ivan Salaverry,,,Andrei Semenov,,,TKO (Punches),3,2:27
+"May 10, 2002",UFC 37 - High Impact,,Benji Radach,,,Steve Berger,,,No Contest (Overturned by State Commission),1,0:27
+"May 10, 2002",UFC 37 - High Impact,,Robbie Lawler,,,Aaron Riley,,,Decision (Unanimous),3,5:00
+"Nov 22, 2002",UFC 40 - Vendetta,Light Heavyweight Title Fight,Tito Ortiz,,,Ken Shamrock,,,TKO (Corner Stoppage),3,5:00
+"Nov 22, 2002",UFC 40 - Vendetta,Light Heavyweight,Chuck Liddell,,,Renato Sobral,,,KO (Head Kick),1,2:55
+"Nov 22, 2002",UFC 40 - Vendetta,WelterweightTitle Fight,Matt Hughes,,,Gil Castillo,,,TKO (Doctor Stoppage),1,5:00
+"Nov 22, 2002",UFC 40 - Vendetta,,Carlos Newton,,,Pete Spratt,,,Submission (Kimura),1,1:45
+"Nov 22, 2002",UFC 40 - Vendetta,,Robbie Lawler,,,Tiki Ghosn,,,TKO (Punches),1,1:29
+"Nov 22, 2002",UFC 40 - Vendetta,,Andrei Arlovski,,,Ian Freeman,,,TKO (Punches),1,1:25
+"Nov 22, 2002",UFC 40 - Vendetta,,Vladimir Matyushenko,,,Travis Wiuff,,,TKO (Submission to Punches),1,4:10
+"Nov 22, 2002",UFC 40 - Vendetta,,Phillip Miller,,,Mark Weir,,,Submission (Rear-Naked Choke),2,4:50
+"Sep 26, 2003",UFC 44 - Undisputed,Light Heavyweight Title Fight,Randy Couture,,,Tito Ortiz,,,Decision (Unanimous),5,5:00
+"Sep 26, 2003",UFC 44 - Undisputed,,Andrei Arlovski,,,Vladimir Matyushenko,,,KO (Punch),1,1:59
+"Sep 26, 2003",UFC 44 - Undisputed,HeavyweightTitle Fight,Tim Sylvia,,,Gan McGee,,,TKO (Punches),1,1:54
+"Sep 26, 2003",UFC 44 - Undisputed,,Jorge Rivera,,,David Loiseau,,,Decision (Unanimous),3,5:00
+"Sep 26, 2003",UFC 44 - Undisputed,,Rich Franklin,,,Edwin Dewees,,,TKO (Punches and Knees),1,3:35
+"Sep 26, 2003",UFC 44 - Undisputed,,Karo Parisyan,,,Dave Strasser,,,Submission (Kimura),1,3:52
+"Sep 26, 2003",UFC 44 - Undisputed,,Josh Thomson,,,Gerald Strebendt,,,KO (Punches),1,2:45
+"Sep 26, 2003",UFC 44 - Undisputed,,Nick Diaz,,,Jeremy Jackson,,,Submission (Armbar),3,2:04
+"Sep 26, 2003",UFC 44 - Undisputed,,Hermes Franca,,,Caol Uno,,,KO (Punch),2,2:46
+"Jul 13, 2002",UFC 38 - Brawl at the Hall,Title Fight,Matt Hughes,,,Carlos Newton,,,TKO (Punches),4,3:27
+"Jul 13, 2002",UFC 38 - Brawl at the Hall,,Ian Freeman,,,Frank Mir,,,TKO (Punches),1,4:35
+"Jul 13, 2002",UFC 38 - Brawl at the Hall,,Mark Weir,,,Eugene Jackson,,,KO (Punch),1,0:10
+"Jul 13, 2002",UFC 38 - Brawl at the Hall,,Genki Sudo,,,Leigh Remedios,,,Submission (Rear-Naked Choke),2,1:38
+"Jul 13, 2002",UFC 38 - Brawl at the Hall,,Phillip Miller,,,James Zikic,,,Decision (Unanimous),3,5:00
+"Jul 13, 2002",UFC 38 - Brawl at the Hall,,Renato Sobral,,,Elvis Sinosic,,,Decision (Unanimous),3,5:00
+"Jul 13, 2002",UFC 38 - Brawl at the Hall,,Evan Tanner,,,Chris Haseman,,,Decision (Unanimous),3,5:00
+"Nov 21, 2003",UFC 45 - Revolution,Welterweight Title Fight,Matt Hughes,,,Frank Trigg,,,Submission (Rear-Naked Choke),1,3:54
+"Nov 21, 2003",UFC 45 - Revolution,,Matt Lindland,,,Falaniko Vitale,,,TKO (Punches),3,4:23
+"Nov 21, 2003",UFC 45 - Revolution,,Wesley Correira,,,David Abbott,,,TKO (Doctor Stoppage),1,2:14
+"Nov 21, 2003",UFC 45 - Revolution,,Evan Tanner,,,Phil Baroni,,,TKO (Punches and Elbows),1,4:42
+"Nov 21, 2003",UFC 45 - Revolution,,Robbie Lawler,,,Chris Lytle,,,Decision (Unanimous),3,5:00
+"Nov 21, 2003",UFC 45 - Revolution,,Pedro Rizzo,,,Ricco Rodriguez,,,Decision (Unanimous),3,5:00
+"Nov 21, 2003",UFC 45 - Revolution,,Keith Rockel,,,Chris Liguori,,,Submission (Guillotine Choke),1,3:29
+"Nov 21, 2003",UFC 45 - Revolution,,Yves Edwards,,,Nick Agallar,,,TKO (Punches),2,2:14
+"Feb 23, 2001",UFC 30 - Battle on the Boardwalk,Title Fight,Tito Ortiz,,,Evan Tanner,,,KO (Slam),1,0:32
+"Feb 23, 2001",UFC 30 - Battle on the Boardwalk,Title Fight,Jens Pulver,,,Caol Uno,,,Decision (Unanimous),5,5:00
+"Feb 23, 2001",UFC 30 - Battle on the Boardwalk,,Fabiano Iha,,,Phil Johns,,,Submission (Armbar),1,2:05
+"Feb 23, 2001",UFC 30 - Battle on the Boardwalk,,Elvis Sinosic,,,Jeremy Horn,,,Submission (Triangle Armbar),1,2:59
+"Feb 23, 2001",UFC 30 - Battle on the Boardwalk,,Pedro Rizzo,,,Josh Barnett,,,KO (Punch),2,4:21
+"Feb 23, 2001",UFC 30 - Battle on the Boardwalk,,Bobby Hoffman,,,Mark Robinson,,,No Contest (Hoffman Failed Drug Test),1,3:27
+"Feb 23, 2001",UFC 30 - Battle on the Boardwalk,,Phil Baroni,,,Curtis Stout,,,Decision (Unanimous),2,5:00
+"Feb 23, 2001",UFC 30 - Battle on the Boardwalk,,Sean Sherk,,,Tiki Ghosn,,,TKO (Shoulder Injury),2,4:47
+"Nov 2, 2001",UFC 34 - High Voltage,Title Fight,Randy Couture,,,Pedro Rizzo,,,TKO (Punches),3,1:38
+"Nov 2, 2001",UFC 34 - High Voltage,,Ricco Rodriguez,,,Pete Williams,,,TKO (Punches),2,4:02
+"Nov 2, 2001",UFC 34 - High Voltage,Title Fight,Matt Hughes,,,Carlos Newton,,,KO (Slam),2,1:27
+"Nov 2, 2001",UFC 34 - High Voltage,,B.J. Penn,,,Caol Uno,,,KO (Punches),1,0:11
+"Nov 2, 2001",UFC 34 - High Voltage,,Josh Barnett,,,Bobby Hoffman,,,TKO (Submission to Punches),2,4:25
+"Nov 2, 2001",UFC 34 - High Voltage,,Evan Tanner,,,Homer Moore,,,Submission (Armbar),2,0:55
+"Nov 2, 2001",UFC 34 - High Voltage,,Matt Lindland,,,Phil Baroni,,,Decision (Majority),3,5:00
+"Nov 2, 2001",UFC 34 - High Voltage,,Frank Mir,,,Roberto Traven,,,Submission (Armbar),1,1:05
+"Jan 11, 2002",UFC 35 - Throwdown,Title Fight,Jens Pulver,,,B.J. Penn,,,Decision (Majority),5,5:00
+"Jan 11, 2002",UFC 35 - Throwdown,,Ricco Rodriguez,,,Jeff Monson,,,TKO (Punches),3,3:00
+"Jan 11, 2002",UFC 35 - Throwdown,Title Fight,Murilo Bustamante,,,Dave Menne,,,TKO (Punches),2,0:44
+"Jan 11, 2002",UFC 35 - Throwdown,,Chuck Liddell,,,Amar Suloev,,,Decision (Unanimous),3,5:00
+"Jan 11, 2002",UFC 35 - Throwdown,,Andrei Semenov,,,Ricardo Almeida,,,TKO (Punches),2,2:01
+"Jan 11, 2002",UFC 35 - Throwdown,,Kevin Randleman,,,Renato Sobral,,,Decision (Unanimous),3,5:00
+"Jan 11, 2002",UFC 35 - Throwdown,,Gil Castillo,,,Chris Brennan,,,Decision (Unanimous),3,5:00
+"Jan 11, 2002",UFC 35 - Throwdown,,Eugene Jackson,,,Keith Rockel,,,Submission (Guillotine Choke),2,3:46
+"Feb 28, 2003",UFC 41 - Onslaught,Heavyweight Title Fight,Tim Sylvia,,,Ricco Rodriguez,,,TKO (Punches),1,3:09
+"Feb 28, 2003",UFC 41 - Onslaught,,Frank Mir,,,David Abbott,,,Submission (Toe Hold),1,0:46
+"Feb 28, 2003",UFC 41 - Onslaught,Title Fight,B.J. Penn,,,Caol Uno,,,Draw (Split),5,5:00
+"Feb 28, 2003",UFC 41 - Onslaught,,Matt Lindland,,,Phil Baroni,,,Decision (Unanimous),3,5:00
+"Feb 28, 2003",UFC 41 - Onslaught,,Vladimir Matyushenko,,,Pedro Rizzo,,,Decision (Unanimous),3,5:00
+"Feb 28, 2003",UFC 41 - Onslaught,,Din Thomas,,,Matt Serra,,,Decision (Split),3,5:00
+"Feb 28, 2003",UFC 41 - Onslaught,,Gan McGee,,,Alexandre Dantas,,,TKO (Punches),1,4:49
+"Feb 28, 2003",UFC 41 - Onslaught,,Yves Edwards,,,Rich Clementi,,,Submission (Rear-Naked Choke),3,4:07
+"Dec 16, 2000",UFC 29 - Defense of the Belts,Title Fight,Tito Ortiz,,,Yuki Kondo,,,Submission (Neck Crank),1,1:52
+"Dec 16, 2000",UFC 29 - Defense of the Belts,Title Fight,Pat Miletich,,,Kenichi Yamamoto,,,Submission (Guillotine Choke),2,1:58
+"Dec 16, 2000",UFC 29 - Defense of the Belts,,Matt Lindland,,,Yoji Anjo,,,TKO (Punches),1,2:58
+"Dec 16, 2000",UFC 29 - Defense of the Belts,,Fabiano Iha,,,Daiju Takase,,,TKO (Punches),1,2:24
+"Dec 16, 2000",UFC 29 - Defense of the Belts,,Evan Tanner,,,Lance Gibson,,,TKO (Punches and Elbows),1,4:48
+"Dec 16, 2000",UFC 29 - Defense of the Belts,,Dennis Hallman,,,Matt Hughes,,,Submission (Armbar),1,0:20
+"Dec 16, 2000",UFC 29 - Defense of the Belts,,Chuck Liddell,,,Jeff Monson,,,Decision (Unanimous),3,5:00
+"Nov 17, 2000",UFC 28 - High Stakes,Title Fight,Randy Couture,,,Kevin Randleman,,,TKO (Punches),3,4:13
+"Nov 17, 2000",UFC 28 - High Stakes,,Renato Sobral,,,Maurice Smith,,,Decision (Unanimous),3,5:00
+"Nov 17, 2000",UFC 28 - High Stakes,,Josh Barnett,,,Gan McGee,,,TKO (Punches),2,4:34
+"Nov 17, 2000",UFC 28 - High Stakes,,Andrei Arlovski,,,Aaron Brink,,,Submission (Armbar),1,0:55
+"Nov 17, 2000",UFC 28 - High Stakes,,Jens Pulver,,,John Lewis,,,KO (Punch),1,0:15
+"Nov 17, 2000",UFC 28 - High Stakes,,Mark Hughes,,,Alex Stiebling,,,Decision (Unanimous),2,5:00
+"Nov 17, 2000",UFC 28 - High Stakes,,Ben Earwood,,,Chris Lytle,,,Decision (Unanimous),2,5:00
+"Apr 14, 2000",UFC 25 - Ultimate Japan 3,Title Fight,Tito Ortiz,,,Wanderlei Silva,,,Decision (Unanimous),5,5:00
+"Apr 14, 2000",UFC 25 - Ultimate Japan 3,,Murilo Bustamante,,,Yoji Anjo,,,Submission (Arm-Triangle Choke),2,0:31
+"Apr 14, 2000",UFC 25 - Ultimate Japan 3,,Sanae Kikuta,,,Eugene Jackson,,,Submission (Armbar),1,4:38
+"Apr 14, 2000",UFC 25 - Ultimate Japan 3,,Ron Waterman,,,Satoshi Honma,,,Decision (Unanimous),3,5:00
+"Apr 14, 2000",UFC 25 - Ultimate Japan 3,,Ikuhisa Minowa,,,Joe Slick,,,TKO (Cut),3,2:02
+"Apr 14, 2000",UFC 25 - Ultimate Japan 3,,LaVerne Clark,,,Koji Oishi,,,Decision (Majority),3,5:00
+"Mar 10, 2000",UFC 24 - First Defense,,Tedd Williams,,,Steve Judson,,,TKO (Punches),1,3:23
+"Mar 10, 2000",UFC 24 - First Defense,,Lance Gibson,,,Jermaine Andre,,,KO (Knee),3,3:35
+"Mar 10, 2000",UFC 24 - First Defense,,Dave Menne,,,Fabiano Iha,,,Decision (Unanimous),3,5:00
+"Mar 10, 2000",UFC 24 - First Defense,,Bob Cook,,,Tiki Ghosn,,,Submission (Rear-Naked Choke),2,1:29
+"Mar 10, 2000",UFC 24 - First Defense,,Jens Pulver,,,David Velasquez,,,TKO (Punches),2,2:41
+"Mar 10, 2000",UFC 24 - First Defense,,Scott Adams,,,Ian Freeman,,,Submission (Heel Hook),1,3:09
+"Mar 10, 2000",UFC 24 - First Defense,,Shonie Carter,,,Brad Gumm,,,Decision (Unanimous),2,5:00
