@@ -1,8 +1,8 @@
 # Sports Data
+Trying to get as many results with the closing odds.
 
-This project is for learning data analysis from data that I've scraped.
+Current data
+- NFL
+- UFC
 
-I'm searching for sports data related to betting odds with the intentions of trying to identify "trends".
-
-I currently have 6 years of NFL and 2 years of UFC odds data.
 

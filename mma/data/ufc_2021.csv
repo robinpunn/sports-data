@@ -1,0 +1,510 @@
+date,event,weight_class,winner,winner_weight,winner_odds,loser,loser_weight,loser_odds,method,rnd,time
+"Dec 18, 2021",UFC Fight Night 199 - Lewis vs. Daukaus,Heavyweight,Derrick Lewis,265,NA,Chris Daukaus,235.5,NA,KO (Punches),1,3:36
+"Dec 18, 2021",UFC Fight Night 199 - Lewis vs. Daukaus,Welterweight,Belal Muhammad,170.5,NA,Stephen Thompson,170.5,NA,Decision (Unanimous),3,5:00
+"Dec 18, 2021",UFC Fight Night 199 - Lewis vs. Daukaus,Strawweight,Amanda Lemos,115,NA,Angela Hill,115.5,NA,Decision (Split),3,5:00
+"Dec 18, 2021",UFC Fight Night 199 - Lewis vs. Daukaus,Bantamweight,Ricky Simon,135.5,NA,Raphael Assuncao,136,NA,KO (Punches),2,2:14
+"Dec 18, 2021",UFC Fight Night 199 - Lewis vs. Daukaus,Lightweight,Mateusz Gamrot,155.5,NA,Diego Ferreira,156,NA,TKO (Submission to Knee to the Body),2,3:26
+"Dec 18, 2021",UFC Fight Night 199 - Lewis vs. Daukaus,Featherweight,Cub Swanson,145.5,NA,Darren Elkins,145.5,NA,TKO (Spinning Wheel Kick and Punches),1,2:12
+"Dec 18, 2021",UFC Fight Night 199 - Lewis vs. Daukaus,Middleweight,Gerald Meerschaert,185.5,NA,Dustin Stoltzfus,185.5,NA,Submission (Rear-Naked Choke),3,2:58
+"Dec 18, 2021",UFC Fight Night 199 - Lewis vs. Daukaus,Heavyweight,Justin Tafa,267: Missed Weight,NA,Harry Hunsucker,238.5,NA,KO (Head Kick),1,1:53
+"Dec 18, 2021",UFC Fight Night 199 - Lewis vs. Daukaus,128lb Catchweight,Melissa Gatto,125,NA,Sijara Eubanks,127.5: Missed Weight,NA,TKO (Body Kick and Punches),3,0:45
+"Dec 18, 2021",UFC Fight Night 199 - Lewis vs. Daukaus,Featherweight,Charles Jourdain,145.5,NA,Andre Ewell,145,NA,Decision (Unanimous),3,5:00
+"Dec 18, 2021",UFC Fight Night 199 - Lewis vs. Daukaus,149lb Catchweight,Raquel Pennington,145,NA,Macy Chiasson,148.5: Missed Weight,NA,Submission (Guillotine Choke),2,3:07
+"Dec 18, 2021",UFC Fight Night 199 - Lewis vs. Daukaus,Heavyweight,Don'Tale Mayes,256.5,NA,Josh Parisian,262,NA,TKO (Elbows),3,3:26
+"Dec 18, 2021",UFC Fight Night 199 - Lewis vs. Daukaus,Lightweight,Jordan Leavitt,155.5,NA,Matt Sayles,155.5,NA,Submission (Inverted Triangle Choke),2,2:05
+"Dec 11, 2021",UFC 269 - Oliveira vs. Poirier,Lightweight Title Fight,Charles Oliveira,155,NA,Dustin Poirier,154.5,NA,Submission (Rear-Naked Choke),3,1:02
+"Dec 11, 2021",UFC 269 - Oliveira vs. Poirier,BantamweightTitle Fight,Julianna Pena,135,NA,Amanda Nunes,134.5,NA,Submission (Rear-Naked Choke),2,3:26
+"Dec 11, 2021",UFC 269 - Oliveira vs. Poirier,Welterweight,Geoff Neal,170.5,NA,Santiago Ponzinibbio,169.5,NA,Decision (Split),3,5:00
+"Dec 11, 2021",UFC 269 - Oliveira vs. Poirier,Flyweight,Kai Kara-France,,,Cody Garbrandt,126,NA,TKO (Punches),1,3:21
+"Dec 11, 2021",UFC 269 - Oliveira vs. Poirier,Bantamweight,Sean O'Malley,135.5,NA,Raulian Paiva,135.5,NA,TKO (Punches),1,4:42
+"Dec 11, 2021",UFC 269 - Oliveira vs. Poirier,Featherweight,Josh Emmett,145.5,NA,Dan Ige,146,NA,Decision (Unanimous),3,5:00
+"Dec 11, 2021",UFC 269 - Oliveira vs. Poirier,Bantamweight,Dominick Cruz,135,NA,Pedro Munhoz,135.5,NA,Decision (Unanimous),3,5:00
+"Dec 11, 2021",UFC 269 - Oliveira vs. Poirier,Heavyweight,Tai Tuivasa,264,NA,Augusto Sakai,263.5,NA,KO (Punches),2,0:26
+"Dec 11, 2021",UFC 269 - Oliveira vs. Poirier,Middleweight,Bruno Silva,186,NA,Jordan Wright,186,NA,TKO (Punches),1,1:28
+"Dec 11, 2021",UFC 269 - Oliveira vs. Poirier,Middleweight,Andre Muniz,185.5,NA,Eryk Anders,185.5,NA,Submission (Armbar),1,3:13
+"Dec 11, 2021",UFC 269 - Oliveira vs. Poirier,Flyweight,Erin Blanchfield,125.5,NA,Miranda Maverick,125,NA,Decision (Unanimous),3,5:00
+"Dec 11, 2021",UFC 269 - Oliveira vs. Poirier,Featherweight,Ryan Hall,145.5,NA,Darrick Minner,146,NA,Decision (Unanimous),3,5:00
+"Dec 11, 2021",UFC 269 - Oliveira vs. Poirier,Bantamweight,Tony Kelley,136,NA,Randy Costa,134.5,NA,TKO (Elbows),2,4:15
+"Dec 11, 2021",UFC 269 - Oliveira vs. Poirier,129lb Catchweight,Gillian Robertson,125,NA,Priscila Cachoeira,129: Missed Weight,NA,Submission (Rear-Naked Choke),1,4:59
+"Dec 4, 2021",UFC on ESPN 31 - Font vs. Aldo,Bantamweight,Jose Aldo,136,NA,Rob Font,134,NA,Decision (Unanimous),5,5:00
+"Dec 4, 2021",UFC on ESPN 31 - Font vs. Aldo,Lightweight,Rafael Fiziev,155.5,NA,Brad Riddell,155.5,NA,KO (Spinning Wheel Kick),3,2:20
+"Dec 4, 2021",UFC on ESPN 31 - Font vs. Aldo,Light Heavyweight,Jamahal Hill,205,NA,Jimmy Crute,205.5,NA,KO (Punches),1,0:48
+"Dec 4, 2021",UFC on ESPN 31 - Font vs. Aldo,Lightweight,Clay Guida,155,NA,Leonardo Santos,156,NA,Submission (Rear-Naked Choke),2,1:21
+"Dec 4, 2021",UFC on ESPN 31 - Font vs. Aldo,Middleweight,Chris Curtis,185,NA,Brendan Allen,185.5,NA,TKO (Punches and Knees),2,1:58
+"Dec 4, 2021",UFC on ESPN 31 - Font vs. Aldo,Welterweight,Alex Morono,170.5,NA,Mickey Gall,170.5,NA,Decision (Unanimous),3,5:00
+"Dec 4, 2021",UFC on ESPN 31 - Font vs. Aldo,Middleweight,Dusko Todorovic,185.5,NA,Maki Pitolo,184.5,NA,TKO (Punches),1,4:34
+"Dec 4, 2021",UFC on ESPN 31 - Font vs. Aldo,Flyweight,Manel Kape,125.5,NA,Zhalgas Zhumagulov,125.5,NA,TKO (Punches),1,4:02
+"Dec 4, 2021",UFC on ESPN 31 - Font vs. Aldo,Welterweight,Bryan Barberena,170.5,NA,Darian Weeks,170,NA,Decision (Unanimous),3,5:00
+"Dec 4, 2021",UFC on ESPN 31 - Font vs. Aldo,Strawweight,Cheyanne Vlismas,115.5,NA,Mallory Martin,115,NA,Decision (Unanimous),3,5:00
+"Dec 4, 2021",UFC on ESPN 31 - Font vs. Aldo,Light Heavyweight,William Knight,206,NA,Alonzo Menifield,205.5,NA,Decision (Unanimous),3,5:00
+"Dec 4, 2021",UFC on ESPN 31 - Font vs. Aldo,Lightweight,Claudio Puelles,155,NA,Chris Gruetzemacher,156,NA,Submission (Kneebar),3,3:25
+"Dec 4, 2021",UFC on ESPN 31 - Font vs. Aldo,Bantamweight,Vince Morales,135.5,NA,Louis Smolka,135.5,NA,KO (Punches),1,2:02
+"Nov 20, 2021",UFC Fight Night 198 - Vieira vs. Tate,Bantamweight,Ketlen Vieira,NA,NA,Miesha Tate,NA,NA,Decision (Unanimous),5,5:00
+"Nov 20, 2021",UFC Fight Night 198 - Vieira vs. Tate,Welterweight,Sean Brady,NA,NA,Michael Chiesa,NA,NA,Decision (Unanimous),3,5:00
+"Nov 20, 2021",UFC Fight Night 198 - Vieira vs. Tate,Flyweight,Taila Santos,NA,NA,Joanne Wood,NA,NA,Submission (Rear-Naked Choke),1,4:49
+"Nov 20, 2021",UFC Fight Night 198 - Vieira vs. Tate,Bantamweight,Rani Yahya,NA,NA,Kyung Ho Kang,NA,NA,Decision (Unanimous),3,5:00
+"Nov 20, 2021",UFC Fight Night 198 - Vieira vs. Tate,Bantamweight,Adrian Yanez,NA,NA,Davey Grant,NA,NA,Decision (Split),3,5:00
+"Nov 20, 2021",UFC Fight Night 198 - Vieira vs. Tate,Featherweight,Pat Sabatini,NA,NA,Tucker Lutz,NA,NA,Decision (Unanimous),3,5:00
+"Nov 20, 2021",UFC Fight Night 198 - Vieira vs. Tate,Lightweight,Rafa Garcia,NA,NA,Natan Levy,NA,NA,Decision (Unanimous),3,5:00
+"Nov 20, 2021",UFC Fight Night 198 - Vieira vs. Tate,Strawweight,Lupita Godinez,NA,NA,Konklak Suphisara,NA,NA,Decision (Unanimous),3,5:00
+"Nov 20, 2021",UFC Fight Night 198 - Vieira vs. Tate,Flyweight,Cody Durden,NA,NA,Qileng Aori,NA,NA,Decision (Unanimous),3,5:00
+"Nov 20, 2021",UFC Fight Night 198 - Vieira vs. Tate,Featherweight,Nuerdanbieke Shayilan,NA,NA,Sean Soriano,NA,NA,Decision (Unanimous),3,5:00
+"Nov 20, 2021",UFC Fight Night 198 - Vieira vs. Tate,Strawweight,Luana Pinheiro,NA,NA,Sam Hughes,NA,NA,Decision (Unanimous),3,5:00
+"Nov 13, 2021",UFC Fight Night 197,Featherweight,Max Holloway,146,NA,Yair Rodriguez,145.5,NA,Decision (Unanimous),5,5:00
+"Nov 13, 2021",UFC Fight Night 197,Heavyweight,Marcos Rogerio de Lima,259,NA,Ben Rothwell,265,NA,TKO (Punches),1,0:32
+"Nov 13, 2021",UFC Fight Night 197,Featherweight,Felicia Spencer,145.5,NA,Leah Letson,145,NA,TKO (Elbows and Punches),3,4:25
+"Nov 13, 2021",UFC Fight Night 197,Welterweight,Kalinn Williams,169,NA,Miguel Baeza,170.5,NA,TKO (Punches),3,1:02
+"Nov 13, 2021",UFC Fight Night 197,Bantamweight,Yadong Song,135.5,NA,Julio Arce,135.5,NA,TKO (Head Kick and Punches),2,1:35
+"Nov 13, 2021",UFC Fight Night 197,158lb Catchweight,Joel Alvarez,157.5: Missed Weight,NA,Thiago Moises,155,NA,TKO (Elbows and Punches),1,3:01
+"Nov 13, 2021",UFC Fight Night 197,Flyweight,Andrea Lee,125.5,NA,Cynthia Calvillo,126,NA,TKO (Corner Stoppage),2,5:00
+"Nov 13, 2021",UFC Fight Night 197,Featherweight,Sean Woodson,145.5,NA,Collin Anglin,146,NA,TKO (Punches to the Body),1,4:30
+"Nov 13, 2021",UFC Fight Night 197,129lb Catchweight,Cortney Casey,125,NA,Liana Jojua,128.5: Missed Weight,NA,Decision (Unanimous),3,5:00
+"Nov 13, 2021",UFC Fight Night 197,Lightweight,Rafael Alves,155,NA,Marc Diakiese,156,NA,Submission (Guillotine Choke),1,1:48
+"Nov 13, 2021",UFC Fight Night 197,Light Heavyweight,Da Woon Jung,,,Kennedy Nzechukwu,205,NA,KO (Elbows),1,3:04
+"Nov 6, 2021",UFC 268 - Usman vs. Covington 2,Welterweight Title Fight,Kamaru Usman,169,NA,Colby Covington,169.4,NA,Decision (Unanimous),5,5:00
+"Nov 6, 2021",UFC 268 - Usman vs. Covington 2,StrawweightTitle Fight,Rose Namajunas,115,NA,Weili Zhang,115,NA,Decision (Split),5,5:00
+"Nov 6, 2021",UFC 268 - Usman vs. Covington 2,Bantamweight,Marlon Vera,135,NA,Frankie Edgar,135.6,NA,KO (Front Kick),3,3:50
+"Nov 6, 2021",UFC 268 - Usman vs. Covington 2,Featherweight,Shane Burgos,145.6,NA,Billy Quarantillo,145.4,NA,Decision (Unanimous),3,5:00
+"Nov 6, 2021",UFC 268 - Usman vs. Covington 2,Lightweight,Justin Gaethje,155.6,NA,Michael Chandler,155.2,NA,Decision (Unanimous),3,5:00
+"Nov 6, 2021",UFC 268 - Usman vs. Covington 2,Middleweight,Alex Pereira,185.8,NA,Andreas Michailidis,185,NA,TKO (Flying Knee and Punches),2,0:18
+"Nov 6, 2021",UFC 268 - Usman vs. Covington 2,Lightweight,Bobby Green,155.2,NA,Al Iaquinta,155.8,NA,TKO (Punches),1,2:25
+"Nov 6, 2021",UFC 268 - Usman vs. Covington 2,Middleweight,Chris Curtis,186,NA,Phil Hawes,185.4,NA,KO (Punches),1,4:27
+"Nov 6, 2021",UFC 268 - Usman vs. Covington 2,Middleweight,Nassourdine Imavov,184.6,NA,Edmen Shahbazyan,185.4,NA,TKO (Elbows),2,4:42
+"Nov 6, 2021",UFC 268 - Usman vs. Covington 2,Welterweight,Ian Garry,169.6,NA,Jordan Williams,170.6,NA,KO (Punches),1,4:59
+"Nov 6, 2021",UFC 268 - Usman vs. Covington 2,Heavyweight,Chris Barnett,263.8,NA,Gian Villante,260.6,NA,TKO (Spinning Wheel Kick and Punches),2,2:23
+"Nov 6, 2021",UFC 268 - Usman vs. Covington 2,Light Heavyweight,Dustin Jacoby,203.6,NA,John Allan,205,NA,Decision (Unanimous),3,5:00
+"Nov 6, 2021",UFC 268 - Usman vs. Covington 2,149lb Catchweight,Melsik Baghdasaryan,145.4,NA,Bruno Souza,148.4: Missed Weight,NA,Decision (Unanimous),3,5:00
+"Nov 6, 2021",UFC 268 - Usman vs. Covington 2,128lb Catchweight,Ode Osbourne,125.2,NA,C.J. Vergara,127.4: Missed Weight,NA,Decision (Unanimous),3,5:00
+"Oct 23, 2021",UFC Fight Night 196 - Costa vs. Vettori,Light Heavyweight,Marvin Vettori,204,NA,Paulo Costa,204.5,NA,Decision (Unanimous),5,5:00
+"Oct 23, 2021",UFC Fight Night 196 - Costa vs. Vettori,Lightweight,Grant Dawson,156,NA,Ricky Glenn,155.5,NA,Draw (Majority),3,5:00
+"Oct 23, 2021",UFC Fight Night 196 - Costa vs. Vettori,Bantamweight,Jessica-Rose Clark,135.5,NA,Joselyne Edwards,134.5,NA,Decision (Unanimous),3,5:00
+"Oct 23, 2021",UFC Fight Night 196 - Costa vs. Vettori,Featherweight,Alex Caceres,146,NA,Seung Woo Choi,145.5,NA,Submission (Rear-Naked Choke),2,3:31
+"Oct 23, 2021",UFC Fight Night 196 - Costa vs. Vettori,Welterweight,Francisco Trinaldo,169.5,NA,Dwight Grant,170,NA,Decision (Split),3,5:00
+"Oct 23, 2021",UFC Fight Night 196 - Costa vs. Vettori,Light Heavyweight,Nicolae Negumereanu,204.5,NA,Isaac Villanueva,205,NA,TKO (Punches),1,1:18
+"Oct 23, 2021",UFC Fight Night 196 - Costa vs. Vettori,Middleweight,Gregory Rodrigues,185.5,NA,Jun Yong Park,185.5,NA,KO (Punches),2,3:13
+"Oct 23, 2021",UFC Fight Night 196 - Costa vs. Vettori,Lightweight,Mason Jones,156,NA,David Onama,153.5,NA,Decision (Unanimous),3,5:00
+"Oct 23, 2021",UFC Fight Night 196 - Costa vs. Vettori,Strawweight,Tabatha Ricci,115,NA,Maria Oliveira,,,Decision (Unanimous),3,5:00
+"Oct 23, 2021",UFC Fight Night 196 - Costa vs. Vettori,Middleweight,Jamie Pickett,184.5,NA,Laureano Staropoli,185.5,NA,Decision (Unanimous),3,5:00
+"Oct 23, 2021",UFC Fight Night 196 - Costa vs. Vettori,Lightweight,Jai Herbert,155,NA,Khama Worthy,155,NA,TKO (Punches),1,2:47
+"Oct 23, 2021",UFC Fight Night 196 - Costa vs. Vettori,Flyweight,Jeff Molina,125,NA,Daniel Lacerda,125,NA,TKO (Elbows and Punches),2,0:46
+"Oct 23, 2021",UFC Fight Night 196 - Costa vs. Vettori,Strawweight,Randa Markos,115,NA,Livinha Souza,115,NA,Decision (Unanimous),3,5:00
+"Oct 23, 2021",UFC Fight Night 196 - Costa vs. Vettori,Bantamweight,Jonathan Martinez,135,NA,Zviad Lazishvili,135,NA,Decision (Unanimous),3,5:00
+"Oct 30, 2021",UFC 267 - Blachowicz vs. Teixeira,Light Heavyweight Title Fight,Glover Teixeira,205,NA,Jan Blachowicz,205,NA,Submission (Rear-Naked Choke),2,3:02
+"Oct 30, 2021",UFC 267 - Blachowicz vs. Teixeira,BantamweightTitle Fight,Petr Yan,135,NA,Cory Sandhagen,135,NA,Decision (Unanimous),5,5:00
+"Oct 30, 2021",UFC 267 - Blachowicz vs. Teixeira,Lightweight,Islam Makhachev,155.5,NA,Dan Hooker,156,NA,Submission (Kimura),1,2:25
+"Oct 30, 2021",UFC 267 - Blachowicz vs. Teixeira,Heavyweight,Alexander Volkov,263,NA,Marcin Tybura,249,NA,Decision (Unanimous),3,5:00
+"Oct 30, 2021",UFC 267 - Blachowicz vs. Teixeira,Welterweight,Khamzat Chimaev,171,NA,Jingliang Li,171,NA,Technical Submission (Rear-Naked Choke),1,3:16
+"Oct 30, 2021",UFC 267 - Blachowicz vs. Teixeira,Light Heavyweight,Magomed Ankalaev,205.5,NA,Volkan Oezdemir,205.5,NA,Decision (Unanimous),3,5:00
+"Oct 30, 2021",UFC 267 - Blachowicz vs. Teixeira,Strawweight,Amanda Ribas,115.5,NA,Virna Jandiroba,116,NA,Decision (Unanimous),3,5:00
+"Oct 30, 2021",UFC 267 - Blachowicz vs. Teixeira,Featherweight,Zubaira Tukhugov,146,NA,Ricardo Ramos,146,NA,Decision (Unanimous),3,5:00
+"Oct 30, 2021",UFC 267 - Blachowicz vs. Teixeira,Middleweight,Albert Duraev,186,NA,Roman Kopylov,186,NA,Decision (Unanimous),3,5:00
+"Oct 30, 2021",UFC 267 - Blachowicz vs. Teixeira,Welterweight,Elizeu Zaleski dos Santos,170.5,NA,Benoit St. Denis,171,NA,Decision (Unanimous),3,5:00
+"Oct 30, 2021",UFC 267 - Blachowicz vs. Teixeira,Light Heavyweight,Michal Oleksiejczuk,206,NA,Shamil Gamzatov,206,NA,TKO (Punches),1,3:31
+"Oct 30, 2021",UFC 267 - Blachowicz vs. Teixeira,Featherweight,Lerone Murphy,146,NA,Makwan Amirkhani,146,NA,KO (Knee),2,0:14
+"Oct 30, 2021",UFC 267 - Blachowicz vs. Teixeira,Middleweight,Andre Petroski,185.5,NA,Yaozong Hu,186,NA,Submission (Arm-Triangle Choke),3,4:46
+"Oct 30, 2021",UFC 267 - Blachowicz vs. Teixeira,Flyweight,Tagir Ulanbekov,125,NA,Allan Nascimento,126,NA,Decision (Split),3,5:00
+"Oct 16, 2021",UFC Fight Night 195 - Ladd vs. Dumont,Featherweight,Norma Dumont,145.5,NA,Aspen Ladd,145,NA,Decision (Unanimous),5,5:00
+"Oct 16, 2021",UFC Fight Night 195 - Ladd vs. Dumont,Heavyweight,Andrei Arlovski,245,NA,Carlos Felipe,259,NA,Decision (Unanimous),3,5:00
+"Oct 16, 2021",UFC Fight Night 195 - Ladd vs. Dumont,Lightweight,Jim Miller,155,NA,Erick Gonzalez,155,NA,KO (Punch),2,0:14
+"Oct 16, 2021",UFC Fight Night 195 - Ladd vs. Dumont,Flyweight,Manon Fiorot,125.5,NA,Mayra Bueno Silva,126,NA,Decision (Unanimous),3,5:00
+"Oct 16, 2021",UFC Fight Night 195 - Ladd vs. Dumont,Featherweight,Nate Landwehr,145.5,NA,Ludovit Klein,145.5,NA,Submission (Anaconda Choke),3,2:22
+"Oct 16, 2021",UFC Fight Night 195 - Ladd vs. Dumont,Middleweight,Bruno Silva,185,NA,Andrew Sanchez,185,NA,TKO (Punches),3,2:35
+"Oct 16, 2021",UFC Fight Night 195 - Ladd vs. Dumont,Welterweight,Danny Roberts,170.5,NA,Ramazan Emeev,171,NA,Decision (Split),3,5:00
+"Oct 16, 2021",UFC Fight Night 195 - Ladd vs. Dumont,Flyweight,Luana Carolina,125.5,NA,Lupita Godinez,121.5,NA,Decision (Unanimous),3,5:00
+"Oct 16, 2021",UFC Fight Night 195 - Ladd vs. Dumont,Bantamweight,Batgerel Danaa,,,Brandon Davis,136,NA,TKO (Elbows and Punches),1,2:01
+"Oct 16, 2021",UFC Fight Night 195 - Ladd vs. Dumont,Strawweight,Ariane Carnelossi,115.5,NA,Istela Nunes,114.5,NA,Submission (Rear-Naked Choke),3,2:57
+"Sep 18, 2021",UFC Fight Night 192 - Smith vs. Spann,Light Heavyweight,Anthony Smith,205.5,NA,Ryan Spann,206,NA,Submission (Rear-Naked Choke),1,3:47
+"Sep 18, 2021",UFC Fight Night 192 - Smith vs. Spann,Light Heavyweight,Ion Cutelaba,205,NA,Devin Clark,206,NA,Decision (Unanimous),3,5:00
+"Sep 18, 2021",UFC Fight Night 192 - Smith vs. Spann,Flyweight,Ariane Lipski da Silva,126,NA,Mandy Bohm,125.5,NA,Decision (Unanimous),3,5:00
+"Sep 18, 2021",UFC Fight Night 192 - Smith vs. Spann,Lightweight,Arman Tsarukyan,155.5,NA,Christos Giagos,155.5,NA,TKO (Punches),1,2:09
+"Sep 18, 2021",UFC Fight Night 192 - Smith vs. Spann,Bantamweight,Nathan Maness,135,NA,Tony Gravely,135.5,NA,TKO (Punches),2,2:10
+"Sep 18, 2021",UFC Fight Night 192 - Smith vs. Spann,Middleweight,Joaquin Buckley,184.5,NA,Antonio Arroyo,186,NA,KO (Punches),3,2:26
+"Sep 18, 2021",UFC Fight Night 192 - Smith vs. Spann,Light Heavyweight,Tafon Nchukwi,204.5,NA,Mike Rodriguez,202,NA,Decision (Unanimous),3,5:00
+"Sep 18, 2021",UFC Fight Night 192 - Smith vs. Spann,Bantamweight,Raquel Pennington,135.5,NA,Pannie Kianzad,136,NA,Decision (Unanimous),3,5:00
+"Sep 18, 2021",UFC Fight Night 192 - Smith vs. Spann,158lb Catchweight,Zhu Rong,158,NA,Brandon Jenkins,155.5,NA,TKO (Punches),3,4:35
+"Sep 18, 2021",UFC Fight Night 192 - Smith vs. Spann,Bantamweight,Montel Jackson,136,NA,J.P. Buys,136,NA,Decision (Unanimous),3,5:00
+"Sep 18, 2021",UFC Fight Night 192 - Smith vs. Spann,Flyweight,Erin Blanchfield,125,NA,Sarah Alpar,126,NA,Decision (Unanimous),3,5:00
+"Sep 18, 2021",UFC Fight Night 192 - Smith vs. Spann,Welterweight,Carlston Harris,170,NA,Impa Kasanganay,170.5,NA,TKO (Punches),1,2:38
+"Sep 18, 2021",UFC Fight Night 192 - Smith vs. Spann,Bantamweight,Gustavo Lopez,135,NA,Heili Alateng,136,NA,Draw (Unanimous),3,5:00
+"Sep 18, 2021",UFC Fight Night 192 - Smith vs. Spann,Flyweight,Hannah Goldy,125,NA,Emily Whitmire,125,NA,Submission (Armbar),1,4:17
+"Oct 9, 2021",UFC Fight Night 194 - Dern vs. Rodriguez,Strawweight,Marina Rodriguez,115,NA,Mackenzie Dern,114.6,NA,Decision (Unanimous),5,5:00
+"Oct 9, 2021",UFC Fight Night 194 - Dern vs. Rodriguez,174lb Catchweight,Randy Brown,170.5,NA,Jared Gooden,174: Missed Weight,NA,Decision (Unanimous),3,5:00
+"Oct 9, 2021",UFC Fight Night 194 - Dern vs. Rodriguez,Flyweight,Matheus Nicolau,125.5,NA,Tim Elliott,125.5,NA,Decision (Unanimous),3,5:00
+"Oct 9, 2021",UFC Fight Night 194 - Dern vs. Rodriguez,Flyweight,Mariya Agapova,125,NA,Sabina Mazo,125,NA,Submission (Rear-Naked Choke),3,0:53
+"Oct 9, 2021",UFC Fight Night 194 - Dern vs. Rodriguez,Bantamweight,Chris Gutierrez,135,NA,Felipe Colares,,,Decision (Split),3,5:00
+"Oct 9, 2021",UFC Fight Night 194 - Dern vs. Rodriguez,Heavyweight,Alexander Romanov,260,NA,Jared Vanderaa,265.5,NA,TKO (Punches),2,4:43
+"Oct 9, 2021",UFC Fight Night 194 - Dern vs. Rodriguez,Featherweight,Damon Jackson,145.5,NA,Charles Rosa,145.5,NA,Decision (Unanimous),3,5:00
+"Oct 9, 2021",UFC Fight Night 194 - Dern vs. Rodriguez,Strawweight,Lupita Godinez,115.5,NA,Silvana Gomez Juarez,114,NA,Submission (Armbar),1,4:14
+"Oct 9, 2021",UFC Fight Night 194 - Dern vs. Rodriguez,Lightweight,Steve Garcia,155,NA,Charlie Ontiveros,155.5,NA,TKO (Punches),2,1:51
+"Sep 4, 2021",UFC Fight Night 191 - Brunson vs. Till,Middleweight,Derek Brunson,186,NA,Darren Till,185.5,NA,Submission (Rear-Naked Choke),3,2:13
+"Sep 4, 2021",UFC Fight Night 191 - Brunson vs. Till,Heavyweight,Tom Aspinall,247,NA,Serghei Spivac,,,TKO (Elbow and Punches),1,2:30
+"Sep 4, 2021",UFC Fight Night 191 - Brunson vs. Till,Welterweight,Alex Morono,170.5,NA,David Zawada,170.5,NA,Decision (Unanimous),3,5:00
+"Sep 4, 2021",UFC Fight Night 191 - Brunson vs. Till,Light Heavyweight,Khalil Rountree,205.5,NA,Modestas Bukauskas,205,NA,TKO (Leg Kick),2,2:30
+"Sep 4, 2021",UFC Fight Night 191 - Brunson vs. Till,Lightweight,Paddy Pimblett,155.5,NA,Luigi Vendramini,155.5,NA,KO (Punches),1,4:25
+"Sep 4, 2021",UFC Fight Night 191 - Brunson vs. Till,Flyweight,Molly McCann,125.5,NA,Ji Yeon Kim,126,NA,Decision (Unanimous),3,5:00
+"Sep 4, 2021",UFC Fight Night 191 - Brunson vs. Till,Bantamweight,Jack Shore,136,NA,Liudvik Sholinian,135,NA,Decision (Unanimous),3,5:00
+"Sep 4, 2021",UFC Fight Night 191 - Brunson vs. Till,150lb Catchweight,Julian Erosa,149.5,NA,Charles Jourdain,149.5,NA,Submission (Brabo Choke),3,2:56
+"Sep 4, 2021",UFC Fight Night 191 - Brunson vs. Till,Middleweight,Marc-Andre Barriault,184.5,NA,Dalcha Lungiambula,185,NA,Decision (Unanimous),3,5:00
+"Sep 25, 2021",UFC 266 - Volkanovski vs. Ortega,Featherweight Title Fight,Alexander Volkanovski,144.5,NA,Brian Ortega,144,NA,Decision (Unanimous),5,5:00
+"Sep 25, 2021",UFC 266 - Volkanovski vs. Ortega,Flyweight Title Fight,Valentina Shevchenko,124,NA,Lauren Murphy,125,NA,TKO (Elbows and Punches),4,4:00
+"Sep 25, 2021",UFC 266 - Volkanovski vs. Ortega,Middleweight,Robbie Lawler,184,NA,Nick Diaz,185.5,NA,TKO (Retirement),3,0:44
+"Sep 25, 2021",UFC 266 - Volkanovski vs. Ortega,Heavyweight,Curtis Blaydes,261,NA,Jairzinho Rozenstruik,257,NA,Decision (Unanimous),3,5:00
+"Sep 25, 2021",UFC 266 - Volkanovski vs. Ortega,Flyweight,Jessica Andrade,126,NA,Cynthia Calvillo,126,NA,TKO (Punches),1,4:54
+"Sep 25, 2021",UFC 266 - Volkanovski vs. Ortega,Bantamweight,Merab Dvalishvili,135.5,NA,Marlon Moraes,135.5,NA,TKO (Punches),2,4:25
+"Sep 25, 2021",UFC 266 - Volkanovski vs. Ortega,Lightweight,Dan Hooker,155.5,NA,Nasrat Haqparast,154.5,NA,Decision (Unanimous),3,5:00
+"Sep 25, 2021",UFC 266 - Volkanovski vs. Ortega,Heavyweight,Chris Daukaus,231,NA,Shamil Abdurakhimov,258,NA,TKO (Punches and Elbows),2,1:23
+"Sep 25, 2021",UFC 266 - Volkanovski vs. Ortega,Flyweight,Taila Santos,125,NA,Roxanne Modafferi,125.5,NA,Decision (Unanimous),3,5:00
+"Sep 25, 2021",UFC 266 - Volkanovski vs. Ortega,Lightweight,Jalin Turner,156,NA,Uros Medic,156,NA,Submission (Rear-Naked Choke),1,4:01
+"Sep 25, 2021",UFC 266 - Volkanovski vs. Ortega,Middleweight,Nick Maximov,185.5,NA,Cody Brundage,185.5,NA,Decision (Unanimous),3,5:00
+"Sep 25, 2021",UFC 266 - Volkanovski vs. Ortega,Welterweight,Matthew Semelsberger,170.5,NA,Martin Sano,170,NA,KO (Punch),1,0:15
+"Sep 25, 2021",UFC 266 - Volkanovski vs. Ortega,Featherweight,Jonathan Pearce,145.5,NA,Omar Morales,145.5,NA,Submission (Rear-Naked Choke),2,3:31
+"Oct 2, 2021",UFC Fight Night 193 - Santos vs. Walker,Light Heavyweight,Thiago Santos,206,NA,Johnny Walker,204.5,NA,Decision (Unanimous),5,5:00
+"Oct 2, 2021",UFC Fight Night 193 - Santos vs. Walker,Middleweight,Kevin Holland,183.5,NA,Kyle Daukaus,185.5,NA,No Contest (Accidental Clash of Heads),1,3:43
+"Oct 2, 2021",UFC Fight Night 193 - Santos vs. Walker,Welterweight,Niko Price,170.5,NA,Alex Oliveira,169.5,NA,Decision (Unanimous),3,5:00
+"Oct 2, 2021",UFC Fight Night 193 - Santos vs. Walker,Middleweight,Krzysztof Jotko,185.5,NA,Misha Cirkunov,185.5,NA,Decision (Split),3,5:00
+"Oct 2, 2021",UFC Fight Night 193 - Santos vs. Walker,159lb Catchweight,Alexander Hernandez,154.5,NA,Mike Breeden,158.5: Missed Weight,NA,KO (Punch),1,1:20
+"Oct 2, 2021",UFC Fight Night 193 - Santos vs. Walker,Lightweight,Jared Gordon,155,NA,Joe Solecki,155.5,NA,Decision (Split),3,5:00
+"Oct 2, 2021",UFC Fight Night 193 - Santos vs. Walker,Flyweight,Casey O'Neill,125,NA,Antonina Shevchenko,125.5,NA,TKO (Punches),2,4:47
+"Oct 2, 2021",UFC Fight Night 193 - Santos vs. Walker,139lb Catchweight,Karol Rosa,135.5,NA,Bethe Correia,138.5: Missed Weight,NA,Decision (Unanimous),3,5:00
+"Oct 2, 2021",UFC Fight Night 193 - Santos vs. Walker,Lightweight,Jamie Mullarkey,155.5,NA,Devonte Smith,155.5,NA,TKO (Punches),2,2:51
+"Oct 2, 2021",UFC Fight Night 193 - Santos vs. Walker,Bantamweight,Douglas Silva de Andrade,135,NA,Gaetano Pirrello,134.5,NA,KO (Punch),1,2:04
+"Oct 2, 2021",UFC Fight Night 193 - Santos vs. Walker,Bantamweight,Stephanie Egger,135,NA,Shanna Young,134.5,NA,TKO (Elbow),2,2:22
+"Oct 2, 2021",UFC Fight Night 193 - Santos vs. Walker,Bantamweight,Alejandro Perez,136,NA,Johnny Eduardo,135.5,NA,Submission (Scarf Hold Armlock),2,4:13
+"Aug 28, 2021",UFC on ESPN 30 - Barboza vs. Chikadze,Featherweight,Giga Chikadze,145.5,NA,Edson Barboza,145,NA,TKO (Punches),3,1:44
+"Aug 28, 2021",UFC on ESPN 30 - Barboza vs. Chikadze,Middleweight,Bryan Battle,185.5,NA,Gilbert Urbina,186,NA,Submission (Rear-Naked Choke),2,2:15
+"Aug 28, 2021",UFC on ESPN 30 - Barboza vs. Chikadze,Bantamweight,Ricky Turcios,135,NA,Brady Hiestand,135.5,NA,Decision (Split),3,5:00
+"Aug 28, 2021",UFC on ESPN 30 - Barboza vs. Chikadze,Welterweight,Daniel Rodriguez,171,NA,Kevin Lee,170.5,NA,Decision (Unanimous),3,5:00
+"Aug 28, 2021",UFC on ESPN 30 - Barboza vs. Chikadze,Middleweight,Andre Petroski,185.5,NA,Micheal Gillmore,184,NA,TKO (Punches and Elbows),3,3:12
+"Aug 28, 2021",UFC on ESPN 30 - Barboza vs. Chikadze,Middleweight,Gerald Meerschaert,185,NA,Makhmud Muradov,184.5,NA,Submission (Rear-Naked Choke),2,1:49
+"Aug 28, 2021",UFC on ESPN 30 - Barboza vs. Chikadze,Middleweight,Abdul Razak Alhassan,185.5,NA,Alessio Di Chirico,185.5,NA,KO (Head Kick),1,0:17
+"Aug 28, 2021",UFC on ESPN 30 - Barboza vs. Chikadze,Middleweight,Wellington Turman,185.5,NA,Sam Alvey,185.5,NA,Decision (Split),3,5:00
+"Aug 28, 2021",UFC on ESPN 30 - Barboza vs. Chikadze,Light Heavyweight,Dustin Jacoby,203.5,NA,Darren Stewart,204.5,NA,TKO (Punches),1,3:04
+"Aug 28, 2021",UFC on ESPN 30 - Barboza vs. Chikadze,Flyweight,J.J. Aldrich,125,NA,Vanessa Demopoulos,125.5,NA,Decision (Unanimous),3,5:00
+"Aug 28, 2021",UFC on ESPN 30 - Barboza vs. Chikadze,Featherweight,Pat Sabatini,145.5,NA,Jamall Emmers,145.5,NA,Submission (Heel Hook),1,1:53
+"Aug 28, 2021",UFC on ESPN 30 - Barboza vs. Chikadze,140lb Catchweight,Leomana Martinez,140: Missed Weight,NA,Guido Cannetti,135.5,NA,Decision (Split),3,5:00
+"Aug 21, 2021",UFC on ESPN 29 - Cannonier vs. Gastelum,Middleweight,Jared Cannonier,185,NA,Kelvin Gastelum,186,NA,Decision (Unanimous),5,5:00
+"Aug 21, 2021",UFC on ESPN 29 - Cannonier vs. Gastelum,Lightweight,Mark O. Madsen,156,NA,Clay Guida,155,NA,Decision (Split),3,5:00
+"Aug 21, 2021",UFC on ESPN 29 - Cannonier vs. Gastelum,Heavyweight,Parker Porter,262,NA,Chase Sherman,256,NA,Decision (Unanimous),3,5:00
+"Aug 21, 2021",UFC on ESPN 29 - Cannonier vs. Gastelum,139lb Catchweight,Saidyokub Kakhramonov,138.5: Missed Weight,NA,Trevin Jones,135,NA,Technical Submission (Guillotine Choke),3,4:39
+"Aug 21, 2021",UFC on ESPN 29 - Cannonier vs. Gastelum,Lightweight,Vinc Pichel,155.5,NA,Austin Hubbard,156,NA,Decision (Unanimous),3,5:00
+"Aug 21, 2021",UFC on ESPN 29 - Cannonier vs. Gastelum,Flyweight,Alexandre Pantoja,126,NA,Brandon Royval,125.5,NA,Submission (Rear-Naked Choke),2,1:46
+"Aug 21, 2021",UFC on ESPN 29 - Cannonier vs. Gastelum,Featherweight,Austin Lingo,145.5,NA,Luis Saldana,146,NA,Decision (Unanimous),3,5:00
+"Aug 21, 2021",UFC on ESPN 29 - Cannonier vs. Gastelum,Bantamweight,Brian Kelleher,136,NA,Domingo Pilarte,136,NA,Decision (Unanimous),3,5:00
+"Aug 21, 2021",UFC on ESPN 29 - Cannonier vs. Gastelum,Bantamweight,Josiane Nunes,136,NA,Bea Malecki,135,NA,KO (Punch),1,4:54
+"Aug 21, 2021",UFC on ESPN 29 - Cannonier vs. Gastelum,Light Heavyweight,William Knight,206,NA,Fabio Cherant,205,NA,KO (Punches),1,3:58
+"Aug 21, 2021",UFC on ESPN 29 - Cannonier vs. Gastelum,Lightweight,Ignacio Bahamondes,154,NA,Roosevelt Roberts,154.5,NA,KO (Spinning Wheel Kick),3,4:55
+"Aug 21, 2021",UFC on ESPN 29 - Cannonier vs. Gastelum,Welterweight,Ramiz Brahimaj,171,NA,Sasha Palatnikov,170,NA,Technical Submission (Rear-Naked Choke),1,2:33
+"Aug 7, 2021",UFC 265 - Lewis vs. Gane,Heavyweight Title Fight,Ciryl Gane,247,NA,Derrick Lewis,264.5,NA,TKO (Punches),3,4:11
+"Aug 7, 2021",UFC 265 - Lewis vs. Gane,Bantamweight,Jose Aldo,136,NA,Pedro Munhoz,135,NA,Decision (Unanimous),3,5:00
+"Aug 7, 2021",UFC 265 - Lewis vs. Gane,Welterweight,Vicente Luque,170,NA,Michael Chiesa,170.5,NA,Submission (Brabo Choke),1,3:25
+"Aug 7, 2021",UFC 265 - Lewis vs. Gane,Strawweight,Tecia Pennington,,,Angela Hill,115,NA,Decision (Unanimous),3,5:00
+"Aug 7, 2021",UFC 265 - Lewis vs. Gane,Bantamweight,Yadong Song,135.5,NA,Casey Kenney,136,NA,Decision (Split),3,5:00
+"Aug 7, 2021",UFC 265 - Lewis vs. Gane,Lightweight,Rafael Fiziev,155.5,NA,Bobby Green,156,NA,Decision (Unanimous),3,5:00
+"Aug 7, 2021",UFC 265 - Lewis vs. Gane,Bantamweight,Vince Morales,136,NA,Drako Rodriguez,136,NA,Decision (Unanimous),3,5:00
+"Aug 7, 2021",UFC 265 - Lewis vs. Gane,Light Heavyweight,Alonzo Menifield,204.5,NA,Ed Herman,205.5,NA,Decision (Unanimous),3,5:00
+"Aug 7, 2021",UFC 265 - Lewis vs. Gane,Strawweight,Jessica Penne,116,NA,Karolina Kowalkiewicz,115,NA,Submission (Armbar),1,4:32
+"Aug 7, 2021",UFC 265 - Lewis vs. Gane,129lb Catchweight,Manel Kape,129: Missed Weight,NA,Ode Osbourne,125,NA,KO (Flying Knee and Punches),1,4:44
+"Aug 7, 2021",UFC 265 - Lewis vs. Gane,Bantamweight,Miles Johns,136,NA,Anderson dos Santos,135.5,NA,KO (Punch),3,1:16
+"Aug 7, 2021",UFC 265 - Lewis vs. Gane,Flyweight,Melissa Gatto,124,NA,Victoria Leonardo,125,NA,TKO (Arm Injury),2,5:00
+"Aug 7, 2021",UFC 265 - Lewis vs. Gane,Bantamweight,Johnny Munoz Jr.,135.5,NA,Jamey Simmons,136,NA,Submission (Rear-Naked Choke),2,2:35
+"Jul 31, 2021",UFC on ESPN 28 - Hall vs. Strickland,Middleweight,Sean Strickland,185,NA,Uriah Hall,185.5,NA,Decision (Unanimous),5,5:00
+"Jul 31, 2021",UFC on ESPN 28 - Hall vs. Strickland,Strawweight,Cheyanne Vlismas,,,Gloria de Paula,115.5,NA,TKO (Head Kick and Punches),1,1:00
+"Jul 31, 2021",UFC on ESPN 28 - Hall vs. Strickland,Welterweight,Jared Gooden,171,NA,Niklas Stolze,170.5,NA,KO (Punch),1,1:08
+"Jul 31, 2021",UFC on ESPN 28 - Hall vs. Strickland,Featherweight,Melsik Baghdasaryan,145.5,NA,Collin Anglin,146,NA,KO (Head Kick and Punches),2,1:50
+"Jul 31, 2021",UFC on ESPN 28 - Hall vs. Strickland,Welterweight,Jason Witt,170.5,NA,Bryan Barberena,170.5,NA,Decision (Majority),3,5:00
+"Jul 31, 2021",UFC on ESPN 28 - Hall vs. Strickland,Lightweight,Chris Gruetzemacher,156,NA,Rafa Garcia,154,NA,Decision (Unanimous),3,5:00
+"Jul 31, 2021",UFC on ESPN 28 - Hall vs. Strickland,Featherweight,Danny Chavez,145.5,NA,Kai Kamaka III,144.5,NA,Draw (Majority),3,5:00
+"Jul 31, 2021",UFC on ESPN 28 - Hall vs. Strickland,Strawweight,Jinh Yu Frey,115.5,NA,Ashley Yoder,116,NA,Decision (Unanimous),3,5:00
+"Jul 31, 2021",UFC on ESPN 28 - Hall vs. Strickland,Flyweight,Zarrukh Adashev,125.5,NA,Ryan Benoit,126,NA,Decision (Unanimous),3,5:00
+"Jul 31, 2021",UFC on ESPN 28 - Hall vs. Strickland,174lb Catchweight,Philip Rowe,173.5: Missed Weight,NA,Orion Cosce,170.5,NA,TKO (Punches),2,4:21
+"Jul 24, 2021",UFC on ESPN 27 - Sandhagen vs. Dillashaw,Bantamweight,T.J. Dillashaw,136,NA,Cory Sandhagen,136,NA,Decision (Split),5,5:00
+"Jul 24, 2021",UFC on ESPN 27 - Sandhagen vs. Dillashaw,Bantamweight,Raulian Paiva,135.5,NA,Kyler Phillips,135.5,NA,Decision (Majority),3,5:00
+"Jul 24, 2021",UFC on ESPN 27 - Sandhagen vs. Dillashaw,Featherweight,Darren Elkins,146,NA,Darrick Minner,145.5,NA,TKO (Punches),2,3:48
+"Jul 24, 2021",UFC on ESPN 27 - Sandhagen vs. Dillashaw,Flyweight,Maycee Barber,125.5,NA,Miranda Maverick,125.5,NA,Decision (Split),3,5:00
+"Jul 24, 2021",UFC on ESPN 27 - Sandhagen vs. Dillashaw,Bantamweight,Adrian Yanez,135.5,NA,Randy Costa,135,NA,TKO (Punches),2,2:11
+"Jul 24, 2021",UFC on ESPN 27 - Sandhagen vs. Dillashaw,Middleweight,Brendan Allen,185.5,NA,Punahele Soriano,185.5,NA,Decision (Unanimous),3,5:00
+"Jul 24, 2021",UFC on ESPN 27 - Sandhagen vs. Dillashaw,Middleweight,Nassourdine Imavov,185.5,NA,Ian Heinisch,185.5,NA,TKO (Punches),2,3:09
+"Jul 24, 2021",UFC on ESPN 27 - Sandhagen vs. Dillashaw,Welterweight,Mickey Gall,169.5,NA,Jordan Williams,170.5,NA,Submission (Rear-Naked Choke),1,2:57
+"Jul 24, 2021",UFC on ESPN 27 - Sandhagen vs. Dillashaw,Bantamweight,Julio Arce,135.5,NA,Andre Ewell,135,NA,TKO (Punches),2,3:45
+"Jul 24, 2021",UFC on ESPN 27 - Sandhagen vs. Dillashaw,Flyweight,Sijara Eubanks,125,NA,Elise Reed,125,NA,TKO (Punches),1,3:49
+"Jul 24, 2021",UFC on ESPN 27 - Sandhagen vs. Dillashaw,Strawweight,Diana Belbita,114.5,NA,Hannah Goldy,115.5,NA,Decision (Unanimous),3,5:00
+"Jun 26, 2021",UFC Fight Night 190 - Gane vs. Volkov,Heavyweight,Ciryl Gane,245,NA,Alexander Volkov,265,NA,Decision (Unanimous),5,5:00
+"Jun 26, 2021",UFC Fight Night 190 - Gane vs. Volkov,Heavyweight,Tanner Boser,240,NA,Ovince St. Preux,230,NA,KO (Punches),2,2:31
+"Jun 26, 2021",UFC Fight Night 190 - Gane vs. Volkov,Bantamweight,Timur Valiev,136,NA,Raoni Barcelos,135,NA,Decision (Majority),3,5:00
+"Jun 26, 2021",UFC Fight Night 190 - Gane vs. Volkov,Featherweight,Andre Fili,145.5,NA,Daniel Pineda,145,NA,No Contest (Accidental Eye Poke),2,0:46
+"Jun 26, 2021",UFC Fight Night 190 - Gane vs. Volkov,Welterweight,Tim Means,170.5,NA,Nicolas Dalby,170,NA,Decision (Unanimous),3,5:00
+"Jun 26, 2021",UFC Fight Night 190 - Gane vs. Volkov,Lightweight,Renato Carneiro,156,NA,Jai Herbert,155.5,NA,Submission (Rear-Naked Choke),2,4:34
+"Jun 26, 2021",UFC Fight Night 190 - Gane vs. Volkov,Light Heavyweight,Kennedy Nzechukwu,205.5,NA,Danilo Marques,205.5,NA,TKO (Punches),3,0:20
+"Jun 26, 2021",UFC Fight Night 190 - Gane vs. Volkov,Welterweight,Shavkat Rakhmonov,170.5,NA,Michel Prazeres,170,NA,Submission (Rear-Naked Choke),2,2:10
+"Jun 26, 2021",UFC Fight Night 190 - Gane vs. Volkov,Welterweight,Jeremiah Wells,171,NA,Warlley Alves,171,NA,KO (Punches),2,0:30
+"Jun 26, 2021",UFC Fight Night 190 - Gane vs. Volkov,Light Heavyweight,Marcin Prachnio,206,NA,Isaac Villanueva,205,NA,KO (Body Kick),2,0:56
+"Jun 26, 2021",UFC Fight Night 190 - Gane vs. Volkov,Bantamweight,Julia Avila,135.5,NA,Julija Stoliarenko,135.5,NA,Submission (Rear-Naked Choke),3,4:19
+"Jun 26, 2021",UFC Fight Night 190 - Gane vs. Volkov,Featherweight,Charles Rosa,146,NA,Justin Jaynes,145.5,NA,Decision (Split),3,5:00
+"Jun 26, 2021",UFC Fight Night 190 - Gane vs. Volkov,Lightweight,Damir Hadzovic,155.5,NA,Yancy Medeiros,155.5,NA,Decision (Unanimous),3,5:00
+"Jul 10, 2021",UFC 264 - Poirier vs. McGregor 3,Lightweight,Dustin Poirier,156,NA,Conor McGregor,156,NA,TKO (Leg Injury),1,5:00
+"Jul 10, 2021",UFC 264 - Poirier vs. McGregor 3,Welterweight,Gilbert Burns,170.5,NA,Stephen Thompson,170.5,NA,Decision (Unanimous),3,5:00
+"Jul 10, 2021",UFC 264 - Poirier vs. McGregor 3,Heavyweight,Tai Tuivasa,263,NA,Greg Hardy,264.5,NA,KO (Punches),1,1:07
+"Jul 10, 2021",UFC 264 - Poirier vs. McGregor 3,140lb Catchweight,Irene Aldana,139.5: Missed Weight,NA,Yana Santos,,,TKO (Punches),1,4:35
+"Jul 10, 2021",UFC 264 - Poirier vs. McGregor 3,Bantamweight,Sean O'Malley,135.5,NA,Kris Moutinho,135,NA,TKO (Punches),3,4:33
+"Jul 10, 2021",UFC 264 - Poirier vs. McGregor 3,Welterweight,Max Griffin,170.5,NA,Carlos Condit,171,NA,Decision (Unanimous),3,5:00
+"Jul 10, 2021",UFC 264 - Poirier vs. McGregor 3,Welterweight,Michel Pereira,170.5,NA,Niko Price,169.5,NA,Decision (Unanimous),3,5:00
+"Jul 10, 2021",UFC 264 - Poirier vs. McGregor 3,Featherweight,Ilia Topuria,145.5,NA,Ryan Hall,145,NA,KO (Punches),1,4:47
+"Jul 10, 2021",UFC 264 - Poirier vs. McGregor 3,Middleweight,Dricus Du Plessis,185.5,NA,Trevin Giles,185.5,NA,KO (Punches),2,1:41
+"Jul 10, 2021",UFC 264 - Poirier vs. McGregor 3,Flyweight,Jennifer Maia,125.5,NA,Jessica Eye,125.5,NA,Decision (Unanimous),3,5:00
+"Jul 10, 2021",UFC 264 - Poirier vs. McGregor 3,Middleweight,Brad Tavares,184.5,NA,Omari Akhmedov,185.5,NA,Decision (Split),3,5:00
+"Jul 10, 2021",UFC 264 - Poirier vs. McGregor 3,Flyweight,Zhalgas Zhumagulov,125.5,NA,Jerome Rivera,125.5,NA,Submission (Guillotine Choke),1,2:02
+"Jul 17, 2021",UFC on ESPN 26 - Makhachev vs. Moises,Lightweight,Islam Makhachev,155.5,NA,Thiago Moises,156,NA,Submission (Rear-Naked Choke),4,2:38
+"Jul 17, 2021",UFC on ESPN 26 - Makhachev vs. Moises,Bantamweight,Miesha Tate,135,NA,Marion Reneau,136,NA,TKO (Punches),3,1:53
+"Jul 17, 2021",UFC on ESPN 26 - Makhachev vs. Moises,Lightweight,Mateusz Gamrot,155.5,NA,Jeremy Stephens,156,NA,Submission (Kimura),1,1:05
+"Jul 17, 2021",UFC on ESPN 26 - Makhachev vs. Moises,Middleweight,Rodolfo Vieira,185,NA,Dustin Stoltzfus,185.5,NA,Submission (Rear-Naked Choke),3,1:54
+"Jul 17, 2021",UFC on ESPN 26 - Makhachev vs. Moises,Featherweight,Billy Quarantillo,145.5,NA,Gabriel Benitez,146,NA,TKO (Punches),3,3:40
+"Jul 17, 2021",UFC on ESPN 26 - Makhachev vs. Moises,Welterweight,Daniel Rodriguez,171,NA,Preston Parsons,169.5,NA,TKO (Punches),1,3:47
+"Jul 17, 2021",UFC on ESPN 26 - Makhachev vs. Moises,Strawweight,Amanda Lemos,115.5,NA,Montserrat Ruiz,113.5,NA,TKO (Punches),1,0:35
+"Jul 17, 2021",UFC on ESPN 26 - Makhachev vs. Moises,Bantamweight,Sergey Morozov,135,NA,Khalid Taha,135.5,NA,Decision (Unanimous),3,5:00
+"Jul 17, 2021",UFC on ESPN 26 - Makhachev vs. Moises,Flyweight,Malcolm Gordon,125.5,NA,Francisco Figueiredo,125.5,NA,Decision (Unanimous),3,5:00
+"Jul 17, 2021",UFC on ESPN 26 - Makhachev vs. Moises,Heavyweight,Rodrigo Nascimento,259,NA,Alan Baudot,246,NA,No Contest (Overturned),2,1:29
+"Jun 19, 2021",UFC on ESPN 25 - Korean Zombie vs. Ige,Featherweight,Chan Sung Jung,146,NA,Dan Ige,146,NA,Decision (Unanimous),5,5:00
+"Jun 19, 2021",UFC on ESPN 25 - Korean Zombie vs. Ige,Heavyweight,Serghei Spivac,,,Alexey Oleynik,228,NA,Decision (Unanimous),3,5:00
+"Jun 19, 2021",UFC on ESPN 25 - Korean Zombie vs. Ige,Bantamweight,Marlon Vera,136,NA,Davey Grant,135.5,NA,Decision (Unanimous),3,5:00
+"Jun 19, 2021",UFC on ESPN 25 - Korean Zombie vs. Ige,Featherweight,Seung Woo Choi,146,NA,Julian Erosa,145.5,NA,KO (Punches),1,1:37
+"Jun 19, 2021",UFC on ESPN 25 - Korean Zombie vs. Ige,Middleweight,Bruno Silva,186,NA,Wellington Turman,185.5,NA,KO (Punches),1,4:45
+"Jun 19, 2021",UFC on ESPN 25 - Korean Zombie vs. Ige,Welterweight,Matt Brown,170.5,NA,Dhiego Lima,171,NA,KO (Punch),2,3:02
+"Jun 19, 2021",UFC on ESPN 25 - Korean Zombie vs. Ige,Light Heavyweight,Nicolae Negumereanu,205.5,NA,Aleksa Camur,204.5,NA,Decision (Split),3,5:00
+"Jun 19, 2021",UFC on ESPN 25 - Korean Zombie vs. Ige,Strawweight,Virna Jandiroba,115,NA,Kanako Murata,114.5,NA,TKO (Arm Injury),2,5:00
+"Jun 19, 2021",UFC on ESPN 25 - Korean Zombie vs. Ige,Welterweight,Kalinn Williams,169,NA,Matthew Semelsberger,170,NA,Decision (Unanimous),3,5:00
+"Jun 19, 2021",UFC on ESPN 25 - Korean Zombie vs. Ige,Heavyweight,Josh Parisian,266,NA,Roque Martinez,249,NA,Decision (Split),3,5:00
+"Jun 19, 2021",UFC on ESPN 25 - Korean Zombie vs. Ige,Lightweight,Ricky Glenn,156,NA,Joaquim Silva,154.5,NA,KO (Punches),1,0:37
+"Jun 19, 2021",UFC on ESPN 25 - Korean Zombie vs. Ige,Flyweight,Casey O'Neill,125.5,NA,Lara Fritzen,,,Technical Submission (Rear-Naked Choke),3,2:54
+"Jun 12, 2021",UFC 263 - Adesanya vs. Vettori 2,Middleweight Title Fight,Israel Adesanya,183.5,NA,Marvin Vettori,184.5,NA,Decision (Unanimous),5,5:00
+"Jun 12, 2021",UFC 263 - Adesanya vs. Vettori 2,Flyweight Title Fight,Brandon Moreno,125,NA,Deiveson Figueiredo,125,NA,Submission (Rear-Naked Choke),3,2:26
+"Jun 12, 2021",UFC 263 - Adesanya vs. Vettori 2,Welterweight,Leon Edwards,170.5,NA,Nate Diaz,170,NA,Decision (Unanimous),5,5:00
+"Jun 12, 2021",UFC 263 - Adesanya vs. Vettori 2,Welterweight,Belal Muhammad,170.5,NA,Demian Maia,170.5,NA,Decision (Unanimous),3,5:00
+"Jun 12, 2021",UFC 263 - Adesanya vs. Vettori 2,Light Heavyweight,Paul Craig,204.5,NA,Jamahal Hill,205.5,NA,TKO (Elbows and Punches),1,1:59
+"Jun 12, 2021",UFC 263 - Adesanya vs. Vettori 2,Lightweight,Brad Riddell,155,NA,Drew Dober,154,NA,Decision (Unanimous),3,5:00
+"Jun 12, 2021",UFC 263 - Adesanya vs. Vettori 2,Light Heavyweight,Eryk Anders,205,NA,Darren Stewart,204.5,NA,Decision (Unanimous),3,5:00
+"Jun 12, 2021",UFC 263 - Adesanya vs. Vettori 2,Flyweight,Lauren Murphy,125.5,NA,Joanne Wood,,,Decision (Split),3,5:00
+"Jun 12, 2021",UFC 263 - Adesanya vs. Vettori 2,Featherweight,Movsar Evloev,145.5,NA,Hakeem Dawodu,145.5,NA,Decision (Unanimous),3,5:00
+"Jun 12, 2021",UFC 263 - Adesanya vs. Vettori 2,Bantamweight,Pannie Kianzad,135.5,NA,Alexis Davis,134.5,NA,Decision (Unanimous),3,5:00
+"Jun 12, 2021",UFC 263 - Adesanya vs. Vettori 2,Lightweight,Terrance McKinney,155.5,NA,Matt Frevola,155,NA,KO (Punches),1,0:07
+"Jun 12, 2021",UFC 263 - Adesanya vs. Vettori 2,149lb Catchweight,Steven Peterson,148.5: Missed Weight,NA,Chase Hooper,145.5,NA,Decision (Unanimous),3,5:00
+"Jun 12, 2021",UFC 263 - Adesanya vs. Vettori 2,Lightweight,Fares Ziam,156,NA,Luigi Vendramini,155.5,NA,Decision (Majority),3,5:00
+"Jun 12, 2021",UFC 263 - Adesanya vs. Vettori 2,Heavyweight,Carlos Felipe,262.5,NA,Jake Collier,264.5,NA,Decision (Split),3,5:00
+"Jun 5, 2021",UFC Fight Night 189 - Rozenstruik vs. Sakai,Heavyweight,Jairzinho Rozenstruik,254,NA,Augusto Sakai,255.5,NA,TKO (Punches),1,4:59
+"Jun 5, 2021",UFC Fight Night 189 - Rozenstruik vs. Sakai,Heavyweight,Marcin Tybura,251,NA,Walt Harris,264,NA,TKO (Punches),1,4:06
+"Jun 5, 2021",UFC Fight Night 189 - Rozenstruik vs. Sakai,Middleweight,Roman Dolidze,186,NA,Laureano Staropoli,185,NA,Decision (Unanimous),3,5:00
+"Jun 5, 2021",UFC Fight Night 189 - Rozenstruik vs. Sakai,Welterweight,Santiago Ponzinibbio,170.5,NA,Miguel Baeza,171,NA,Decision (Unanimous),3,5:00
+"Jun 5, 2021",UFC Fight Night 189 - Rozenstruik vs. Sakai,Middleweight,Gregory Rodrigues,186,NA,Dusko Todorovic,186,NA,Decision (Unanimous),3,5:00
+"Jun 5, 2021",UFC Fight Night 189 - Rozenstruik vs. Sakai,Flyweight,Montana De La Rosa,126,NA,Ariane Lipski da Silva,124.5,NA,TKO (Punches),2,4:27
+"Jun 5, 2021",UFC Fight Night 189 - Rozenstruik vs. Sakai,Heavyweight,Ilir Latifi,240,NA,Tanner Boser,242,NA,Decision (Split),3,5:00
+"Jun 5, 2021",UFC Fight Night 189 - Rozenstruik vs. Sakai,Welterweight,Muslim Salikhov,171,NA,Francisco Trinaldo,169.5,NA,Decision (Unanimous),3,5:00
+"Jun 5, 2021",UFC Fight Night 189 - Rozenstruik vs. Sakai,Featherweight,Kamuela Kirk,146,NA,Makwan Amirkhani,146,NA,Decision (Unanimous),3,5:00
+"Jun 5, 2021",UFC Fight Night 189 - Rozenstruik vs. Sakai,Lightweight,Alan Patrick,154.5,NA,Mason Jones,156,NA,No Contest (Accidental Eye Poke),2,2:14
+"Jun 5, 2021",UFC Fight Night 189 - Rozenstruik vs. Sakai,Flyweight,Manon Fiorot,125.5,NA,Tabatha Ricci,124.5,NA,TKO (Punches),2,3:00
+"Jun 5, 2021",UFC Fight Night 189 - Rozenstruik vs. Sakai,Featherweight,Sean Woodson,145,NA,Youssef Zalal,146,NA,Decision (Split),3,5:00
+"Jun 5, 2021",UFC Fight Night 189 - Rozenstruik vs. Sakai,Lightweight,Claudio Puelles,155,NA,Jordan Leavitt,156,NA,Decision (Unanimous),3,5:00
+"May 22, 2021",UFC Fight Night 188 - Font vs. Garbrandt,Bantamweight,Rob Font,136,NA,Cody Garbrandt,135.5,NA,Decision (Unanimous),5,5:00
+"May 22, 2021",UFC Fight Night 188 - Font vs. Garbrandt,Strawweight,Carla Esparza,116,NA,Xiaonan Yan,116,NA,TKO (Punches),2,2:58
+"May 22, 2021",UFC Fight Night 188 - Font vs. Garbrandt,Heavyweight,Jared Vanderaa,264,NA,Justin Tafa,265.5,NA,Decision (Unanimous),3,5:00
+"May 22, 2021",UFC Fight Night 188 - Font vs. Garbrandt,Featherweight,Norma Dumont,146,NA,Felicia Spencer,145,NA,Decision (Split),3,5:00
+"May 22, 2021",UFC Fight Night 188 - Font vs. Garbrandt,Featherweight,Ricardo Ramos,146,NA,Bill Algeo,145.5,NA,Decision (Unanimous),3,5:00
+"May 22, 2021",UFC Fight Night 188 - Font vs. Garbrandt,Middleweight,Jack Hermansson,186,NA,Edmen Shahbazyan,185,NA,Decision (Unanimous),3,5:00
+"May 22, 2021",UFC Fight Night 188 - Font vs. Garbrandt,Heavyweight,Ben Rothwell,265.5,NA,Chris Barnett,263,NA,Submission (Guillotine Choke),2,2:07
+"May 22, 2021",UFC Fight Night 188 - Font vs. Garbrandt,Welterweight,Court McGee,170.5,NA,Claudio Silva,169.5,NA,Decision (Unanimous),3,5:00
+"May 22, 2021",UFC Fight Night 188 - Font vs. Garbrandt,Flyweight,Bruno Silva,125.5,NA,Victor Rodriguez,125.5,NA,KO (Punches),1,1:00
+"May 22, 2021",UFC Fight Night 188 - Font vs. Garbrandt,Featherweight,Joshua Culibao,146,NA,Nuerdanbieke Shayilan,146,NA,Decision (Unanimous),3,5:00
+"May 22, 2021",UFC Fight Night 188 - Font vs. Garbrandt,129lb Catchweight,David Dvorak,126,NA,Juancamilo Ronderos,128.5: Missed Weight,NA,Submission (Rear-Naked Choke),1,2:18
+"May 22, 2021",UFC Fight Night 188 - Font vs. Garbrandt,Lightweight,Damir Ismagulov,155.5,NA,Rafael Alves,154.5,NA,Decision (Unanimous),3,5:00
+"May 15, 2021",UFC 262 - Oliveira vs. Chandler,Lightweight Title Fight,Charles Oliveira,155,NA,Michael Chandler,155,NA,TKO (Punches),2,0:19
+"May 15, 2021",UFC 262 - Oliveira vs. Chandler,Lightweight,Beneil Dariush,156,NA,Tony Ferguson,156,NA,Decision (Unanimous),3,5:00
+"May 15, 2021",UFC 262 - Oliveira vs. Chandler,137lb Catchweight,Rogerio Bontorin,137: Missed Weight,NA,Matt Schnell,136,NA,No Contest (Overturned),3,5:00
+"May 15, 2021",UFC 262 - Oliveira vs. Chandler,Flyweight,Katlyn Cerminara,,,Viviane Araujo,126,NA,Decision (Unanimous),3,5:00
+"May 15, 2021",UFC 262 - Oliveira vs. Chandler,Featherweight,Edson Barboza,146,NA,Shane Burgos,146,NA,KO (Punches),3,1:16
+"May 15, 2021",UFC 262 - Oliveira vs. Chandler,Middleweight,Andre Muniz,186,NA,Ronaldo Souza,186,NA,Technical Submission (Armbar),1,3:59
+"May 15, 2021",UFC 262 - Oliveira vs. Chandler,Featherweight,Lando Vannata,146,NA,Mike Grundy,146,NA,Decision (Split),3,5:00
+"May 15, 2021",UFC 262 - Oliveira vs. Chandler,Middleweight,Jordan Wright,185,NA,Jamie Pickett,186,NA,TKO (Elbows and Punches),1,1:04
+"May 15, 2021",UFC 262 - Oliveira vs. Chandler,Flyweight,Andrea Lee,126,NA,Antonina Shevchenko,125,NA,Submission (Triangle Armbar),2,4:52
+"May 15, 2021",UFC 262 - Oliveira vs. Chandler,Flyweight,Priscila Cachoeira,126,NA,Gina Mazany,126,NA,TKO (Punches),2,4:51
+"May 15, 2021",UFC 262 - Oliveira vs. Chandler,Featherweight,Tucker Lutz,146,NA,Kevin Aguilar,145,NA,Decision (Unanimous),3,5:00
+"May 15, 2021",UFC 262 - Oliveira vs. Chandler,Lightweight,Christos Giagos,156,NA,Sean Soriano,156,NA,Technical Submission (Brabo Choke),2,0:59
+"May 8, 2021",UFC on ESPN 24 - Rodriguez vs. Waterson,Flyweight,Marina Rodriguez,125.5,NA,Michelle Waterson-Gomez,125,NA,Decision (Unanimous),5,5:00
+"May 8, 2021",UFC on ESPN 24 - Rodriguez vs. Waterson,Welterweight,Alex Morono,170.5,NA,Donald Cerrone,170,NA,TKO (Punches),1,4:40
+"May 8, 2021",UFC on ESPN 24 - Rodriguez vs. Waterson,Welterweight,Neil Magny,170.5,NA,Geoff Neal,171,NA,Decision (Unanimous),3,5:00
+"May 8, 2021",UFC on ESPN 24 - Rodriguez vs. Waterson,Heavyweight,Marcos Rogerio de Lima,264.5,NA,Maurice Greene,237,NA,Decision (Unanimous),3,5:00
+"May 8, 2021",UFC on ESPN 24 - Rodriguez vs. Waterson,161lb Catchweight,Gregor Gillespie,156,NA,Diego Ferreira,160.5: Missed Weight,NA,TKO (Elbows and Punches),2,4:51
+"May 8, 2021",UFC on ESPN 24 - Rodriguez vs. Waterson,Middleweight,Phil Hawes,186,NA,Kyle Daukaus,186,NA,Decision (Unanimous),3,5:00
+"May 8, 2021",UFC on ESPN 24 - Rodriguez vs. Waterson,Featherweight,Michael Trizano,146,NA,Ludovit Klein,146,NA,Decision (Unanimous),3,5:00
+"May 8, 2021",UFC on ESPN 24 - Rodriguez vs. Waterson,Middleweight,Jun Yong Park,186,NA,Tafon Nchukwi,186,NA,Decision (Majority),3,5:00
+"May 8, 2021",UFC on ESPN 24 - Rodriguez vs. Waterson,Welterweight,Carlston Harris,,,Christian Aguilera,170.5,NA,Technical Submission (Anaconda Choke),1,2:52
+"May 1, 2021",UFC on ESPN 23 - Reyes vs. Prochazka,Light Heavyweight,Jiri Prochazka,204,NA,Dominick Reyes,205.5,NA,KO (Spinning Back Elbow),2,4:29
+"May 1, 2021",UFC on ESPN 23 - Reyes vs. Prochazka,Featherweight,Giga Chikadze,146,NA,Cub Swanson,145.5,NA,TKO (Body Kick and Punches),1,1:03
+"May 1, 2021",UFC on ESPN 23 - Reyes vs. Prochazka,Light Heavyweight,Ion Cutelaba,206,NA,Dustin Jacoby,205,NA,Draw (Split),3,5:00
+"May 1, 2021",UFC on ESPN 23 - Reyes vs. Prochazka,Middleweight,Sean Strickland,185.5,NA,Krzysztof Jotko,185.5,NA,Decision (Unanimous),3,5:00
+"May 1, 2021",UFC on ESPN 23 - Reyes vs. Prochazka,Bantamweight,Merab Dvalishvili,135.5,NA,Cody Stamann,135.5,NA,Decision (Unanimous),3,5:00
+"May 1, 2021",UFC on ESPN 23 - Reyes vs. Prochazka,Strawweight,Luana Pinheiro,115.5,NA,Randa Markos,115,NA,Disqualification (Illegal Upkick),1,4:16
+"May 1, 2021",UFC on ESPN 23 - Reyes vs. Prochazka,Featherweight,T.J. Brown,145.5,NA,Kai Kamaka III,146,NA,Decision (Split),3,5:00
+"May 1, 2021",UFC on ESPN 23 - Reyes vs. Prochazka,129lb Catchweight,Luana Carolina,128.5: Missed Weight,NA,Poliana Botelho,125.5,NA,Decision (Split),3,5:00
+"May 1, 2021",UFC on ESPN 23 - Reyes vs. Prochazka,Strawweight,Konklak Suphisara,116,NA,Sam Hughes,115.5,NA,Decision (Unanimous),3,5:00
+"May 1, 2021",UFC on ESPN 23 - Reyes vs. Prochazka,Middleweight,Andreas Michailidis,185.5,NA,K.B. Bhullar,186,NA,Decision (Unanimous),3,5:00
+"May 1, 2021",UFC on ESPN 23 - Reyes vs. Prochazka,Featherweight,Felipe Colares,,,Luke Sanders,145.5,NA,Decision (Unanimous),3,5:00
+"Apr 24, 2021",UFC 261 - Usman vs. Masvidal 2,Welterweight Title Fight,Kamaru Usman,NA,NA,Jorge Masvidal,NA,NA,KO (Punch),2,1:02
+"Apr 24, 2021",UFC 261 - Usman vs. Masvidal 2,Strawweight Title Fight,Rose Namajunas,NA,NA,Weili Zhang,NA,NA,KO (Head Kick),1,1:18
+"Apr 24, 2021",UFC 261 - Usman vs. Masvidal 2,Flyweight Title Fight,Valentina Shevchenko,NA,NA,Jessica Andrade,NA,NA,TKO (Elbows),2,3:19
+"Apr 24, 2021",UFC 261 - Usman vs. Masvidal 2,Middleweight,Uriah Hall,NA,NA,Chris Weidman,NA,NA,TKO (Leg Injury),1,0:17
+"Apr 24, 2021",UFC 261 - Usman vs. Masvidal 2,Light Heavyweight,Anthony Smith,NA,NA,Jimmy Crute,NA,NA,TKO (Doctor Stoppage),1,5:00
+"Apr 24, 2021",UFC 261 - Usman vs. Masvidal 2,Welterweight,Randy Brown,NA,NA,Alex Oliveira,NA,NA,Submission (Rear-Naked Choke),1,2:50
+"Apr 24, 2021",UFC 261 - Usman vs. Masvidal 2,Welterweight,Dwight Grant,NA,NA,Stefan Sekulic,NA,NA,Decision (Split),3,5:00
+"Apr 24, 2021",UFC 261 - Usman vs. Masvidal 2,Middleweight,Brendan Allen,NA,NA,Karl Roberson,NA,NA,Submission (Ankle Lock),1,4:55
+"Apr 24, 2021",UFC 261 - Usman vs. Masvidal 2,Featherweight,Pat Sabatini,NA,NA,Tristan Connelly,NA,NA,Decision (Unanimous),3,5:00
+"Apr 24, 2021",UFC 261 - Usman vs. Masvidal 2,Bantamweight,Batgerel Danaa,,,Kevin Natividad,NA,NA,TKO (Punches),1,0:50
+"Apr 24, 2021",UFC 261 - Usman vs. Masvidal 2,Lightweight,Rodrigo Vargas,NA,NA,Zhu Rong,NA,NA,Decision (Unanimous),3,5:00
+"Apr 24, 2021",UFC 261 - Usman vs. Masvidal 2,Flyweight,Jeff Molina,NA,NA,Qileng Aori,NA,NA,Decision (Unanimous),3,5:00
+"Apr 24, 2021",UFC 261 - Usman vs. Masvidal 2,Strawweight,Ariane Carnelossi,NA,NA,Na Liang,NA,NA,TKO (Punches),2,1:28
+"Apr 17, 2021",UFC on ESPN 22 - Whittaker vs. Gastelum,Middleweight,Robert Whittaker,185.5,NA,Kelvin Gastelum,185,NA,Decision (Unanimous),5,5:00
+"Apr 17, 2021",UFC on ESPN 22 - Whittaker vs. Gastelum,Heavyweight,Andrei Arlovski,250.5,NA,Chase Sherman,251,NA,Decision (Unanimous),3,5:00
+"Apr 17, 2021",UFC on ESPN 22 - Whittaker vs. Gastelum,Middleweight,Jacob Malkoun,185.5,NA,Abdul Razak Alhassan,185.5,NA,Decision (Unanimous),3,5:00
+"Apr 17, 2021",UFC on ESPN 22 - Whittaker vs. Gastelum,127lb Catchweight,Tracy Cortez,126.5: Missed Weight,NA,Justine Kish,125.5,NA,Decision (Split),3,5:00
+"Apr 17, 2021",UFC on ESPN 22 - Whittaker vs. Gastelum,Lightweight,Luis Pena,155,NA,Alex Munoz,155.5,NA,Decision (Split),3,5:00
+"Apr 17, 2021",UFC on ESPN 22 - Whittaker vs. Gastelum,Heavyweight,Alexander Romanov,264,NA,Juan Espino,257,NA,Technical Decision (Split),3,1:05
+"Apr 17, 2021",UFC on ESPN 22 - Whittaker vs. Gastelum,Strawweight,Jessica Penne,116,NA,Lupita Godinez,116,NA,Decision (Split),3,5:00
+"Apr 17, 2021",UFC on ESPN 22 - Whittaker vs. Gastelum,Middleweight,Gerald Meerschaert,185.5,NA,Bartosz Fabinski,184.5,NA,Technical Submission (Guillotine Choke),1,2:00
+"Apr 17, 2021",UFC on ESPN 22 - Whittaker vs. Gastelum,Lightweight,Austin Hubbard,156,NA,Dakota Bush,155.5,NA,Decision (Unanimous),3,5:00
+"Apr 17, 2021",UFC on ESPN 22 - Whittaker vs. Gastelum,Bantamweight,Tony Gravely,135.5,NA,Anthony Birchak,135.5,NA,TKO (Punch),2,1:31
+"Apr 10, 2021",UFC on ABC 2 - Vettori vs. Holland,Middleweight,Marvin Vettori,186,NA,Kevin Holland,183.5,NA,Decision (Unanimous),5,5:00
+"Apr 10, 2021",UFC on ABC 2 - Vettori vs. Holland,Featherweight,Arnold Allen,145.5,NA,Sodiq Yusuff,146,NA,Decision (Unanimous),3,5:00
+"Apr 10, 2021",UFC on ABC 2 - Vettori vs. Holland,Middleweight,Julian Marquez,186,NA,Sam Alvey,186,NA,Technical Submission (Rear-Naked Choke),2,2:07
+"Apr 10, 2021",UFC on ABC 2 - Vettori vs. Holland,Strawweight,Mackenzie Dern,115,NA,Nina Nunes,116,NA,Submission (Armbar),1,4:48
+"Apr 10, 2021",UFC on ABC 2 - Vettori vs. Holland,Welterweight,Daniel Rodriguez,170.5,NA,Mike Perry,170,NA,Decision (Unanimous),3,5:00
+"Apr 10, 2021",UFC on ABC 2 - Vettori vs. Holland,Lightweight,Joe Solecki,155.5,NA,Jim Miller,155.5,NA,Decision (Unanimous),3,5:00
+"Apr 10, 2021",UFC on ABC 2 - Vettori vs. Holland,Lightweight,Mateusz Gamrot,156,NA,Scott Holtzman,155.5,NA,KO (Punches),2,1:22
+"Apr 10, 2021",UFC on ABC 2 - Vettori vs. Holland,157lb Catchweight,John Makdessi,153.5,NA,Ignacio Bahamondes,156.75: Missed Weight,NA,Decision (Split),3,5:00
+"Apr 10, 2021",UFC on ABC 2 - Vettori vs. Holland,Heavyweight,Jarjis Danho,255.5,NA,Yorgan De Castro,261.5,NA,KO (Punch),1,3:02
+"Apr 10, 2021",UFC on ABC 2 - Vettori vs. Holland,Bantamweight,Jack Shore,136,NA,Hunter Azure,135.5,NA,Decision (Split),3,5:00
+"Apr 10, 2021",UFC on ABC 2 - Vettori vs. Holland,Featherweight,Luis Saldana,145.5,NA,Jordan Griffin,145.5,NA,Decision (Unanimous),3,5:00
+"Apr 10, 2021",UFC on ABC 2 - Vettori vs. Holland,Light Heavyweight,Da Woon Jung,,,William Knight,205.5,NA,Decision (Unanimous),3,5:00
+"Apr 10, 2021",UFC on ABC 2 - Vettori vs. Holland,Welterweight,Impa Kasanganay,170.5,NA,Sasha Palatnikov,170.5,NA,Submission (Rear-Naked Choke),2,0:26
+"Mar 27, 2021",UFC 260 - Miocic vs. Ngannou 2,Heavyweight Title Fight,Francis Ngannou,263,NA,Stipe Miocic,234,NA,KO (Punch),2,0:52
+"Mar 27, 2021",UFC 260 - Miocic vs. Ngannou 2,Welterweight,Vicente Luque,170.5,NA,Tyron Woodley,171,NA,Submission (Brabo Choke),1,3:56
+"Mar 27, 2021",UFC 260 - Miocic vs. Ngannou 2,Bantamweight,Sean O'Malley,136,NA,Thomas Almeida,136,NA,KO (Punch),3,3:52
+"Mar 27, 2021",UFC 260 - Miocic vs. Ngannou 2,Flyweight,Miranda Maverick,126,NA,Gillian Robertson,125.5,NA,Decision (Unanimous),3,5:00
+"Mar 27, 2021",UFC 260 - Miocic vs. Ngannou 2,Lightweight,Jamie Mullarkey,155.5,NA,Khama Worthy,155.5,NA,KO (Punches),1,0:46
+"Mar 27, 2021",UFC 260 - Miocic vs. Ngannou 2,207lb Catchweight,Alonzo Menifield,205,NA,Fabio Cherant,206.5: Missed Weight,NA,Submission (Shoulder Choke),1,1:11
+"Mar 27, 2021",UFC 260 - Miocic vs. Ngannou 2,Welterweight,Abubakar Nurmagomedov,170.5,NA,Jared Gooden,171,NA,Decision (Unanimous),3,5:00
+"Mar 27, 2021",UFC 260 - Miocic vs. Ngannou 2,Light Heavyweight,Michal Oleksiejczuk,206,NA,Modestas Bukauskas,205.5,NA,Decision (Split),3,5:00
+"Mar 27, 2021",UFC 260 - Miocic vs. Ngannou 2,Featherweight,Omar Morales,146,NA,Shane Young,145.5,NA,Decision (Unanimous),3,5:00
+"Mar 27, 2021",UFC 260 - Miocic vs. Ngannou 2,Middleweight,Marc-Andre Barriault,185,NA,Abu Azaitar,185.5,NA,TKO (Punches),3,4:56
+"Mar 20, 2021",UFC on ESPN 21 - Brunson vs. Holland,Middleweight,Derek Brunson,186,NA,Kevin Holland,183,NA,Decision (Unanimous),5,5:00
+"Mar 20, 2021",UFC on ESPN 21 - Brunson vs. Holland,Welterweight,Max Griffin,170.5,NA,Kenan Song,171,NA,KO (Punches),1,2:20
+"Mar 20, 2021",UFC on ESPN 21 - Brunson vs. Holland,Strawweight,Montserrat Ruiz,115,NA,Cheyanne Vlismas,,,Decision (Unanimous),3,5:00
+"Mar 20, 2021",UFC on ESPN 21 - Brunson vs. Holland,Bantamweight,Adrian Yanez,135,NA,Gustavo Lopez,136,NA,KO (Punch),3,0:27
+"Mar 20, 2021",UFC on ESPN 21 - Brunson vs. Holland,Heavyweight,Tai Tuivasa,264.5,NA,Harry Hunsucker,249,NA,TKO (Punches),1,0:49
+"Mar 20, 2021",UFC on ESPN 21 - Brunson vs. Holland,Bantamweight,Macy Chiasson,136,NA,Marion Reneau,136,NA,Decision (Unanimous),3,5:00
+"Mar 20, 2021",UFC on ESPN 21 - Brunson vs. Holland,Lightweight,Grant Dawson,156,NA,Leonardo Santos,155.5,NA,KO (Punches),3,4:59
+"Mar 20, 2021",UFC on ESPN 21 - Brunson vs. Holland,Middleweight,Trevin Giles,185.5,NA,Roman Dolidze,185,NA,Decision (Unanimous),3,5:00
+"Mar 20, 2021",UFC on ESPN 21 - Brunson vs. Holland,138lb Catchweight,Montel Jackson,136,NA,Jesse Strader,137.5: Missed Weight,NA,TKO (Punches),1,1:58
+"Mar 20, 2021",UFC on ESPN 21 - Brunson vs. Holland,Flyweight,Bruno Silva,126,NA,J.P. Buys,126,NA,TKO (Punch),2,2:56
+"Mar 13, 2021",UFC Fight Night 187 - Edwards vs. Muhammad,Welterweight,Leon Edwards,170.5,NA,Belal Muhammad,170,NA,No Contest (Accidental Eye Poke),2,0:18
+"Mar 13, 2021",UFC Fight Night 187 - Edwards vs. Muhammad,Light Heavyweight,Ryan Spann,206,NA,Misha Cirkunov,205,NA,TKO (Punches),1,1:11
+"Mar 13, 2021",UFC Fight Night 187 - Edwards vs. Muhammad,Featherweight,Dan Ige,145.5,NA,Gavin Tucker,146,NA,KO (Punch),1,0:22
+"Mar 13, 2021",UFC Fight Night 187 - Edwards vs. Muhammad,Bantamweight,Davey Grant,135.5,NA,Jonathan Martinez,136,NA,KO (Punch),2,3:03
+"Mar 13, 2021",UFC Fight Night 187 - Edwards vs. Muhammad,Flyweight,Matheus Nicolau,125.5,NA,Manel Kape,125.5,NA,Decision (Split),3,5:00
+"Mar 13, 2021",UFC Fight Night 187 - Edwards vs. Muhammad,Middleweight,Eryk Anders,186,NA,Darren Stewart,185.5,NA,No Contest (Illegal Knee),1,4:37
+"Mar 13, 2021",UFC Fight Night 187 - Edwards vs. Muhammad,Strawweight,Angela Hill,115.5,NA,Ashley Yoder,116,NA,Decision (Unanimous),3,5:00
+"Mar 13, 2021",UFC Fight Night 187 - Edwards vs. Muhammad,Featherweight,Charles Jourdain,145.5,NA,Marcelo Rojo,145.5,NA,TKO (Punches),3,4:31
+"Mar 13, 2021",UFC Fight Night 187 - Edwards vs. Muhammad,Bantamweight,Rani Yahya,136,NA,Ray Rodriguez,135.5,NA,Submission (Arm-Triangle Choke),2,3:09
+"Mar 13, 2021",UFC Fight Night 187 - Edwards vs. Muhammad,Lightweight,Nasrat Haqparast,156,NA,Rafa Garcia,156,NA,Decision (Unanimous),3,5:00
+"Mar 13, 2021",UFC Fight Night 187 - Edwards vs. Muhammad,Flyweight,J.J. Aldrich,125.5,NA,Cortney Casey,126,NA,Decision (Split),3,5:00
+"Mar 13, 2021",UFC Fight Night 187 - Edwards vs. Muhammad,Strawweight,Jinh Yu Frey,115.5,NA,Gloria de Paula,115.5,NA,Decision (Unanimous),3,5:00
+"Mar 13, 2021",UFC Fight Night 187 - Edwards vs. Muhammad,Welterweight,Matthew Semelsberger,169.5,NA,Jason Witt,171,NA,KO (Punch),1,0:16
+"Feb 27, 2021",UFC Fight Night 186 - Rozenstruik vs. Gane,Heavyweight,Ciryl Gane,247,NA,Jairzinho Rozenstruik,254.5,NA,Decision (Unanimous),5,5:00
+"Feb 27, 2021",UFC Fight Night 186 - Rozenstruik vs. Gane,Light Heavyweight,Magomed Ankalaev,205.5,NA,Nikita Krylov,205.5,NA,Decision (Unanimous),3,5:00
+"Feb 27, 2021",UFC Fight Night 186 - Rozenstruik vs. Gane,Flyweight,Mayra Bueno Silva,125.5,NA,Montana De La Rosa,126,NA,Draw (Majority),3,5:00
+"Feb 27, 2021",UFC Fight Night 186 - Rozenstruik vs. Gane,Bantamweight,Pedro Munhoz,135.5,NA,Jimmie Rivera,135.5,NA,Decision (Unanimous),3,5:00
+"Feb 27, 2021",UFC Fight Night 186 - Rozenstruik vs. Gane,Featherweight,Alex Caceres,146,NA,Kevin Croom,145.5,NA,Decision (Unanimous),3,5:00
+"Feb 27, 2021",UFC Fight Night 186 - Rozenstruik vs. Gane,Lightweight,Thiago Moises,155.5,NA,Alexander Hernandez,156,NA,Decision (Unanimous),3,5:00
+"Feb 27, 2021",UFC Fight Night 186 - Rozenstruik vs. Gane,Bantamweight,Alexis Davis,135,NA,Sabina Mazo,135.5,NA,Decision (Unanimous),3,5:00
+"Feb 27, 2021",UFC Fight Night 186 - Rozenstruik vs. Gane,Bantamweight,Ronnie Lawrence,135.5,NA,Vince Cachero,135.5,NA,TKO (Punches),3,2:37
+"Feb 27, 2021",UFC Fight Night 186 - Rozenstruik vs. Gane,211lb Catchweight,Dustin Jacoby,204.5,NA,Maxim Grishin,210.5: Missed Weight,NA,Decision (Unanimous),3,5:00
+"Mar 6, 2021",UFC 259 - Blachowicz vs. Adesanya,Light Heavyweight Title Fight,Jan Blachowicz,205,NA,Israel Adesanya,200.5,NA,Decision (Unanimous),5,5:00
+"Mar 6, 2021",UFC 259 - Blachowicz vs. Adesanya,Featherweight Title Fight,Amanda Nunes,145,NA,Megan Anderson,144.5,NA,Submission (Reverse Triangle Armbar),1,2:03
+"Mar 6, 2021",UFC 259 - Blachowicz vs. Adesanya,Bantamweight Title Fight,Aljamain Sterling,134.5,NA,Petr Yan,135,NA,Disqualification (Illegal Knee),4,4:29
+"Mar 6, 2021",UFC 259 - Blachowicz vs. Adesanya,Lightweight,Islam Makhachev,156,NA,Drew Dober,156,NA,Submission (Arm-Triangle Choke),3,1:37
+"Mar 6, 2021",UFC 259 - Blachowicz vs. Adesanya,Light Heavyweight,Aleksandar Rakic,206,NA,Thiago Santos,206,NA,Decision (Unanimous),3,5:00
+"Mar 6, 2021",UFC 259 - Blachowicz vs. Adesanya,Bantamweight,Dominick Cruz,136,NA,Casey Kenney,136,NA,Decision (Split),3,5:00
+"Mar 6, 2021",UFC 259 - Blachowicz vs. Adesanya,Bantamweight,Kyler Phillips,136,NA,Yadong Song,135.5,NA,Decision (Unanimous),3,5:00
+"Mar 6, 2021",UFC 259 - Blachowicz vs. Adesanya,127lb Catchweight,Askar Askarov,127: Missed Weight,NA,Joseph Benavidez,125.5,NA,Decision (Unanimous),3,5:00
+"Mar 6, 2021",UFC 259 - Blachowicz vs. Adesanya,Flyweight,Kai Kara-France,,,Rogerio Bontorin,126,NA,KO (Punches),1,4:55
+"Mar 6, 2021",UFC 259 - Blachowicz vs. Adesanya,Flyweight,Tim Elliott,125.5,NA,Jordan Espinosa,126,NA,Decision (Unanimous),3,5:00
+"Mar 6, 2021",UFC 259 - Blachowicz vs. Adesanya,Light Heavyweight,Kennedy Nzechukwu,205.5,NA,Carlos Ulberg,205,NA,KO (Punches),2,3:19
+"Mar 6, 2021",UFC 259 - Blachowicz vs. Adesanya,Welterweight,Sean Brady,170.5,NA,Jake Matthews,169.5,NA,Submission (Arm-Triangle Choke),3,3:28
+"Mar 6, 2021",UFC 259 - Blachowicz vs. Adesanya,Strawweight,Amanda Lemos,116,NA,Livinha Souza,116,NA,TKO (Punches),1,3:29
+"Mar 6, 2021",UFC 259 - Blachowicz vs. Adesanya,Lightweight,Uros Medic,156,NA,Aalon Cruz,155,NA,TKO (Punches),1,1:40
+"Mar 6, 2021",UFC 259 - Blachowicz vs. Adesanya,Bantamweight,Trevin Jones,134.5,NA,Mario Bautista,135.5,NA,TKO (Punches),2,0:40
+"Feb 20, 2021",UFC Fight Night 185 - Blaydes vs. Lewis,Heavyweight,Derrick Lewis,263,NA,Curtis Blaydes,259,NA,KO (Punch),2,1:26
+"Feb 20, 2021",UFC Fight Night 185 - Blaydes vs. Lewis,138lb Catchweight,Yana Santos,,,Ketlen Vieira,138: Missed Weight,NA,Decision (Unanimous),3,5:00
+"Feb 20, 2021",UFC Fight Night 185 - Blaydes vs. Lewis,Featherweight,Darrick Minner,146,NA,Charles Rosa,146,NA,Decision (Unanimous),3,5:00
+"Feb 20, 2021",UFC Fight Night 185 - Blaydes vs. Lewis,Heavyweight,Chris Daukaus,234,NA,Alexey Oleynik,240,NA,TKO (Punches),1,1:55
+"Feb 20, 2021",UFC Fight Night 185 - Blaydes vs. Lewis,Middleweight,Phil Hawes,185,NA,Nassourdine Imavov,185.5,NA,Decision (Majority),3,5:00
+"Feb 20, 2021",UFC Fight Night 185 - Blaydes vs. Lewis,Heavyweight,Tom Aspinall,244.5,NA,Andrei Arlovski,249.5,NA,Submission (Rear-Naked Choke),2,1:09
+"Feb 20, 2021",UFC Fight Night 185 - Blaydes vs. Lewis,150lb Catchweight,Jared Gordon,150: Missed Weight,NA,Danny Chavez,145,NA,Decision (Unanimous),3,5:00
+"Feb 20, 2021",UFC Fight Night 185 - Blaydes vs. Lewis,Bantamweight,John Castaneda,136,NA,Eddie Wineland,135.5,NA,TKO (Punches),1,4:44
+"Feb 20, 2021",UFC Fight Night 185 - Blaydes vs. Lewis,Featherweight,Julian Erosa,145.5,NA,Nate Landwehr,146,NA,TKO (Flying Knee),1,0:56
+"Feb 20, 2021",UFC Fight Night 185 - Blaydes vs. Lewis,Flyweight,Casey O'Neill,125.5,NA,Shana Dobson,126,NA,TKO (Punches),2,3:41
+"Feb 20, 2021",UFC Fight Night 185 - Blaydes vs. Lewis,141lb Catchweight,Aiemann Zahabi,136,NA,Drako Rodriguez,140.5: Missed Weight,NA,KO (Punches),1,3:05
+"Feb 20, 2021",UFC Fight Night 185 - Blaydes vs. Lewis,Heavyweight,Serghei Spivac,,,Jared Vanderaa,265,NA,TKO (Punches),2,4:32
+"Feb 13, 2021",UFC 258 - Usman vs. Burns,Welterweight Title Fight,Kamaru Usman,170,NA,Gilbert Burns,170,NA,TKO (Punches),3,0:34
+"Feb 13, 2021",UFC 258 - Usman vs. Burns,Flyweight,Alexa Grasso,125.5,NA,Maycee Barber,126,NA,Decision (Unanimous),3,5:00
+"Feb 13, 2021",UFC 258 - Usman vs. Burns,Middleweight,Kelvin Gastelum,186,NA,Ian Heinisch,185.5,NA,Decision (Unanimous),3,5:00
+"Feb 13, 2021",UFC 258 - Usman vs. Burns,Featherweight,Ricky Simon,145.5,NA,Brian Kelleher,145.5,NA,Decision (Unanimous),3,5:00
+"Feb 13, 2021",UFC 258 - Usman vs. Burns,Middleweight,Julian Marquez,185,NA,Maki Pitolo,185,NA,Submission (Anaconda Choke),3,4:17
+"Feb 13, 2021",UFC 258 - Usman vs. Burns,Middleweight,Anthony Hernandez,186,NA,Rodolfo Vieira,186,NA,Submission (Guillotine Choke),2,1:53
+"Feb 13, 2021",UFC 258 - Usman vs. Burns,Welterweight,Belal Muhammad,169.5,NA,Dhiego Lima,171,NA,Decision (Unanimous),3,5:00
+"Feb 13, 2021",UFC 258 - Usman vs. Burns,Strawweight,Polyana Viana,116,NA,Mallory Martin,115.5,NA,Submission (Armbar),1,3:18
+"Feb 13, 2021",UFC 258 - Usman vs. Burns,140lb Catchweight,Chris Gutierrez,140,NA,Andre Ewell,138.5,NA,Decision (Unanimous),3,5:00
+"Feb 13, 2021",UFC 258 - Usman vs. Burns,Welterweight,Gabriel Green,169.5,NA,Philip Rowe,171,NA,Decision (Unanimous),3,5:00
+"Feb 6, 2021",UFC Fight Night 184 - Overeem vs. Volkov,Heavyweight,Alexander Volkov,264,NA,Alistair Overeem,255.5,NA,TKO (Punches),2,2:06
+"Feb 6, 2021",UFC Fight Night 184 - Overeem vs. Volkov,Bantamweight,Cory Sandhagen,135.5,NA,Frankie Edgar,135.5,NA,KO (Flying Knee),1,0:28
+"Feb 6, 2021",UFC Fight Night 184 - Overeem vs. Volkov,Lightweight,Clay Guida,155,NA,Michael Johnson,154.5,NA,Decision (Unanimous),3,5:00
+"Feb 6, 2021",UFC Fight Night 184 - Overeem vs. Volkov,Flyweight,Alexandre Pantoja,125.5,NA,Manel Kape,125.5,NA,Decision (Unanimous),3,5:00
+"Feb 6, 2021",UFC Fight Night 184 - Overeem vs. Volkov,Lightweight,Beneil Dariush,156,NA,Diego Ferreira,155,NA,Decision (Split),3,5:00
+"Feb 6, 2021",UFC Fight Night 184 - Overeem vs. Volkov,Light Heavyweight,Danilo Marques,205,NA,Mike Rodriguez,205,NA,Technical Submission (Rear-Naked Choke),2,4:52
+"Feb 6, 2021",UFC Fight Night 184 - Overeem vs. Volkov,160lb Catchweight,Devonte Smith,159.5,NA,Justin Jaynes,159,NA,TKO (Doctor Stoppage),2,3:28
+"Feb 6, 2021",UFC Fight Night 184 - Overeem vs. Volkov,Bantamweight,Karol Rosa,135,NA,Joselyne Edwards,135,NA,Decision (Unanimous),3,5:00
+"Feb 6, 2021",UFC Fight Night 184 - Overeem vs. Volkov,Flyweight,Lara Fritzen,,,Molly McCann,126,NA,Decision (Unanimous),3,5:00
+"Feb 6, 2021",UFC Fight Night 184 - Overeem vs. Volkov,Featherweight,Seung Woo Choi,145.5,NA,Youssef Zalal,146,NA,Decision (Unanimous),3,5:00
+"Feb 6, 2021",UFC Fight Night 184 - Overeem vs. Volkov,Featherweight,Timur Valiev,145.5,NA,Martin Day,146,NA,Decision (Unanimous),3,5:00
+"Feb 6, 2021",UFC Fight Night 184 - Overeem vs. Volkov,Featherweight,Ode Osbourne,143.5,NA,Jerome Rivera,145,NA,KO (Punches),1,0:26
+"Jan 23, 2021",UFC 257 - Poirier vs. McGregor 2,Lightweight,Dustin Poirier,156,NA,Conor McGregor,155,NA,KO (Punches),2,5:00
+"Jan 23, 2021",UFC 257 - Poirier vs. McGregor 2,Lightweight,Michael Chandler,156,NA,Dan Hooker,156,NA,TKO (Punches),1,2:35
+"Jan 23, 2021",UFC 257 - Poirier vs. McGregor 2,Flyweight,Joanne Wood,,,Jessica Eye,126,NA,Decision (Unanimous),3,0:39
+"Jan 23, 2021",UFC 257 - Poirier vs. McGregor 2,Middleweight,Makhmud Muradov,186,NA,Andrew Sanchez,186,NA,TKO (Flying Knee and Punches),3,5:00
+"Jan 23, 2021",UFC 257 - Poirier vs. McGregor 2,Strawweight,Marina Rodriguez,116,NA,Amanda Ribas,116,NA,TKO (Elbow and Punches),2,5:00
+"Jan 23, 2021",UFC 257 - Poirier vs. McGregor 2,157lb Catchweight,Arman Tsarukyan,NA,NA,Matt Frevola,155.5,NA,Decision (Unanimous),3,5:00
+"Jan 23, 2021",UFC 257 - Poirier vs. McGregor 2,Middleweight,Brad Tavares,185.5,NA,Antonio Carlos Jr.,185,NA,Decision (Unanimous),3,1:41
+"Jan 23, 2021",UFC 257 - Poirier vs. McGregor 2,Bantamweight,Julianna Pena,136,NA,Sara McMann,135,NA,Submission (Rear-Naked Choke),3,4:00
+"Jan 23, 2021",UFC 257 - Poirier vs. McGregor 2,Light Heavyweight,Marcin Prachnio,206,NA,Khalil Rountree,206,NA,Decision (Unanimous),3,5:00
+"Jan 23, 2021",UFC 257 - Poirier vs. McGregor 2,150lb Catchweight,Movsar Evloev,150,NA,Nik Lentz,150,NA,Decision (Split),3,5:00
+"Jan 23, 2021",UFC 257 - Poirier vs. McGregor 2,Flyweight,Amir Albazi,126,NA,Zhalgas Zhumagulov,126,NA,Decision (Unanimous),3,5:00
+"Jan 20, 2021",UFC on ESPN 20 - Chiesa vs. Magny,Welterweight,Michael Chiesa,170.5,NA,Neil Magny,171,NA,Decision (Unanimous),5,5:00
+"Jan 20, 2021",UFC on ESPN 20 - Chiesa vs. Magny,Welterweight,Warlley Alves,171,NA,Mounir Lazzez,171,NA,TKO (Body Kicks and Punches),1,3:39
+"Jan 20, 2021",UFC on ESPN 20 - Chiesa vs. Magny,Light Heavyweight,Isaac Villanueva,206,NA,Vinicius Moreira,206,NA,KO (Punch),2,4:08
+"Jan 20, 2021",UFC on ESPN 20 - Chiesa vs. Magny,Flyweight,Viviane Araujo,126,NA,Roxanne Modafferi,126,NA,Decision (Unanimous),3,2:32
+"Jan 20, 2021",UFC on ESPN 20 - Chiesa vs. Magny,Flyweight,Matt Schnell,126,NA,Tyson Nam,126,NA,Decision (Split),3,2:30
+"Jan 20, 2021",UFC on ESPN 20 - Chiesa vs. Magny,Featherweight,Lerone Murphy,146,NA,Douglas Silva de Andrade,145,NA,Decision (Unanimous),3,5:00
+"Jan 20, 2021",UFC on ESPN 20 - Chiesa vs. Magny,Middleweight,Omari Akhmedov,186,NA,Tom Breese,186,NA,Submission (Arm-Triangle Choke),2,2:59
+"Jan 20, 2021",UFC on ESPN 20 - Chiesa vs. Magny,Bantamweight,Ricky Simon,136,NA,Gaetano Pirrello,136,NA,Submission (Arm-Triangle Choke),2,0:54
+"Jan 20, 2021",UFC on ESPN 20 - Chiesa vs. Magny,Flyweight,Su Mudaerji,126,NA,Zarrukh Adashev,126,NA,Decision (Unanimous),3,5:00
+"Jan 20, 2021",UFC on ESPN 20 - Chiesa vs. Magny,Middleweight,Dalcha Lungiambula,186,NA,Markus Perez,186,NA,Decision (Unanimous),3,5:00
+"Jan 20, 2021",UFC on ESPN 20 - Chiesa vs. Magny,Flyweight,Francisco Figueiredo,126,NA,Jerome Rivera,126,NA,Decision (Unanimous),3,3:39
+"Jan 20, 2021",UFC on ESPN 20 - Chiesa vs. Magny,Lightweight,Mike Davis,154.5,NA,Mason Jones,156,NA,Decision (Unanimous),3,5:00
+"Jan 20, 2021",UFC on ESPN 20 - Chiesa vs. Magny,Bantamweight,Umar Nurmagomedov,136,NA,Sergey Morozov,135,NA,Technical Submission (Rear-Naked Choke),2,5:00
+"Jan 20, 2021",UFC on ESPN 20 - Chiesa vs. Magny,Flyweight,Manon Fiorot,126,NA,Victoria Leonardo,125.5,NA,TKO (Head Kick and Punches),2,5:00
+"Jan 16, 2021",UFC on ABC 1 - Holloway vs. Kattar,Featherweight,Max Holloway,146,NA,Calvin Kattar,146,NA,Decision (Unanimous),5,5:00
+"Jan 16, 2021",UFC on ABC 1 - Holloway vs. Kattar,Welterweight,Carlos Condit,171,NA,Matt Brown,171,NA,Decision (Unanimous),3,5:00
+"Jan 16, 2021",UFC on ABC 1 - Holloway vs. Kattar,Welterweight,Jingliang Li,170,NA,Santiago Ponzinibbio,171,NA,KO (Punch),1,4:25
+"Jan 16, 2021",UFC on ABC 1 - Holloway vs. Kattar,Middleweight,Alessio Di Chirico,186,NA,Joaquin Buckley,185,NA,KO (Head Kick),1,2:12
+"Jan 16, 2021",UFC on ABC 1 - Holloway vs. Kattar,Middleweight,Punahele Soriano,186,NA,Dusko Todorovic,186,NA,TKO (Punches),1,4:48
+"Jan 16, 2021",UFC on ABC 1 - Holloway vs. Kattar,Bantamweight,Joselyne Edwards,135,NA,Yanan Wu,136,NA,Decision (Unanimous),3,5:00
+"Jan 16, 2021",UFC on ABC 1 - Holloway vs. Kattar,Heavyweight,Carlos Felipe,264,NA,Justin Tafa,265,NA,Decision (Split),3,5:00
+"Jan 16, 2021",UFC on ABC 1 - Holloway vs. Kattar,Welterweight,Ramazan Emeev,171,NA,David Zawada,170,NA,Decision (Split),3,5:00
+"Jan 16, 2021",UFC on ABC 1 - Holloway vs. Kattar,Bantamweight,Vanessa Melo,136,NA,Sarah Moras,136,NA,Decision (Unanimous),3,5:00
+"Jan 16, 2021",UFC on ABC 1 - Holloway vs. Kattar,Featherweight,Austin Lingo,145,NA,Jacob Kilburn,145,NA,Decision (Unanimous),3,5:00

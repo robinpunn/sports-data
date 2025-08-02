@@ -1,0 +1,446 @@
+date,event,weight_class,winner,winner_weight,winner_odds,loser,loser_weight,loser_odds,method,rnd,time
+"Dec 19, 2020",UFC Fight Night 183 - Thompson vs. Neal,Welterweight,Stephen Thompson,170,NA,Geoff Neal,171,NA,Decision (Unanimous),5,5:00
+"Dec 19, 2020",UFC Fight Night 183 - Thompson vs. Neal,Bantamweight,Jose Aldo,136,NA,Marlon Vera,135,NA,Decision (Unanimous),3,5:00
+"Dec 19, 2020",UFC Fight Night 183 - Thompson vs. Neal,Welterweight,Michel Pereira,170,NA,Kalinn Williams,169.5,NA,Decision (Unanimous),3,5:00
+"Dec 19, 2020",UFC Fight Night 183 - Thompson vs. Neal,Bantamweight,Rob Font,136,NA,Marlon Moraes,135.5,NA,TKO (Elbow and Punches),1,3:47
+"Dec 19, 2020",UFC Fight Night 183 - Thompson vs. Neal,Heavyweight,Marcin Tybura,255,NA,Greg Hardy,266,NA,TKO (Punches),2,4:31
+"Dec 19, 2020",UFC Fight Night 183 - Thompson vs. Neal,Welterweight,Anthony Pettis,170,NA,Alex Morono,170.5,NA,Decision (Unanimous),3,5:00
+"Dec 19, 2020",UFC Fight Night 183 - Thompson vs. Neal,Bantamweight,Pannie Kianzad,135.5,NA,Sijara Eubanks,136,NA,Decision (Unanimous),3,5:00
+"Dec 19, 2020",UFC Fight Night 183 - Thompson vs. Neal,195lb Catchweight,Deron Winn,194.5,NA,Antonio Arroyo,194,NA,Decision (Unanimous),3,5:00
+"Dec 19, 2020",UFC Fight Night 183 - Thompson vs. Neal,Flyweight,Taila Santos,126,NA,Gillian Robertson,125,NA,Decision (Unanimous),3,5:00
+"Dec 19, 2020",UFC Fight Night 183 - Thompson vs. Neal,Middleweight,Tafon Nchukwi,186,NA,Jamie Pickett,184.5,NA,Decision (Unanimous),3,5:00
+"Dec 19, 2020",UFC Fight Night 183 - Thompson vs. Neal,Flyweight,Jimmy Flick,125,NA,Cody Durden,126,NA,Submission (Flying Triangle Choke),1,3:18
+"Dec 19, 2020",UFC Fight Night 183 - Thompson vs. Neal,160lb Catchweight,Christos Giagos,159.5,NA,Carlton Minus,159,NA,Decision (Unanimous),3,5:00
+"Dec 5, 2020",UFC on ESPN 19 - Hermansson vs. Vettori,Middleweight,Marvin Vettori,186,NA,Jack Hermansson,185.5,NA,Decision (Unanimous),5,5:00
+"Dec 5, 2020",UFC on ESPN 19 - Hermansson vs. Vettori,208lb Catchweight,Jamahal Hill,NA,NA,Ovince St. Preux,205.5,NA,TKO (Punches),2,3:37
+"Dec 5, 2020",UFC on ESPN 19 - Hermansson vs. Vettori,Lightweight,Gabriel Benitez,155.5,NA,Justin Jaynes,156,NA,TKO (Knee to the Body and Elbows),1,4:06
+"Dec 5, 2020",UFC on ESPN 19 - Hermansson vs. Vettori,Light Heavyweight,Roman Dolidze,205,NA,John Allan,205,NA,Decision (Split),3,5:00
+"Dec 5, 2020",UFC on ESPN 19 - Hermansson vs. Vettori,Lightweight,Jordan Leavitt,155.5,NA,Matt Wiman,155.5,NA,KO (Slam),1,0:22
+"Dec 5, 2020",UFC on ESPN 19 - Hermansson vs. Vettori,Bantamweight,Louis Smolka,134.5,NA,Jose Quinonez,,,TKO (Punches),2,2:15
+"Dec 5, 2020",UFC on ESPN 19 - Hermansson vs. Vettori,Featherweight,Ilia Topuria,145,NA,Damon Jackson,145,NA,KO (Punches),1,2:38
+"Dec 5, 2020",UFC on ESPN 19 - Hermansson vs. Vettori,Heavyweight,Jake Collier,264.5,NA,Gian Villante,243,NA,Decision (Unanimous),3,5:00
+"Dec 12, 2020",UFC 256 - Figueiredo vs. Moreno,Flyweight Title Fight,Deiveson Figueiredo,124.5,NA,Brandon Moreno,124.5,NA,Draw (Majority),5,5:00
+"Dec 12, 2020",UFC 256 - Figueiredo vs. Moreno,Lightweight,Charles Oliveira,154.5,NA,Tony Ferguson,155,NA,Decision (Unanimous),3,5:00
+"Dec 12, 2020",UFC 256 - Figueiredo vs. Moreno,Strawweight,Mackenzie Dern,115,NA,Virna Jandiroba,115,NA,Decision (Unanimous),3,5:00
+"Dec 12, 2020",UFC 256 - Figueiredo vs. Moreno,Middleweight,Kevin Holland,185,NA,Ronaldo Souza,185.5,NA,KO (Punches),1,1:45
+"Dec 12, 2020",UFC 256 - Figueiredo vs. Moreno,Heavyweight,Ciryl Gane,247.5,NA,Junior dos Santos,246.5,NA,TKO (Elbow),2,2:34
+"Dec 12, 2020",UFC 256 - Figueiredo vs. Moreno,Featherweight,Cub Swanson,145,NA,Daniel Pineda,145.5,NA,KO (Punches),2,1:52
+"Dec 12, 2020",UFC 256 - Figueiredo vs. Moreno,Lightweight,Rafael Fiziev,155.5,NA,Renato Carneiro,155,NA,KO (Punches),1,4:05
+"Dec 12, 2020",UFC 256 - Figueiredo vs. Moreno,Featherweight,Gavin Tucker,146,NA,Billy Quarantillo,145.5,NA,Decision (Unanimous),3,5:00
+"Dec 12, 2020",UFC 256 - Figueiredo vs. Moreno,Strawweight,Tecia Pennington,,,Sam Hughes,115.5,NA,TKO (Corner Stoppage),1,5:00
+"Dec 12, 2020",UFC 256 - Figueiredo vs. Moreno,Featherweight,Chase Hooper,145.5,NA,Peter Barrett,145.5,NA,Submission (Heel Hook),3,3:02
+"Nov 14, 2020",UFC Fight Night 182 - Felder vs. dos Anjos,Lightweight,Rafael dos Anjos,156,NA,Paul Felder,155.75,NA,Decision (Split),5,5:00
+"Nov 14, 2020",UFC Fight Night 182 - Felder vs. dos Anjos,173lb Catchweight,Kalinn Williams,170,NA,Abdul Razak Alhassan,172.5: Missed Weight,NA,KO (Punch),1,0:30
+"Nov 14, 2020",UFC Fight Night 182 - Felder vs. dos Anjos,Strawweight,Ashley Yoder,115.5,NA,Miranda Granger,115.5,NA,Decision (Unanimous),3,5:00
+"Nov 14, 2020",UFC Fight Night 182 - Felder vs. dos Anjos,195lb Catchweight,Sean Strickland,194.5,NA,Brendan Allen,193.5,NA,TKO (Punches),2,1:32
+"Nov 14, 2020",UFC Fight Night 182 - Felder vs. dos Anjos,Strawweight,Cory McKenna,116,NA,Kay Hansen,115.5,NA,Decision (Unanimous),3,5:00
+"Nov 14, 2020",UFC Fight Night 182 - Felder vs. dos Anjos,Strawweight,Kanako Murata,115,NA,Randa Markos,116,NA,Decision (Unanimous),3,5:00
+"Nov 14, 2020",UFC Fight Night 182 - Felder vs. dos Anjos,Bantamweight,Tony Gravely,135.5,NA,Geraldo de Freitas Jr.,136,NA,Decision (Split),3,5:00
+"Nov 14, 2020",UFC Fight Night 182 - Felder vs. dos Anjos,Welterweight,Alex Morono,170.5,NA,Rhys McKee,170.5,NA,Decision (Unanimous),3,5:00
+"Nov 14, 2020",UFC Fight Night 182 - Felder vs. dos Anjos,Heavyweight,Don'Tale Mayes,262,NA,Roque Martinez,244,NA,Decision (Unanimous),3,5:00
+"Nov 28, 2020",UFC on ESPN 18 - Smith vs. Clark,Light Heavyweight,Anthony Smith,205,NA,Devin Clark,204.5,NA,Submission (Triangle Choke),1,2:34
+"Nov 28, 2020",UFC on ESPN 18 - Smith vs. Clark,Welterweight,Miguel Baeza,171,NA,Takashi Sato,170,NA,Submission (Arm-Triangle Choke),2,4:28
+"Nov 28, 2020",UFC on ESPN 18 - Smith vs. Clark,Heavyweight,Parker Porter,263,NA,Josh Parisian,265.5,NA,Decision (Unanimous),3,5:00
+"Nov 28, 2020",UFC on ESPN 18 - Smith vs. Clark,Featherweight,Bill Algeo,146,NA,Spike Carlyle,145.5,NA,Decision (Unanimous),3,5:00
+"Nov 28, 2020",UFC on ESPN 18 - Smith vs. Clark,140lb Catchweight,Norma Dumont,139.5: Missed Weight,NA,Ashlee Evans-Smith,135.5,NA,Decision (Unanimous),3,5:00
+"Nov 28, 2020",UFC on ESPN 18 - Smith vs. Clark,Featherweight,Jonathan Pearce,145.5,NA,Kai Kamaka III,145,NA,TKO (Punches),2,4:28
+"Nov 28, 2020",UFC on ESPN 18 - Smith vs. Clark,Bantamweight,Anderson dos Santos,135,NA,Martin Day,135.5,NA,Submission (Guillotine Choke),1,4:35
+"Nov 28, 2020",UFC on ESPN 18 - Smith vs. Clark,Flyweight,Gina Mazany,125.5,NA,Rachael Ostovich,125.5,NA,KO (Body Kick),3,4:10
+"Nov 28, 2020",UFC on ESPN 18 - Smith vs. Clark,Flyweight,Su Mudaerji,126,NA,Malcolm Gordon,126,NA,KO (Punches),1,0:44
+"Nov 28, 2020",UFC on ESPN 18 - Smith vs. Clark,140lb Catchweight,Nathan Maness,139.5,NA,Luke Sanders,140,NA,Submission (Rear-Naked Choke),2,2:29
+"Nov 7, 2020",UFC on ESPN 17 - Santos vs. Teixeira,Light Heavyweight,Glover Teixeira,205.5,NA,Thiago Santos,205.5,NA,Submission (Rear-Naked Choke),3,1:49
+"Nov 7, 2020",UFC on ESPN 17 - Santos vs. Teixeira,Heavyweight,Andrei Arlovski,244.5,NA,Tanner Boser,232.5,NA,Decision (Unanimous),3,5:00
+"Nov 7, 2020",UFC on ESPN 17 - Santos vs. Teixeira,Bantamweight,Raoni Barcelos,135.5,NA,Khalid Taha,135.5,NA,Decision (Unanimous),3,5:00
+"Nov 7, 2020",UFC on ESPN 17 - Santos vs. Teixeira,Featherweight,Giga Chikadze,145,NA,Jamey Simmons,,,TKO (Head Kick and Punches),1,3:51
+"Nov 7, 2020",UFC on ESPN 17 - Santos vs. Teixeira,Strawweight,Xiaonan Yan,115.5,NA,Claudia Gadelha,115.5,NA,Decision (Unanimous),3,5:00
+"Nov 7, 2020",UFC on ESPN 17 - Santos vs. Teixeira,Middleweight,Trevin Giles,185.5,NA,Bevon Lewis,185,NA,TKO (Punches),3,1:26
+"Nov 7, 2020",UFC on ESPN 17 - Santos vs. Teixeira,Heavyweight,Alexander Romanov,260,NA,Marcos Rogerio de Lima,258,NA,Technical Submission (Forearm Choke),1,4:48
+"Nov 7, 2020",UFC on ESPN 17 - Santos vs. Teixeira,Featherweight,Darren Elkins,145.5,NA,Luiz Eduardo Garagorri,145.5,NA,Submission (Rear-Naked Choke),3,2:22
+"Nov 7, 2020",UFC on ESPN 17 - Santos vs. Teixeira,Welterweight,Max Griffin,170,NA,Ramiz Brahimaj,170,NA,TKO (Doctor Stoppage),3,2:03
+"Nov 7, 2020",UFC on ESPN 17 - Santos vs. Teixeira,Bantamweight,Gustavo Lopez,135.75,NA,Anthony Birchak,136,NA,Submission (Rear-Naked Choke),1,2:43
+"Oct 31, 2020",UFC Fight Night 181 - Hall vs. Silva,Middleweight,Uriah Hall,186,NA,Anderson Silva,184,NA,TKO (Punches),4,1:24
+"Oct 31, 2020",UFC Fight Night 181 - Hall vs. Silva,Featherweight,Bryce Mitchell,146,NA,Andre Fili,146,NA,Decision (Unanimous),3,5:00
+"Oct 31, 2020",UFC Fight Night 181 - Hall vs. Silva,Heavyweight,Greg Hardy,264.5,NA,Maurice Greene,250,NA,TKO (Punches),2,1:12
+"Oct 31, 2020",UFC Fight Night 181 - Hall vs. Silva,Middleweight,Kevin Holland,185.5,NA,Charlie Ontiveros,182.5,NA,TKO (Submission to Slam),1,2:39
+"Oct 31, 2020",UFC Fight Night 181 - Hall vs. Silva,Lightweight,Thiago Moises,156,NA,Bobby Green,155,NA,Decision (Unanimous),3,5:00
+"Oct 31, 2020",UFC Fight Night 181 - Hall vs. Silva,Lightweight,Alexander Hernandez,155.5,NA,Chris Gruetzemacher,155.5,NA,TKO (Punches),1,1:46
+"Oct 31, 2020",UFC Fight Night 181 - Hall vs. Silva,Bantamweight,Adrian Yanez,135.5,NA,Victor Rodriguez,133,NA,KO (Head Kick),1,2:46
+"Oct 31, 2020",UFC Fight Night 181 - Hall vs. Silva,188lb Catchweight,Sean Strickland,185.5,NA,Jack Marshman,187.5: Missed Weight,NA,Decision (Unanimous),3,5:00
+"Oct 31, 2020",UFC Fight Night 181 - Hall vs. Silva,176lb Catchweight,Jason Witt,170.5,NA,Cole Williams,175.5: Missed Weight,NA,Submission (Arm-Triangle Choke),2,2:09
+"Oct 31, 2020",UFC Fight Night 181 - Hall vs. Silva,Light Heavyweight,Dustin Jacoby,204,NA,Justin Ledet,205.5,NA,TKO (Leg Kicks and Punches),1,2:38
+"Oct 31, 2020",UFC Fight Night 181 - Hall vs. Silva,Bantamweight,Miles Johns,135,NA,Kevin Natividad,134.5,NA,KO (Punch),3,2:51
+"Oct 24, 2020",UFC 254 - Nurmagomedov vs. Gaethje,Lightweight Title Fight,Khabib Nurmagomedov,155,NA,Justin Gaethje,155,NA,Technical Submission (Triangle Choke),2,1:34
+"Oct 24, 2020",UFC 254 - Nurmagomedov vs. Gaethje,Middleweight,Robert Whittaker,186,NA,Jared Cannonier,185,NA,Decision (Unanimous),3,5:00
+"Oct 24, 2020",UFC 254 - Nurmagomedov vs. Gaethje,Heavyweight,Alexander Volkov,265,NA,Walt Harris,254,NA,TKO (Front Kick to the Body and Punches),2,1:15
+"Oct 24, 2020",UFC 254 - Nurmagomedov vs. Gaethje,Middleweight,Phil Hawes,186,NA,Jacob Malkoun,186,NA,KO (Punches),1,0:18
+"Oct 24, 2020",UFC 254 - Nurmagomedov vs. Gaethje,Flyweight,Lauren Murphy,126,NA,Liliya Shakirova,126,NA,Submission (Rear-Naked Choke),2,3:31
+"Oct 24, 2020",UFC 254 - Nurmagomedov vs. Gaethje,Light Heavyweight,Magomed Ankalaev,205,NA,Ion Cutelaba,205.5,NA,KO (Punches),1,4:19
+"Oct 24, 2020",UFC 254 - Nurmagomedov vs. Gaethje,Heavyweight,Tai Tuivasa,265,NA,Stefan Struve,265,NA,KO (Punches),1,4:59
+"Oct 24, 2020",UFC 254 - Nurmagomedov vs. Gaethje,140lb Catchweight,Casey Kenney,140,NA,Nathaniel Wood,140,NA,Decision (Unanimous),3,5:00
+"Oct 24, 2020",UFC 254 - Nurmagomedov vs. Gaethje,173lb Catchweight,Shavkat Rakhmonov,NA,NA,Alex Oliveira,171,NA,Submission (Guillotine Choke),1,4:40
+"Oct 24, 2020",UFC 254 - Nurmagomedov vs. Gaethje,Light Heavyweight,Da Woon Jung,,,Sam Alvey,206,NA,Draw (Split),3,5:00
+"Oct 24, 2020",UFC 254 - Nurmagomedov vs. Gaethje,Flyweight,Miranda Maverick,126,NA,Liana Jojua,126,NA,TKO (Doctor Stoppage),1,5:00
+"Oct 24, 2020",UFC 254 - Nurmagomedov vs. Gaethje,160lb Catchweight,Joel Alvarez,155.5,NA,Alexander Yakovlev,NA,NA,Submission (Armbar),1,3:00
+"Oct 17, 2020",UFC Fight Night 180 - Ortega vs. Korean Zombie,Featherweight,Brian Ortega,146,NA,Chan Sung Jung,146,NA,Decision (Unanimous),5,5:00
+"Oct 17, 2020",UFC Fight Night 180 - Ortega vs. Korean Zombie,Flyweight,Jessica Andrade,126,NA,Katlyn Cerminara,,,KO (Punches to the Body),1,4:55
+"Oct 17, 2020",UFC Fight Night 180 - Ortega vs. Korean Zombie,Light Heavyweight,Jimmy Crute,206,NA,Modestas Bukauskas,206,NA,KO (Punches),1,2:01
+"Oct 17, 2020",UFC Fight Night 180 - Ortega vs. Korean Zombie,Welterweight,James Krause,171,NA,Claudio Silva,,,Decision (Unanimous),3,5:00
+"Oct 17, 2020",UFC Fight Night 180 - Ortega vs. Korean Zombie,Featherweight,Jonathan Martinez,146,NA,Thomas Almeida,146,NA,Decision (Unanimous),3,5:00
+"Oct 17, 2020",UFC Fight Night 180 - Ortega vs. Korean Zombie,Lightweight,Guram Kutateladze,156,NA,Mateusz Gamrot,156,NA,Decision (Split),3,5:00
+"Oct 17, 2020",UFC Fight Night 180 - Ortega vs. Korean Zombie,Flyweight,Gillian Robertson,125.5,NA,Poliana Botelho,125,NA,Decision (Unanimous),3,5:00
+"Oct 17, 2020",UFC Fight Night 180 - Ortega vs. Korean Zombie,Middleweight,Jun Yong Park,185,NA,John Phillips,186,NA,Decision (Unanimous),3,5:00
+"Oct 17, 2020",UFC Fight Night 180 - Ortega vs. Korean Zombie,Lightweight,Fares Ziam,156,NA,Jamie Mullarkey,156,NA,Decision (Unanimous),3,5:00
+"Oct 17, 2020",UFC Fight Night 180 - Ortega vs. Korean Zombie,Light Heavyweight,Maxim Grishin,205.5,NA,Gadzhimurad Antigulov,206,NA,TKO (Punches),2,4:58
+"Oct 17, 2020",UFC Fight Night 180 - Ortega vs. Korean Zombie,Bantamweight,Said Nurmagomedov,136,NA,Mark Striegl,136,NA,KO (Punches),1,0:51
+"Oct 10, 2020",UFC Fight Night 179 - Moraes vs. Sandhagen,Bantamweight,Cory Sandhagen,136,NA,Marlon Moraes,136,NA,TKO (Spinning Wheel Kick and Punches),2,1:03
+"Oct 10, 2020",UFC Fight Night 179 - Moraes vs. Sandhagen,Featherweight,Edson Barboza,145.5,NA,Makwan Amirkhani,146,NA,Decision (Unanimous),3,5:00
+"Oct 10, 2020",UFC Fight Night 179 - Moraes vs. Sandhagen,Heavyweight,Marcin Tybura,263,NA,Ben Rothwell,265,NA,Decision (Unanimous),3,5:00
+"Oct 10, 2020",UFC Fight Night 179 - Moraes vs. Sandhagen,Middleweight,Dricus Du Plessis,186,NA,Markus Perez,186,NA,KO (Punches),1,3:22
+"Oct 10, 2020",UFC Fight Night 179 - Moraes vs. Sandhagen,Heavyweight,Tom Aspinall,252,NA,Alan Baudot,254,NA,TKO (Elbows and Punches),1,1:35
+"Oct 10, 2020",UFC Fight Night 179 - Moraes vs. Sandhagen,Featherweight,Ilia Topuria,146,NA,Youssef Zalal,146,NA,Decision (Unanimous),3,5:00
+"Oct 10, 2020",UFC Fight Night 179 - Moraes vs. Sandhagen,Middleweight,Tom Breese,186,NA,K.B. Bhullar,186,NA,TKO (Punches),1,1:42
+"Oct 10, 2020",UFC Fight Night 179 - Moraes vs. Sandhagen,Heavyweight,Chris Daukaus,227,NA,Rodrigo Nascimento,265,NA,KO (Punches),1,0:45
+"Oct 10, 2020",UFC Fight Night 179 - Moraes vs. Sandhagen,Middleweight,Joaquin Buckley,185.5,NA,Impa Kasanganay,185.5,NA,KO (Spinning Back Kick),2,2:03
+"Oct 10, 2020",UFC Fight Night 179 - Moraes vs. Sandhagen,Bantamweight,Tony Kelley,136,NA,Ali AlQaisi,136,NA,Decision (Unanimous),3,5:00
+"Oct 10, 2020",UFC Fight Night 179 - Moraes vs. Sandhagen,Featherweight,Giga Chikadze,146,NA,Omar Morales,145.5,NA,Decision (Unanimous),3,5:00
+"Oct 10, 2020",UFC Fight Night 179 - Moraes vs. Sandhagen,Bantamweight,Tracy Cortez,136,NA,Stephanie Egger,135.5,NA,Decision (Unanimous),3,5:00
+"Oct 10, 2020",UFC Fight Night 179 - Moraes vs. Sandhagen,Flyweight,Tagir Ulanbekov,126,NA,Bruno Silva,125.5,NA,Decision (Unanimous),3,5:00
+"Nov 21, 2020",UFC 255 - Figueiredo vs. Perez,Flyweight Title Fight,Deiveson Figueiredo,125,NA,Alex Perez,124.5,NA,Submission (Guillotine Choke),1,1:57
+"Nov 21, 2020",UFC 255 - Figueiredo vs. Perez,Flyweight Title Fight,Valentina Shevchenko,124.5,NA,Jennifer Maia,124.5,NA,Decision (Unanimous),5,5:00
+"Nov 21, 2020",UFC 255 - Figueiredo vs. Perez,176lb Catchweight,Tim Means,171,NA,Mike Perry,175.5: Missed Weight,NA,Decision (Unanimous),3,5:00
+"Nov 21, 2020",UFC 255 - Figueiredo vs. Perez,Flyweight,Katlyn Cerminara,,,Cynthia Calvillo,124.5,NA,Decision (Unanimous),3,5:00
+"Nov 21, 2020",UFC 255 - Figueiredo vs. Perez,Light Heavyweight,Paul Craig,205.5,NA,Mauricio Rua,205.5,NA,TKO (Submission to Punches),2,3:36
+"Nov 21, 2020",UFC 255 - Figueiredo vs. Perez,Flyweight,Brandon Moreno,125,NA,Brandon Royval,125.5,NA,TKO (Punches),1,4:59
+"Nov 21, 2020",UFC 255 - Figueiredo vs. Perez,Middleweight,Joaquin Buckley,182.5,NA,Jordan Wright,185,NA,KO (Punches) ,2,0:18
+"Nov 21, 2020",UFC 255 - Figueiredo vs. Perez,Flyweight,Antonina Shevchenko,125,NA,Ariane Lipski da Silva,126,NA,TKO (Punches),2,4:33
+"Nov 21, 2020",UFC 255 - Figueiredo vs. Perez,Welterweight,Nicolas Dalby,170,NA,Daniel Rodriguez,170.5,NA,Decision (Unanimous),3,5:00
+"Nov 21, 2020",UFC 255 - Figueiredo vs. Perez,Welterweight,Alan Jouban,170.5,NA,Jared Gooden,171,NA,Decision (Unanimous),3,5:00
+"Nov 21, 2020",UFC 255 - Figueiredo vs. Perez,Middleweight,Kyle Daukaus,185.5,NA,Dustin Stoltzfus,184.5,NA,Decision (Unanimous),3,5:00
+"Nov 21, 2020",UFC 255 - Figueiredo vs. Perez,Welterweight,Sasha Palatnikov,170.5,NA,Louis Cosce,170,NA,TKO (Punches),3,2:27
+"Oct 3, 2020",UFC on ESPN 16 - Holm vs. Aldana,Bantamweight,Holly Holm,NA,NA,Irene Aldana,NA,NA,Decision (Unanimous),5,5:00
+"Oct 3, 2020",UFC on ESPN 16 - Holm vs. Aldana,Heavyweight,Carlos Felipe,NA,NA,Yorgan De Castro,NA,NA,Decision (Unanimous),3,5:00
+"Oct 3, 2020",UFC on ESPN 16 - Holm vs. Aldana,Bantamweight,Germaine de Randamie,NA,NA,Julianna Pena,NA,NA,Technical Submission (Guillotine Choke),3,3:25
+"Oct 3, 2020",UFC on ESPN 16 - Holm vs. Aldana,Bantamweight,Kyler Phillips,NA,NA,Cameron Else,NA,NA,TKO (Elbows),2,0:44
+"Oct 3, 2020",UFC on ESPN 16 - Holm vs. Aldana,Middleweight,Dusko Todorovic,NA,NA,Dequan Townsend,NA,NA,TKO (Punches),2,3:15
+"Oct 3, 2020",UFC on ESPN 16 - Holm vs. Aldana,Welterweight,Carlos Condit,NA,NA,Court McGee,NA,NA,Decision (Unanimous),3,5:00
+"Oct 3, 2020",UFC on ESPN 16 - Holm vs. Aldana,Featherweight,Charles Jourdain,NA,NA,Joshua Culibao,NA,NA,Draw (Split),3,5:00
+"Oct 3, 2020",UFC on ESPN 16 - Holm vs. Aldana,Middleweight,Nassourdine Imavov,NA,NA,Jordan Williams,NA,NA,Decision (Unanimous),3,5:00
+"Oct 3, 2020",UFC on ESPN 16 - Holm vs. Aldana,Strawweight,Konklak Suphisara,NA,NA,Jinh Yu Frey,NA,NA,Decision (Unanimous),3,5:00
+"Oct 3, 2020",UFC on ESPN 16 - Holm vs. Aldana,Bantamweight,Casey Kenney,NA,NA,Heili Alateng,NA,NA,Decision (Unanimous),3,5:00
+"Oct 3, 2020",UFC on ESPN 16 - Holm vs. Aldana,Lightweight,Luigi Vendramini,NA,NA,Jessin Ayari,NA,NA,TKO (Head Kick and Punches),1,1:12
+"Sep 26, 2020",UFC 253 - Adesanya vs. Costa,Middleweight Title Fight,Israel Adesanya,184,NA,Paulo Costa,,,TKO (Punches and Elbows),2,3:59
+"Sep 26, 2020",UFC 253 - Adesanya vs. Costa,Light Heavyweight Title Fight,Jan Blachowicz,205,NA,Dominick Reyes,205,NA,TKO (Punches),2,4:36
+"Sep 26, 2020",UFC 253 - Adesanya vs. Costa,Flyweight,Brandon Royval,126,NA,Kai Kara-France,,,Submission (Guillotine Choke),2,0:48
+"Sep 26, 2020",UFC 253 - Adesanya vs. Costa,Bantamweight,Ketlen Vieira,136,NA,Sijara Eubanks,136,NA,Decision (Unanimous),3,5:00
+"Sep 26, 2020",UFC 253 - Adesanya vs. Costa,150lb Catchweight,Hakeem Dawodu,145,NA,Zubaira Tukhugov,150: Missed Weight,NA,Decision (Split),3,5:00
+"Sep 26, 2020",UFC 253 - Adesanya vs. Costa,Lightweight,Brad Riddell,156,NA,Alex da Silva Coelho,156,NA,Decision (Unanimous),3,5:00
+"Sep 26, 2020",UFC 253 - Adesanya vs. Costa,Welterweight,Jake Matthews,170,NA,Diego Sanchez,170,NA,Decision (Unanimous),3,5:00
+"Sep 26, 2020",UFC 253 - Adesanya vs. Costa,150lb Catchweight,Ludovit Klein,150: Missed Weight,NA,Shane Young,146,NA,KO (Head Kick and Punches),1,1:16
+"Sep 26, 2020",UFC 253 - Adesanya vs. Costa,Light Heavyweight,William Knight,205,NA,Aleksa Camur,206,NA,Decision (Unanimous),3,5:00
+"Sep 26, 2020",UFC 253 - Adesanya vs. Costa,Heavyweight,Juan Espino,,,Jeff Hughes,258,NA,Submission (Scarf Hold),1,3:48
+"Sep 26, 2020",UFC 253 - Adesanya vs. Costa,Light Heavyweight,Danilo Marques,206,NA,Khadis Ibragimov,206,NA,Decision (Unanimous),3,5:00
+"Sep 19, 2020",UFC Fight Night 178 - Covington vs. Woodley,Welterweight,Colby Covington,NA,NA,Tyron Woodley,NA,NA,TKO (Rib Injury),5,1:19
+"Sep 19, 2020",UFC Fight Night 178 - Covington vs. Woodley,Welterweight,Donald Cerrone,NA,NA,Niko Price,NA,NA,No Contest (Overturned),3,5:00
+"Sep 19, 2020",UFC Fight Night 178 - Covington vs. Woodley,Middleweight,Khamzat Chimaev,NA,NA,Gerald Meerschaert,NA,NA,KO (Punch),1,0:17
+"Sep 19, 2020",UFC Fight Night 178 - Covington vs. Woodley,Light Heavyweight,Johnny Walker,NA,NA,Ryan Spann,NA,NA,KO (Elbows and Punches),1,2:43
+"Sep 19, 2020",UFC Fight Night 178 - Covington vs. Woodley,Strawweight,Mackenzie Dern,NA,NA,Randa Markos,NA,NA,Submission (Armbar),1,3:44
+"Sep 19, 2020",UFC Fight Night 178 - Covington vs. Woodley,Middleweight,Kevin Holland,NA,NA,Darren Stewart,NA,NA,Decision (Split),3,5:00
+"Sep 19, 2020",UFC Fight Night 178 - Covington vs. Woodley,Flyweight,David Dvorak,NA,NA,Jordan Espinosa,NA,NA,Decision (Unanimous),3,5:00
+"Sep 19, 2020",UFC Fight Night 178 - Covington vs. Woodley,Featherweight,Damon Jackson,NA,NA,Mirsad Bektic,NA,NA,Submission (Guillotine Choke),3,1:21
+"Sep 19, 2020",UFC Fight Night 178 - Covington vs. Woodley,Flyweight,Mayra Bueno Silva,NA,NA,Mara Romero Borella,NA,NA,Submission (Armbar),1,2:29
+"Sep 19, 2020",UFC Fight Night 178 - Covington vs. Woodley,Bantamweight,Jessica-Rose Clark,NA,NA,Sarah Alpar,NA,NA,TKO (Punch and Knee),3,4:21
+"Sep 19, 2020",UFC Fight Night 178 - Covington vs. Woodley,Featherweight,Darrick Minner,NA,NA,T.J. Laramie,NA,NA,Submission (Guillotine Choke),1,0:52
+"Sep 19, 2020",UFC Fight Night 178 - Covington vs. Woodley,Bantamweight,Randy Costa,NA,NA,Journey Newson,NA,NA,KO (Head Kick) ,1,0:41
+"Sep 19, 2020",UFC Fight Night 178 - Covington vs. Woodley,Bantamweight,Andre Ewell,NA,NA,Irwin Rivera,NA,NA,Decision (Split),3,5:00
+"Sep 19, 2020",UFC Fight Night 178 - Covington vs. Woodley,Bantamweight,Tyson Nam,NA,NA,Jerome Rivera,NA,NA,TKO (Punches),2,0:34
+"Sep 12, 2020",UFC Fight Night 177 - Waterson vs. Hill,Strawweight,Michelle Waterson-Gomez,115,NA,Angela Hill,115.5,NA,Decision (Split),5,5:00
+"Sep 12, 2020",UFC Fight Night 177 - Waterson vs. Hill,Lightweight,Ottman Azaitar,156,NA,Khama Worthy,155.5,NA,TKO (Punches),1,1:33
+"Sep 12, 2020",UFC Fight Night 177 - Waterson vs. Hill,Flyweight,Roxanne Modafferi,125,NA,Andrea Lee,125.5,NA,Decision (Unanimous),3,5:00
+"Sep 12, 2020",UFC Fight Night 177 - Waterson vs. Hill,Light Heavyweight,Ed Herman,205.5,NA,Mike Rodriguez,205.5,NA,Submission (Kimura),3,4:01
+"Sep 12, 2020",UFC Fight Night 177 - Waterson vs. Hill,Lightweight,Bobby Green,156,NA,Alan Patrick,156,NA,Decision (Unanimous),3,5:00
+"Sep 12, 2020",UFC Fight Night 177 - Waterson vs. Hill,Featherweight,Billy Quarantillo,145.5,NA,Kyle Nelson,145.5,NA,KO (Punch),3,0:07
+"Sep 12, 2020",UFC Fight Night 177 - Waterson vs. Hill,Bantamweight,Sijara Eubanks,135,NA,Julia Avila,135,NA,Decision (Unanimous),3,5:00
+"Sep 12, 2020",UFC Fight Night 177 - Waterson vs. Hill,Lightweight,Kevin Croom,154.5,NA,Roosevelt Roberts,155.5,NA,No Contest (Overturned by NSAC),1,0:31
+"Sep 12, 2020",UFC Fight Night 177 - Waterson vs. Hill,Heavyweight,Alexander Romanov,261,NA,Roque Martinez,258.5,NA,Submission (Arm-Triangle Choke),2,4:22
+"Sep 12, 2020",UFC Fight Night 177 - Waterson vs. Hill,165lb Catchweight,Jalin Turner,163.5,NA,Brok Weaver,164,NA,Submission (Rear-Naked Choke),2,4:20
+"Sep 12, 2020",UFC Fight Night 177 - Waterson vs. Hill,Welterweight,Bryan Barberena,170,NA,Anthony Ivy,169.5,NA,Decision (Unanimous),3,5:00
+"Sep 12, 2020",UFC Fight Night 177 - Waterson vs. Hill,Flyweight,Sabina Mazo,125.5,NA,Justine Kish,125.5,NA,Submission (Rear-Naked Choke),3,3:57
+"Aug 22, 2020",UFC on ESPN 15 - Munhoz vs. Edgar,Bantamweight,Frankie Edgar,135.5,NA,Pedro Munhoz,136,NA,Decision (Split),5,5:00
+"Aug 22, 2020",UFC on ESPN 15 - Munhoz vs. Edgar,Light Heavyweight,Mike Rodriguez,205.5,NA,Marcin Prachnio,205.5,NA,KO (Elbow and Punches),1,2:17
+"Aug 22, 2020",UFC on ESPN 15 - Munhoz vs. Edgar,Lightweight,Joe Solecki,155.5,NA,Austin Hubbard,156,NA,Submission (Rear-Naked Choke),1,3:51
+"Aug 22, 2020",UFC on ESPN 15 - Munhoz vs. Edgar,Flyweight,Shana Dobson,126,NA,Mariya Agapova,125.5,NA,TKO (Punches),2,1:38
+"Aug 22, 2020",UFC on ESPN 15 - Munhoz vs. Edgar,Welterweight,Daniel Rodriguez,170.5,NA,Dwight Grant,169.5,NA,KO (Punches),1,2:24
+"Aug 22, 2020",UFC on ESPN 15 - Munhoz vs. Edgar,Strawweight,Amanda Lemos,115.5,NA,Mizuki Inoue,115.5,NA,Decision (Unanimous),3,5:00
+"Aug 22, 2020",UFC on ESPN 15 - Munhoz vs. Edgar,Light Heavyweight,Jordan Wright,200,NA,Isaac Villanueva,205.5,NA,TKO (Doctor Stoppage),1,1:31
+"Aug 22, 2020",UFC on ESPN 15 - Munhoz vs. Edgar,Welterweight,Matthew Semelsberger,,,Carlton Minus,170,NA,Decision (Unanimous),3,5:00
+"Aug 22, 2020",UFC on ESPN 15 - Munhoz vs. Edgar,140lb Catchweight,Trevin Jones,139.5,NA,Timur Valiev,140,NA,No Contest (Overturned by NSAC),2,1:59
+"Sep 5, 2020",UFC Fight Night 176 - Overeem vs. Sakai,Heavyweight,Alistair Overeem,252.5,NA,Augusto Sakai,261.5,NA,TKO (Elbows and Punches),5,0:26
+"Sep 5, 2020",UFC Fight Night 176 - Overeem vs. Sakai,Light Heavyweight,Ovince St. Preux,205.5,NA,Alonzo Menifield,204,NA,KO (Punch),2,4:07
+"Sep 5, 2020",UFC Fight Night 176 - Overeem vs. Sakai,Welterweight,Michel Pereira,170.5,NA,Zelim Imadaev,171,NA,Technical Submission (Rear-Naked Choke),3,4:39
+"Sep 5, 2020",UFC Fight Night 176 - Overeem vs. Sakai,Middleweight,Andre Muniz,185.5,NA,Bartosz Fabinski,184.5,NA,Submission (Armbar),1,2:42
+"Sep 5, 2020",UFC Fight Night 176 - Overeem vs. Sakai,Featherweight,Brian Kelleher,146,NA,Ray Rodriguez,145,NA,Submission (Guillotine Choke),1,0:39
+"Sep 5, 2020",UFC Fight Night 176 - Overeem vs. Sakai,Flyweight,Viviane Araujo,126,NA,Montana De La Rosa,125.5,NA,Decision (Unanimous),3,5:00
+"Sep 5, 2020",UFC Fight Night 176 - Overeem vs. Sakai,Bantamweight,Hunter Azure,135.5,NA,Cole Smith,135,NA,Decision (Unanimous),3,5:00
+"Aug 29, 2020",UFC Fight Night 175 - Smith vs. Rakic,Light Heavyweight,Aleksandar Rakic,205.5,NA,Anthony Smith,205,NA,Decision (Unanimous),3,5:00
+"Aug 29, 2020",UFC Fight Night 175 - Smith vs. Rakic,Welterweight,Neil Magny,171,NA,Robbie Lawler,171,NA,Decision (Unanimous),3,5:00
+"Aug 29, 2020",UFC Fight Night 175 - Smith vs. Rakic,Flyweight,Alexa Grasso,126,NA,Ji Yeon Kim,126,NA,Decision (Unanimous),3,5:00
+"Aug 29, 2020",UFC Fight Night 175 - Smith vs. Rakic,Featherweight,Ricardo Lamas,145,NA,Bill Algeo,146,NA,Decision (Unanimous),3,5:00
+"Aug 29, 2020",UFC Fight Night 175 - Smith vs. Rakic,Middleweight,Impa Kasanganay,185.5,NA,Maki Pitolo,184.5,NA,Decision (Unanimous),3,5:00
+"Aug 29, 2020",UFC Fight Night 175 - Smith vs. Rakic,Middleweight,Zak Cummings,185,NA,Alessio Di Chirico,184,NA,Decision (Unanimous),3,5:00
+"Aug 29, 2020",UFC Fight Night 175 - Smith vs. Rakic,151lb Catchweight,Alex Caceres,145,NA,Austin Springer,151: Missed Weight,NA,Submission (Rear-Naked Choke),1,3:38
+"Aug 29, 2020",UFC Fight Night 175 - Smith vs. Rakic,Welterweight,Sean Brady,170.5,NA,Christian Aguilera,170,NA,Technical Submission (Guillotine Choke),2,1:47
+"Aug 29, 2020",UFC Fight Night 175 - Smith vs. Rakic,Strawweight,Polyana Viana,116,NA,Emily Whitmire,115.5,NA,Submission (Armbar),1,1:53
+"Aug 29, 2020",UFC Fight Night 175 - Smith vs. Rakic,117lb Catchweight,Mallory Martin,115.5,NA,Hannah Cifers,117: Missed Weight,NA,Submission (Rear-Naked Choke),2,1:33
+"Aug 15, 2020",UFC 252 - Miocic vs. Cormier 3,Heavyweight Title Fight,Stipe Miocic,233,NA,Daniel Cormier,236,NA,Decision (Unanimous),5,5:00
+"Aug 15, 2020",UFC 252 - Miocic vs. Cormier 3,Bantamweight,Marlon Vera,136,NA,Sean O'Malley,136,NA,TKO (Elbows and Punches),1,4:40
+"Aug 15, 2020",UFC 252 - Miocic vs. Cormier 3,Heavyweight,Jairzinho Rozenstruik,254,NA,Junior dos Santos,238.5,NA,TKO (Punches),2,3:47
+"Aug 15, 2020",UFC 252 - Miocic vs. Cormier 3,150lb Catchweight,Daniel Pineda,146,NA,Herbert Burns,149.5: Missed Weight,NA,TKO (Elbows),2,4:37
+"Aug 15, 2020",UFC 252 - Miocic vs. Cormier 3,Bantamweight,Merab Dvalishvili,136,NA,John Dodson,136,NA,Decision (Unanimous),3,5:00
+"Aug 15, 2020",UFC 252 - Miocic vs. Cormier 3,Lightweight,Vinc Pichel,156,NA,Jim Miller,156,NA,Decision (Unanimous),3,5:00
+"Aug 15, 2020",UFC 252 - Miocic vs. Cormier 3,Strawweight,Virna Jandiroba,115.5,NA,Felice Herrig,116,NA,Submission (Armbar),1,1:44
+"Aug 15, 2020",UFC 252 - Miocic vs. Cormier 3,147lb Catchweight,Danny Chavez,146,NA,T.J. Brown,146.5: Missed Weight,NA,Decision (Unanimous),3,5:00
+"Aug 15, 2020",UFC 252 - Miocic vs. Cormier 3,Strawweight,Livinha Souza,115.5,NA,Ashley Yoder,115.5,NA,Decision (Unanimous),3,5:00
+"Aug 15, 2020",UFC 252 - Miocic vs. Cormier 3,Heavyweight,Chris Daukaus,241,NA,Parker Porter,264.5,NA,TKO (Punches and Knee),1,4:28
+"Aug 15, 2020",UFC 252 - Miocic vs. Cormier 3,Featherweight,Kai Kamaka III,145.5,NA,Tony Kelley,145.5,NA,Decision (Unanimous),3,5:00
+"Aug 8, 2020",UFC Fight Night 174 - Lewis vs. Oleynik,Heavyweight,Derrick Lewis,265,NA,Alexey Oleynik,227,NA,TKO (Punches),2,0:21
+"Aug 8, 2020",UFC Fight Night 174 - Lewis vs. Oleynik,Middleweight,Chris Weidman,186,NA,Omari Akhmedov,185.75,NA,Decision (Unanimous),3,5:00
+"Aug 8, 2020",UFC Fight Night 174 - Lewis vs. Oleynik,Middleweight,Darren Stewart,186,NA,Maki Pitolo,186,NA,Submission (Guillotine Choke),1,3:41
+"Aug 8, 2020",UFC Fight Night 174 - Lewis vs. Oleynik,Bantamweight,Yana Santos,,,Julija Stoliarenko,136,NA,Decision (Unanimous),3,5:00
+"Aug 8, 2020",UFC Fight Night 174 - Lewis vs. Oleynik,158lb Catchweight,Beneil Dariush,158: Missed Weight,NA,Scott Holtzman,156,NA,KO (Spinning Backfist),1,4:38
+"Aug 8, 2020",UFC Fight Night 174 - Lewis vs. Oleynik,175lb Catchweight,Tim Means,171,NA,Laureano Staropoli,174.5: Missed Weight,NA,Decision (Unanimous),3,5:00
+"Aug 8, 2020",UFC Fight Night 174 - Lewis vs. Oleynik,Middleweight,Kevin Holland,183.5,NA,Joaquin Buckley,185,NA,TKO (Punch),3,0:43
+"Aug 8, 2020",UFC Fight Night 174 - Lewis vs. Oleynik,Lightweight,Nasrat Haqparast,156,NA,Alex Munoz,156,NA,Decision (Unanimous),3,5:00
+"Aug 8, 2020",UFC Fight Night 174 - Lewis vs. Oleynik,Middleweight,Andrew Sanchez,185.5,NA,Wellington Turman,185.5,NA,KO (Punch),1,4:14
+"Aug 8, 2020",UFC Fight Night 174 - Lewis vs. Oleynik,Featherweight,Gavin Tucker,146,NA,Justin Jaynes,146,NA,Submission (Rear-Naked Choke),3,1:43
+"Aug 8, 2020",UFC Fight Night 174 - Lewis vs. Oleynik,Featherweight,Youssef Zalal,146,NA,Peter Barrett,145.5,NA,Decision (Unanimous),3,5:00
+"Aug 8, 2020",UFC Fight Night 174 - Lewis vs. Oleynik,Bantamweight,Irwin Rivera,136,NA,Ali AlQaisi,136,NA,Decision (Split),3,5:00
+"Aug 1, 2020",UFC Fight Night 173 - Brunson vs. Shahbazyan,Middleweight,Derek Brunson,186,NA,Edmen Shahbazyan,185.5,NA,TKO (Punches),3,0:26
+"Aug 1, 2020",UFC Fight Night 173 - Brunson vs. Shahbazyan,Flyweight,Jennifer Maia,124.5,NA,Joanne Wood,,,Submission (Armbar) ,1,4:29
+"Aug 1, 2020",UFC Fight Night 173 - Brunson vs. Shahbazyan,Welterweight,Vicente Luque,170.5,NA,Randy Brown,170.5,NA,KO (Knee and Punches),2,4:56
+"Aug 1, 2020",UFC Fight Night 173 - Brunson vs. Shahbazyan,Lightweight,Bobby Green,156,NA,Lando Vannata,155.5,NA,Decision (Unanimous),3,5:00
+"Aug 1, 2020",UFC Fight Night 173 - Brunson vs. Shahbazyan,141lb Catchweight,Jonathan Martinez,140.5: Missed Weight,NA,Frankie Saenz,136,NA,TKO (Knee and Punches),3,0:57
+"Aug 1, 2020",UFC Fight Night 173 - Brunson vs. Shahbazyan,Featherweight,Nathan Maness,144.5,NA,Johnny Munoz Jr.,145.5,NA,Decision (Unanimous),3,5:00
+"Aug 1, 2020",UFC Fight Night 173 - Brunson vs. Shahbazyan,Featherweight,Jamall Emmers,146,NA,Vince Cachero,145,NA,Decision (Unanimous),3,5:00
+"Aug 1, 2020",UFC Fight Night 173 - Brunson vs. Shahbazyan,Bantamweight,Chris Gutierrez,135.5,NA,Cody Durden,135.5,NA,Draw (Unanimous),3,5:00
+"Jul 25, 2020",UFC on ESPN 14 - Whittaker vs. Till,Middleweight,Robert Whittaker,186,NA,Darren Till,186,NA,Decision (Unanimous),5,5:00
+"Jul 25, 2020",UFC on ESPN 14 - Whittaker vs. Till,Light Heavyweight,Mauricio Rua,206,NA,Antonio Rogerio Nogueira,206,NA,Decision (Split),3,5:00
+"Jul 25, 2020",UFC on ESPN 14 - Whittaker vs. Till,Heavyweight,Fabricio Werdum,242,NA,Alexander Gustafsson,240,NA,Submission (Armbar),1,2:30
+"Jul 25, 2020",UFC on ESPN 14 - Whittaker vs. Till,Strawweight,Carla Esparza,116,NA,Marina Rodriguez,115.5,NA,Decision (Split),3,5:00
+"Jul 25, 2020",UFC on ESPN 14 - Whittaker vs. Till,Light Heavyweight,Paul Craig,206,NA,Gadzhimurad Antigulov,206,NA,Submission (Triangle Choke),1,2:06
+"Jul 25, 2020",UFC on ESPN 14 - Whittaker vs. Till,Welterweight,Alex Oliveira,171,NA,Peter Sobotta,171,NA,Decision (Unanimous),3,5:00
+"Jul 25, 2020",UFC on ESPN 14 - Whittaker vs. Till,Welterweight,Khamzat Chimaev,171,NA,Rhys McKee,170.5,NA,TKO (Punches),1,3:09
+"Jul 25, 2020",UFC on ESPN 14 - Whittaker vs. Till,160lb Catchweight,Francisco Trinaldo,160: Missed Weight,NA,Jai Herbert,156,NA,TKO (Punch),3,1:30
+"Jul 25, 2020",UFC on ESPN 14 - Whittaker vs. Till,Welterweight,Jesse Ronson,171,NA,Nicolas Dalby,171,NA,No Contest (Overturned by Promoter),1,2:48
+"Jul 25, 2020",UFC on ESPN 14 - Whittaker vs. Till,Heavyweight,Tom Aspinall,248,NA,Jake Collier,264,NA,TKO (Knee and Punches),1,0:45
+"Jul 25, 2020",UFC on ESPN 14 - Whittaker vs. Till,Featherweight,Movsar Evloev,146,NA,Mike Grundy,146,NA,Decision (Unanimous),3,5:00
+"Jul 25, 2020",UFC on ESPN 14 - Whittaker vs. Till,Heavyweight,Tanner Boser,235,NA,Raphael Pessoa,264,NA,TKO (Punches),2,2:36
+"Jul 25, 2020",UFC on ESPN 14 - Whittaker vs. Till,Bantamweight,Pannie Kianzad,136,NA,Bethe Correia,136,NA,Decision (Unanimous),3,5:00
+"Jul 25, 2020",UFC on ESPN 14 - Whittaker vs. Till,Welterweight,Ramazan Emeev,171,NA,Niklas Stolze,170.5,NA,Decision (Unanimous),3,5:00
+"Jul 25, 2020",UFC on ESPN 14 - Whittaker vs. Till,Bantamweight,Nathaniel Wood,136,NA,John Castaneda,136,NA,Decision (Unanimous),3,5:00
+"Jul 18, 2020",UFC Fight Night 172 - Figueiredo vs. Benavidez 2,Flyweight Title Fight,Deiveson Figueiredo,125,NA,Joseph Benavidez,125,NA,Technical Submission (Rear-Naked Choke),1,4:48
+"Jul 18, 2020",UFC Fight Night 172 - Figueiredo vs. Benavidez 2,Middleweight,Jack Hermansson,186,NA,Kelvin Gastelum,186,NA,Submission (Heel Hook),1,1:18
+"Jul 18, 2020",UFC Fight Night 172 - Figueiredo vs. Benavidez 2,Lightweight,Rafael Fiziev,156,NA,Marc Diakiese,156,NA,Decision (Unanimous),3,5:00
+"Jul 18, 2020",UFC Fight Night 172 - Figueiredo vs. Benavidez 2,Flyweight,Ariane Lipski da Silva,126,NA,Luana Carolina,126,NA,Submission (Kneebar),1,1:28
+"Jul 18, 2020",UFC Fight Night 172 - Figueiredo vs. Benavidez 2,Flyweight,Askar Askarov,126,NA,Alexandre Pantoja,125,NA,Decision (Unanimous),3,5:00
+"Jul 18, 2020",UFC Fight Night 172 - Figueiredo vs. Benavidez 2,Light Heavyweight,Roman Dolidze,206,NA,Khadis Ibragimov,206,NA,TKO (Knee and Punches),1,4:15
+"Jul 18, 2020",UFC Fight Night 172 - Figueiredo vs. Benavidez 2,150lb Catchweight,Grant Dawson,150,NA,Nad Narimani,150,NA,Decision (Unanimous),3,5:00
+"Jul 18, 2020",UFC Fight Night 172 - Figueiredo vs. Benavidez 2,Lightweight,Joel Alvarez,156,NA,Joseph Duffy,155.5,NA,Submission (Guillotine Choke),1,2:25
+"Jul 18, 2020",UFC Fight Night 172 - Figueiredo vs. Benavidez 2,Bantamweight,Brett Johns,136,NA,Montel Jackson,136,NA,Decision (Unanimous),3,5:00
+"Jul 18, 2020",UFC Fight Night 172 - Figueiredo vs. Benavidez 2,Bantamweight,Amir Albazi,136,NA,Malcolm Gordon,135,NA,Submission (Triangle Choke),1,4:42
+"Jul 18, 2020",UFC Fight Night 172 - Figueiredo vs. Benavidez 2,Lightweight,Arman Tsarukyan,156,NA,Davi Ramos,156,NA,Decision (Unanimous),3,5:00
+"Jul 18, 2020",UFC Fight Night 172 - Figueiredo vs. Benavidez 2,Heavyweight,Serghei Spivac,,,Carlos Felipe,261,NA,Decision (Majority),3,5:00
+"Jul 11, 2020",UFC 251 - Usman vs. Masvidal,Welterweight Title Fight,Kamaru Usman,170,NA,Jorge Masvidal,170,NA,Decision (Unanimous),5,5:00
+"Jul 11, 2020",UFC 251 - Usman vs. Masvidal,Featherweight Title Fight,Alexander Volkanovski,145,NA,Max Holloway,145,NA,Decision (Split),5,5:00
+"Jul 11, 2020",UFC 251 - Usman vs. Masvidal,Bantamweight Title Fight,Petr Yan,135,NA,Jose Aldo,135,NA,TKO (Punches),5,3:24
+"Jul 11, 2020",UFC 251 - Usman vs. Masvidal,Strawweight,Rose Namajunas,116,NA,Jessica Andrade,115,NA,Decision (Split),3,5:00
+"Jul 11, 2020",UFC 251 - Usman vs. Masvidal,Flyweight,Amanda Ribas,126,NA,Paige VanZant,126,NA,Submission (Armbar),1,2:21
+"Jul 11, 2020",UFC 251 - Usman vs. Masvidal,Light Heavyweight,Jiri Prochazka,205,NA,Volkan Oezdemir,205.5,NA,KO (Punch),2,0:49
+"Jul 11, 2020",UFC 251 - Usman vs. Masvidal,Welterweight,Muslim Salikhov,171,NA,Elizeu Zaleski dos Santos,171,NA,Decision (Split),3,5:00
+"Jul 11, 2020",UFC 251 - Usman vs. Masvidal,Featherweight,Makwan Amirkhani,146,NA,Danny Henry,146,NA,Technical Submission (Anaconda Choke),1,3:15
+"Jul 11, 2020",UFC 251 - Usman vs. Masvidal,Lightweight,Leonardo Santos,156,NA,Roman Bogatov,155.5,NA,Decision (Unanimous),3,5:00
+"Jul 11, 2020",UFC 251 - Usman vs. Masvidal,Heavyweight,Marcin Tybura,252,NA,Maxim Grishin,223,NA,Decision (Unanimous),3,5:00
+"Jul 11, 2020",UFC 251 - Usman vs. Masvidal,129lb Catchweight,Raulian Paiva,129: Missed Weight,NA,Zhalgas Zhumagulov,126,NA,Decision (Unanimous),3,5:00
+"Jul 11, 2020",UFC 251 - Usman vs. Masvidal,141lb Catchweight,Karol Rosa,136,NA,Vanessa Melo,141: Missed Weight,NA,Decision (Unanimous),3,5:00
+"Jul 11, 2020",UFC 251 - Usman vs. Masvidal,Bantamweight,Davey Grant,136,NA,Martin Day,136,NA,KO (Punch),3,2:38
+"Jul 15, 2020",UFC on ESPN 13 - Kattar vs. Ige,Featherweight,Calvin Kattar,146,NA,Dan Ige,145,NA,Decision (Unanimous),5,5:00
+"Jul 15, 2020",UFC on ESPN 13 - Kattar vs. Ige,Flyweight,Tim Elliott,125,NA,Ryan Benoit,126,NA,Decision (Unanimous),3,5:00
+"Jul 15, 2020",UFC on ESPN 13 - Kattar vs. Ige,Featherweight,Jimmie Rivera,145,NA,Cody Stamann,145,NA,Decision (Unanimous),3,5:00
+"Jul 15, 2020",UFC on ESPN 13 - Kattar vs. Ige,Flyweight,Taila Santos,125,NA,Molly McCann,125,NA,Decision (Unanimous),3,5:00
+"Jul 15, 2020",UFC on ESPN 13 - Kattar vs. Ige,174lb Catchweight,Mounir Lazzez,171,NA,Abdul Razak Alhassan,174: Missed Weight,NA,Decision (Unanimous),3,5:00
+"Jul 15, 2020",UFC on ESPN 13 - Kattar vs. Ige,Middleweight,Khamzat Chimaev,186,NA,John Phillips,186,NA,Submission (Brabo Choke),2,1:12
+"Jul 15, 2020",UFC on ESPN 13 - Kattar vs. Ige,Featherweight,Lerone Murphy,146,NA,Ricardo Ramos,145,NA,TKO (Punches),1,4:18
+"Jul 15, 2020",UFC on ESPN 13 - Kattar vs. Ige,Light Heavyweight,Modestas Bukauskas,205,NA,Andreas Michailidis,206,NA,TKO (Elbows),1,5:00
+"Jul 15, 2020",UFC on ESPN 13 - Kattar vs. Ige,149lb Catchweight,Jared Gordon,145,NA,Chris Fishgold,149: Missed Weight,NA,Decision (Unanimous),3,5:00
+"Jul 15, 2020",UFC on ESPN 13 - Kattar vs. Ige,Flyweight,Liana Jojua,126,NA,Diana Belbita,125,NA,Submission (Armbar),1,2:47
+"Jul 15, 2020",UFC on ESPN 13 - Kattar vs. Ige,Bantamweight,Jack Shore,136,NA,Aaron Phillips,135,NA,Submission (Rear-Naked Choke),2,2:29
+"Jun 27, 2020",UFC on ESPN 12 - Poirier vs. Hooker,Lightweight,Dustin Poirier,156,NA,Dan Hooker,155.5,NA,Decision (Unanimous),5,5:00
+"Jun 27, 2020",UFC on ESPN 12 - Poirier vs. Hooker,Welterweight,Mike Perry,171,NA,Mickey Gall,170,NA,Decision (Unanimous),3,5:00
+"Jun 27, 2020",UFC on ESPN 12 - Poirier vs. Hooker,Heavyweight,Maurice Greene,255,NA,Gian Villante,255,NA,Submission (Arm-Triangle Choke),3,3:44
+"Jun 27, 2020",UFC on ESPN 12 - Poirier vs. Hooker,Middleweight,Brendan Allen,185.5,NA,Kyle Daukaus,185.5,NA,Decision (Unanimous),3,5:00
+"Jun 27, 2020",UFC on ESPN 12 - Poirier vs. Hooker,Welterweight,Takashi Sato,170.5,NA,Jason Witt,171,NA,TKO (Punches),1,0:48
+"Jun 27, 2020",UFC on ESPN 12 - Poirier vs. Hooker,150lb Catchweight,Julian Erosa,149.5,NA,Sean Woodson,149,NA,Submission (Brabo Choke),3,2:44
+"Jun 27, 2020",UFC on ESPN 12 - Poirier vs. Hooker,Lightweight,Khama Worthy,154.5,NA,Luis Pena,155,NA,Submission (Guillotine Choke),3,2:53
+"Jun 27, 2020",UFC on ESPN 12 - Poirier vs. Hooker,Heavyweight,Tanner Boser,235,NA,Philipe Lins,234,NA,KO (Punches),1,2:41
+"Jun 27, 2020",UFC on ESPN 12 - Poirier vs. Hooker,Strawweight,Kay Hansen,115.5,NA,Jinh Yu Frey,115.5,NA,Submission (Armbar),3,2:26
+"Jun 27, 2020",UFC on ESPN 12 - Poirier vs. Hooker,Featherweight,Youssef Zalal,145.5,NA,Jordan Griffin,145,NA,Decision (Unanimous),3,5:00
+"Jun 20, 2020",UFC on ESPN 11 - Blaydes vs. Volkov,Heavyweight,Curtis Blaydes,261,NA,Alexander Volkov,247,NA,Decision (Unanimous),5,5:00
+"Jun 20, 2020",UFC on ESPN 11 - Blaydes vs. Volkov,Featherweight,Josh Emmett,146,NA,Shane Burgos,146,NA,Decision (Unanimous),3,5:00
+"Jun 20, 2020",UFC on ESPN 11 - Blaydes vs. Volkov,Bantamweight,Raquel Pennington,136,NA,Marion Reneau,136,NA,Decision (Unanimous),3,5:00
+"Jun 20, 2020",UFC on ESPN 11 - Blaydes vs. Volkov,Welterweight,Belal Muhammad,170.5,NA,Lyman Good,170.5,NA,Decision (Unanimous),3,5:00
+"Jun 20, 2020",UFC on ESPN 11 - Blaydes vs. Volkov,160lb Catchweight,Jim Miller,159.5,NA,Roosevelt Roberts,160,NA,Submission (Armbar),1,2:25
+"Jun 20, 2020",UFC on ESPN 11 - Blaydes vs. Volkov,Lightweight,Bobby Green,155.5,NA,Clay Guida,154.5,NA,Decision (Unanimous),3,5:00
+"Jun 20, 2020",UFC on ESPN 11 - Blaydes vs. Volkov,Strawweight,Tecia Pennington,,,Brianna Fortino,,,Decision (Unanimous),3,5:00
+"Jun 20, 2020",UFC on ESPN 11 - Blaydes vs. Volkov,Middleweight,Marc-Andre Barriault,185.5,NA,Oskar Piechota,185.5,NA,No Contest (Overturned by NSAC),2,4:50
+"Jun 20, 2020",UFC on ESPN 11 - Blaydes vs. Volkov,Flyweight,Gillian Robertson,125.5,NA,Cortney Casey,123.5,NA,Submission (Rear-Naked Choke),3,4:36
+"Jun 20, 2020",UFC on ESPN 11 - Blaydes vs. Volkov,158lb Catchweight,Justin Jaynes,156,NA,Frank Camacho,158: Missed Weight,NA,TKO (Punches),1,0:41
+"Jun 20, 2020",UFC on ESPN 11 - Blaydes vs. Volkov,Flyweight,Lauren Murphy,125.5,NA,Roxanne Modafferi,125.5,NA,Decision (Unanimous),3,5:00
+"Jun 20, 2020",UFC on ESPN 11 - Blaydes vs. Volkov,Lightweight,Austin Hubbard,156,NA,Max Rohskopf,155,NA,TKO (Retirement),2,5:00
+"Jun 13, 2020",UFC on ESPN 10 - Eye vs. Calvillo,127lb,Cynthia Calvillo,126,NA,Jessica Eye,126.25: Missed Weight,NA,Decision (Unanimous),5,5:00
+"Jun 13, 2020",UFC on ESPN 10 - Eye vs. Calvillo,191lb Catchweight,Marvin Vettori,186,NA,Karl Roberson,190.5: Missed Weight,NA,Submission (Rear-Naked Choke),1,4:17
+"Jun 13, 2020",UFC on ESPN 10 - Eye vs. Calvillo,Lightweight,Charles Rosa,155,NA,Kevin Aguilar,155.5,NA,Decision (Split),3,5:00
+"Jun 13, 2020",UFC on ESPN 10 - Eye vs. Calvillo,Featherweight,Andre Fili,145.5,NA,Charles Jourdain,145.5,NA,Decision (Split),3,5:00
+"Jun 13, 2020",UFC on ESPN 10 - Eye vs. Calvillo,Bantamweight,Jordan Espinosa,135.5,NA,Mark De La Rosa,136,NA,Decision (Unanimous),3,5:00
+"Jun 13, 2020",UFC on ESPN 10 - Eye vs. Calvillo,Flyweight,Mariya Agapova,125.5,NA,Hannah Cifers,125,NA,Submission (Rear-Naked Choke),1,2:42
+"Jun 13, 2020",UFC on ESPN 10 - Eye vs. Calvillo,140lb Catchweight,Merab Dvalishvili,139,NA,Gustavo Lopez,140,NA,Decision (Unanimous),3,5:00
+"Jun 13, 2020",UFC on ESPN 10 - Eye vs. Calvillo,Bantamweight,Julia Avila,135,NA,Gina Mazany,136,NA,TKO (Knee to the Body and Punches),1,0:22
+"Jun 13, 2020",UFC on ESPN 10 - Eye vs. Calvillo,139lb Catchweight,Tyson Nam,135.5,NA,Zarrukh Adashev,138.5: Missed Weight,NA,KO (Punch),1,0:32
+"Jun 13, 2020",UFC on ESPN 10 - Eye vs. Calvillo,Welterweight,Christian Aguilera,170.5,NA,Anthony Ivy,171,NA,TKO (Punches),1,0:59
+"Jun 6, 2020",UFC 250 - Nunes vs. Spencer,Featherweight Title Fight,Amanda Nunes,145,NA,Felicia Spencer,144.5,NA,Decision (Unanimous),5,5:00
+"Jun 6, 2020",UFC 250 - Nunes vs. Spencer,Bantamweight,Cody Garbrandt,136,NA,Raphael Assuncao,136,NA,KO (Punch),2,4:59
+"Jun 6, 2020",UFC 250 - Nunes vs. Spencer,Bantamweight,Aljamain Sterling,136,NA,Cory Sandhagen,135.5,NA,Submission (Rear-Naked Choke),1,1:28
+"Jun 6, 2020",UFC 250 - Nunes vs. Spencer,Welterweight,Neil Magny,171,NA,Anthony Rocco Martin,170.5,NA,Decision (Unanimous),3,5:00
+"Jun 6, 2020",UFC 250 - Nunes vs. Spencer,Bantamweight,Sean O'Malley,136,NA,Eddie Wineland,136,NA,KO (Punch),1,1:54
+"Jun 6, 2020",UFC 250 - Nunes vs. Spencer,Featherweight,Alex Caceres,146,NA,Chase Hooper,145.5,NA,Decision (Unanimous),3,5:00
+"Jun 6, 2020",UFC 250 - Nunes vs. Spencer,Middleweight,Ian Heinisch,185.5,NA,Gerald Meerschaert,185.5,NA,TKO (Punches),1,1:14
+"Jun 6, 2020",UFC 250 - Nunes vs. Spencer,Featherweight,Cody Stamann,145.5,NA,Brian Kelleher,146,NA,Decision (Unanimous),3,5:00
+"Jun 6, 2020",UFC 250 - Nunes vs. Spencer,Middleweight,Maki Pitolo,185.5,NA,Charles Byrd,184.5,NA,TKO (Punches),2,1:10
+"Jun 6, 2020",UFC 250 - Nunes vs. Spencer,Flyweight,Alex Perez,126,NA,Jussier Formiga,126,NA,TKO (Leg Kick),1,4:06
+"Jun 6, 2020",UFC 250 - Nunes vs. Spencer,Light Heavyweight,Devin Clark,205.5,NA,Alonzo Menifield,205,NA,Decision (Unanimous),3,5:00
+"Jun 6, 2020",UFC 250 - Nunes vs. Spencer,150lb Catchweight,Herbert Burns,149.5,NA,Evan Dunham,149.5,NA,Submission (Rear-Naked Choke) ,1,1:20
+"May 30, 2020",UFC on ESPN 9 - Woodley vs. Burns,Welterweight,Gilbert Burns,170.5,NA,Tyron Woodley,170.5,NA,Decision (Unanimous),5,5:00
+"May 30, 2020",UFC on ESPN 9 - Woodley vs. Burns,Heavyweight,Augusto Sakai,259.5,NA,Blagoy Ivanov,255.5,NA,Decision (Split),3,5:00
+"May 30, 2020",UFC on ESPN 9 - Woodley vs. Burns,150lb Catchweight,Billy Quarantillo,149.5,NA,Spike Carlyle,150,NA,Decision (Unanimous),3,5:00
+"May 30, 2020",UFC on ESPN 9 - Woodley vs. Burns,158lb Catchweight,Roosevelt Roberts,156,NA,Brok Weaver,157.5: Missed Weight,NA,Submission (Rear-Naked Choke),2,3:26
+"May 30, 2020",UFC on ESPN 9 - Woodley vs. Burns,Strawweight,Mackenzie Dern,115.5,NA,Hannah Cifers,115.5,NA,Submission (Kneebar) ,1,2:36
+"May 30, 2020",UFC on ESPN 9 - Woodley vs. Burns,Flyweight,Katlyn Cerminara,,,Antonina Shevchenko,125.5,NA,Decision (Unanimous),3,5:00
+"May 30, 2020",UFC on ESPN 9 - Woodley vs. Burns,Welterweight,Daniel Rodriguez,170,NA,Gabriel Green,170.5,NA,Decision (Unanimous),3,5:00
+"May 30, 2020",UFC on ESPN 9 - Woodley vs. Burns,Light Heavyweight,Jamahal Hill,205.5,NA,Klidson Abreu,206,NA,No Contest (Overturned),1,1:51
+"May 30, 2020",UFC on ESPN 9 - Woodley vs. Burns,Flyweight,Brandon Royval,125.5,NA,Tim Elliott,126,NA,Submission (Arm-Triangle Choke),2,3:18
+"May 30, 2020",UFC on ESPN 9 - Woodley vs. Burns,Bantamweight,Casey Kenney,136,NA,Louis Smolka,136,NA,Submission (Guillotine Choke),1,3:03
+"May 30, 2020",UFC on ESPN 9 - Woodley vs. Burns,Featherweight,Chris Gutierrez,145.5,NA,Vince Morales,145.5,NA,TKO (Leg Kicks),2,4:27
+"May 13, 2020",UFC Fight Night 171 - Smith vs. Teixeira,Light Heavyweight,Glover Teixeira,205.5,NA,Anthony Smith,205,NA,TKO (Punches),5,1:04
+"May 13, 2020",UFC Fight Night 171 - Smith vs. Teixeira,Heavyweight,Ben Rothwell,265,NA,Ovince St. Preux,240.5,NA,Decision (Split),3,5:00
+"May 13, 2020",UFC Fight Night 171 - Smith vs. Teixeira,Lightweight,Drew Dober,156,NA,Alexander Hernandez,155,NA,TKO (Punches),2,4:25
+"May 13, 2020",UFC Fight Night 171 - Smith vs. Teixeira,Bantamweight,Ricky Simon,135,NA,Ray Borg,135.5,NA,Decision (Split),3,5:00
+"May 13, 2020",UFC Fight Night 171 - Smith vs. Teixeira,Heavyweight,Andrei Arlovski,238,NA,Philipe Lins,236,NA,Decision (Unanimous),3,5:00
+"May 13, 2020",UFC Fight Night 171 - Smith vs. Teixeira,Lightweight,Thiago Moises,155.5,NA,Michael Johnson,156,NA,Submission (Achilles Lock),2,0:25
+"May 13, 2020",UFC Fight Night 171 - Smith vs. Teixeira,Bantamweight,Sijara Eubanks,136,NA,Sarah Moras,136,NA,Decision (Unanimous),3,5:00
+"May 13, 2020",UFC Fight Night 171 - Smith vs. Teixeira,Lightweight,Omar Morales,,,Gabriel Benitez,155.5,NA,Decision (Unanimous),3,5:00
+"May 13, 2020",UFC Fight Night 171 - Smith vs. Teixeira,Featherweight,Brian Kelleher,145.5,NA,Hunter Azure,145,NA,KO (Punches),2,3:40
+"May 13, 2020",UFC Fight Night 171 - Smith vs. Teixeira,Heavyweight,Chase Sherman,253,NA,Isaac Villanueva,232,NA,TKO (Punches and Elbow),2,0:49
+"May 9, 2020",UFC 249 - Ferguson vs. Gaethje,Lightweight Title Fight,Justin Gaethje,155,NA,Tony Ferguson,155,NA,TKO (Punch),5,3:39
+"May 9, 2020",UFC 249 - Ferguson vs. Gaethje,Bantamweight Title Fight,Henry Cejudo,135,NA,Dominick Cruz,135,NA,TKO (Knee and Punches),2,4:58
+"May 9, 2020",UFC 249 - Ferguson vs. Gaethje,Heavyweight,Francis Ngannou,261.5,NA,Jairzinho Rozenstruik,260,NA,KO (Punches),1,0:20
+"May 9, 2020",UFC 249 - Ferguson vs. Gaethje,151lb Catchweight,Calvin Kattar,146,NA,Jeremy Stephens,150.5: Missed Weight,NA,KO (Elbows),2,2:42
+"May 9, 2020",UFC 249 - Ferguson vs. Gaethje,Heavyweight,Greg Hardy,265.5,NA,Yorgan De Castro,262,NA,Decision (Unanimous),3,5:00
+"May 9, 2020",UFC 249 - Ferguson vs. Gaethje,Welterweight,Anthony Pettis,170.5,NA,Donald Cerrone,171,NA,Decision (Unanimous),3,5:00
+"May 9, 2020",UFC 249 - Ferguson vs. Gaethje,Heavyweight,Alexey Oleynik,227.5,NA,Fabricio Werdum,243,NA,Decision (Split),3,5:00
+"May 9, 2020",UFC 249 - Ferguson vs. Gaethje,Strawweight,Carla Esparza,115.5,NA,Michelle Waterson-Gomez,115,NA,Decision (Split),3,5:00
+"May 9, 2020",UFC 249 - Ferguson vs. Gaethje,Welterweight,Vicente Luque,170,NA,Niko Price,170.5,NA,TKO (Doctor Stoppage),3,3:37
+"May 9, 2020",UFC 249 - Ferguson vs. Gaethje,Featherweight,Bryce Mitchell,145.5,NA,Charles Rosa,146,NA,Decision (Unanimous) ,3,5:00
+"May 9, 2020",UFC 249 - Ferguson vs. Gaethje,Light Heavyweight,Ryan Spann,206,NA,Sam Alvey,205,NA,Decision (Split),3,5:00
+"Mar 14, 2020",UFC Fight Night 170 - Lee vs. Oliveira,159lb,Charles Oliveira,NA,NA,Kevin Lee,NA,NA,Submission (Guillotine Choke),3,0:28
+"Mar 14, 2020",UFC Fight Night 170 - Lee vs. Oliveira,Welterweight,Gilbert Burns,NA,NA,Demian Maia,NA,NA,TKO (Punches),1,2:34
+"Mar 14, 2020",UFC Fight Night 170 - Lee vs. Oliveira,Lightweight,Renato Carneiro,NA,NA,Damir Hadzovic,NA,NA,Submission (Rear-Naked Choke),1,0:44
+"Mar 14, 2020",UFC Fight Night 170 - Lee vs. Oliveira,Light Heavyweight,Nikita Krylov,NA,NA,Johnny Walker,NA,NA,Decision (Unanimous),3,5:00
+"Mar 14, 2020",UFC Fight Night 170 - Lee vs. Oliveira,Lightweight,Francisco Trinaldo,NA,NA,John Makdessi,NA,NA,Decision (Unanimous),3,5:00
+"Mar 14, 2020",UFC Fight Night 170 - Lee vs. Oliveira,Flyweight,Brandon Moreno,NA,NA,Jussier Formiga,NA,NA,Decision (Unanimous),3,5:00
+"Mar 14, 2020",UFC Fight Night 170 - Lee vs. Oliveira,Strawweight,Amanda Ribas,NA,NA,Randa Markos,NA,NA,Decision (Unanimous),3,5:00
+"Mar 14, 2020",UFC Fight Night 170 - Lee vs. Oliveira,Welterweight,Elizeu Zaleski dos Santos,NA,NA,Alexey Kunchenko,NA,NA,Decision (Unanimous),3,5:00
+"Mar 14, 2020",UFC Fight Night 170 - Lee vs. Oliveira,Bantamweight,Enrique Barzola,NA,NA,Rani Yahya,NA,NA,Draw (Majority),3,5:00
+"Mar 14, 2020",UFC Fight Night 170 - Lee vs. Oliveira,Flyweight,Maryna Moroz,NA,NA,Mayra Bueno Silva,NA,NA,Decision (Unanimous),3,5:00
+"Mar 14, 2020",UFC Fight Night 170 - Lee vs. Oliveira,Flyweight,David Dvorak,NA,NA,Bruno Silva,NA,NA,Decision (Unanimous),3,5:00
+"Mar 14, 2020",UFC Fight Night 170 - Lee vs. Oliveira,Bantamweight,Bea Malecki,NA,NA,Veronica Hardy,,,Decision (Unanimous),3,5:00
+"Mar 7, 2020",UFC 248 - Adesanya vs. Romero,Middleweight Title Fight,Israel Adesanya,NA,NA,Yoel Romero,NA,NA,Decision (Unanimous),5,5:00
+"Mar 7, 2020",UFC 248 - Adesanya vs. Romero,Strawweight Title Fight,Weili Zhang,NA,NA,Joanna Jedrzejczyk,NA,NA,Decision (Split),5,5:00
+"Mar 7, 2020",UFC 248 - Adesanya vs. Romero,Lightweight,Beneil Dariush,NA,NA,Drakkar Klose,NA,NA,KO (Punch),2,1:00
+"Mar 7, 2020",UFC 248 - Adesanya vs. Romero,Welterweight,Neil Magny,NA,NA,Jingliang Li,NA,NA,Decision (Unanimous),3,5:00
+"Mar 7, 2020",UFC 248 - Adesanya vs. Romero,Welterweight,Alex Oliveira,NA,NA,Max Griffin,NA,NA,Decision (Split),3,5:00
+"Mar 7, 2020",UFC 248 - Adesanya vs. Romero,Bantamweight,Sean O'Malley,NA,NA,Jose Quinonez,,,TKO (Head Kick and Punches),1,2:02
+"Mar 7, 2020",UFC 248 - Adesanya vs. Romero,Lightweight,Mark O. Madsen,NA,NA,Austin Hubbard,NA,NA,Decision (Unanimous),3,5:00
+"Mar 7, 2020",UFC 248 - Adesanya vs. Romero,Middleweight,Rodolfo Vieira,NA,NA,Saparbek Safarov,NA,NA,Submission (Arm-Triangle Choke),1,2:58
+"Mar 7, 2020",UFC 248 - Adesanya vs. Romero,Middleweight,Gerald Meerschaert,NA,NA,Deron Winn,NA,NA,Submission (Rear-Naked Choke),3,2:13
+"Mar 7, 2020",UFC 248 - Adesanya vs. Romero,Featherweight,Giga Chikadze,NA,NA,Jamall Emmers,NA,NA,Decision (Split),3,5:00
+"Mar 7, 2020",UFC 248 - Adesanya vs. Romero,Bantamweight,Batgerel Danaa,,,Guido Cannetti,NA,NA,KO (Punches),1,3:01
+"Feb 29, 2020",UFC Fight Night 169 - Benavidez vs. Figueiredo,128lb,Deiveson Figueiredo,NA,NA,Joseph Benavidez,NA,NA,TKO (Punches),2,1:54
+"Feb 29, 2020",UFC Fight Night 169 - Benavidez vs. Figueiredo,Featherweight,Felicia Spencer,NA,NA,Zarah Fairn,NA,NA,TKO (Elbows and Punches),1,3:37
+"Feb 29, 2020",UFC Fight Night 169 - Benavidez vs. Figueiredo,Light Heavyweight,Magomed Ankalaev,NA,NA,Ion Cutelaba,NA,NA,TKO (Head Kicks and Punches),1,0:38
+"Feb 29, 2020",UFC Fight Night 169 - Benavidez vs. Figueiredo,Featherweight,Megan Anderson,NA,NA,Norma Dumont,NA,NA,KO (Punch),1,3:31
+"Feb 29, 2020",UFC Fight Night 169 - Benavidez vs. Figueiredo,150lb Catchweight,Grant Dawson,NA,NA,Darrick Minner,NA,NA,Submission (Rear-Naked Choke),2,1:38
+"Feb 29, 2020",UFC Fight Night 169 - Benavidez vs. Figueiredo,Bantamweight,Kyler Phillips,NA,NA,Gabriel Silva,NA,NA,Decision (Unanimous),3,5:00
+"Feb 29, 2020",UFC Fight Night 169 - Benavidez vs. Figueiredo,Middleweight,Brendan Allen,NA,NA,Tom Breese,NA,NA,TKO (Elbows and Punches),1,4:47
+"Feb 29, 2020",UFC Fight Night 169 - Benavidez vs. Figueiredo,Heavyweight,Marcin Tybura,NA,NA,Serghei Spivac,,,Decision (Unanimous),3,5:00
+"Feb 29, 2020",UFC Fight Night 169 - Benavidez vs. Figueiredo,Lightweight,Luis Pena,NA,NA,Steve Garcia,NA,NA,Decision (Unanimous),3,5:00
+"Feb 29, 2020",UFC Fight Night 169 - Benavidez vs. Figueiredo,Featherweight,Jordan Griffin,NA,NA,T.J. Brown,NA,NA,Technical Submission (Guillotine Choke),2,3:38
+"Feb 29, 2020",UFC Fight Night 169 - Benavidez vs. Figueiredo,Featherweight,Spike Carlyle,NA,NA,Aalon Cruz,NA,NA,TKO (Punches),1,1:25
+"Feb 29, 2020",UFC Fight Night 169 - Benavidez vs. Figueiredo,Welterweight,Sean Brady,NA,NA,Ismail Naurdiev,NA,NA,Decision (Unanimous),3,5:00
+"Feb 23, 2020",UFC Fight Night 168 - Felder vs. Hooker,Lightweight,Dan Hooker,NA,NA,Paul Felder,NA,NA,Decision (Split),5,5:00
+"Feb 23, 2020",UFC Fight Night 168 - Felder vs. Hooker,Light Heavyweight,Jimmy Crute,,,Michal Oleksiejczuk,NA,NA,Submission (Kimura),1,3:29
+"Feb 23, 2020",UFC Fight Night 168 - Felder vs. Hooker,Strawweight,Xiaonan Yan,NA,NA,Karolina Kowalkiewicz,NA,NA,Decision (Unanimous),3,5:00
+"Feb 23, 2020",UFC Fight Night 168 - Felder vs. Hooker,Heavyweight,Marcos Rogerio de Lima,NA,NA,Ben Sosoli,NA,NA,TKO (Punches),1,1:28
+"Feb 23, 2020",UFC Fight Night 168 - Felder vs. Hooker,Lightweight,Brad Riddell,NA,NA,Magomed Mustafaev,NA,NA,Decision (Split),3,5:00
+"Feb 23, 2020",UFC Fight Night 168 - Felder vs. Hooker,Featherweight,Zubaira Tukhugov,NA,NA,Kevin Aguilar,NA,NA,TKO (Punches),1,3:21
+"Feb 23, 2020",UFC Fight Night 168 - Felder vs. Hooker,Lightweight,Jalin Turner,NA,NA,Joshua Culibao,NA,NA,TKO (Punches),2,3:01
+"Feb 23, 2020",UFC Fight Night 168 - Felder vs. Hooker,Welterweight,Jake Matthews,NA,NA,Emil Meek,NA,NA,Decision (Unanimous),3,5:00
+"Feb 23, 2020",UFC Fight Night 168 - Felder vs. Hooker,Welterweight,Kenan Song,NA,NA,Callan Potter,NA,NA,KO (Punches),1,2:20
+"Feb 23, 2020",UFC Fight Night 168 - Felder vs. Hooker,Flyweight,Kai Kara-France,NA,NA,Tyson Nam,NA,NA,Decision (Unanimous),3,5:00
+"Feb 23, 2020",UFC Fight Night 168 - Felder vs. Hooker,Strawweight,Angela Hill,NA,NA,Konklak Suphisara,NA,NA,Decision (Unanimous),3,5:00
+"Feb 23, 2020",UFC Fight Night 168 - Felder vs. Hooker,Flyweight,Priscila Cachoeira,NA,NA,Shana Dobson,NA,NA,KO (Punch),1,0:40
+"Feb 8, 2020",UFC 247 - Jones vs. Reyes,Light Heavyweight Title Fight,Jon Jones,NA,NA,Dominick Reyes,NA,NA,Decision (Unanimous),5,5:00
+"Feb 8, 2020",UFC 247 - Jones vs. Reyes,Flyweight Title Fight,Valentina Shevchenko,NA,NA,Katlyn Cerminara,,,TKO (Elbows and Punches),3,1:03
+"Feb 8, 2020",UFC 247 - Jones vs. Reyes,Heavyweight,Justin Tafa,NA,NA,Juan Adams,NA,NA,TKO (Punches),1,1:59
+"Feb 8, 2020",UFC 247 - Jones vs. Reyes,Featherweight,Dan Ige,NA,NA,Mirsad Bektic,NA,NA,Decision (Split),3,5:00
+"Feb 8, 2020",UFC 247 - Jones vs. Reyes,Heavyweight,Derrick Lewis,NA,NA,Ilir Latifi,NA,NA,Decision (Unanimous),3,5:00
+"Feb 8, 2020",UFC 247 - Jones vs. Reyes,Middleweight,Trevin Giles,NA,NA,James Krause,NA,NA,Decision (Split),3,5:00
+"Feb 8, 2020",UFC 247 - Jones vs. Reyes,Flyweight,Lauren Murphy,NA,NA,Andrea Lee,NA,NA,Decision (Split),3,5:00
+"Feb 8, 2020",UFC 247 - Jones vs. Reyes,Welterweight,Kalinn Williams,NA,NA,Alex Morono,NA,NA,KO (Punches),1,0:27
+"Feb 8, 2020",UFC 247 - Jones vs. Reyes,Bantamweight,Mario Bautista,NA,NA,Miles Johns,NA,NA,TKO (Flying Knee and Punches),2,1:41
+"Feb 8, 2020",UFC 247 - Jones vs. Reyes,Bantamweight,Journey Newson,NA,NA,Domingo Pilarte,NA,NA,No Contest (Overturned by TDLR),1,0:38
+"Feb 8, 2020",UFC 247 - Jones vs. Reyes,Bantamweight,Andre Ewell,NA,NA,Jonathan Martinez,NA,NA,Decision (Split),3,5:00
+"Feb 8, 2020",UFC 247 - Jones vs. Reyes,Featherweight,Youssef Zalal,NA,NA,Austin Lingo,NA,NA,Decision (Unanimous),3,5:00
+"Feb 15, 2020",UFC Fight Night 167 - Anderson vs. Blachowicz 2,Light Heavyweight,Jan Blachowicz,NA,NA,Corey Anderson,NA,NA,KO (Punch),1,3:08
+"Feb 15, 2020",UFC Fight Night 167 - Anderson vs. Blachowicz 2,Welterweight,Diego Sanchez,NA,NA,Michel Pereira,NA,NA,Disqualification (Illegal Knee),3,3:09
+"Feb 15, 2020",UFC Fight Night 167 - Anderson vs. Blachowicz 2,Flyweight,Montana De La Rosa,NA,NA,Mara Romero Borella,NA,NA,Decision (Unanimous),3,5:00
+"Feb 15, 2020",UFC Fight Night 167 - Anderson vs. Blachowicz 2,Lightweight,Brok Weaver,NA,NA,Rodrigo Vargas,NA,NA,Disqualification (Illegal Knee),1,4:02
+"Feb 15, 2020",UFC Fight Night 167 - Anderson vs. Blachowicz 2,128lb Catchweight,Ray Borg,NA,NA,Rogerio Bontorin,NA,NA,Decision (Unanimous),3,5:00
+"Feb 15, 2020",UFC Fight Night 167 - Anderson vs. Blachowicz 2,Lightweight,Lando Vannata,NA,NA,Yancy Medeiros,NA,NA,Decision (Unanimous),3,5:00
+"Feb 15, 2020",UFC Fight Night 167 - Anderson vs. Blachowicz 2,Welterweight,Daniel Rodriguez,NA,NA,Tim Means,NA,NA,Submission (Guillotine Choke),2,3:37
+"Feb 15, 2020",UFC Fight Night 167 - Anderson vs. Blachowicz 2,Bantamweight,John Dodson,NA,NA,Nathaniel Wood,NA,NA,TKO (Punches),3,0:16
+"Feb 15, 2020",UFC Fight Night 167 - Anderson vs. Blachowicz 2,Lightweight,Scott Holtzman,NA,NA,Jim Miller,NA,NA,Decision (Unanimous),3,5:00
+"Feb 15, 2020",UFC Fight Night 167 - Anderson vs. Blachowicz 2,Light Heavyweight,Devin Clark,NA,NA,Dequan Townsend,NA,NA,Decision (Unanimous),3,5:00
+"Feb 15, 2020",UFC Fight Night 167 - Anderson vs. Blachowicz 2,Bantamweight,Merab Dvalishvili,NA,NA,Casey Kenney,NA,NA,Decision (Unanimous),3,5:00
+"Feb 15, 2020",UFC Fight Night 167 - Anderson vs. Blachowicz 2,Bantamweight,Macy Chiasson,NA,NA,Shanna Young,NA,NA,Decision (Unanimous),3,5:00
+"Feb 15, 2020",UFC Fight Night 167 - Anderson vs. Blachowicz 2,Flyweight,Raulian Paiva,NA,NA,Mark De La Rosa,NA,NA,KO (Punches),2,4:42
+"Jan 25, 2020",UFC Fight Night 166 - Blaydes vs. dos Santos,Heavyweight,Curtis Blaydes,NA,NA,Junior dos Santos,NA,NA,TKO (Punches),2,1:06
+"Jan 25, 2020",UFC Fight Night 166 - Blaydes vs. dos Santos,Welterweight,Michael Chiesa,NA,NA,Rafael dos Anjos,NA,NA,Decision (Unanimous),3,5:00
+"Jan 25, 2020",UFC Fight Night 166 - Blaydes vs. dos Santos,Flyweight,Alex Perez,NA,NA,Jordan Espinosa,NA,NA,Technical Submission (Arm-Triangle Choke),1,2:33
+"Jan 25, 2020",UFC Fight Night 166 - Blaydes vs. dos Santos,Strawweight,Angela Hill,NA,NA,Hannah Cifers,NA,NA,TKO (Elbows and Punches),2,4:26
+"Jan 25, 2020",UFC Fight Night 166 - Blaydes vs. dos Santos,Light Heavyweight,Jamahal Hill,NA,NA,Darko Stosic,NA,NA,Decision (Unanimous),3,5:00
+"Jan 25, 2020",UFC Fight Night 166 - Blaydes vs. dos Santos,Middleweight,Bevon Lewis,NA,NA,Dequan Townsend,NA,NA,Decision (Unanimous),3,5:00
+"Jan 25, 2020",UFC Fight Night 166 - Blaydes vs. dos Santos,Featherweight,Arnold Allen,NA,NA,Nik Lentz,NA,NA,Decision (Unanimous),3,5:00
+"Jan 25, 2020",UFC Fight Night 166 - Blaydes vs. dos Santos,Flyweight,Justine Kish,NA,NA,Lucie Pudilova,NA,NA,Decision (Unanimous),3,5:00
+"Jan 25, 2020",UFC Fight Night 166 - Blaydes vs. dos Santos,Bantamweight,Montel Jackson,NA,NA,Felipe Colares,,,Decision (Unanimous),3,5:00
+"Jan 25, 2020",UFC Fight Night 166 - Blaydes vs. dos Santos,Bantamweight,Sara McMann,NA,NA,Lina Lansberg,NA,NA,Decision (Unanimous),3,5:00
+"Jan 25, 2020",UFC Fight Night 166 - Blaydes vs. dos Santos,Bantamweight,Brett Johns,NA,NA,Tony Gravely,NA,NA,Submission (Rear-Naked Choke),3,2:53
+"Jan 25, 2020",UFC Fight Night 166 - Blaydes vs. dos Santos,Featherweight,Herbert Burns,NA,NA,Nate Landwehr,NA,NA,KO (Knee),1,2:43
+"Jan 18, 2020",UFC 246 - McGregor vs. Cerrone,Welterweight,Conor McGregor,NA,NA,Donald Cerrone,NA,NA,TKO (Head Kick and Punches),1,0:40
+"Jan 18, 2020",UFC 246 - McGregor vs. Cerrone,Bantamweight,Holly Holm,NA,NA,Raquel Pennington,NA,NA,Decision (Unanimous),3,5:00
+"Jan 18, 2020",UFC 246 - McGregor vs. Cerrone,Heavyweight,Alexey Oleynik,NA,NA,Maurice Greene,NA,NA,Submission (Armbar),2,4:38
+"Jan 18, 2020",UFC 246 - McGregor vs. Cerrone,Bantamweight,Brian Kelleher,NA,NA,Ode Osbourne,NA,NA,Submission (Guillotine Choke),1,2:49
+"Jan 18, 2020",UFC 246 - McGregor vs. Cerrone,Lightweight,Diego Ferreira,NA,NA,Anthony Pettis,NA,NA,Submission (Rear-Naked Choke),2,1:46
+"Jan 18, 2020",UFC 246 - McGregor vs. Cerrone,Flyweight,Roxanne Modafferi,NA,NA,Maycee Barber,NA,NA,Decision (Unanimous),3,5:00
+"Jan 18, 2020",UFC 246 - McGregor vs. Cerrone,Featherweight,Sodiq Yusuff,NA,NA,Andre Fili,NA,NA,Decision (Unanimous),3,5:00
+"Jan 18, 2020",UFC 246 - McGregor vs. Cerrone,Flyweight,Askar Askarov,NA,NA,Tim Elliott,NA,NA,Decision (Unanimous) ,3,5:00
+"Jan 18, 2020",UFC 246 - McGregor vs. Cerrone,Lightweight,Drew Dober,NA,NA,Nasrat Haqparast,NA,NA,KO (Punches) ,1,1:10
+"Jan 18, 2020",UFC 246 - McGregor vs. Cerrone,Light Heavyweight,Aleksa Camur,NA,NA,Justin Ledet,NA,NA,Decision (Unanimous),3,5:00
+"Jan 18, 2020",UFC 246 - McGregor vs. Cerrone,Flyweight,Sabina Mazo,NA,NA,J.J. Aldrich,NA,NA,Decision (Split),3,5:00

@@ -1,0 +1,458 @@
+date,event,weight_class,winner,winner_weight,winner_odds,loser,loser_weight,loser_odds,method,rnd,time
+"Dec 30, 2017",UFC 219 - Cyborg vs. Holm,Featherweight Title Fight,Cristiane Justino,NA,NA,Holly Holm,NA,NA,Decision (Unanimous),5,5:00
+"Dec 30, 2017",UFC 219 - Cyborg vs. Holm,Lightweight,Khabib Nurmagomedov,NA,NA,Edson Barboza,NA,NA,Decision (Unanimous),3,5:00
+"Dec 30, 2017",UFC 219 - Cyborg vs. Holm,Lightweight,Dan Hooker,NA,NA,Marc Diakiese,NA,NA,Submission (Guillotine Choke),3,0:42
+"Dec 30, 2017",UFC 219 - Cyborg vs. Holm,Strawweight,Carla Esparza,NA,NA,Cynthia Calvillo,NA,NA,Decision (Unanimous),3,5:00
+"Dec 30, 2017",UFC 219 - Cyborg vs. Holm,Welterweight,Neil Magny,NA,NA,Carlos Condit,NA,NA,Decision (Unanimous),3,5:00
+"Dec 30, 2017",UFC 219 - Cyborg vs. Holm,Light Heavyweight,Michal Oleksiejczuk,NA,NA,Khalil Rountree,NA,NA,No Contest (Overturned by NSAC),3,5:00
+"Dec 30, 2017",UFC 219 - Cyborg vs. Holm,Featherweight,Myles Jury,NA,NA,Ricky Glenn,,,Decision (Unanimous),3,5:00
+"Dec 30, 2017",UFC 219 - Cyborg vs. Holm,Middleweight,Marvin Vettori,NA,NA,Omari Akhmedov,NA,NA,Draw (Majority),3,5:00
+"Dec 30, 2017",UFC 219 - Cyborg vs. Holm,Flyweight,Matheus Nicolau,NA,NA,Louis Smolka,NA,NA,Decision (Unanimous),3,5:00
+"Dec 30, 2017",UFC 219 - Cyborg vs. Holm,Bantamweight,Tim Elliott,NA,NA,Mark De La Rosa,,,Submission (Anaconda Choke),2,1:41
+"Dec 16, 2017",UFC on Fox 26 - Lawler vs. dos Anjos,Welterweight,Rafael dos Anjos,NA,NA,Robbie Lawler,NA,NA,Decision (Unanimous),5,5:00
+"Dec 16, 2017",UFC on Fox 26 - Lawler vs. dos Anjos,149lb Catchweight,Josh Emmett,NA,NA,Ricardo Lamas,NA,NA,KO (Punch),1,4:33
+"Dec 16, 2017",UFC on Fox 26 - Lawler vs. dos Anjos,Welterweight,Santiago Ponzinibbio,NA,NA,Mike Perry,NA,NA,Decision (Unanimous),3,5:00
+"Dec 16, 2017",UFC on Fox 26 - Lawler vs. dos Anjos,Light Heavyweight,Glover Teixeira,NA,NA,Misha Cirkunov,NA,NA,TKO (Punches),1,2:45
+"Dec 16, 2017",UFC on Fox 26 - Lawler vs. dos Anjos,Light Heavyweight,Jan Blachowicz,NA,NA,Jared Cannonier,NA,NA,Decision (Unanimous),3,5:00
+"Dec 16, 2017",UFC on Fox 26 - Lawler vs. dos Anjos,Middleweight,Julian Marquez,NA,NA,Darren Stewart,NA,NA,Submission (Guillotine Choke),2,2:42
+"Dec 16, 2017",UFC on Fox 26 - Lawler vs. dos Anjos,Welterweight,Chad Laprise,NA,NA,Galore Bofando,NA,NA,TKO (Punches),1,4:10
+"Dec 16, 2017",UFC on Fox 26 - Lawler vs. dos Anjos,Welterweight,Nordine Taleb,NA,NA,Danny Roberts,NA,NA,KO (Head Kick and Punch),1,0:59
+"Dec 16, 2017",UFC on Fox 26 - Lawler vs. dos Anjos,Lightweight,John Makdessi,NA,NA,Abel Trujillo,NA,NA,Decision (Unanimous),3,5:00
+"Dec 16, 2017",UFC on Fox 26 - Lawler vs. dos Anjos,Middleweight,Alessio Di Chirico,NA,NA,Oluwale Bamgbose,NA,NA,KO (Knee),2,2:14
+"Dec 16, 2017",UFC on Fox 26 - Lawler vs. dos Anjos,Welterweight,Jordan Mein,NA,NA,Erick Silva,NA,NA,Decision (Unanimous),3,5:00
+"Dec 2, 2017",UFC 218 - Holloway vs. Aldo 2,Featherweight Title Fight,Max Holloway,NA,NA,Jose Aldo,NA,NA,TKO (Punches),3,4:51
+"Dec 2, 2017",UFC 218 - Holloway vs. Aldo 2,Heavyweight,Francis Ngannou,NA,NA,Alistair Overeem,NA,NA,KO (Punch),1,1:42
+"Dec 2, 2017",UFC 218 - Holloway vs. Aldo 2,Flyweight,Henry Cejudo,NA,NA,Sergio Pettis,NA,NA,Decision (Unanimous),3,5:00
+"Dec 2, 2017",UFC 218 - Holloway vs. Aldo 2,Lightweight,Eddie Alvarez,NA,NA,Justin Gaethje,NA,NA,KO (Knee),3,3:59
+"Dec 2, 2017",UFC 218 - Holloway vs. Aldo 2,Strawweight,Tecia Pennington,,,Michelle Waterson-Gomez,NA,NA,Decision (Unanimous),3,5:00
+"Dec 2, 2017",UFC 218 - Holloway vs. Aldo 2,Lightweight,Paul Felder,NA,NA,Charles Oliveira,NA,NA,TKO (Elbows),2,4:06
+"Dec 2, 2017",UFC 218 - Holloway vs. Aldo 2,Welterweight,Yancy Medeiros,NA,NA,Alex Oliveira,NA,NA,TKO (Punches),3,2:02
+"Dec 2, 2017",UFC 218 - Holloway vs. Aldo 2,Lightweight,David Teymur,NA,NA,Drakkar Klose,NA,NA,Decision (Unanimous),3,5:00
+"Dec 2, 2017",UFC 218 - Holloway vs. Aldo 2,Strawweight,Felice Herrig,NA,NA,Cortney Casey,NA,NA,Decision (Split),3,5:00
+"Dec 2, 2017",UFC 218 - Holloway vs. Aldo 2,Strawweight,Amanda Bobby Brundage,,,Angela Magana,NA,NA,TKO (Punches),2,4:34
+"Dec 2, 2017",UFC 218 - Holloway vs. Aldo 2,Welterweight,Abdul Razak Alhassan,NA,NA,Sabah Homasi,NA,NA,TKO (Punches),1,4:21
+"Dec 2, 2017",UFC 218 - Holloway vs. Aldo 2,Light Heavyweight,Dominick Reyes,NA,NA,Jeremy Kimball,NA,NA,Submission (Rear-Naked Choke),1,3:39
+"Dec 2, 2017",UFC 218 - Holloway vs. Aldo 2,Heavyweight,Justin Willis,NA,NA,Allen Crowder,NA,NA,KO (Punches),1,2:33
+"Dec 9, 2017",UFC Fight Night 123 - Swanson vs. Ortega,Featherweight,Brian Ortega,NA,NA,Cub Swanson,NA,NA,Submission (Guillotine Choke),2,3:22
+"Dec 9, 2017",UFC Fight Night 123 - Swanson vs. Ortega,Featherweight,Gabriel Benitez,NA,NA,Jason Knight,NA,NA,Decision (Unanimous),3,5:00
+"Dec 9, 2017",UFC Fight Night 123 - Swanson vs. Ortega,Bantamweight,Marlon Moraes,NA,NA,Aljamain Sterling,NA,NA,KO (Knee),1,1:07
+"Dec 9, 2017",UFC Fight Night 123 - Swanson vs. Ortega,Lightweight,Scott Holtzman,NA,NA,Darrell Horcher,NA,NA,Decision (Unanimous),3,5:00
+"Dec 9, 2017",UFC Fight Night 123 - Swanson vs. Ortega,Middleweight,Eryk Anders,NA,NA,Markus Perez,NA,NA,Decision (Unanimous),3,5:00
+"Dec 9, 2017",UFC Fight Night 123 - Swanson vs. Ortega,Bantamweight,Benito Lopez,NA,NA,Albert Morales,NA,NA,Decision (Unanimous),3,5:00
+"Dec 9, 2017",UFC Fight Night 123 - Swanson vs. Ortega,Flyweight,Alexis Davis,NA,NA,Liz Carmouche,NA,NA,Decision (Split),3,5:00
+"Dec 9, 2017",UFC Fight Night 123 - Swanson vs. Ortega,Bantamweight,Andre Soukhamthath,NA,NA,Luke Sanders,NA,NA,TKO (Punches),2,1:06
+"Dec 9, 2017",UFC Fight Night 123 - Swanson vs. Ortega,Bantamweight,Alex Perez,NA,NA,Carls John de Tomas,NA,NA,Submission (Anaconda Choke),2,1:54
+"Dec 9, 2017",UFC Fight Night 123 - Swanson vs. Ortega,Bantamweight,Frankie Saenz,NA,NA,Merab Dvalishvili,NA,NA,Decision (Split),3,5:00
+"Dec 9, 2017",UFC Fight Night 123 - Swanson vs. Ortega,Bantamweight,Alejandro Perez,NA,NA,Iuri Alcantara,NA,NA,Decision (Unanimous),3,5:00
+"Dec 9, 2017",UFC Fight Night 123 - Swanson vs. Ortega,Lightweight,Davi Ramos,NA,NA,Chris Gruetzemacher,NA,NA,Submission (Rear-Naked Choke),3,0:50
+"Dec 9, 2017",UFC Fight Night 123 - Swanson vs. Ortega,Middleweight,Trevin Giles,NA,NA,Antonio Braga Neto,NA,NA,KO (Punches),3,2:27
+"Nov 25, 2017",UFC Fight Night 122 - Bisping vs. Gastelum,Middleweight,Kelvin Gastelum,NA,NA,Michael Bisping,NA,NA,KO (Punch),1,2:30
+"Nov 25, 2017",UFC Fight Night 122 - Bisping vs. Gastelum,Welterweight,Jingliang Li,NA,NA,Zak Ottow,NA,NA,TKO (Punches),1,2:57
+"Nov 25, 2017",UFC Fight Night 122 - Bisping vs. Gastelum,Featherweight,Guan Wang,NA,NA,Alex Caceres,NA,NA,Decision (Split),3,5:00
+"Nov 25, 2017",UFC Fight Night 122 - Bisping vs. Gastelum,Welterweight,Alex Garcia,NA,NA,Muslim Salikhov,NA,NA,Submission (Rear-Naked Choke),2,3:22
+"Nov 25, 2017",UFC Fight Night 122 - Bisping vs. Gastelum,Featherweight,Zabit Magomedsharipov,NA,NA,Sheymon Moraes,NA,NA,Submission (Anaconda Choke),3,4:30
+"Nov 25, 2017",UFC Fight Night 122 - Bisping vs. Gastelum,Welterweight,Kenan Song,NA,NA,Bobby Nash,NA,NA,KO (Punches),1,0:15
+"Nov 25, 2017",UFC Fight Night 122 - Bisping vs. Gastelum,Strawweight,Xiaonan Yan,NA,NA,Kailin Curran,NA,NA,Decision (Unanimous),3,5:00
+"Nov 25, 2017",UFC Fight Night 122 - Bisping vs. Gastelum,Featherweight,Yadong Song,NA,NA,Bharat Khandare,NA,NA,Submission (Guillotine Choke),1,4:16
+"Nov 25, 2017",UFC Fight Night 122 - Bisping vs. Gastelum,Heavyweight,Shamil Abdurakhimov,NA,NA,Chase Sherman,NA,NA,KO (Punches),1,1:24
+"Nov 25, 2017",UFC Fight Night 122 - Bisping vs. Gastelum,Bantamweight,Gina Mazany,NA,NA,Yanan Wu,NA,NA,Decision (Unanimous),3,5:00
+"Nov 25, 2017",UFC Fight Night 122 - Bisping vs. Gastelum,148lb Catchweight,Rolando Dy,NA,NA,Lijiburen Wu,NA,NA,Decision (Unanimous),3,5:00
+"Nov 25, 2017",UFC Fight Night 122 - Bisping vs. Gastelum,Heavyweight,Cyril Asker,NA,NA,Yaozong Hu,NA,NA,Submission (Rear-Naked Choke),2,2:33
+"Dec 1, 2017",UFC - The Ultimate Fighter 26 Finale,Flyweight Title Fight,Nicco Montano,NA,NA,Roxanne Modafferi,NA,NA,Decision (Unanimous),5,5:00
+"Dec 1, 2017",UFC - The Ultimate Fighter 26 Finale,Bantamweight,Sean O'Malley,NA,NA,Terrion Ware,NA,NA,Decision (Unanimous),3,5:00
+"Dec 1, 2017",UFC - The Ultimate Fighter 26 Finale,Flyweight,Lauren Murphy,NA,NA,Barb Honchak,NA,NA,Decision (Split),3,5:00
+"Dec 1, 2017",UFC - The Ultimate Fighter 26 Finale,Middleweight,Gerald Meerschaert,NA,NA,Eric Spicely,NA,NA,KO (Body Kick),2,2:18
+"Dec 1, 2017",UFC - The Ultimate Fighter 26 Finale,Flyweight,DeAnna Bennett,NA,NA,Melinda Fabian,NA,NA,Draw (Majority),3,5:00
+"Dec 1, 2017",UFC - The Ultimate Fighter 26 Finale,Bantamweight,Brett Johns,NA,NA,Joe Soto,NA,NA,Submission (Calf Slicer),1,0:30
+"Dec 1, 2017",UFC - The Ultimate Fighter 26 Finale,Flyweight,Montana De La Rosa,NA,NA,Christina Marks,NA,NA,Submission (Armbar),1,2:00
+"Dec 1, 2017",UFC - The Ultimate Fighter 26 Finale,Middleweight,Ryan Janes,NA,NA,Andrew Sanchez,NA,NA,TKO (Punches),3,0:58
+"Dec 1, 2017",UFC - The Ultimate Fighter 26 Finale,130lb Catchweight,Rachael Ostovich,NA,NA,Karine Gevorgyan,NA,NA,Submission (Armbar),1,1:40
+"Dec 1, 2017",UFC - The Ultimate Fighter 26 Finale,Flyweight,Shana Dobson,NA,NA,Ariel Beck,NA,NA,TKO (Punches),2,2:53
+"Dec 1, 2017",UFC - The Ultimate Fighter 26 Finale,Flyweight,Gillian Robertson,NA,NA,Emily Whitmire,NA,NA,Submission (Armbar),1,2:12
+"Nov 18, 2017",UFC Fight Night 121 - Werdum vs. Tybura,Heavyweight,Fabricio Werdum,NA,NA,Marcin Tybura,NA,NA,Decision (Unanimous),5,5:00
+"Nov 18, 2017",UFC Fight Night 121 - Werdum vs. Tybura,128lb Catchweight,Jessica-Rose Clark,NA,NA,Bec Rawlings,NA,NA,Decision (Split),3,5:00
+"Nov 18, 2017",UFC Fight Night 121 - Werdum vs. Tybura,Welterweight,Belal Muhammad,NA,NA,Tim Means,NA,NA,Decision (Split),3,5:00
+"Nov 18, 2017",UFC Fight Night 121 - Werdum vs. Tybura,Welterweight,Jake Matthews,NA,NA,Bojan Velickovic,NA,NA,Decision (Split),3,5:00
+"Nov 18, 2017",UFC Fight Night 121 - Werdum vs. Tybura,Middleweight,Elias Theodorou,NA,NA,Daniel Kelly,NA,NA,Decision (Unanimous),3,5:00
+"Nov 18, 2017",UFC Fight Night 121 - Werdum vs. Tybura,150lb Catchweight,Alexander Volkanovski,NA,NA,Shane Young,NA,NA,Decision (Unanimous),3,5:00
+"Nov 18, 2017",UFC Fight Night 121 - Werdum vs. Tybura,129lb Catchweight,Ryan Benoit,NA,NA,Ashkan Mokhtarian,NA,NA,KO (Head Kick),3,2:38
+"Nov 18, 2017",UFC Fight Night 121 - Werdum vs. Tybura,Lightweight,Nik Lentz,NA,NA,Will Brooks,NA,NA,Submission (Guillotine Choke),2,2:05
+"Nov 18, 2017",UFC Fight Night 121 - Werdum vs. Tybura,Heavyweight,Tai Tuivasa,NA,NA,Rashad Coulter,NA,NA,KO (Flying Knee),1,4:35
+"Nov 18, 2017",UFC Fight Night 121 - Werdum vs. Tybura,160lb Catchweight,Frank Camacho,NA,NA,Damien Brown,NA,NA,Decision (Split),3,5:00
+"Nov 18, 2017",UFC Fight Night 121 - Werdum vs. Tybura,120lb Catchweight,Nadia Kassem,NA,NA,Alex Chambers,NA,NA,Decision (Unanimous),3,5:00
+"Nov 18, 2017",UFC Fight Night 121 - Werdum vs. Tybura,Flyweight,Eric Shelton,NA,NA,Jenel Lausa,NA,NA,Decision (Unanimous),3,5:00
+"Nov 18, 2017",UFC Fight Night 121 - Werdum vs. Tybura,Heavyweight,Adam Wieczorek,NA,NA,Anthony Hamilton,NA,NA,Decision (Unanimous),3,5:00
+"Nov 11, 2017",UFC Fight Night 120 - Poirier vs. Pettis,Lightweight,Dustin Poirier,NA,NA,Anthony Pettis,NA,NA,Submission (Body Triangle),3,2:08
+"Nov 11, 2017",UFC Fight Night 120 - Poirier vs. Pettis,Welterweight,Matt Brown,NA,NA,Diego Sanchez,NA,NA,KO (Elbow),1,3:44
+"Nov 11, 2017",UFC Fight Night 120 - Poirier vs. Pettis,Heavyweight,Andrei Arlovski,NA,NA,Junior Albini,NA,NA,Decision (Unanimous),3,5:00
+"Nov 11, 2017",UFC Fight Night 120 - Poirier vs. Pettis,Middleweight,Cezar Ferreira,NA,NA,Nate Marquardt,NA,NA,Decision (Split),3,5:00
+"Nov 11, 2017",UFC Fight Night 120 - Poirier vs. Pettis,139lb Catchweight,Raphael Assuncao,NA,NA,Matthew Lopez,NA,NA,KO (Punch),3,1:50
+"Nov 11, 2017",UFC Fight Night 120 - Poirier vs. Pettis,Lightweight,Clay Guida,NA,NA,Joe Lauzon,NA,NA,TKO (Punches and Elbows),1,1:07
+"Nov 11, 2017",UFC Fight Night 120 - Poirier vs. Pettis,Bantamweight,Marlon Moraes,NA,NA,John Dodson,NA,NA,Decision (Split),3,5:00
+"Nov 11, 2017",UFC Fight Night 120 - Poirier vs. Pettis,Strawweight,Tatiana Suarez,NA,NA,Viviane Pereira,NA,NA,Decision (Unanimous),3,5:00
+"Nov 11, 2017",UFC Fight Night 120 - Poirier vs. Pettis,Lightweight,Sage Northcutt,NA,NA,Michel Quinones,NA,NA,Decision (Unanimous),3,5:00
+"Nov 11, 2017",UFC Fight Night 120 - Poirier vs. Pettis,Strawweight,Nina Nunes,,,Angela Hill,NA,NA,Decision (Unanimous),3,5:00
+"Nov 11, 2017",UFC Fight Night 120 - Poirier vs. Pettis,Welterweight,Sean Strickland,NA,NA,Court McGee,NA,NA,Decision (Unanimous),3,5:00
+"Nov 11, 2017",UFC Fight Night 120 - Poirier vs. Pettis,Light Heavyweight,Jake Collier,NA,NA,Marcel Fortuna,NA,NA,Decision (Unanimous),3,5:00
+"Nov 11, 2017",UFC Fight Night 120 - Poirier vs. Pettis,Middleweight,Karl Roberson,NA,NA,Darren Stewart,NA,NA,Submission (Rear-Naked Choke),1,3:41
+"Nov 4, 2017",UFC 217 - Bisping vs. St. Pierre,Middleweight Title Fight,Georges St. Pierre,NA,NA,Michael Bisping,NA,NA,Technical Submission (Rear-Naked Choke),3,4:23
+"Nov 4, 2017",UFC 217 - Bisping vs. St. Pierre,Bantamweight Title Fight,T.J. Dillashaw,NA,NA,Cody Garbrandt,NA,NA,TKO (Punches),2,2:41
+"Nov 4, 2017",UFC 217 - Bisping vs. St. Pierre,Strawweight Title Fight,Rose Namajunas,NA,NA,Joanna Jedrzejczyk,NA,NA,TKO (Punches),1,3:03
+"Nov 4, 2017",UFC 217 - Bisping vs. St. Pierre,Welterweight,Stephen Thompson,NA,NA,Jorge Masvidal,NA,NA,Decision (Unanimous),3,5:00
+"Nov 4, 2017",UFC 217 - Bisping vs. St. Pierre,Middleweight,Paulo Costa,,,Johny Hendricks,NA,NA,TKO (Punches),2,1:23
+"Nov 4, 2017",UFC 217 - Bisping vs. St. Pierre,Lightweight,James Vick,NA,NA,Joseph Duffy,NA,NA,TKO (Punches),2,4:59
+"Nov 4, 2017",UFC 217 - Bisping vs. St. Pierre,Heavyweight,Mark Godbeer,NA,NA,Walt Harris,NA,NA,Disqualification (Illegal Kick),1,4:29
+"Nov 4, 2017",UFC 217 - Bisping vs. St. Pierre,Light Heavyweight,Ovince St. Preux,NA,NA,Corey Anderson,NA,NA,KO (Head Kick),3,1:25
+"Nov 4, 2017",UFC 217 - Bisping vs. St. Pierre,Welterweight,Randy Brown,NA,NA,Mickey Gall,NA,NA,Decision (Unanimous),3,5:00
+"Nov 4, 2017",UFC 217 - Bisping vs. St. Pierre,Heavyweight,Curtis Blaydes,NA,NA,Alexey Oleynik,NA,NA,TKO (Doctor Stoppage),2,1:56
+"Nov 4, 2017",UFC 217 - Bisping vs. St. Pierre,Bantamweight,Ricardo Ramos,,,Aiemann Zahabi,NA,NA,KO (Spinning Back Elbow),3,1:58
+"Oct 28, 2017",UFC Fight Night 119 - Brunson vs. Machida,Middleweight,Derek Brunson,NA,NA,Lyoto Machida,NA,NA,KO (Punches),1,2:30
+"Oct 28, 2017",UFC Fight Night 119 - Brunson vs. Machida,Welterweight,Colby Covington,NA,NA,Demian Maia,NA,NA,Decision (Unanimous),3,5:00
+"Oct 28, 2017",UFC Fight Night 119 - Brunson vs. Machida,Bantamweight,Pedro Munhoz,NA,NA,Rob Font,NA,NA,Submission (Guillotine Choke),1,4:03
+"Oct 28, 2017",UFC Fight Night 119 - Brunson vs. Machida,Lightweight,Francisco Trinaldo,NA,NA,Jim Miller,NA,NA,Decision (Unanimous),3,5:00
+"Oct 28, 2017",UFC Fight Night 119 - Brunson vs. Machida,Middleweight,Thiago Santos,NA,NA,Jack Hermansson,NA,NA,TKO (Punches),1,4:59
+"Oct 28, 2017",UFC Fight Night 119 - Brunson vs. Machida,Bantamweight,John Lineker,NA,NA,Marlon Vera,NA,NA,Decision (Unanimous),3,5:00
+"Oct 28, 2017",UFC Fight Night 119 - Brunson vs. Machida,Welterweight,Vicente Luque,NA,NA,Niko Price,NA,NA,Submission (Brabo Choke),2,4:08
+"Oct 28, 2017",UFC Fight Night 119 - Brunson vs. Machida,Middleweight,Antonio Carlos Jr.,NA,NA,Jack Marshman,NA,NA,Submission (Rear-Naked Choke),1,4:30
+"Oct 28, 2017",UFC Fight Night 119 - Brunson vs. Machida,Lightweight,Jared Gordon,NA,NA,Hacran Dias,NA,NA,Decision (Unanimous),3,5:00
+"Oct 28, 2017",UFC Fight Night 119 - Brunson vs. Machida,Welterweight,Elizeu Zaleski dos Santos,NA,NA,Max Griffin,NA,NA,Decision (Unanimous),3,5:00
+"Oct 28, 2017",UFC Fight Night 119 - Brunson vs. Machida,Flyweight,Deiveson Figueiredo,NA,NA,Jarred Brooks,NA,NA,Decision (Split),3,5:00
+"Oct 28, 2017",UFC Fight Night 119 - Brunson vs. Machida,Heavyweight,Marcelo Golm,NA,NA,Christian Colombo,NA,NA,Submission (Rear-Naked Choke),1,2:08
+"Oct 21, 2017",UFC Fight Night 118 - Cerrone vs. Till,Welterweight,Darren Till,NA,NA,Donald Cerrone,NA,NA,TKO (Punches),1,4:20
+"Oct 21, 2017",UFC Fight Night 118 - Cerrone vs. Till,Strawweight,Karolina Kowalkiewicz,NA,NA,Jodie Esquibel,NA,NA,Decision (Unanimous),3,5:00
+"Oct 21, 2017",UFC Fight Night 118 - Cerrone vs. Till,Light Heavyweight,Jan Blachowicz,NA,NA,Devin Clark,NA,NA,Submission (Rear-Naked Choke),2,3:02
+"Oct 21, 2017",UFC Fight Night 118 - Cerrone vs. Till,Middleweight,Oskar Piechota,NA,NA,Jonathan Wilson,NA,NA,Decision (Unanimous),3,5:00
+"Oct 21, 2017",UFC Fight Night 118 - Cerrone vs. Till,Lightweight,Marcin Held,NA,NA,Nasrat Haqparast,NA,NA,Decision (Unanimous),3,5:00
+"Oct 21, 2017",UFC Fight Night 118 - Cerrone vs. Till,Bantamweight,Brian Kelleher,NA,NA,Damian Stasiak,NA,NA,TKO (Punches),3,3:39
+"Oct 21, 2017",UFC Fight Night 118 - Cerrone vs. Till,189lb Catchweight,Ramazan Emeev,NA,NA,Sam Alvey,NA,NA,Decision (Unanimous),3,5:00
+"Oct 21, 2017",UFC Fight Night 118 - Cerrone vs. Till,Featherweight,Andre Fili,NA,NA,Artem Lobov,NA,NA,Decision (Unanimous),3,5:00
+"Oct 21, 2017",UFC Fight Night 118 - Cerrone vs. Till,Welterweight,Warlley Alves,NA,NA,Salim Touahri,NA,NA,Decision (Unanimous),3,5:00
+"Oct 21, 2017",UFC Fight Night 118 - Cerrone vs. Till,Bantamweight,Aspen Ladd,NA,NA,Lina Lansberg,NA,NA,TKO (Punches),2,2:33
+"Oct 21, 2017",UFC Fight Night 118 - Cerrone vs. Till,Featherweight,Josh Emmett,NA,NA,Felipe Arantes,NA,NA,Decision (Unanimous),3,5:00
+"Oct 7, 2017",UFC 216 - Ferguson vs. Lee,Lightweight Title Fight,Tony Ferguson,NA,NA,Kevin Lee,NA,NA,Submission (Triangle Choke),3,4:02
+"Oct 7, 2017",UFC 216 - Ferguson vs. Lee,Flyweight Title Fight,Demetrious Johnson,NA,NA,Ray Borg,NA,NA,Submission (Armbar),5,3:15
+"Oct 7, 2017",UFC 216 - Ferguson vs. Lee,Heavyweight,Fabricio Werdum,NA,NA,Walt Harris,NA,NA,Submission (Armbar),1,1:05
+"Oct 7, 2017",UFC 216 - Ferguson vs. Lee,Flyweight,Mara Romero Borella,NA,NA,Kalindra Faria,NA,NA,Submission (Rear-Naked Choke),1,2:54
+"Oct 7, 2017",UFC 216 - Ferguson vs. Lee,Lightweight,Beneil Dariush,NA,NA,Evan Dunham,NA,NA,Draw (Majority),3,5:00
+"Oct 7, 2017",UFC 216 - Ferguson vs. Lee,Bantamweight,Cody Stamann,NA,NA,Tom Duquesnoy,NA,NA,Decision (Split),3,5:00
+"Oct 7, 2017",UFC 216 - Ferguson vs. Lee,Lightweight,Lando Vannata,NA,NA,Bobby Green,NA,NA,Draw (Split),3,5:00
+"Oct 7, 2017",UFC 216 - Ferguson vs. Lee,Strawweight,Poliana Botelho,NA,NA,Pearl Gonzalez,NA,NA,Decision (Unanimous),3,5:00
+"Oct 7, 2017",UFC 216 - Ferguson vs. Lee,Flyweight,Matt Schnell,NA,NA,Marco Beltran,NA,NA,Decision (Unanimous),3,5:00
+"Oct 7, 2017",UFC 216 - Ferguson vs. Lee,Flyweight,John Moraga,NA,NA,Magomed Bibulatov,NA,NA,KO (Punch),1,1:38
+"Oct 7, 2017",UFC 216 - Ferguson vs. Lee,Middleweight,Brad Tavares,NA,NA,Thales Leites,NA,NA,Decision (Unanimous),3,5:00
+"Sep 22, 2017",UFC Fight Night 117 - St. Preux vs. Okami,Light Heavyweight,Ovince St. Preux,NA,NA,Yushin Okami,NA,NA,Technical Submission (Shoulder Choke),1,1:50
+"Sep 22, 2017",UFC Fight Night 117 - St. Preux vs. Okami,Strawweight,Jessica Andrade,NA,NA,Claudia Gadelha,NA,NA,Decision (Unanimous),3,5:00
+"Sep 22, 2017",UFC Fight Night 117 - St. Preux vs. Okami,Lightweight,Dong Hyun Ma,,,Takanori Gomi,NA,NA,TKO (Punches),1,1:30
+"Sep 22, 2017",UFC Fight Night 117 - St. Preux vs. Okami,Light Heavyweight,Gokhan Saki,NA,NA,Henrique da Silva,NA,NA,KO (Punch),1,4:45
+"Sep 22, 2017",UFC Fight Night 117 - St. Preux vs. Okami,Featherweight,Teruto Ishihara,NA,NA,Rolando Dy,NA,NA,Decision (Unanimous),3,5:00
+"Sep 22, 2017",UFC Fight Night 117 - St. Preux vs. Okami,Flyweight,Jussier Formiga,,,Yuta Sasaki,NA,NA,Submission (Rear-Naked Choke),1,4:30
+"Sep 22, 2017",UFC Fight Night 117 - St. Preux vs. Okami,Welterweight,Keita Nakamura,NA,NA,Alex Morono,NA,NA,Decision (Split),3,5:00
+"Sep 22, 2017",UFC Fight Night 117 - St. Preux vs. Okami,Strawweight,Syuri Kondo,NA,NA,Chanmi Jeon,NA,NA,Decision (Split),3,5:00
+"Sep 22, 2017",UFC Fight Night 117 - St. Preux vs. Okami,Welterweight,Shinsho Anzai,NA,NA,Luke Jumeau,NA,NA,Decision (Unanimous),3,5:00
+"Sep 22, 2017",UFC Fight Night 117 - St. Preux vs. Okami,Welterweight,Daichi Abe,NA,NA,Hyun Gyu Lim,NA,NA,Decision (Unanimous),3,5:00
+"Sep 9, 2017",UFC 215 - Nunes vs. Shevchenko 2,Bantamweight Title Fight,Amanda Nunes,NA,NA,Valentina Shevchenko,NA,NA,Decision (Split),5,5:00
+"Sep 9, 2017",UFC 215 - Nunes vs. Shevchenko 2,Welterweight,Rafael dos Anjos,NA,NA,Neil Magny,NA,NA,Submission (Arm-Triangle Choke),1,3:43
+"Sep 9, 2017",UFC 215 - Nunes vs. Shevchenko 2,Flyweight,Henry Cejudo,NA,NA,Wilson Reis,NA,NA,TKO (Punches),2,0:25
+"Sep 9, 2017",UFC 215 - Nunes vs. Shevchenko 2,Light Heavyweight,Ilir Latifi,NA,NA,Tyson Pedro,NA,NA,Decision (Unanimous),3,5:00
+"Sep 9, 2017",UFC 215 - Nunes vs. Shevchenko 2,Featherweight,Jeremy Stephens,NA,NA,Gilbert Melendez,NA,NA,Decision (Unanimous),3,5:00
+"Sep 9, 2017",UFC 215 - Nunes vs. Shevchenko 2,Bantamweight,Ketlen Vieira,NA,NA,Sara McMann,NA,NA,Submission (Arm-Triangle Choke),2,4:16
+"Sep 9, 2017",UFC 215 - Nunes vs. Shevchenko 2,Bantamweight,Sarah Moras,NA,NA,Ashlee Evans-Smith,NA,NA,Submission (Armbar),1,2:51
+"Sep 9, 2017",UFC 215 - Nunes vs. Shevchenko 2,Featherweight,Ricky Glenn,,,Gavin Tucker,NA,NA,Decision (Unanimous),3,5:00
+"Sep 9, 2017",UFC 215 - Nunes vs. Shevchenko 2,Lightweight,Alex White,NA,NA,Mitch Clarke,NA,NA,TKO (Punches),2,4:36
+"Sep 9, 2017",UFC 215 - Nunes vs. Shevchenko 2,Heavyweight,Arjan Singh Bhullar,,,Luis Henrique,NA,NA,Decision (Unanimous),3,5:00
+"Sep 9, 2017",UFC 215 - Nunes vs. Shevchenko 2,Lightweight,Kajan Johnson,NA,NA,Adriano Martins,NA,NA,KO (Punch),3,0:49
+"Jul 22, 2017",UFC on Fox 25 - Weidman vs. Gastelum,Middleweight,Chris Weidman,NA,NA,Kelvin Gastelum,NA,NA,Submission (Arm-Triangle Choke),3,3:45
+"Jul 22, 2017",UFC on Fox 25 - Weidman vs. Gastelum,Featherweight,Darren Elkins,NA,NA,Dennis Bermudez,NA,NA,Decision (Split),3,5:00
+"Jul 22, 2017",UFC on Fox 25 - Weidman vs. Gastelum,Light Heavyweight,Patrick Cummins,NA,NA,Gian Villante,NA,NA,Decision (Split),3,5:00
+"Jul 22, 2017",UFC on Fox 25 - Weidman vs. Gastelum,Bantamweight,Jimmie Rivera,NA,NA,Thomas Almeida,NA,NA,Decision (Unanimous),3,5:00
+"Jul 22, 2017",UFC on Fox 25 - Weidman vs. Gastelum,Welterweight,Elizeu Zaleski dos Santos,NA,NA,Lyman Good,NA,NA,Decision (Split),3,5:00
+"Jul 22, 2017",UFC on Fox 25 - Weidman vs. Gastelum,Middleweight,Eryk Anders,NA,NA,Rafael Natal,NA,NA,KO (Punches),1,2:54
+"Jul 22, 2017",UFC on Fox 25 - Weidman vs. Gastelum,Welterweight,Alex Oliveira,NA,NA,Ryan LaFlare,NA,NA,KO (Punch),2,1:50
+"Jul 22, 2017",UFC on Fox 25 - Weidman vs. Gastelum,Heavyweight,Chase Sherman,NA,NA,Damian Grabowski,NA,NA,Decision (Unanimous),3,5:00
+"Jul 22, 2017",UFC on Fox 25 - Weidman vs. Gastelum,Featherweight,Jeremy Kennedy,NA,NA,Kyle Bochniak,NA,NA,Decision (Unanimous),3,5:00
+"Jul 22, 2017",UFC on Fox 25 - Weidman vs. Gastelum,Bantamweight,Marlon Vera,NA,NA,Brian Kelleher,NA,NA,Submission (Armbar),1,2:18
+"Jul 22, 2017",UFC on Fox 25 - Weidman vs. Gastelum,Heavyweight,Junior Albini,NA,NA,Tim Johnson,,,TKO (Punches),1,2:51
+"Jul 22, 2017",UFC on Fox 25 - Weidman vs. Gastelum,Featherweight,Shane Burgos,NA,NA,Godofredo Castro,,,Decision (Unanimous),3,5:00
+"Jul 22, 2017",UFC on Fox 25 - Weidman vs. Gastelum,Lightweight,Chris Wade,NA,NA,Frankie Perez,NA,NA,Decision (Unanimous),3,5:00
+"Sep 2, 2017",UFC Fight Night 115 - Volkov vs. Struve,Heavyweight,Alexander Volkov,NA,NA,Stefan Struve,NA,NA,TKO (Punches),3,3:30
+"Sep 2, 2017",UFC Fight Night 115 - Volkov vs. Struve,Middleweight,Siyar Bahadurzada,NA,NA,Rob Wilkinson,NA,NA,TKO (Punches),2,3:10
+"Sep 2, 2017",UFC Fight Night 115 - Volkov vs. Struve,Bantamweight,Marion Reneau,NA,NA,Talita Bernardo,,,TKO (Punches),3,4:54
+"Sep 2, 2017",UFC Fight Night 115 - Volkov vs. Struve,Welterweight,Leon Edwards,NA,NA,Bryan Barberena,NA,NA,Decision (Unanimous),3,5:00
+"Sep 2, 2017",UFC Fight Night 115 - Volkov vs. Struve,Welterweight,Darren Till,NA,NA,Bojan Velickovic,NA,NA,Decision (Unanimous),3,5:00
+"Sep 2, 2017",UFC Fight Night 115 - Volkov vs. Struve,Lightweight,Mairbek Taisumov,NA,NA,Felipe Silva,NA,NA,KO (Punch),1,1:24
+"Sep 2, 2017",UFC Fight Night 115 - Volkov vs. Struve,159lb Catchweight,Michel Prazeres,NA,NA,Mads Burnell,NA,NA,Submission (North-South Choke),3,1:26
+"Sep 2, 2017",UFC Fight Night 115 - Volkov vs. Struve,Lightweight,Rustam Khabilov,NA,NA,Desmond Green,NA,NA,Decision (Unanimous),3,5:00
+"Sep 2, 2017",UFC Fight Night 115 - Volkov vs. Struve,Light Heavyweight,Aleksandar Rakic,NA,NA,Francimar Barroso,NA,NA,Decision (Unanimous),3,5:00
+"Sep 2, 2017",UFC Fight Night 115 - Volkov vs. Struve,Featherweight,Zabit Magomedsharipov,NA,NA,Mike Santiago,NA,NA,Submission (Rear-Naked Choke),2,4:22
+"Sep 2, 2017",UFC Fight Night 115 - Volkov vs. Struve,Light Heavyweight,Abdul-Kerim Edilov,NA,NA,Bojan Mihajlovic,NA,NA,TKO (Punches),2,2:32
+"Sep 2, 2017",UFC Fight Night 115 - Volkov vs. Struve,Lightweight,Thibault Gouti,NA,NA,Andrew Holbrook,NA,NA,TKO (Punches),1,4:28
+"Sep 16, 2017",UFC Fight Night 116 - Rockhold vs. Branch,Middleweight,Luke Rockhold,NA,NA,David Branch,NA,NA,TKO (Submission to Punches),2,4:05
+"Sep 16, 2017",UFC Fight Night 116 - Rockhold vs. Branch,Welterweight,Mike Perry,NA,NA,Alex Reyes,NA,NA,KO (Knee),1,1:19
+"Sep 16, 2017",UFC Fight Night 116 - Rockhold vs. Branch,Middleweight,Anthony Smith,NA,NA,Hector Lombard,NA,NA,KO (Punch),3,2:33
+"Sep 16, 2017",UFC Fight Night 116 - Rockhold vs. Branch,Lightweight,Gregor Gillespie,NA,NA,Jason Gonzalez,NA,NA,Submission (Arm-Triangle Choke),2,2:11
+"Sep 16, 2017",UFC Fight Night 116 - Rockhold vs. Branch,Welterweight,Kamaru Usman,NA,NA,Sergio Moraes,NA,NA,KO (Punch),1,2:48
+"Sep 16, 2017",UFC Fight Night 116 - Rockhold vs. Branch,Heavyweight,Justin Ledet,NA,NA,Azunna Anyanwu,NA,NA,Decision (Split),3,5:00
+"Sep 16, 2017",UFC Fight Night 116 - Rockhold vs. Branch,Lightweight,Olivier Aubin-Mercier,NA,NA,Anthony Rocco Martin,,,Decision (Split),3,5:00
+"Sep 16, 2017",UFC Fight Night 116 - Rockhold vs. Branch,Heavyweight,Daniel Spitz,NA,NA,Anthony Hamilton,NA,NA,TKO (Punches),1,0:24
+"Sep 16, 2017",UFC Fight Night 116 - Rockhold vs. Branch,Middleweight,Uriah Hall,NA,NA,Krzysztof Jotko,NA,NA,TKO (Punches),2,2:25
+"Sep 16, 2017",UFC Fight Night 116 - Rockhold vs. Branch,Lightweight,Gilbert Burns,NA,NA,Jason Saggo,NA,NA,KO (Punch),2,4:55
+"Jul 29, 2017",UFC 214 - Cormier vs. Jones 2,Light Heavyweight Title Fight,Jon Jones,NA,NA,Daniel Cormier,NA,NA,No Contest (Overturned by CSAC),3,3:01
+"Jul 29, 2017",UFC 214 - Cormier vs. Jones 2,Welterweight Title Fight,Tyron Woodley,NA,NA,Demian Maia,NA,NA,Decision (Unanimous),5,5:00
+"Jul 29, 2017",UFC 214 - Cormier vs. Jones 2,Featherweight Title Fight,Cristiane Justino,,,Tonya Evinger,NA,NA,TKO (Knees),3,1:56
+"Jul 29, 2017",UFC 214 - Cormier vs. Jones 2,Welterweight,Robbie Lawler,NA,NA,Donald Cerrone,NA,NA,Decision (Unanimous),3,5:00
+"Jul 29, 2017",UFC 214 - Cormier vs. Jones 2,Light Heavyweight,Volkan Oezdemir,NA,NA,Jimi Manuwa,NA,NA,KO (Punches),1,0:42
+"Jul 29, 2017",UFC 214 - Cormier vs. Jones 2,Featherweight,Ricardo Lamas,NA,NA,Jason Knight,NA,NA,TKO (Punches),1,4:34
+"Jul 29, 2017",UFC 214 - Cormier vs. Jones 2,140lb Catchweight,Aljamain Sterling,NA,NA,Renan Barao,NA,NA,Decision (Unanimous),3,5:00
+"Jul 29, 2017",UFC 214 - Cormier vs. Jones 2,Featherweight,Brian Ortega,NA,NA,Renato Carneiro,,,Submission (Guillotine Choke),3,2:59
+"Jul 29, 2017",UFC 214 - Cormier vs. Jones 2,Featherweight,Calvin Kattar,NA,NA,Andre Fili,NA,NA,Decision (Unanimous),3,5:00
+"Jul 29, 2017",UFC 214 - Cormier vs. Jones 2,Strawweight,Aleksandra Albu,NA,NA,Kailin Curran,NA,NA,Decision (Unanimous),3,5:00
+"Jul 29, 2017",UFC 214 - Cormier vs. Jones 2,Flyweight,Jarred Brooks,NA,NA,Eric Shelton,NA,NA,Decision (Split),3,5:00
+"Jul 29, 2017",UFC 214 - Cormier vs. Jones 2,Lightweight,Drew Dober,NA,NA,Joshua Burkman,NA,NA,KO (Punch),1,3:04
+"Aug 5, 2017",UFC Fight Night 114 - Pettis vs. Moreno,Flyweight,Sergio Pettis,NA,NA,Brandon Moreno,NA,NA,Decision (Unanimous),5,5:00
+"Aug 5, 2017",UFC Fight Night 114 - Pettis vs. Moreno,119lb Catchweight,Alexa Grasso,NA,NA,Randa Markos,NA,NA,Decision (Split),3,5:00
+"Aug 5, 2017",UFC Fight Night 114 - Pettis vs. Moreno,Welterweight,Niko Price,NA,NA,Alan Jouban,NA,NA,TKO (Punches),1,1:44
+"Aug 5, 2017",UFC Fight Night 114 - Pettis vs. Moreno,Featherweight,Humberto Bandenay,NA,NA,Martin Bravo,NA,NA,KO (Knee),1,0:26
+"Aug 5, 2017",UFC Fight Night 114 - Pettis vs. Moreno,Middleweight,Sam Alvey,NA,NA,Rashad Evans,NA,NA,Decision (Split),3,5:00
+"Aug 5, 2017",UFC Fight Night 114 - Pettis vs. Moreno,Bantamweight,Alejandro Perez,NA,NA,Andre Soukhamthath,NA,NA,Decision (Split),3,5:00
+"Aug 5, 2017",UFC Fight Night 114 - Pettis vs. Moreno,Middleweight,Jack Hermansson,NA,NA,Bradley Scott,NA,NA,TKO (Punches),1,3:50
+"Aug 5, 2017",UFC Fight Night 114 - Pettis vs. Moreno,Flyweight,Dustin Ortiz,NA,NA,Hector Sandoval,NA,NA,KO (Punches),1,0:15
+"Aug 5, 2017",UFC Fight Night 114 - Pettis vs. Moreno,Bantamweight,Rani Yahya,NA,NA,Enrique Briones,NA,NA,Submission (Kimura),1,2:01
+"Aug 5, 2017",UFC Fight Night 114 - Pettis vs. Moreno,Bantamweight,Jose Quinonez,,,Diego Rivas,NA,NA,Decision (Unanimous),3,5:00
+"Aug 5, 2017",UFC Fight Night 114 - Pettis vs. Moreno,Flyweight,Joseph Morales,NA,NA,Roberto Sanchez,NA,NA,Submission (Rear-Naked Choke),1,3:56
+"Aug 5, 2017",UFC Fight Night 114 - Pettis vs. Moreno,Lightweight,Jordan Rinaldi,NA,NA,Alvaro Herrera,NA,NA,Submission (Shoulder Choke),1,2:01
+"Jul 16, 2017",UFC Fight Night 113 - Nelson vs. Ponzinibbio,Welterweight,Santiago Ponzinibbio,NA,NA,Gunnar Nelson,NA,NA,KO (Punches),1,1:22
+"Jul 16, 2017",UFC Fight Night 113 - Nelson vs. Ponzinibbio,118lb Catchweight,Cynthia Calvillo,NA,NA,Joanne Wood,,,Decision (Unanimous),3,5:00
+"Jul 16, 2017",UFC Fight Night 113 - Nelson vs. Ponzinibbio,Lightweight,Paul Felder,NA,NA,Steven Ray,NA,NA,KO (Elbows),1,3:57
+"Jul 16, 2017",UFC Fight Night 113 - Nelson vs. Ponzinibbio,Middleweight,Jack Marshman,NA,NA,Ryan Janes,NA,NA,Decision (Unanimous),3,5:00
+"Jul 16, 2017",UFC Fight Night 113 - Nelson vs. Ponzinibbio,Light Heavyweight,Khalil Rountree,NA,NA,Paul Craig,NA,NA,KO (Punches),1,4:56
+"Jul 16, 2017",UFC Fight Night 113 - Nelson vs. Ponzinibbio,Heavyweight,Justin Willis,NA,NA,James Mulheron,NA,NA,Decision (Unanimous),3,5:00
+"Jul 16, 2017",UFC Fight Night 113 - Nelson vs. Ponzinibbio,Welterweight,Danny Roberts,NA,NA,Bobby Nash,NA,NA,TKO (Punches),2,3:59
+"Jul 16, 2017",UFC Fight Night 113 - Nelson vs. Ponzinibbio,Flyweight,Alexandre Pantoja,NA,NA,Neil Seery,NA,NA,Submission (Rear-Naked Choke),3,2:31
+"Jul 16, 2017",UFC Fight Night 113 - Nelson vs. Ponzinibbio,Welterweight,Galore Bofando,NA,NA,Charlie Ward,NA,NA,KO (Slam),1,2:10
+"Jul 16, 2017",UFC Fight Night 113 - Nelson vs. Ponzinibbio,Lightweight,Danny Henry,,,Daniel Teymur,,,Decision (Unanimous),3,5:00
+"Jul 16, 2017",UFC Fight Night 113 - Nelson vs. Ponzinibbio,Bantamweight,Brett Johns,NA,NA,Albert Morales,NA,NA,Decision (Unanimous),3,5:00
+"Jul 16, 2017",UFC Fight Night 113 - Nelson vs. Ponzinibbio,Bantamweight,Leslie Smith,NA,NA,Amanda Lemos,NA,NA,TKO (Punches),2,2:53
+"Apr 22, 2017",UFC Fight Night 108 - Swanson vs. Lobov,Featherweight,Cub Swanson,,,Artem Lobov,,,Decision (Unanimous),5,5:00
+"Apr 22, 2017",UFC Fight Night 108 - Swanson vs. Lobov,Lightweight,Al Iaquinta,,,Diego Sanchez,,,KO (Punches),1,1:38
+"Apr 22, 2017",UFC Fight Night 108 - Swanson vs. Lobov,210lb Catchweight,Ovince St. Preux,,,Marcos Rogerio de Lima,,,Submission (Shoulder Choke),2,2:11
+"Apr 22, 2017",UFC Fight Night 108 - Swanson vs. Lobov,Bantamweight,John Dodson,,,Eddie Wineland,,,Decision (Unanimous),3,5:00
+"Apr 22, 2017",UFC Fight Night 108 - Swanson vs. Lobov,Lightweight,Steven Ray,,,Joe Lauzon,,,Decision (Majority),3,5:00
+"Apr 22, 2017",UFC Fight Night 108 - Swanson vs. Lobov,Welterweight,Mike Perry,,,Jake Ellenberger,,,KO (Elbow),2,1:05
+"Apr 22, 2017",UFC Fight Night 108 - Swanson vs. Lobov,Middleweight,Thales Leites,,,Sam Alvey,,,Decision (Unanimous),3,5:00
+"Apr 22, 2017",UFC Fight Night 108 - Swanson vs. Lobov,Flyweight,Brandon Moreno,,,Dustin Ortiz,,,Technical Submission (Rear-Naked Choke),2,4:06
+"Apr 22, 2017",UFC Fight Night 108 - Swanson vs. Lobov,Lightweight,Scott Holtzman,,,Michael McBride,,,Decision (Unanimous),3,5:00
+"Apr 22, 2017",UFC Fight Night 108 - Swanson vs. Lobov,Strawweight,Danielle Taylor,,,Jessica Penne,,,Decision (Unanimous),3,5:00
+"Apr 22, 2017",UFC Fight Night 108 - Swanson vs. Lobov,Bantamweight,Alexis Davis,,,Cindy Dandois,,,Decision (Unanimous),3,5:00
+"Apr 22, 2017",UFC Fight Night 108 - Swanson vs. Lobov,Welterweight,Bryan Barberena,,,Joe Proctor,,,TKO (Punches and Knees),1,3:30
+"Apr 22, 2017",UFC Fight Night 108 - Swanson vs. Lobov,Flyweight,Hector Sandoval,,,Matt Schnell,,,KO (Punches),1,4:24
+"Jul 8, 2017",UFC 213 - Romero vs. Whittaker,Middleweight Title Fight,Robert Whittaker,NA,NA,Yoel Romero,NA,NA,Decision (Unanimous),5,5:00
+"Jul 8, 2017",UFC 213 - Romero vs. Whittaker,Heavyweight,Alistair Overeem,NA,NA,Fabricio Werdum,NA,NA,Decision (Majority),3,5:00
+"Jul 8, 2017",UFC 213 - Romero vs. Whittaker,Heavyweight,Curtis Blaydes,NA,NA,Daniel Omielanczuk,NA,NA,Decision (Unanimous),3,5:00
+"Jul 8, 2017",UFC 213 - Romero vs. Whittaker,Lightweight,Anthony Pettis,NA,NA,Jim Miller,NA,NA,Decision (Unanimous),3,5:00
+"Jul 8, 2017",UFC 213 - Romero vs. Whittaker,Bantamweight,Rob Font,NA,NA,Douglas Silva de Andrade,NA,NA,Submission (Guillotine Choke),2,4:36
+"Jul 8, 2017",UFC 213 - Romero vs. Whittaker,Heavyweight,Alexey Oleynik,NA,NA,Travis Browne,NA,NA,Submission (Neck Crank),2,3:44
+"Jul 8, 2017",UFC 213 - Romero vs. Whittaker,Welterweight,Chad Laprise,NA,NA,Brian Camozzi,NA,NA,TKO (Punches and Elbows),3,1:27
+"Jul 8, 2017",UFC 213 - Romero vs. Whittaker,Middleweight,Thiago Santos,NA,NA,Gerald Meerschaert,NA,NA,TKO (Punches),2,2:04
+"Jul 8, 2017",UFC 213 - Romero vs. Whittaker,Welterweight,Belal Muhammad,NA,NA,Jordan Mein,NA,NA,Decision (Unanimous),3,5:00
+"Jul 8, 2017",UFC 213 - Romero vs. Whittaker,Featherweight,Cody Stamann,NA,NA,Terrion Ware,NA,NA,Decision (Unanimous),3,5:00
+"Jul 8, 2017",UFC 213 - Romero vs. Whittaker,Light Heavyweight,Trevin Giles,NA,NA,James Bochnovic,NA,NA,KO (Punch),2,2:54
+"Jul 7, 2017",UFC - The Ultimate Fighter 25 Finale,Lightweight,Justin Gaethje,NA,NA,Michael Johnson,NA,NA,TKO (Punches and Knees),2,4:48
+"Jul 7, 2017",UFC - The Ultimate Fighter 25 Finale,Welterweight,Jesse Taylor,NA,NA,Dhiego Lima,NA,NA,Submission (Rear-Naked Choke),2,0:43
+"Jul 7, 2017",UFC - The Ultimate Fighter 25 Finale,Lightweight,Drakkar Klose,NA,NA,Marc Diakiese,NA,NA,Decision (Split),3,5:00
+"Jul 7, 2017",UFC - The Ultimate Fighter 25 Finale,Light Heavyweight,Jared Cannonier,NA,NA,Nick Roehrick,NA,NA,TKO (Elbows),3,2:08
+"Jul 7, 2017",UFC - The Ultimate Fighter 25 Finale,Middleweight,Brad Tavares,NA,NA,Elias Theodorou,NA,NA,Decision (Unanimous),3,5:00
+"Jul 7, 2017",UFC - The Ultimate Fighter 25 Finale,Light Heavyweight,Jordan Johnson,NA,NA,Marcel Fortuna,NA,NA,Decision (Unanimous),3,5:00
+"Jul 7, 2017",UFC - The Ultimate Fighter 25 Finale,Strawweight,Angela Hill,NA,NA,Ashley Yoder,NA,NA,Decision (Unanimous),3,5:00
+"Jul 7, 2017",UFC - The Ultimate Fighter 25 Finale,Welterweight,James Krause,NA,NA,Tom Gallicchio,NA,NA,Decision (Unanimous),3,5:00
+"Jul 7, 2017",UFC - The Ultimate Fighter 25 Finale,Middleweight,C.B. Dollaway,NA,NA,Ed Herman,NA,NA,Decision (Unanimous),3,5:00
+"Jul 7, 2017",UFC - The Ultimate Fighter 25 Finale,Strawweight,Tecia Pennington,,,Juliana Lima,NA,NA,Submission (Rear-Naked Choke),2,0:53
+"Jul 7, 2017",UFC - The Ultimate Fighter 25 Finale,Featherweight,Gray Maynard,NA,NA,Teruto Ishihara,NA,NA,Decision (Unanimous),3,5:00
+"Jun 25, 2017",UFC Fight Night 112 - Chiesa vs. Lee,Lightweight,Kevin Lee,NA,NA,Michael Chiesa,NA,NA,Technical Submission (Rear-Naked Choke),1,4:37
+"Jun 25, 2017",UFC Fight Night 112 - Chiesa vs. Lee,188lb Catchweight,Tim Boetsch,NA,NA,Johny Hendricks,NA,NA,TKO (Head Kick and Punches),2,0:46
+"Jun 25, 2017",UFC Fight Night 112 - Chiesa vs. Lee,Strawweight,Felice Herrig,NA,NA,Justine Kish,NA,NA,Decision (Unanimous),3,5:00
+"Jun 25, 2017",UFC Fight Night 112 - Chiesa vs. Lee,Light Heavyweight,Dominick Reyes,NA,NA,Joachim Christensen,NA,NA,TKO (Punches),1,0:29
+"Jun 25, 2017",UFC Fight Night 112 - Chiesa vs. Lee,Welterweight,Tim Means,NA,NA,Alex Garcia,NA,NA,Decision (Unanimous),3,5:00
+"Jun 25, 2017",UFC Fight Night 112 - Chiesa vs. Lee,Featherweight,Dennis Siver,NA,NA,B.J. Penn,NA,NA,Decision (Majority),3,5:00
+"Jun 25, 2017",UFC Fight Night 112 - Chiesa vs. Lee,Lightweight,Clay Guida,NA,NA,Erik Koch,NA,NA,Decision (Unanimous),3,5:00
+"Jun 25, 2017",UFC Fight Night 112 - Chiesa vs. Lee,Middleweight,Marvin Vettori,NA,NA,Vitor Miranda,NA,NA,Decision (Unanimous),3,5:00
+"Jun 25, 2017",UFC Fight Night 112 - Chiesa vs. Lee,Strawweight,Carla Esparza,NA,NA,Maryna Moroz,NA,NA,Decision (Unanimous),3,5:00
+"Jun 25, 2017",UFC Fight Night 112 - Chiesa vs. Lee,Lightweight,Darrell Horcher,NA,NA,Devin Powell,NA,NA,Decision (Split),3,5:00
+"Jun 25, 2017",UFC Fight Night 112 - Chiesa vs. Lee,149lb Catchweight,Jared Gordon,NA,NA,Michel Quinones,NA,NA,TKO (Punches),2,4:24
+"Jun 25, 2017",UFC Fight Night 112 - Chiesa vs. Lee,Lightweight,Anthony Rocco Martin,,,Johnny Case,NA,NA,Decision (Unanimous),3,5:00
+"Jun 25, 2017",UFC Fight Night 112 - Chiesa vs. Lee,Light Heavyweight,Jeremy Kimball,NA,NA,Josh Stansbury,NA,NA,TKO (Punches),1,1:21
+"Jun 10, 2017",UFC Fight Night 110 - Hunt vs. Lewis,Heavyweight,Mark Hunt,NA,NA,Derrick Lewis,NA,NA,TKO (Punches),4,3:51
+"Jun 10, 2017",UFC Fight Night 110 - Hunt vs. Lewis,Middleweight,Derek Brunson,NA,NA,Daniel Kelly,NA,NA,KO (Punch),1,1:16
+"Jun 10, 2017",UFC Fight Night 110 - Hunt vs. Lewis,Lightweight,Dan Hooker,NA,NA,Ross Pearson,NA,NA,KO (Knee),2,3:02
+"Jun 10, 2017",UFC Fight Night 110 - Hunt vs. Lewis,Light Heavyweight,Ion Cutelaba,NA,NA,Henrique da Silva,NA,NA,KO (Punches),1,0:22
+"Jun 10, 2017",UFC Fight Night 110 - Hunt vs. Lewis,Flyweight,Ben Nguyen,NA,NA,Tim Elliott,NA,NA,Submission (Rear-Naked Choke),1,0:49
+"Jun 10, 2017",UFC Fight Night 110 - Hunt vs. Lewis,Featherweight,Alexander Volkanovski,NA,NA,Mizuto Hirota,NA,NA,Decision (Unanimous),3,5:00
+"Jun 10, 2017",UFC Fight Night 110 - Hunt vs. Lewis,Lightweight,Vinc Pichel,NA,NA,Damien Brown,NA,NA,KO (Punches),1,3:37
+"Jun 10, 2017",UFC Fight Night 110 - Hunt vs. Lewis,Welterweight,Luke Jumeau,NA,NA,Dominique Steele,NA,NA,Decision (Unanimous),3,5:00
+"Jun 10, 2017",UFC Fight Night 110 - Hunt vs. Lewis,Flyweight,John Moraga,NA,NA,Ashkan Mokhtarian,NA,NA,Decision (Unanimous),3,5:00
+"Jun 10, 2017",UFC Fight Night 110 - Hunt vs. Lewis,Welterweight,Zak Ottow,NA,NA,Kiichi Kunimoto,NA,NA,Decision (Split),3,5:00
+"Jun 10, 2017",UFC Fight Night 110 - Hunt vs. Lewis,118lb Catchweight,J.J. Aldrich,NA,NA,Chanmi Jeon,,,Decision (Unanimous),3,5:00
+"Jun 17, 2017",UFC Fight Night 111 - Holm vs. Correia,Bantamweight,Holly Holm,NA,NA,Bethe Correia,NA,NA,KO (Head Kick and Punch),3,1:09
+"Jun 17, 2017",UFC Fight Night 111 - Holm vs. Correia,Heavyweight,Marcin Tybura,NA,NA,Andrei Arlovski,NA,NA,Decision (Unanimous),3,5:00
+"Jun 17, 2017",UFC Fight Night 111 - Holm vs. Correia,Welterweight,Colby Covington,NA,NA,Dong Hyun Kim,NA,NA,Decision (Unanimous),3,5:00
+"Jun 17, 2017",UFC Fight Night 111 - Holm vs. Correia,Welterweight,Rafael dos Anjos,NA,NA,Tarec Saffiedine,NA,NA,Decision (Unanimous),3,5:00
+"Jun 17, 2017",UFC Fight Night 111 - Holm vs. Correia,Lightweight,Jon Tuck,NA,NA,Takanori Gomi,NA,NA,Submission (Rear-Naked Choke),1,1:12
+"Jun 17, 2017",UFC Fight Night 111 - Holm vs. Correia,Heavyweight,Walt Harris,NA,NA,Cyril Asker,NA,NA,TKO (Punches and Elbows),1,1:44
+"Jun 17, 2017",UFC Fight Night 111 - Holm vs. Correia,Featherweight,Alex Caceres,NA,NA,Rolando Dy,NA,NA,TKO (Eye Injury),2,5:00
+"Jun 17, 2017",UFC Fight Night 111 - Holm vs. Correia,Flyweight,Yuta Sasaki,NA,NA,Justin Scoggins,NA,NA,Submission (Rear-Naked Choke),2,3:19
+"Jun 17, 2017",UFC Fight Night 111 - Holm vs. Correia,Welterweight,Jingliang Li,NA,NA,Frank Camacho,NA,NA,Decision (Unanimous),3,5:00
+"Jun 17, 2017",UFC Fight Night 111 - Holm vs. Correia,Bantamweight,Russell Doane,NA,NA,Kwan Ho Kwak,NA,NA,TKO (Punches),1,4:09
+"Jun 17, 2017",UFC Fight Night 111 - Holm vs. Correia,131lb Catchweight,Naoki Inoue,NA,NA,Carls John de Tomas,NA,NA,Decision (Unanimous),3,5:00
+"Jun 17, 2017",UFC Fight Night 111 - Holm vs. Correia,Bantamweight,Lucie Pudilova,NA,NA,Ji Yeon Kim,NA,NA,Decision (Unanimous),3,5:00
+"Jun 3, 2017",UFC 212 - Aldo vs. Holloway,Featherweight Title Fight,Max Holloway,NA,NA,Jose Aldo,NA,NA,TKO (Punches),3,4:13
+"Jun 3, 2017",UFC 212 - Aldo vs. Holloway,Strawweight,Claudia Gadelha,NA,NA,Karolina Kowalkiewicz,NA,NA,Submission (Rear-Naked Choke),1,3:03
+"Jun 3, 2017",UFC 212 - Aldo vs. Holloway,Middleweight,Vitor Belfort,NA,NA,Nate Marquardt,NA,NA,Decision (Unanimous),3,5:00
+"Jun 3, 2017",UFC 212 - Aldo vs. Holloway,Middleweight,Paulo Costa,,,Oluwale Bamgbose,NA,NA,TKO (Punches),2,1:06
+"Jun 3, 2017",UFC 212 - Aldo vs. Holloway,Welterweight,Yancy Medeiros,NA,NA,Erick Silva,NA,NA,TKO (Punches),2,2:01
+"Jun 3, 2017",UFC 212 - Aldo vs. Holloway,Bantamweight,Raphael Assuncao,NA,NA,Marlon Moraes,NA,NA,Decision (Split),3,5:00
+"Jun 3, 2017",UFC 212 - Aldo vs. Holloway,Middleweight,Antonio Carlos Jr.,NA,NA,Eric Spicely,NA,NA,Submission (Rear-Naked Choke),2,3:49
+"Jun 3, 2017",UFC 212 - Aldo vs. Holloway,Bantamweight,Matthew Lopez,NA,NA,Johnny Eduardo,NA,NA,TKO (Punches),1,2:57
+"Jun 3, 2017",UFC 212 - Aldo vs. Holloway,Bantamweight,Brian Kelleher,NA,NA,Iuri Alcantara,NA,NA,Submission (Guillotine Choke),1,1:48
+"Jun 3, 2017",UFC 212 - Aldo vs. Holloway,Strawweight,Viviane Pereira,NA,NA,Jamie Moyle,NA,NA,Decision (Unanimous),3,5:00
+"Jun 3, 2017",UFC 212 - Aldo vs. Holloway,Welterweight,Luan Chagas,NA,NA,Jim Wallhead,NA,NA,Submission (Rear-Naked Choke),2,4:48
+"Jun 3, 2017",UFC 212 - Aldo vs. Holloway,Flyweight,Deiveson Figueiredo,NA,NA,Marco Beltran,NA,NA,TKO (Corner Stoppage),2,5:00
+"May 13, 2017",UFC 211 - Miocic vs. Dos Santos 2,Heavyweight Title Fight,Stipe Miocic,NA,NA,Junior dos Santos,NA,NA,TKO (Punches),1,2:22
+"May 13, 2017",UFC 211 - Miocic vs. Dos Santos 2,Strawweight Title Fight,Joanna Jedrzejczyk,NA,NA,Jessica Andrade,NA,NA,Decision (Unanimous),5,5:00
+"May 13, 2017",UFC 211 - Miocic vs. Dos Santos 2,Welterweight,Demian Maia,NA,NA,Jorge Masvidal,NA,NA,Decision (Split),3,5:00
+"May 13, 2017",UFC 211 - Miocic vs. Dos Santos 2,Featherweight,Frankie Edgar,NA,NA,Yair Rodriguez,NA,NA,TKO (Doctor Stoppage),2,5:00
+"May 13, 2017",UFC 211 - Miocic vs. Dos Santos 2,Middleweight,David Branch,NA,NA,Krzysztof Jotko,NA,NA,Decision (Split),3,5:00
+"May 13, 2017",UFC 211 - Miocic vs. Dos Santos 2,Lightweight,Dustin Poirier,NA,NA,Eddie Alvarez,NA,NA,No Contest (Illegal Knee),2,4:12
+"May 13, 2017",UFC 211 - Miocic vs. Dos Santos 2,Featherweight,Jason Knight,NA,NA,Chas Skelly,NA,NA,TKO (Punches),3,0:39
+"May 13, 2017",UFC 211 - Miocic vs. Dos Santos 2,Heavyweight,Chase Sherman,NA,NA,Rashad Coulter,NA,NA,KO (Elbow),2,3:36
+"May 13, 2017",UFC 211 - Miocic vs. Dos Santos 2,Lightweight,James Vick,NA,NA,Marco Polo Reyes,NA,NA,TKO (Punches),1,2:39
+"May 13, 2017",UFC 211 - Miocic vs. Dos Santos 2,Strawweight,Cortney Casey,NA,NA,Jessica Aguilar,NA,NA,Decision (Unanimous),3,5:00
+"May 13, 2017",UFC 211 - Miocic vs. Dos Santos 2,Featherweight,Enrique Barzola,NA,NA,Gabriel Benitez,NA,NA,Decision (Unanimous),3,5:00
+"May 13, 2017",UFC 211 - Miocic vs. Dos Santos 2,Light Heavyweight,Gadzhimurad Antigulov,NA,NA,Joachim Christensen,NA,NA,Submission (Rear-Naked Choke),1,2:21
+"May 28, 2017",UFC Fight Night 109 - Gustafsson vs. Teixeira,Light Heavyweight,Alexander Gustafsson,NA,NA,Glover Teixeira,NA,NA,KO (Punches),5,1:07
+"May 28, 2017",UFC Fight Night 109 - Gustafsson vs. Teixeira,Light Heavyweight,Volkan Oezdemir,NA,NA,Misha Cirkunov,NA,NA,KO (Punch),1,0:28
+"May 28, 2017",UFC Fight Night 109 - Gustafsson vs. Teixeira,Welterweight,Peter Sobotta,NA,NA,Ben Saunders,NA,NA,TKO (Punches and Knee),2,2:29
+"May 28, 2017",UFC Fight Night 109 - Gustafsson vs. Teixeira,Welterweight,Omari Akhmedov,NA,NA,Abdul Razak Alhassan,NA,NA,Decision (Split),3,5:00
+"May 28, 2017",UFC Fight Night 109 - Gustafsson vs. Teixeira,Welterweight,Nordine Taleb,NA,NA,Oliver Enkamp,NA,NA,Decision (Unanimous),3,5:00
+"May 28, 2017",UFC Fight Night 109 - Gustafsson vs. Teixeira,Middleweight,Jack Hermansson,NA,NA,Alex Nicholson,NA,NA,TKO (Punches),1,2:00
+"May 28, 2017",UFC Fight Night 109 - Gustafsson vs. Teixeira,Bantamweight,Pedro Munhoz,NA,NA,Damian Stasiak,NA,NA,Decision (Unanimous),3,5:00
+"May 28, 2017",UFC Fight Night 109 - Gustafsson vs. Teixeira,Middleweight,Trevor Smith,NA,NA,Chris Camozzi,NA,NA,Decision (Unanimous),3,5:00
+"May 28, 2017",UFC Fight Night 109 - Gustafsson vs. Teixeira,Lightweight,Joaquim Silva,NA,NA,Reza Madadi,NA,NA,Decision (Split),3,5:00
+"May 28, 2017",UFC Fight Night 109 - Gustafsson vs. Teixeira,Welterweight,Bojan Velickovic,NA,NA,Nicholas Musoke,NA,NA,KO (Punches),3,4:37
+"May 28, 2017",UFC Fight Night 109 - Gustafsson vs. Teixeira,176lb Catchweight,Darren Till,NA,NA,Jessin Ayari,NA,NA,Decision (Unanimous),3,5:00
+"May 28, 2017",UFC Fight Night 109 - Gustafsson vs. Teixeira,Lightweight,Damir Hadzovic,NA,NA,Marcin Held,NA,NA,KO (Knee),3,0:07
+"Mar 18, 2017",UFC Fight Night 107 - Manuwa vs. Anderson,Light Heavyweight,Jimi Manuwa,NA,NA,Corey Anderson,NA,NA,KO (Punch),1,3:05
+"Mar 18, 2017",UFC Fight Night 107 - Manuwa vs. Anderson,Welterweight,Gunnar Nelson,NA,NA,Alan Jouban,NA,NA,Submission (Guillotine Choke),2,0:46
+"Mar 18, 2017",UFC Fight Night 107 - Manuwa vs. Anderson,140lb Catchweight,Marlon Vera,NA,NA,Brad Pickett,NA,NA,TKO (Head Kick and Punches),3,3:50
+"Mar 18, 2017",UFC Fight Night 107 - Manuwa vs. Anderson,Featherweight,Arnold Allen,NA,NA,Makwan Amirkhani,NA,NA,Decision (Split),3,5:00
+"Mar 18, 2017",UFC Fight Night 107 - Manuwa vs. Anderson,Lightweight,Joseph Duffy,NA,NA,Reza Madadi,NA,NA,Decision (Unanimous),3,5:00
+"Mar 18, 2017",UFC Fight Night 107 - Manuwa vs. Anderson,Light Heavyweight,Francimar Barroso,NA,NA,Darren Stewart,NA,NA,Decision (Unanimous),3,5:00
+"Mar 18, 2017",UFC Fight Night 107 - Manuwa vs. Anderson,Heavyweight,Tim Johnson,,,Daniel Omielanczuk,NA,NA,Decision (Split),3,5:00
+"Mar 18, 2017",UFC Fight Night 107 - Manuwa vs. Anderson,Welterweight,Leon Edwards,NA,NA,Vicente Luque,NA,NA,Decision (Unanimous),3,5:00
+"Mar 18, 2017",UFC Fight Night 107 - Manuwa vs. Anderson,Lightweight,Marc Diakiese,NA,NA,Teemu Packalen,NA,NA,KO (Punch),1,0:30
+"Mar 18, 2017",UFC Fight Night 107 - Manuwa vs. Anderson,Middleweight,Bradley Scott,,,Scott Askham,NA,NA,Decision (Split),3,5:00
+"Mar 18, 2017",UFC Fight Night 107 - Manuwa vs. Anderson,Bantamweight,Lina Lansberg,NA,NA,Lucie Pudilova,NA,NA,Decision (Unanimous),3,5:00
+"Apr 15, 2017",UFC on Fox 24 - Johnson vs. Reis,Flyweight Title Fight,Demetrious Johnson,NA,NA,Wilson Reis,NA,NA,Submission (Armbar),3,4:49
+"Apr 15, 2017",UFC on Fox 24 - Johnson vs. Reis,Strawweight,Rose Namajunas,NA,NA,Michelle Waterson-Gomez,NA,NA,Submission (Rear-Naked Choke),2,2:47
+"Apr 15, 2017",UFC on Fox 24 - Johnson vs. Reis,Middleweight,Robert Whittaker,NA,NA,Ronaldo Souza,,,TKO (Head Kick and Punches),2,3:28
+"Apr 15, 2017",UFC on Fox 24 - Johnson vs. Reis,Featherweight,Renato Carneiro,NA,NA,Jeremy Stephens,NA,NA,Decision (Split),3,5:00
+"Apr 15, 2017",UFC on Fox 24 - Johnson vs. Reis,Heavyweight,Alexander Volkov,NA,NA,Roy Nelson,NA,NA,Decision (Unanimous),3,5:00
+"Apr 15, 2017",UFC on Fox 24 - Johnson vs. Reis,Bantamweight,Tom Duquesnoy,NA,NA,Patrick Williams,NA,NA,TKO (Elbows),2,0:28
+"Apr 15, 2017",UFC on Fox 24 - Johnson vs. Reis,Lightweight,Rashid Magomedov,NA,NA,Bobby Green,NA,NA,Decision (Split),3,5:00
+"Apr 15, 2017",UFC on Fox 24 - Johnson vs. Reis,Flyweight,Tim Elliott,NA,NA,Louis Smolka,NA,NA,Decision (Unanimous),3,5:00
+"Apr 15, 2017",UFC on Fox 24 - Johnson vs. Reis,Bantamweight,Aljamain Sterling,NA,NA,Augusto Mendes,NA,NA,Decision (Unanimous),3,5:00
+"Apr 15, 2017",UFC on Fox 24 - Johnson vs. Reis,Light Heavyweight,Devin Clark,NA,NA,Jake Collier,NA,NA,Decision (Unanimous),3,5:00
+"Apr 15, 2017",UFC on Fox 24 - Johnson vs. Reis,Middleweight,Anthony Smith,NA,NA,Andrew Sanchez,NA,NA,KO (Head Kick and Punches),3,3:52
+"Apr 15, 2017",UFC on Fox 24 - Johnson vs. Reis,Welterweight,Zak Cummings,NA,NA,Nathan Coy,NA,NA,Technical Submission (Guillotine Choke),1,4:21
+"Apr 15, 2017",UFC on Fox 24 - Johnson vs. Reis,Bantamweight,Ketlen Vieira,NA,NA,Ashlee Evans-Smith,NA,NA,Decision (Unanimous),3,5:00
+"Apr 8, 2017",UFC 210 - Cormier vs. Johnson 2,Light Heavyweight Title Fight,Daniel Cormier,NA,NA,Anthony Johnson,NA,NA,Submission (Rear-Naked Choke),2,3:37
+"Apr 8, 2017",UFC 210 - Cormier vs. Johnson 2,Middleweight,Gegard Mousasi,NA,NA,Chris Weidman,NA,NA,TKO (Knees),2,3:13
+"Apr 8, 2017",UFC 210 - Cormier vs. Johnson 2,Strawweight,Cynthia Calvillo,NA,NA,Pearl Gonzalez,NA,NA,Submission (Rear-Naked Choke),3,3:45
+"Apr 8, 2017",UFC 210 - Cormier vs. Johnson 2,Featherweight,Thiago Alves,NA,NA,Patrick Cote,NA,NA,Decision (Unanimous),3,5:00
+"Apr 8, 2017",UFC 210 - Cormier vs. Johnson 2,Lightweight,Charles Oliveira,NA,NA,Will Brooks,NA,NA,Submission (Rear-Naked Choke),1,2:30
+"Apr 8, 2017",UFC 210 - Cormier vs. Johnson 2,Featherweight,Myles Jury,NA,NA,Mike de la Torre,NA,NA,TKO (Elbows and Punches),1,3:30
+"Apr 8, 2017",UFC 210 - Cormier vs. Johnson 2,Welterweight,Kamaru Usman,NA,NA,Sean Strickland,NA,NA,Decision (Unanimous),3,5:00
+"Apr 8, 2017",UFC 210 - Cormier vs. Johnson 2,Lightweight,Shane Burgos,NA,NA,Charles Rosa,NA,NA,TKO (Punches),3,1:59
+"Apr 8, 2017",UFC 210 - Cormier vs. Johnson 2,Light Heavyweight,Patrick Cummins,NA,NA,Jan Blachowicz,NA,NA,Decision (Majority),3,5:00
+"Apr 8, 2017",UFC 210 - Cormier vs. Johnson 2,Lightweight,Gregor Gillespie,NA,NA,Andrew Holbrook,NA,NA,KO (Punches),1,0:21
+"Apr 8, 2017",UFC 210 - Cormier vs. Johnson 2,Lightweight,Desmond Green,NA,NA,Josh Emmett,NA,NA,Decision (Split),3,5:00
+"Apr 8, 2017",UFC 210 - Cormier vs. Johnson 2,Bantamweight,Katlyn Cerminara,,,Irene Aldana,NA,NA,Decision (Split),3,5:00
+"Apr 8, 2017",UFC 210 - Cormier vs. Johnson 2,Flyweight,Magomed Bibulatov,NA,NA,Jenel Lausa,NA,NA,Decision (Unanimous),3,5:00
+"Mar 11, 2017",UFC Fight Night 106 - Belfort vs. Gastelum,Middleweight,Kelvin Gastelum,NA,NA,Vitor Belfort,NA,NA,No Contest (Overturned by STJDMMA),1,3:52
+"Mar 11, 2017",UFC Fight Night 106 - Belfort vs. Gastelum,Light Heavyweight,Mauricio Rua,NA,NA,Gian Villante,NA,NA,TKO (Punches),3,0:59
+"Mar 11, 2017",UFC Fight Night 106 - Belfort vs. Gastelum,Lightweight,Edson Barboza,NA,NA,Beneil Dariush,NA,NA,KO (Knee),2,3:35
+"Mar 11, 2017",UFC Fight Night 106 - Belfort vs. Gastelum,Flyweight,Ray Borg,NA,NA,Jussier Formiga,,,Decision (Unanimous),3,5:00
+"Mar 11, 2017",UFC Fight Night 106 - Belfort vs. Gastelum,Bantamweight,Marion Reneau,NA,NA,Bethe Correia,NA,NA,Draw (Majority),3,5:00
+"Mar 11, 2017",UFC Fight Night 106 - Belfort vs. Gastelum,Welterweight,Alex Oliveira,NA,NA,Tim Means,NA,NA,Submission (Rear-Naked Choke),2,2:38
+"Mar 11, 2017",UFC Fight Night 106 - Belfort vs. Gastelum,Lightweight,Kevin Lee,NA,NA,Francisco Trinaldo,NA,NA,Submission (Rear-Naked Choke),2,3:12
+"Mar 11, 2017",UFC Fight Night 106 - Belfort vs. Gastelum,Welterweight,Sergio Moraes,NA,NA,Davi Ramos,NA,NA,Decision (Unanimous),3,5:00
+"Mar 11, 2017",UFC Fight Night 106 - Belfort vs. Gastelum,Bantamweight,Joe Soto,NA,NA,Rani Yahya,NA,NA,Decision (Unanimous),3,5:00
+"Mar 11, 2017",UFC Fight Night 106 - Belfort vs. Gastelum,Lightweight,Michel Prazeres,NA,NA,Joshua Burkman,NA,NA,Submission (North-South Choke),1,1:42
+"Mar 11, 2017",UFC Fight Night 106 - Belfort vs. Gastelum,Featherweight,Jeremy Kennedy,NA,NA,Rony Mariano Bezerra,NA,NA,Decision (Unanimous),3,5:00
+"Mar 11, 2017",UFC Fight Night 106 - Belfort vs. Gastelum,Middleweight,Paulo Costa,,,Garreth McLellan,NA,NA,TKO (Punches),1,1:17
+"Mar 4, 2017",UFC 209 - Woodley vs. Thompson 2,Welterweight Title Fight,Tyron Woodley,NA,NA,Stephen Thompson,NA,NA,Decision (Majority),5,5:00
+"Mar 4, 2017",UFC 209 - Woodley vs. Thompson 2,Lightweight,David Teymur,NA,NA,Lando Vannata,NA,NA,Decision (Unanimous),3,5:00
+"Mar 4, 2017",UFC 209 - Woodley vs. Thompson 2,Middleweight,Daniel Kelly,NA,NA,Rashad Evans,NA,NA,Decision (Split),3,5:00
+"Mar 4, 2017",UFC 209 - Woodley vs. Thompson 2,Strawweight,Cynthia Calvillo,NA,NA,Amanda Bobby Brundage,,,Submission (Rear-Naked Choke),1,3:19
+"Mar 4, 2017",UFC 209 - Woodley vs. Thompson 2,Heavyweight,Alistair Overeem,NA,NA,Mark Hunt,NA,NA,KO (Knee),3,1:44
+"Mar 4, 2017",UFC 209 - Woodley vs. Thompson 2,Heavyweight,Marcin Tybura,NA,NA,Luis Henrique,NA,NA,TKO (Punches),3,3:46
+"Mar 4, 2017",UFC 209 - Woodley vs. Thompson 2,Featherweight,Darren Elkins,NA,NA,Mirsad Bektic,NA,NA,KO (Punches),3,3:19
+"Mar 4, 2017",UFC 209 - Woodley vs. Thompson 2,Bantamweight,Iuri Alcantara,NA,NA,Luke Sanders,NA,NA,Submission (Kneebar),2,3:13
+"Mar 4, 2017",UFC 209 - Woodley vs. Thompson 2,Heavyweight,Mark Godbeer,NA,NA,Daniel Spitz,NA,NA,Decision (Unanimous),3,5:00
+"Mar 4, 2017",UFC 209 - Woodley vs. Thompson 2,Light Heavyweight,Tyson Pedro,NA,NA,Paul Craig,NA,NA,TKO (Elbows),1,4:10
+"Mar 4, 2017",UFC 209 - Woodley vs. Thompson 2,Bantamweight,Albert Morales,NA,NA,Andre Soukhamthath,NA,NA,Decision (Split),3,5:00
+"Feb 19, 2017",UFC Fight Night 105 - Lewis vs. Browne,Heavyweight,Derrick Lewis,NA,NA,Travis Browne,NA,NA,KO (Punches),2,3:12
+"Feb 19, 2017",UFC Fight Night 105 - Lewis vs. Browne,Middleweight,Johny Hendricks,NA,NA,Hector Lombard,NA,NA,Decision (Unanimous),3,5:00
+"Feb 19, 2017",UFC Fight Night 105 - Lewis vs. Browne,Featherweight,Gavin Tucker,NA,NA,Sam Sicilia,NA,NA,Decision (Unanimous),3,5:00
+"Feb 19, 2017",UFC Fight Night 105 - Lewis vs. Browne,Middleweight,Elias Theodorou,NA,NA,Cezar Ferreira,NA,NA,Decision (Unanimous),3,5:00
+"Feb 19, 2017",UFC Fight Night 105 - Lewis vs. Browne,140lb Catchweight,Sara McMann,NA,NA,Gina Mazany,NA,NA,Submission (Arm-Triangle Choke),1,1:14
+"Feb 19, 2017",UFC Fight Night 105 - Lewis vs. Browne,Lightweight,Paul Felder,NA,NA,Alessandro Ricci,NA,NA,TKO (Elbow and Punches),1,4:44
+"Feb 19, 2017",UFC Fight Night 105 - Lewis vs. Browne,Welterweight,Santiago Ponzinibbio,NA,NA,Nordine Taleb,NA,NA,Decision (Unanimous),3,5:00
+"Feb 19, 2017",UFC Fight Night 105 - Lewis vs. Browne,Strawweight,Randa Markos,NA,NA,Carla Esparza,NA,NA,Decision (Split),3,5:00
+"Feb 19, 2017",UFC Fight Night 105 - Lewis vs. Browne,Bantamweight,Aiemann Zahabi,NA,NA,Reginaldo Vieira,NA,NA,Decision (Unanimous),3,5:00
+"Feb 19, 2017",UFC Fight Night 105 - Lewis vs. Browne,Middleweight,Thiago Santos,NA,NA,Jack Marshman,NA,NA,TKO (Spinning Wheel Kick and Punches),2,2:21
+"Feb 19, 2017",UFC Fight Night 105 - Lewis vs. Browne,Middleweight,Gerald Meerschaert,NA,NA,Ryan Janes,NA,NA,Submission (Armbar),1,1:34
+"Feb 4, 2017",UFC Fight Night 104 - Bermudez vs. Korean Zombie,Featherweight,Chan Sung Jung,NA,NA,Dennis Bermudez,NA,NA,KO (Punch),1,2:49
+"Feb 4, 2017",UFC Fight Night 104 - Bermudez vs. Korean Zombie,Strawweight,Felice Herrig,NA,NA,Alexa Grasso,NA,NA,Decision (Unanimous),3,5:00
+"Feb 4, 2017",UFC Fight Night 104 - Bermudez vs. Korean Zombie,Lightweight,James Vick,NA,NA,Abel Trujillo,NA,NA,Submission (Brabo Choke),3,0:49
+"Feb 4, 2017",UFC Fight Night 104 - Bermudez vs. Korean Zombie,Light Heavyweight,Volkan Oezdemir,NA,NA,Ovince St. Preux,NA,NA,Decision (Split),3,5:00
+"Feb 4, 2017",UFC Fight Night 104 - Bermudez vs. Korean Zombie,Heavyweight,Marcel Fortuna,NA,NA,Anthony Hamilton,NA,NA,KO (Punch),1,3:10
+"Feb 4, 2017",UFC Fight Night 104 - Bermudez vs. Korean Zombie,Strawweight,Jessica Andrade,NA,NA,Angela Hill,NA,NA,Decision (Unanimous),3,5:00
+"Feb 4, 2017",UFC Fight Night 104 - Bermudez vs. Korean Zombie,Heavyweight,Curtis Blaydes,NA,NA,Adam Milstead,NA,NA,No Contest (Overturned),2,0:59
+"Feb 4, 2017",UFC Fight Night 104 - Bermudez vs. Korean Zombie,Featherweight,Chas Skelly,NA,NA,Chris Gruetzemacher,NA,NA,Submission (Rear-Naked Choke),2,2:01
+"Feb 4, 2017",UFC Fight Night 104 - Bermudez vs. Korean Zombie,Bantamweight,Ricardo Ramos,,,Michinori Tanaka,NA,NA,Decision (Unanimous),3,5:00
+"Feb 4, 2017",UFC Fight Night 104 - Bermudez vs. Korean Zombie,118lb Catchweight,Tecia Pennington,,,Bec Rawlings,NA,NA,Decision (Unanimous),3,5:00
+"Feb 4, 2017",UFC Fight Night 104 - Bermudez vs. Korean Zombie,Welterweight,Niko Price,NA,NA,Alex Morono,NA,NA,No Contest (Overturned),2,5:00
+"Feb 4, 2017",UFC Fight Night 104 - Bermudez vs. Korean Zombie,Light Heavyweight,Khalil Rountree,NA,NA,Daniel Jolly,NA,NA,KO (Knee),1,0:52
+"Feb 11, 2017",UFC 208 - Holm vs. De Randamie,Featherweight Title Fight,Germaine de Randamie,NA,NA,Holly Holm,NA,NA,Decision (Unanimous),5,5:00
+"Feb 11, 2017",UFC 208 - Holm vs. De Randamie,Middleweight,Anderson Silva,NA,NA,Derek Brunson,NA,NA,Decision (Unanimous),3,5:00
+"Feb 11, 2017",UFC 208 - Holm vs. De Randamie,Middleweight,Ronaldo Souza,NA,NA,Tim Boetsch,NA,NA,Submission (Kimura),1,3:41
+"Feb 11, 2017",UFC 208 - Holm vs. De Randamie,Light Heavyweight,Glover Teixeira,NA,NA,Jared Cannonier,NA,NA,Decision (Unanimous),3,5:00
+"Feb 11, 2017",UFC 208 - Holm vs. De Randamie,Lightweight,Dustin Poirier,NA,NA,Jim Miller,NA,NA,Decision (Majority),3,5:00
+"Feb 11, 2017",UFC 208 - Holm vs. De Randamie,Welterweight,Belal Muhammad,NA,NA,Randy Brown,NA,NA,Decision (Unanimous),3,5:00
+"Feb 11, 2017",UFC 208 - Holm vs. De Randamie,Flyweight,Wilson Reis,NA,NA,Yuta Sasaki,,,Decision (Unanimous),3,5:00
+"Feb 11, 2017",UFC 208 - Holm vs. De Randamie,Lightweight,Islam Makhachev,NA,NA,Nik Lentz,NA,NA,Decision (Unanimous),3,5:00
+"Feb 11, 2017",UFC 208 - Holm vs. De Randamie,Featherweight,Ricky Glenn,,,Phillipe Nover,NA,NA,Decision (Split),3,5:00
+"Feb 11, 2017",UFC 208 - Holm vs. De Randamie,Welterweight,Ryan LaFlare,NA,NA,Roan Carneiro,NA,NA,Decision (Unanimous),3,5:00
+"Jan 28, 2017",UFC on Fox 23 - Shevchenko vs. Pena,Bantamweight,Valentina Shevchenko,NA,NA,Julianna Pena,NA,NA,Submission (Armbar),2,4:29
+"Jan 28, 2017",UFC on Fox 23 - Shevchenko vs. Pena,Welterweight,Jorge Masvidal,NA,NA,Donald Cerrone,NA,NA,TKO (Punches),2,1:00
+"Jan 28, 2017",UFC on Fox 23 - Shevchenko vs. Pena,Heavyweight,Francis Ngannou,NA,NA,Andrei Arlovski,NA,NA,TKO (Punches),1,1:32
+"Jan 28, 2017",UFC on Fox 23 - Shevchenko vs. Pena,Featherweight,Jason Knight,NA,NA,Alex Caceres,NA,NA,Submission (Rear-Naked Choke),2,4:21
+"Jan 28, 2017",UFC on Fox 23 - Shevchenko vs. Pena,Middleweight,Sam Alvey,NA,NA,Nate Marquardt,NA,NA,Decision (Unanimous),3,5:00
+"Jan 28, 2017",UFC on Fox 23 - Shevchenko vs. Pena,Bantamweight,Raphael Assuncao,NA,NA,Aljamain Sterling,NA,NA,Decision (Split),3,5:00
+"Jan 28, 2017",UFC on Fox 23 - Shevchenko vs. Pena,Welterweight,Jingliang Li,NA,NA,Bobby Nash,NA,NA,KO (Punches),2,4:45
+"Jan 28, 2017",UFC on Fox 23 - Shevchenko vs. Pena,Light Heavyweight,Jordan Johnson,NA,NA,Henrique da Silva,NA,NA,Decision (Unanimous),3,5:00
+"Jan 28, 2017",UFC on Fox 23 - Shevchenko vs. Pena,Middleweight,Eric Spicely,NA,NA,Alessio Di Chirico,NA,NA,Submission (Triangle Choke),1,2:14
+"Jan 28, 2017",UFC on Fox 23 - Shevchenko vs. Pena,210lb Catchweight,Marcos Rogerio de Lima,NA,NA,Jeremy Kimball,NA,NA,TKO (Punches),1,2:27
+"Jan 28, 2017",UFC on Fox 23 - Shevchenko vs. Pena,Flyweight,Alexandre Pantoja,NA,NA,Eric Shelton,NA,NA,Decision (Split),3,5:00
+"Jan 28, 2017",UFC on Fox 23 - Shevchenko vs. Pena,Lightweight,Jason Gonzalez,NA,NA,J.C. Cottrell,NA,NA,Submission (Brabo Choke),1,3:54
+"Jan 15, 2017",UFC Fight Night 103 - Rodriguez vs. Penn,Featherweight,Yair Rodriguez,NA,NA,B.J. Penn,NA,NA,TKO (Punches),2,0:24
+"Jan 15, 2017",UFC Fight Night 103 - Rodriguez vs. Penn,Lightweight,Joe Lauzon,NA,NA,Marcin Held,NA,NA,Decision (Split),3,5:00
+"Jan 15, 2017",UFC Fight Night 103 - Rodriguez vs. Penn,Welterweight,Ben Saunders,NA,NA,Court McGee,NA,NA,Decision (Unanimous),3,5:00
+"Jan 15, 2017",UFC Fight Night 103 - Rodriguez vs. Penn,Flyweight,Sergio Pettis,NA,NA,John Moraga,NA,NA,Decision (Unanimous),3,5:00
+"Jan 15, 2017",UFC Fight Night 103 - Rodriguez vs. Penn,Lightweight,Drakkar Klose,NA,NA,Devin Powell,NA,NA,Decision (Unanimous),3,5:00
+"Jan 15, 2017",UFC Fight Night 103 - Rodriguez vs. Penn,Bantamweight,Augusto Mendes,NA,NA,Frankie Saenz,NA,NA,Decision (Split),3,5:00
+"Jan 15, 2017",UFC Fight Night 103 - Rodriguez vs. Penn,Heavyweight,Alexey Oleynik,NA,NA,Viktor Pesta,NA,NA,Submission (Ezekiel Choke),1,2:57
+"Jan 15, 2017",UFC Fight Night 103 - Rodriguez vs. Penn,Lightweight,Anthony Rocco Martin,,,Alex White,NA,NA,Decision (Unanimous),3,5:00
+"Jan 15, 2017",UFC Fight Night 103 - Rodriguez vs. Penn,Strawweight,Nina Nunes,,,Jocelyn Jones-Lybarger,NA,NA,Submission (Rear-Naked Choke),3,3:39
+"Jan 15, 2017",UFC Fight Night 103 - Rodriguez vs. Penn,Heavyweight,Walt Harris,NA,NA,Chase Sherman,NA,NA,KO (Knee and Punch),2,2:41
+"Jan 15, 2017",UFC Fight Night 103 - Rodriguez vs. Penn,Light Heavyweight,Joachim Christensen,NA,NA,Bojan Mihajlovic,NA,NA,TKO (Punches),3,2:05
+"Jan 15, 2017",UFC Fight Night 103 - Rodriguez vs. Penn,Heavyweight,Cyril Asker,NA,NA,Dmitry Smoliakov,NA,NA,TKO (Punches and Elbows),1,2:41

@@ -1,0 +1,494 @@
+date,event,weight_class,winner,winner_weight,winner_odds,loser,loser_weight,loser_odds,method,rnd,time
+"Dec 30, 2016",UFC 207 - Nunes vs. Rousey,Bantamweight Title Fight,Amanda Nunes,NA,NA,Ronda Rousey,NA,NA,TKO (Punches),1,0:48
+"Dec 30, 2016",UFC 207 - Nunes vs. Rousey,Bantamweight Title Fight,Cody Garbrandt,NA,NA,Dominick Cruz,NA,NA,Decision (Unanimous),5,5:00
+"Dec 30, 2016",UFC 207 - Nunes vs. Rousey,Bantamweight,T.J. Dillashaw,NA,NA,John Lineker,NA,NA,Decision (Unanimous),3,5:00
+"Dec 30, 2016",UFC 207 - Nunes vs. Rousey,Welterweight,Dong Hyun Kim,NA,NA,Tarec Saffiedine,NA,NA,Decision (Split),3,5:00
+"Dec 30, 2016",UFC 207 - Nunes vs. Rousey,130lb Catchweight,Ray Borg,NA,NA,Louis Smolka,NA,NA,Decision (Unanimous),3,5:00
+"Dec 30, 2016",UFC 207 - Nunes vs. Rousey,174lb Catchweight,Neil Magny,NA,NA,Johny Hendricks,NA,NA,Decision (Unanimous),3,5:00
+"Dec 30, 2016",UFC 207 - Nunes vs. Rousey,Middleweight,Antonio Carlos Jr.,NA,NA,Marvin Vettori,NA,NA,Decision (Unanimous),3,5:00
+"Dec 30, 2016",UFC 207 - Nunes vs. Rousey,Welterweight,Alex Garcia,NA,NA,Mike Pyle,NA,NA,KO (Punch),1,3:34
+"Dec 30, 2016",UFC 207 - Nunes vs. Rousey,Welterweight,Niko Price,NA,NA,Brandon Thatch,NA,NA,Submission (Arm-Triangle Choke),1,4:30
+"Dec 30, 2016",UFC 207 - Nunes vs. Rousey,Welterweight,Alex Oliveira,NA,NA,Tim Means,NA,NA,No Contest (Illegal Knee),1,3:33
+"Dec 17, 2016",UFC on Fox 22 - VanZant vs. Waterson,Strawweight,Michelle Waterson-Gomez,NA,NA,Paige VanZant,NA,NA,Technical Submission (Rear-Naked Choke),1,3:21
+"Dec 17, 2016",UFC on Fox 22 - VanZant vs. Waterson,Welterweight,Mickey Gall,NA,NA,Sage Northcutt,NA,NA,Submission (Rear-Naked Choke),2,1:40
+"Dec 17, 2016",UFC on Fox 22 - VanZant vs. Waterson,Bantamweight,Urijah Faber,NA,NA,Brad Pickett,NA,NA,Decision (Unanimous),3,5:00
+"Dec 17, 2016",UFC on Fox 22 - VanZant vs. Waterson,Welterweight,Alan Jouban,NA,NA,Mike Perry,NA,NA,Decision (Unanimous),3,5:00
+"Dec 17, 2016",UFC on Fox 22 - VanZant vs. Waterson,Light Heavyweight,Paul Craig,,,Henrique da Silva,NA,NA,Submission (Armbar),2,1:59
+"Dec 17, 2016",UFC on Fox 22 - VanZant vs. Waterson,Featherweight,Mizuto Hirota,NA,NA,Cole Miller,NA,NA,Decision (Unanimous),3,5:00
+"Dec 17, 2016",UFC on Fox 22 - VanZant vs. Waterson,Welterweight,Colby Covington,NA,NA,Bryan Barberena,NA,NA,Decision (Unanimous),3,5:00
+"Dec 17, 2016",UFC on Fox 22 - VanZant vs. Waterson,Welterweight,Alex Morono,NA,NA,James Moontasri,NA,NA,Decision (Unanimous),3,5:00
+"Dec 17, 2016",UFC on Fox 22 - VanZant vs. Waterson,Lightweight,Josh Emmett,NA,NA,Scott Holtzman,NA,NA,Decision (Unanimous),3,5:00
+"Dec 17, 2016",UFC on Fox 22 - VanZant vs. Waterson,Bantamweight,Leslie Smith,NA,NA,Irene Aldana,NA,NA,Decision (Unanimous),3,5:00
+"Dec 17, 2016",UFC on Fox 22 - VanZant vs. Waterson,Bantamweight,Eddie Wineland,NA,NA,Takeya Mizugaki,NA,NA,TKO (Punches),1,3:04
+"Dec 17, 2016",UFC on Fox 22 - VanZant vs. Waterson,Flyweight,Hector Sandoval,NA,NA,Fredy Serrano,NA,NA,Decision (Unanimous),3,5:00
+"Dec 17, 2016",UFC on Fox 22 - VanZant vs. Waterson,Welterweight,Sultan Aliev,NA,NA,Bojan Velickovic,NA,NA,Decision (Split),3,5:00
+"Dec 10, 2016",UFC 206 - Holloway vs. Pettis,148lb Title Fight,Max Holloway,NA,NA,Anthony Pettis,NA,NA,TKO (Body Kick and Punches),3,4:50
+"Dec 10, 2016",UFC 206 - Holloway vs. Pettis,Welterweight,Donald Cerrone,NA,NA,Matt Brown,NA,NA,KO (Head Kick),3,0:34
+"Dec 10, 2016",UFC 206 - Holloway vs. Pettis,Featherweight,Cub Swanson,NA,NA,Doo Ho Choi,NA,NA,Decision (Unanimous),3,5:00
+"Dec 10, 2016",UFC 206 - Holloway vs. Pettis,Middleweight,Kelvin Gastelum,NA,NA,Tim Kennedy,NA,NA,TKO (Punches),3,2:45
+"Dec 10, 2016",UFC 206 - Holloway vs. Pettis,Welterweight,Emil Meek,,,Jordan Mein,NA,NA,Decision (Unanimous),3,5:00
+"Dec 10, 2016",UFC 206 - Holloway vs. Pettis,Light Heavyweight,Misha Cirkunov,NA,NA,Nikita Krylov,NA,NA,Submission (Guillotine Choke),1,4:38
+"Dec 10, 2016",UFC 206 - Holloway vs. Pettis,Lightweight,Olivier Aubin-Mercier,NA,NA,Drew Dober,NA,NA,Submission (Rear-Naked Choke),2,2:57
+"Dec 10, 2016",UFC 206 - Holloway vs. Pettis,118lb Catchweight,Viviane Pereira,NA,NA,Valerie Letourneau,NA,NA,Decision (Split),3,5:00
+"Dec 10, 2016",UFC 206 - Holloway vs. Pettis,Bantamweight,Matthew Lopez,NA,NA,Mitch Gagnon,NA,NA,Decision (Unanimous),3,5:00
+"Dec 10, 2016",UFC 206 - Holloway vs. Pettis,Lightweight,Lando Vannata,NA,NA,John Makdessi,NA,NA,KO (Spinning Wheel Kick),1,1:40
+"Dec 10, 2016",UFC 206 - Holloway vs. Pettis,158lb Catchweight,Rustam Khabilov,NA,NA,Jason Saggo,NA,NA,Decision (Unanimous),3,5:00
+"Dec 10, 2016",UFC 206 - Holloway vs. Pettis,Flyweight,Dustin Ortiz,NA,NA,Zach Makovsky,NA,NA,Decision (Split),3,5:00
+"Dec 3, 2016",UFC - The Ultimate Fighter 24 Finale,Flyweight Title Fight,Demetrious Johnson,NA,NA,Tim Elliott,NA,NA,Decision (Unanimous),5,5:00
+"Dec 3, 2016",UFC - The Ultimate Fighter 24 Finale,Flyweight,Joseph Benavidez,NA,NA,Henry Cejudo,NA,NA,Decision (Split),3,5:00
+"Dec 3, 2016",UFC - The Ultimate Fighter 24 Finale,Welterweight,Jorge Masvidal,NA,NA,Jake Ellenberger,NA,NA,TKO (Punches),1,4:05
+"Dec 3, 2016",UFC - The Ultimate Fighter 24 Finale,Light Heavyweight,Jared Cannonier,NA,NA,Ion Cutelaba,NA,NA,Decision (Unanimous),3,5:00
+"Dec 3, 2016",UFC - The Ultimate Fighter 24 Finale,Bantamweight,Sara McMann,NA,NA,Alexis Davis,NA,NA,Submission (Arm-Triangle Choke),2,2:52
+"Dec 3, 2016",UFC - The Ultimate Fighter 24 Finale,Flyweight,Brandon Moreno,NA,NA,Ryan Benoit,NA,NA,Decision (Split),3,5:00
+"Dec 3, 2016",UFC - The Ultimate Fighter 24 Finale,Featherweight,Ryan Hall,NA,NA,Gray Maynard,NA,NA,Decision (Unanimous),3,5:00
+"Dec 3, 2016",UFC - The Ultimate Fighter 24 Finale,Bantamweight,Rob Font,NA,NA,Matt Schnell,NA,NA,TKO (Knee and Punches),1,3:47
+"Dec 3, 2016",UFC - The Ultimate Fighter 24 Finale,Lightweight,Dong Hyun Ma,,,Brendan O'Reilly,NA,NA,Decision (Unanimous),3,5:00
+"Dec 3, 2016",UFC - The Ultimate Fighter 24 Finale,Strawweight,Jamie Moyle,NA,NA,Kailin Curran,NA,NA,Decision (Unanimous),3,5:00
+"Dec 3, 2016",UFC - The Ultimate Fighter 24 Finale,Middleweight,Anthony Smith,NA,NA,Elvis Mutapcic,NA,NA,TKO (Elbow and Punches),2,3:27
+"Dec 3, 2016",UFC - The Ultimate Fighter 24 Finale,Light Heavyweight,Devin Clark,NA,NA,Josh Stansbury,NA,NA,Decision (Unanimous),3,5:00
+"Nov 26, 2016",UFC Fight Night 101 - Whittaker vs. Brunson,Middleweight,Robert Whittaker,NA,NA,Derek Brunson,NA,NA,TKO (Head Kick and Punches),1,4:07
+"Nov 26, 2016",UFC Fight Night 101 - Whittaker vs. Brunson,Lightweight,Andrew Holbrook,NA,NA,Jake Matthews,NA,NA,Decision (Split),3,5:00
+"Nov 26, 2016",UFC Fight Night 101 - Whittaker vs. Brunson,Welterweight,Omari Akhmedov,NA,NA,Kyle Noke,NA,NA,Decision (Unanimous),3,5:00
+"Nov 26, 2016",UFC Fight Night 101 - Whittaker vs. Brunson,Lightweight,Alexander Volkanovski,,,Yusuke Kasuya,NA,NA,TKO (Punches),2,2:06
+"Nov 26, 2016",UFC Fight Night 101 - Whittaker vs. Brunson,Light Heavyweight,Tyson Pedro,NA,NA,Khalil Rountree,NA,NA,Submission (Rear-Naked Choke),1,4:07
+"Nov 26, 2016",UFC Fight Night 101 - Whittaker vs. Brunson,Strawweight,Danielle Taylor,NA,NA,Seo Hee Ham,NA,NA,Decision (Split),3,5:00
+"Nov 26, 2016",UFC Fight Night 101 - Whittaker vs. Brunson,Middleweight,Daniel Kelly,NA,NA,Chris Camozzi,NA,NA,Decision (Unanimous),3,5:00
+"Nov 26, 2016",UFC Fight Night 101 - Whittaker vs. Brunson,Lightweight,Damien Brown,NA,NA,Jon Tuck,NA,NA,Decision (Split),3,5:00
+"Nov 26, 2016",UFC Fight Night 101 - Whittaker vs. Brunson,Welterweight,Jonathan Meunier,NA,NA,Richard Walsh,NA,NA,Decision (Unanimous),3,5:00
+"Nov 26, 2016",UFC Fight Night 101 - Whittaker vs. Brunson,Flyweight,Ben Nguyen,NA,NA,Geane Herrera,NA,NA,Decision (Unanimous),3,5:00
+"Nov 26, 2016",UFC Fight Night 101 - Whittaker vs. Brunson,Featherweight,Jason Knight,NA,NA,Dan Hooker,NA,NA,Decision (Unanimous),3,5:00
+"Nov 26, 2016",UFC Fight Night 101 - Whittaker vs. Brunson,Featherweight,Marlon Vera,NA,NA,Guangyou Ning,NA,NA,Decision (Unanimous),3,5:00
+"Nov 26, 2016",UFC Fight Night 101 - Whittaker vs. Brunson,Flyweight,Jenel Lausa,NA,NA,Zhikui Yao,NA,NA,Decision (Unanimous),3,5:00
+"Dec 9, 2016",UFC Fight Night 102 - Lewis vs. Abdurakhimov,Heavyweight,Derrick Lewis,NA,NA,Shamil Abdurakhimov,NA,NA,TKO (Punches),4,3:42
+"Dec 9, 2016",UFC Fight Night 102 - Lewis vs. Abdurakhimov,Heavyweight,Francis Ngannou,NA,NA,Anthony Hamilton,NA,NA,Submission (Kimura),1,1:57
+"Dec 9, 2016",UFC Fight Night 102 - Lewis vs. Abdurakhimov,Light Heavyweight,Corey Anderson,NA,NA,Sean O'Connell,NA,NA,TKO (Punches),2,2:36
+"Dec 9, 2016",UFC Fight Night 102 - Lewis vs. Abdurakhimov,Light Heavyweight,Gian Villante,NA,NA,Saparbek Safarov,NA,NA,TKO (Punches),2,2:54
+"Dec 9, 2016",UFC Fight Night 102 - Lewis vs. Abdurakhimov,117lb Catchweight,Justine Kish,NA,NA,Ashley Yoder,NA,NA,Decision (Unanimous),3,5:00
+"Dec 9, 2016",UFC Fight Night 102 - Lewis vs. Abdurakhimov,Welterweight,Randy Brown,NA,NA,Brian Camozzi,NA,NA,TKO (Knee and Punches),2,1:25
+"Dec 9, 2016",UFC Fight Night 102 - Lewis vs. Abdurakhimov,Middleweight,Gerald Meerschaert,,,Joe Gigliotti,,,Submission (Anaconda Choke),1,4:12
+"Dec 9, 2016",UFC Fight Night 102 - Lewis vs. Abdurakhimov,Middleweight,Andrew Sanchez,NA,NA,Trevor Smith,NA,NA,Decision (Unanimous),3,5:00
+"Dec 9, 2016",UFC Fight Night 102 - Lewis vs. Abdurakhimov,Featherweight,Shane Burgos,NA,NA,Tiago dos Santos e Silva,,,Decision (Unanimous),3,5:00
+"Dec 9, 2016",UFC Fight Night 102 - Lewis vs. Abdurakhimov,Lightweight,Marc Diakiese,NA,NA,Frankie Perez,NA,NA,Decision (Unanimous),3,5:00
+"Dec 9, 2016",UFC Fight Night 102 - Lewis vs. Abdurakhimov,Middleweight,Ryan Janes,NA,NA,Keith Berish,NA,NA,Decision (Unanimous),3,5:00
+"Dec 9, 2016",UFC Fight Night 102 - Lewis vs. Abdurakhimov,Strawweight,Juliana Lima,NA,NA,J.J. Aldrich,NA,NA,Decision (Unanimous),3,5:00
+"Nov 19, 2016",UFC Fight Night 100 - Bader vs. Nogueira 2,Light Heavyweight,Ryan Bader,NA,NA,Antonio Rogerio Nogueira,NA,NA,TKO (Punches),3,3:51
+"Nov 19, 2016",UFC Fight Night 100 - Bader vs. Nogueira 2,Bantamweight,Thomas Almeida,NA,NA,Albert Morales,NA,NA,TKO (Punches),2,1:37
+"Nov 19, 2016",UFC Fight Night 100 - Bader vs. Nogueira 2,Strawweight,Claudia Gadelha,NA,NA,Cortney Casey,NA,NA,Decision (Unanimous),3,5:00
+"Nov 19, 2016",UFC Fight Night 100 - Bader vs. Nogueira 2,Middleweight,Krzysztof Jotko,NA,NA,Thales Leites,NA,NA,Decision (Unanimous),3,5:00
+"Nov 19, 2016",UFC Fight Night 100 - Bader vs. Nogueira 2,Welterweight,Kamaru Usman,NA,NA,Warlley Alves,NA,NA,Decision (Unanimous),3,5:00
+"Nov 19, 2016",UFC Fight Night 100 - Bader vs. Nogueira 2,Welterweight,Sergio Moraes,NA,NA,Zak Ottow,NA,NA,Decision (Split),3,5:00
+"Nov 19, 2016",UFC Fight Night 100 - Bader vs. Nogueira 2,Middleweight,Cezar Ferreira,NA,NA,Jack Hermansson,NA,NA,Submission (Arm-Triangle Choke),2,2:11
+"Nov 19, 2016",UFC Fight Night 100 - Bader vs. Nogueira 2,Light Heavyweight,Gadzhimurad Antigulov,NA,NA,Marcos Rogerio de Lima,NA,NA,Submission (Guillotine Choke),1,1:07
+"Nov 19, 2016",UFC Fight Night 100 - Bader vs. Nogueira 2,Bantamweight,Johnny Eduardo,NA,NA,Manny Gamburyan,NA,NA,TKO (Punches),2,0:46
+"Nov 19, 2016",UFC Fight Night 100 - Bader vs. Nogueira 2,Heavyweight,Luis Henrique,NA,NA,Christian Colombo,NA,NA,Submission (Guillotine Choke),3,2:12
+"Nov 19, 2016",UFC Fight Night 100 - Bader vs. Nogueira 2,Bantamweight,Pedro Munhoz,NA,NA,Justin Scoggins,NA,NA,Submission (Guillotine Choke),2,1:55
+"Nov 19, 2016",UFC Fight Night 100 - Bader vs. Nogueira 2,Light Heavyweight,Darren Stewart,NA,NA,Francimar Barroso,NA,NA,No Contest (Accidental Clash of Heads),1,1:34
+"Nov 19, 2016",UFC Fight Night 99 - Mousasi vs. Hall 2,Middleweight,Gegard Mousasi,NA,NA,Uriah Hall,NA,NA,TKO (Punches),1,4:31
+"Nov 19, 2016",UFC Fight Night 99 - Mousasi vs. Hall 2,Lightweight,Steven Ray,,,Ross Pearson,NA,NA,Decision (Split),3,5:00
+"Nov 19, 2016",UFC Fight Night 99 - Mousasi vs. Hall 2,Heavyweight,Alexander Volkov,NA,NA,Tim Johnson,,,Decision (Split),3,5:00
+"Nov 19, 2016",UFC Fight Night 99 - Mousasi vs. Hall 2,Featherweight,Artem Lobov,NA,NA,Teruto Ishihara,NA,NA,Decision (Unanimous),3,5:00
+"Nov 19, 2016",UFC Fight Night 99 - Mousasi vs. Hall 2,Middleweight,Jack Marshman,NA,NA,Magnus Cedenblad,NA,NA,TKO (Punches),2,3:32
+"Nov 19, 2016",UFC Fight Night 99 - Mousasi vs. Hall 2,Flyweight,Kyoji Horiguchi,NA,NA,Ali Bagautinov,NA,NA,Decision (Unanimous),3,5:00
+"Nov 19, 2016",UFC Fight Night 99 - Mousasi vs. Hall 2,Lightweight,Kevin Lee,NA,NA,Magomed Mustafaev,NA,NA,Technical Submission (Rear-Naked Choke),2,4:31
+"Nov 19, 2016",UFC Fight Night 99 - Mousasi vs. Hall 2,Strawweight,Amanda Bobby Brundage,,,Anna Elmose,NA,NA,Decision (Unanimous),3,5:00
+"Nov 19, 2016",UFC Fight Night 99 - Mousasi vs. Hall 2,Heavyweight,Justin Ledet,NA,NA,Mark Godbeer,NA,NA,Submission (Rear-Naked Choke),1,2:16
+"Nov 19, 2016",UFC Fight Night 99 - Mousasi vs. Hall 2,173lb Catchweight,Zak Cummings,NA,NA,Alexander Yakovlev,NA,NA,Submission (Straight Armbar),2,4:02
+"Nov 19, 2016",UFC Fight Night 99 - Mousasi vs. Hall 2,Bantamweight,Marion Reneau,NA,NA,Milana Dudieva,NA,NA,TKO (Punches and Elbows),3,3:03
+"Nov 19, 2016",UFC Fight Night 99 - Mousasi vs. Hall 2,Bantamweight,Brett Johns,NA,NA,Kwan Ho Kwak,NA,NA,Decision (Unanimous),3,5:00
+"Nov 19, 2016",UFC Fight Night 99 - Mousasi vs. Hall 2,Welterweight,Abdul Razak Alhassan,NA,NA,Charlie Ward,NA,NA,KO (Punch),1,0:53
+"Nov 12, 2016",UFC 205 - Alvarez vs. McGregor,Lightweight Title Fight,Conor McGregor,NA,NA,Eddie Alvarez,NA,NA,TKO (Punches),2,3:04
+"Nov 12, 2016",UFC 205 - Alvarez vs. McGregor,Welterweight Title Fight,Tyron Woodley,NA,NA,Stephen Thompson,NA,NA,Draw (Majority),5,5:00
+"Nov 12, 2016",UFC 205 - Alvarez vs. McGregor,Strawweight Title Fight,Joanna Jedrzejczyk,NA,NA,Karolina Kowalkiewicz,NA,NA,Decision (Unanimous),5,5:00
+"Nov 12, 2016",UFC 205 - Alvarez vs. McGregor,Middleweight,Yoel Romero,NA,NA,Chris Weidman,NA,NA,KO (Flying Knee),3,0:24
+"Nov 12, 2016",UFC 205 - Alvarez vs. McGregor,Bantamweight,Raquel Pennington,NA,NA,Miesha Tate,NA,NA,Decision (Unanimous),3,5:00
+"Nov 12, 2016",UFC 205 - Alvarez vs. McGregor,Featherweight,Frankie Edgar,NA,NA,Jeremy Stephens,NA,NA,Decision (Unanimous),3,5:00
+"Nov 12, 2016",UFC 205 - Alvarez vs. McGregor,Lightweight,Khabib Nurmagomedov,NA,NA,Michael Johnson,NA,NA,Submission (Kimura),3,2:31
+"Nov 12, 2016",UFC 205 - Alvarez vs. McGregor,Middleweight,Tim Boetsch,NA,NA,Rafael Natal,NA,NA,KO (Punches),1,3:22
+"Nov 12, 2016",UFC 205 - Alvarez vs. McGregor,Welterweight,Vicente Luque,NA,NA,Belal Muhammad,NA,NA,KO (Punches),1,1:19
+"Nov 12, 2016",UFC 205 - Alvarez vs. McGregor,163lb Catchweight,Jim Miller,NA,NA,Thiago Alves,NA,NA,Decision (Unanimous),3,5:00
+"Nov 12, 2016",UFC 205 - Alvarez vs. McGregor,Bantamweight,Liz Carmouche,NA,NA,Katlyn Cerminara,,,Decision (Split),3,5:00
+"Nov 5, 2016",UFC Fight Night 98 - Dos Anjos vs. Ferguson,Lightweight,Tony Ferguson,NA,NA,Rafael dos Anjos,NA,NA,Decision (Unanimous),5,5:00
+"Nov 5, 2016",UFC Fight Night 98 - Dos Anjos vs. Ferguson,Lightweight,Diego Sanchez,NA,NA,Marcin Held,NA,NA,Decision (Unanimous),3,5:00
+"Nov 5, 2016",UFC Fight Night 98 - Dos Anjos vs. Ferguson,155lb Catchweight,Ricardo Lamas,NA,NA,Charles Oliveira,NA,NA,Submission (Guillotine Choke),2,2:13
+"Nov 5, 2016",UFC Fight Night 98 - Dos Anjos vs. Ferguson,Lightweight,Martin Bravo,NA,NA,Claudio Puelles,NA,NA,TKO (Punches),2,1:55
+"Nov 5, 2016",UFC Fight Night 98 - Dos Anjos vs. Ferguson,Lightweight,Beneil Dariush,NA,NA,Rashid Magomedov,NA,NA,Decision (Unanimous),3,5:00
+"Nov 5, 2016",UFC Fight Night 98 - Dos Anjos vs. Ferguson,Strawweight,Alexa Grasso,NA,NA,Heather Clark,NA,NA,Decision (Unanimous),3,5:00
+"Nov 5, 2016",UFC Fight Night 98 - Dos Anjos vs. Ferguson,138lb Catchweight,Erik Perez,NA,NA,Felipe Arantes,NA,NA,Decision (Split),3,5:00
+"Nov 5, 2016",UFC Fight Night 98 - Dos Anjos vs. Ferguson,140lb Catchweight,Joe Soto,NA,NA,Marco Beltran,NA,NA,Submission (Heel Hook),1,1:37
+"Nov 5, 2016",UFC Fight Night 98 - Dos Anjos vs. Ferguson,Welterweight,Max Griffin,NA,NA,Erick Montano,NA,NA,TKO (Punches),1,0:54
+"Nov 5, 2016",UFC Fight Night 98 - Dos Anjos vs. Ferguson,Bantamweight,Douglas Silva de Andrade,NA,NA,Enrique Briones,,,TKO (Spinning Back Fist),3,2:33
+"Nov 5, 2016",UFC Fight Night 98 - Dos Anjos vs. Ferguson,Middleweight,Sam Alvey,NA,NA,Alex Nicholson,NA,NA,Decision (Unanimous),3,5:00
+"Nov 5, 2016",UFC Fight Night 98 - Dos Anjos vs. Ferguson,Lightweight,Marco Polo Reyes,NA,NA,Jason Novelli,NA,NA,Decision (Split),3,5:00
+"Nov 5, 2016",UFC Fight Night 98 - Dos Anjos vs. Ferguson,Featherweight,Enrique Barzola,NA,NA,Chris Avila,NA,NA,Decision (Unanimous),3,5:00
+"Oct 1, 2016",UFC Fight Night 96 - Lineker vs. Dodson,137lb,John Lineker,NA,NA,John Dodson,NA,NA,Decision (Split),5,5:00
+"Oct 1, 2016",UFC Fight Night 96 - Lineker vs. Dodson,162lb Catchweight,Alex Oliveira,NA,NA,Will Brooks,NA,NA,KO (Punches),3,3:30
+"Oct 1, 2016",UFC Fight Night 96 - Lineker vs. Dodson,Welterweight,Zak Ottow,NA,NA,Joshua Burkman,NA,NA,Decision (Split),3,5:00
+"Oct 1, 2016",UFC Fight Night 96 - Lineker vs. Dodson,Flyweight,Brandon Moreno,NA,NA,Louis Smolka,NA,NA,Submission (Guillotine Choke),1,2:23
+"Oct 1, 2016",UFC Fight Night 96 - Lineker vs. Dodson,Light Heavyweight,Henrique da Silva,NA,NA,Joachim Christensen,NA,NA,Submission (Armbar),2,4:43
+"Oct 1, 2016",UFC Fight Night 96 - Lineker vs. Dodson,149lb Catchweight,Andre Fili,NA,NA,Hacran Dias,NA,NA,Decision (Unanimous),3,5:00
+"Oct 1, 2016",UFC Fight Night 96 - Lineker vs. Dodson,Heavyweight,Shamil Abdurakhimov,NA,NA,Walt Harris,NA,NA,Decision (Split),3,5:00
+"Oct 1, 2016",UFC Fight Night 96 - Lineker vs. Dodson,Welterweight,Elizeu Zaleski dos Santos,NA,NA,Keita Nakamura,NA,NA,Decision (Unanimous),3,5:00
+"Oct 1, 2016",UFC Fight Night 96 - Lineker vs. Dodson,Middleweight,Nate Marquardt,NA,NA,Tamdan McCrory,NA,NA,KO (Punch and Head Kick),2,4:44
+"Oct 1, 2016",UFC Fight Night 96 - Lineker vs. Dodson,Light Heavyweight,Ion Cutelaba,NA,NA,Jonathan Wilson,NA,NA,Decision (Unanimous),3,5:00
+"Oct 1, 2016",UFC Fight Night 96 - Lineker vs. Dodson,Heavyweight,Curtis Blaydes,NA,NA,Cody East,NA,NA,TKO (Elbows),2,2:02
+"Oct 1, 2016",UFC Fight Night 96 - Lineker vs. Dodson,Bantamweight,Ketlen Vieira,NA,NA,Kelly Faszholz,NA,NA,Decision (Split),3,5:00
+"Oct 8, 2016",UFC 204 - Bisping vs. Henderson 2,Middleweight Title Fight,Michael Bisping,NA,NA,Dan Henderson,NA,NA,Decision (Unanimous),5,5:00
+"Oct 8, 2016",UFC 204 - Bisping vs. Henderson 2,Middleweight,Gegard Mousasi,NA,NA,Vitor Belfort,NA,NA,TKO (Punches),2,2:43
+"Oct 8, 2016",UFC 204 - Bisping vs. Henderson 2,Light Heavyweight,Jimi Manuwa,NA,NA,Ovince St. Preux,NA,NA,KO (Punches),2,2:38
+"Oct 8, 2016",UFC 204 - Bisping vs. Henderson 2,Heavyweight,Stefan Struve,NA,NA,Daniel Omielanczuk,NA,NA,Submission (Brabo Choke),2,1:41
+"Oct 8, 2016",UFC 204 - Bisping vs. Henderson 2,Featherweight,Mirsad Bektic,NA,NA,Russell Doane,NA,NA,Submission (Rear-Naked Choke),1,4:22
+"Oct 8, 2016",UFC 204 - Bisping vs. Henderson 2,Bantamweight,Iuri Alcantara,NA,NA,Brad Pickett,NA,NA,Submission (Triangle Choke),1,1:59
+"Oct 8, 2016",UFC 204 - Bisping vs. Henderson 2,Bantamweight,Damian Stasiak,NA,NA,Davey Grant,NA,NA,Submission (Armbar),3,3:56
+"Oct 8, 2016",UFC 204 - Bisping vs. Henderson 2,Welterweight,Leon Edwards,NA,NA,Albert Tumenov,NA,NA,Submission (Rear-Naked Choke),3,3:01
+"Oct 8, 2016",UFC 204 - Bisping vs. Henderson 2,Lightweight,Marc Diakiese,NA,NA,Lukasz Sajewski,NA,NA,TKO (Knees and Punches),2,4:40
+"Oct 8, 2016",UFC 204 - Bisping vs. Henderson 2,Welterweight,Mike Perry,NA,NA,Danny Roberts,NA,NA,KO (Knee and Punches),3,4:40
+"Oct 8, 2016",UFC 204 - Bisping vs. Henderson 2,Lightweight,Leonardo Santos,NA,NA,Adriano Martins,NA,NA,Decision (Split),3,5:00
+"Sep 10, 2016",UFC 203 - Miocic vs. Overeem,Heavyweight Title Fight,Stipe Miocic,NA,NA,Alistair Overeem,NA,NA,KO (Punches),1,4:27
+"Sep 10, 2016",UFC 203 - Miocic vs. Overeem,Heavyweight,Fabricio Werdum,NA,NA,Travis Browne,NA,NA,Decision (Unanimous),3,5:00
+"Sep 10, 2016",UFC 203 - Miocic vs. Overeem,Welterweight,Mickey Gall,NA,NA,Phil Brooks,,,Submission (Rear-Naked Choke),1,2:14
+"Sep 10, 2016",UFC 203 - Miocic vs. Overeem,Bantamweight,Jimmie Rivera,NA,NA,Urijah Faber,NA,NA,Decision (Unanimous),3,5:00
+"Sep 10, 2016",UFC 203 - Miocic vs. Overeem,Strawweight,Jessica Andrade,NA,NA,Joanne Wood,,,Submission (Guillotine Choke),1,4:38
+"Sep 10, 2016",UFC 203 - Miocic vs. Overeem,Bantamweight,Bethe Correia,NA,NA,Jessica Eye,NA,NA,Decision (Split),3,5:00
+"Sep 10, 2016",UFC 203 - Miocic vs. Overeem,Middleweight,Brad Tavares,NA,NA,Caio Magalhaes,NA,NA,Decision (Split),3,5:00
+"Sep 10, 2016",UFC 203 - Miocic vs. Overeem,158lb Catchweight,Nik Lentz,NA,NA,Michael McBride,NA,NA,TKO (Punches),2,4:17
+"Sep 10, 2016",UFC 203 - Miocic vs. Overeem,Lightweight,Drew Dober,NA,NA,Jason Gonzalez,NA,NA,KO (Punches),1,1:45
+"Sep 10, 2016",UFC 203 - Miocic vs. Overeem,Welterweight,Yancy Medeiros,NA,NA,Sean Spencer,NA,NA,Submission (Rear-Naked Choke),2,0:49
+"Sep 3, 2016",UFC Fight Night 93 - Arlovski vs. Barnett,Heavyweight,Josh Barnett,NA,NA,Andrei Arlovski,NA,NA,Submission (Rear-Naked Choke),3,2:53
+"Sep 3, 2016",UFC Fight Night 93 - Arlovski vs. Barnett,Light Heavyweight,Alexander Gustafsson,NA,NA,Jan Blachowicz,NA,NA,Decision (Unanimous),3,5:00
+"Sep 3, 2016",UFC Fight Night 93 - Arlovski vs. Barnett,Light Heavyweight,Ryan Bader,NA,NA,Ilir Latifi,NA,NA,KO (Knee),2,2:06
+"Sep 3, 2016",UFC Fight Night 93 - Arlovski vs. Barnett,Lightweight,Nick Hein,NA,NA,Tae Hyun Bang,NA,NA,Decision (Unanimous),3,5:00
+"Sep 3, 2016",UFC Fight Night 93 - Arlovski vs. Barnett,Middleweight,Jessin Ayari,NA,NA,Jim Wallhead,NA,NA,Decision (Split),3,5:00
+"Sep 3, 2016",UFC Fight Night 93 - Arlovski vs. Barnett,Welterweight,Peter Sobotta,NA,NA,Nicolas Dalby,NA,NA,Decision (Unanimous),3,5:00
+"Sep 3, 2016",UFC Fight Night 93 - Arlovski vs. Barnett,Bantamweight,Ashlee Evans-Smith,NA,NA,Veronica Hardy,,,TKO (Elbows),3,2:46
+"Sep 3, 2016",UFC Fight Night 93 - Arlovski vs. Barnett,Bantamweight,Taylor Lapilus,NA,NA,Leandro Issa,NA,NA,Decision (Unanimous),3,5:00
+"Sep 3, 2016",UFC Fight Night 93 - Arlovski vs. Barnett,Heavyweight,Christian Colombo,NA,NA,Jarjis Danho,NA,NA,Draw (Majority),3,5:00
+"Sep 3, 2016",UFC Fight Night 93 - Arlovski vs. Barnett,Middleweight,Jack Hermansson,NA,NA,Scott Askham,NA,NA,Decision (Unanimous),3,5:00
+"Sep 3, 2016",UFC Fight Night 93 - Arlovski vs. Barnett,Lightweight,Rustam Khabilov,NA,NA,Leandro Silva,NA,NA,Decision (Unanimous),3,5:00
+"Sep 24, 2016",UFC Fight Night 95 - Cyborg vs. Lansberg,140lb,Cristiane Justino,,,Lina Lansberg,NA,NA,TKO (Punches),2,2:29
+"Sep 24, 2016",UFC Fight Night 95 - Cyborg vs. Lansberg,Bantamweight,Renan Barao,NA,NA,Phillipe Nover,NA,NA,Decision (Unanimous),3,5:00
+"Sep 24, 2016",UFC Fight Night 95 - Cyborg vs. Lansberg,Heavyweight,Roy Nelson,NA,NA,Antonio Silva,NA,NA,KO (Punches),2,4:10
+"Sep 24, 2016",UFC Fight Night 95 - Cyborg vs. Lansberg,Lightweight,Francisco Trinaldo,NA,NA,Paul Felder,NA,NA,TKO (Doctor Stoppage),3,2:25
+"Sep 24, 2016",UFC Fight Night 95 - Cyborg vs. Lansberg,Middleweight,Eric Spicely,NA,NA,Thiago Santos,NA,NA,Submission (Rear-Naked Choke),1,2:58
+"Sep 24, 2016",UFC Fight Night 95 - Cyborg vs. Lansberg,Bantamweight,Godofredo Castro,NA,NA,Mike de la Torre,NA,NA,Submission (Rear-Naked Choke),1,3:03
+"Sep 24, 2016",UFC Fight Night 95 - Cyborg vs. Lansberg,158lb Catchweight,Michel Prazeres,NA,NA,Gilbert Burns,NA,NA,Decision (Unanimous),3,5:00
+"Sep 24, 2016",UFC Fight Night 95 - Cyborg vs. Lansberg,Bantamweight,Rani Yahya,NA,NA,Michinori Tanaka,NA,NA,Decision (Unanimous),3,5:00
+"Sep 24, 2016",UFC Fight Night 95 - Cyborg vs. Lansberg,Flyweight,Jussier Formiga,,,Dustin Ortiz,NA,NA,Decision (Unanimous),3,5:00
+"Sep 24, 2016",UFC Fight Night 95 - Cyborg vs. Lansberg,Welterweight,Erick Silva,NA,NA,Luan Chagas,NA,NA,Submission (Rear-Naked Choke),3,3:57
+"Sep 24, 2016",UFC Fight Night 95 - Cyborg vs. Lansberg,Lightweight,Alan Patrick,NA,NA,Steven Ray,,,Decision (Unanimous),3,5:00
+"Sep 24, 2016",UFC Fight Night 95 - Cyborg vs. Lansberg,Welterweight,Vicente Luque,NA,NA,Hector Urbina,NA,NA,KO (Punch),1,1:00
+"Sep 24, 2016",UFC Fight Night 95 - Cyborg vs. Lansberg,Lightweight,Gregor Gillespie,NA,NA,Glaico Franca,NA,NA,Decision (Unanimous),3,5:00
+"Aug 27, 2016",UFC on Fox 21 - Maia vs. Condit,Welterweight,Demian Maia,,,Carlos Condit,,,Submission (Rear-Naked Choke),1,1:52
+"Aug 27, 2016",UFC on Fox 21 - Maia vs. Condit,Featherweight,Anthony Pettis,,,Charles Oliveira,,,Submission (Guillotine Choke),3,1:49
+"Aug 27, 2016",UFC on Fox 21 - Maia vs. Condit,Strawweight,Paige VanZant,,,Bec Rawlings,,,KO (Head Kick and Punches),2,0:17
+"Aug 27, 2016",UFC on Fox 21 - Maia vs. Condit,Lightweight,Jim Miller,,,Joe Lauzon,,,Decision (Split),3,5:00
+"Aug 27, 2016",UFC on Fox 21 - Maia vs. Condit,Middleweight,Sam Alvey,,,Kevin Casey,,,TKO (Punches),2,4:56
+"Aug 27, 2016",UFC on Fox 21 - Maia vs. Condit,Featherweight,Kyle Bochniak,,,Enrique Barzola,,,Decision (Split),3,5:00
+"Aug 27, 2016",UFC on Fox 21 - Maia vs. Condit,Middleweight,Alessio Di Chirico,,,Garreth McLellan,,,Decision (Split),3,5:00
+"Aug 27, 2016",UFC on Fox 21 - Maia vs. Condit,Lightweight,Felipe Silva,,,Shane Campbell,,,TKO (Punches),1,1:13
+"Aug 27, 2016",UFC on Fox 21 - Maia vs. Condit,159lb Catchweight,Chad Laprise,,,Thibault Gouti,,,TKO (Punches),1,1:36
+"Aug 27, 2016",UFC on Fox 21 - Maia vs. Condit,Featherweight,Jeremy Kennedy,,,Alessandro Ricci,,,Decision (Unanimous),3,5:00
+"Sep 17, 2016",UFC Fight Night 94 - Poirier vs. Johnson,Lightweight,Michael Johnson,NA,NA,Dustin Poirier,NA,NA,KO (Punches),1,1:35
+"Sep 17, 2016",UFC Fight Night 94 - Poirier vs. Johnson,Middleweight,Derek Brunson,NA,NA,Uriah Hall,NA,NA,TKO (Punch),1,1:41
+"Sep 17, 2016",UFC Fight Night 94 - Poirier vs. Johnson,Lightweight,Evan Dunham,NA,NA,Ricky Glenn,,,Decision (Unanimous),3,5:00
+"Sep 17, 2016",UFC Fight Night 94 - Poirier vs. Johnson,Welterweight,Roan Carneiro,NA,NA,Kenny Robertson,NA,NA,Decision (Split),3,5:00
+"Sep 17, 2016",UFC Fight Night 94 - Poirier vs. Johnson,Lightweight,Islam Makhachev,NA,NA,Chris Wade,NA,NA,Decision (Unanimous),3,5:00
+"Sep 17, 2016",UFC Fight Night 94 - Poirier vs. Johnson,Featherweight,Chas Skelly,NA,NA,Maximo Blanco,NA,NA,Technical Submission (Anaconda Choke),1,0:19
+"Sep 17, 2016",UFC Fight Night 94 - Poirier vs. Johnson,Featherweight,Gabriel Benitez,NA,NA,Sam Sicilia,NA,NA,Technical Submission (Guillotine Choke),2,1:20
+"Sep 17, 2016",UFC Fight Night 94 - Poirier vs. Johnson,Welterweight,Belal Muhammad,NA,NA,Augusto Montano,NA,NA,TKO (Punches),3,4:19
+"Sep 17, 2016",UFC Fight Night 94 - Poirier vs. Johnson,Middleweight,Antonio Carlos Jr.,NA,NA,Leonardo Guimaraes,NA,NA,Submission (Rear-Naked Choke),3,4:46
+"Sep 17, 2016",UFC Fight Night 94 - Poirier vs. Johnson,Bantamweight,Jose Quinonez,NA,NA,Joey Gomez,NA,NA,Decision (Unanimous),3,5:00
+"Sep 17, 2016",UFC Fight Night 94 - Poirier vs. Johnson,Welterweight,Randy Brown,NA,NA,Erick Montano,NA,NA,Submission (Guillotine Choke),3,0:18
+"Sep 17, 2016",UFC Fight Night 94 - Poirier vs. Johnson,Bantamweight,Albert Morales,NA,NA,Alejandro Perez,NA,NA,Draw (Majority),3,5:00
+"Aug 6, 2016",UFC Fight Night 92 - Rodriguez vs. Caceres,Featherweight,Yair Rodriguez,NA,NA,Alex Caceres,NA,NA,Decision (Split),5,5:00
+"Aug 6, 2016",UFC Fight Night 92 - Rodriguez vs. Caceres,Featherweight,Dennis Bermudez,NA,NA,Rony Mariano Bezerra,NA,NA,Decision (Unanimous),3,5:00
+"Aug 6, 2016",UFC Fight Night 92 - Rodriguez vs. Caceres,Middleweight,Thales Leites,NA,NA,Chris Camozzi,NA,NA,Submission (Rear-Naked Choke),3,2:58
+"Aug 6, 2016",UFC Fight Night 92 - Rodriguez vs. Caceres,Welterweight,Santiago Ponzinibbio,NA,NA,Zak Cummings,NA,NA,Decision (Unanimous),3,5:00
+"Aug 6, 2016",UFC Fight Night 92 - Rodriguez vs. Caceres,Middleweight,Trevor Smith,NA,NA,Joe Gigliotti,,,Decision (Unanimous),3,5:00
+"Aug 6, 2016",UFC Fight Night 92 - Rodriguez vs. Caceres,Strawweight,Maryna Moroz,NA,NA,Danielle Taylor,NA,NA,Decision (Split),3,5:00
+"Aug 6, 2016",UFC Fight Night 92 - Rodriguez vs. Caceres,Welterweight,Court McGee,NA,NA,Dominique Steele,NA,NA,Decision (Unanimous),3,5:00
+"Aug 6, 2016",UFC Fight Night 92 - Rodriguez vs. Caceres,Heavyweight,Marcin Tybura,NA,NA,Viktor Pesta,NA,NA,KO (Head Kick),2,0:53
+"Aug 6, 2016",UFC Fight Night 92 - Rodriguez vs. Caceres,Lightweight,David Teymur,NA,NA,Jason Novelli,NA,NA,KO (Punches),2,1:25
+"Aug 6, 2016",UFC Fight Night 92 - Rodriguez vs. Caceres,Featherweight,Teruto Ishihara,NA,NA,Horacio Gutierrez,NA,NA,KO (Punches),1,2:32
+"Aug 6, 2016",UFC Fight Night 92 - Rodriguez vs. Caceres,Featherweight,Cub Swanson,NA,NA,Tatsuya Kawajiri,NA,NA,Decision (Unanimous),3,5:00
+"Aug 6, 2016",UFC Fight Night 92 - Rodriguez vs. Caceres,Heavyweight,Justin Ledet,NA,NA,Chase Sherman,NA,NA,Decision (Unanimous),3,5:00
+"Jul 30, 2016",UFC 201 - Lawler vs. Woodley,Welterweight Title Fight,Tyron Woodley,NA,NA,Robbie Lawler,NA,NA,KO (Punches),1,2:12
+"Jul 30, 2016",UFC 201 - Lawler vs. Woodley,Strawweight,Karolina Kowalkiewicz,NA,NA,Rose Namajunas,NA,NA,Decision (Split),3,5:00
+"Jul 30, 2016",UFC 201 - Lawler vs. Woodley,Welterweight,Jake Ellenberger,NA,NA,Matt Brown,NA,NA,TKO (Kick to the Body and Punches),1,1:46
+"Jul 30, 2016",UFC 201 - Lawler vs. Woodley,Bantamweight,Erik Perez,NA,NA,Francisco Rivera,NA,NA,Decision (Unanimous),3,5:00
+"Jul 30, 2016",UFC 201 - Lawler vs. Woodley,Flyweight,Ryan Benoit,NA,NA,Fredy Serrano,,,Decision (Split),3,5:00
+"Jul 30, 2016",UFC 201 - Lawler vs. Woodley,Light Heavyweight,Nikita Krylov,NA,NA,Ed Herman,NA,NA,KO (Head Kick),2,0:40
+"Jul 30, 2016",UFC 201 - Lawler vs. Woodley,Welterweight,Jorge Masvidal,NA,NA,Ross Pearson,NA,NA,Decision (Unanimous),3,5:00
+"Jul 30, 2016",UFC 201 - Lawler vs. Woodley,Heavyweight,Anthony Hamilton,NA,NA,Damian Grabowski,NA,NA,KO (Punches),1,0:14
+"Jul 30, 2016",UFC 201 - Lawler vs. Woodley,Flyweight,Wilson Reis,NA,NA,Hector Sandoval,NA,NA,Submission (Rear-Naked Choke),1,1:49
+"Jul 30, 2016",UFC 201 - Lawler vs. Woodley,Welterweight,Michael Graves,NA,NA,Bojan Velickovic,NA,NA,Draw (Majority),3,5:00
+"Jul 30, 2016",UFC 201 - Lawler vs. Woodley,Lightweight,Damien Brown,NA,NA,Cesar Arzamendia,NA,NA,KO (Punches),1,2:27
+"Jul 23, 2016",UFC on Fox 20 - Holm vs. Shevchenko,Bantamweight,Valentina Shevchenko,NA,NA,Holly Holm,NA,NA,Decision (Unanimous),5,5:00
+"Jul 23, 2016",UFC on Fox 20 - Holm vs. Shevchenko,Lightweight,Edson Barboza,NA,NA,Gilbert Melendez,NA,NA,Decision (Unanimous),3,5:00
+"Jul 23, 2016",UFC on Fox 20 - Holm vs. Shevchenko,Heavyweight,Francis Ngannou,NA,NA,Bojan Mihajlovic,NA,NA,TKO (Punches),1,1:34
+"Jul 23, 2016",UFC on Fox 20 - Holm vs. Shevchenko,Strawweight,Felice Herrig,NA,NA,Kailin Curran,NA,NA,Submission (Rear-Naked Choke),1,1:59
+"Jul 23, 2016",UFC on Fox 20 - Holm vs. Shevchenko,Bantamweight,Eddie Wineland,NA,NA,Frankie Saenz,NA,NA,TKO (Punches),3,1:54
+"Jul 23, 2016",UFC on Fox 20 - Holm vs. Shevchenko,Featherweight,Darren Elkins,NA,NA,Godofredo Castro,NA,NA,Decision (Unanimous),3,5:00
+"Jul 23, 2016",UFC on Fox 20 - Holm vs. Shevchenko,Bantamweight,Kamaru Usman,NA,NA,Alexander Yakovlev,NA,NA,Decision (Unanimous),3,5:00
+"Jul 23, 2016",UFC on Fox 20 - Holm vs. Shevchenko,Lightweight,Michel Prazeres,,,J.C. Cottrell,NA,NA,Decision (Unanimous),3,5:00
+"Jul 23, 2016",UFC on Fox 20 - Holm vs. Shevchenko,Welterweight,Alex Oliveira,NA,NA,James Moontasri,NA,NA,Decision (Unanimous),3,5:00
+"Jul 23, 2016",UFC on Fox 20 - Holm vs. Shevchenko,Featherweight,Jason Knight,NA,NA,Jim Alers,NA,NA,Decision (Split),3,5:00
+"Jul 23, 2016",UFC on Fox 20 - Holm vs. Shevchenko,Heavyweight,Luis Henrique,NA,NA,Dmitry Smoliakov,NA,NA,Submission (Rear-Naked Choke),2,3:58
+"Jul 13, 2016",UFC Fight Night 91 - McDonald vs. Lineker,Bantamweight,John Lineker,NA,NA,Michael McDonald,NA,NA,KO (Punches),1,2:43
+"Jul 13, 2016",UFC Fight Night 91 - McDonald vs. Lineker,Lightweight,Tony Ferguson,NA,NA,Lando Vannata,,,Submission (Brabo Choke),2,2:22
+"Jul 13, 2016",UFC Fight Night 91 - McDonald vs. Lineker,Middleweight,Tim Boetsch,NA,NA,Josh Samman,NA,NA,TKO (Punches),2,3:49
+"Jul 13, 2016",UFC Fight Night 91 - McDonald vs. Lineker,Heavyweight,Daniel Omielanczuk,NA,NA,Alexey Oleynik,,,Decision (Majority),3,5:00
+"Jul 13, 2016",UFC Fight Night 91 - McDonald vs. Lineker,Welterweight,Keita Nakamura,NA,NA,Kyle Noke,NA,NA,Submission (Rear-Naked Choke),2,4:59
+"Jul 13, 2016",UFC Fight Night 91 - McDonald vs. Lineker,Flyweight,Louis Smolka,NA,NA,Ben Nguyen,NA,NA,TKO (Punches and Elbows),2,4:41
+"Jul 13, 2016",UFC Fight Night 91 - McDonald vs. Lineker,Bantamweight,Katlyn Cerminara,,,Lauren Murphy,NA,NA,Decision (Unanimous),3,5:00
+"Jul 13, 2016",UFC Fight Night 91 - McDonald vs. Lineker,Middleweight,Sam Alvey,NA,NA,Eric Spicely,NA,NA,Submission (Guillotine Choke),1,2:43
+"Jul 13, 2016",UFC Fight Night 91 - McDonald vs. Lineker,Strawweight,Cortney Casey,NA,NA,Cristina Stanciu,NA,NA,TKO (Elbows),1,2:36
+"Jul 13, 2016",UFC Fight Night 91 - McDonald vs. Lineker,Lightweight,Scott Holtzman,NA,NA,Cody Pfister,NA,NA,Decision (Unanimous),3,5:00
+"Jul 13, 2016",UFC Fight Night 91 - McDonald vs. Lineker,Bantamweight,Rani Yahya,NA,NA,Matthew Lopez,NA,NA,Submission (Arm-Triangle Choke),3,4:19
+"Jul 13, 2016",UFC Fight Night 91 - McDonald vs. Lineker,Light Heavyweight,Alex Nicholson,NA,NA,Devin Clark,NA,NA,KO (Punch),1,4:57
+"Jul 9, 2016",UFC 200 - Tate vs. Nunes,Bantamweight Title Fight,Amanda Nunes,NA,NA,Miesha Tate,NA,NA,Submission (Rear-Naked Choke),1,3:16
+"Jul 9, 2016",UFC 200 - Tate vs. Nunes,Heavyweight,Brock Lesnar,NA,NA,Mark Hunt,NA,NA,No Contest (Overturned),3,5:00
+"Jul 9, 2016",UFC 200 - Tate vs. Nunes,Light Heavyweight,Daniel Cormier,NA,NA,Anderson Silva,NA,NA,Decision (Unanimous),3,5:00
+"Jul 9, 2016",UFC 200 - Tate vs. Nunes,Featherweight Title Fight,Jose Aldo,NA,NA,Frankie Edgar,NA,NA,Decision (Unanimous),5,5:00
+"Jul 9, 2016",UFC 200 - Tate vs. Nunes,Heavyweight,Cain Velasquez,NA,NA,Travis Browne,NA,NA,TKO (Punches),1,4:57
+"Jul 9, 2016",UFC 200 - Tate vs. Nunes,Bantamweight,Julianna Pena,NA,NA,Cat Zingano,NA,NA,Decision (Unanimous),3,5:00
+"Jul 9, 2016",UFC 200 - Tate vs. Nunes,172lb Catchweight,Kelvin Gastelum,NA,NA,Johny Hendricks,NA,NA,Decision (Unanimous),3,5:00
+"Jul 9, 2016",UFC 200 - Tate vs. Nunes,Bantamweight,T.J. Dillashaw,NA,NA,Raphael Assuncao,NA,NA,Decision (Unanimous),3,5:00
+"Jul 9, 2016",UFC 200 - Tate vs. Nunes,Lightweight,Sage Northcutt,NA,NA,Enrique Marin,NA,NA,Decision (Unanimous),3,5:00
+"Jul 9, 2016",UFC 200 - Tate vs. Nunes,Lightweight,Joe Lauzon,NA,NA,Diego Sanchez,NA,NA,TKO (Punches),1,1:26
+"Jul 9, 2016",UFC 200 - Tate vs. Nunes,Middleweight,Gegard Mousasi,NA,NA,Thiago Santos,NA,NA,KO (Punches),1,4:32
+"Jul 9, 2016",UFC 200 - Tate vs. Nunes,Lightweight,Jim Miller,NA,NA,Takanori Gomi,NA,NA,TKO (Punches),1,2:18
+"Jul 7, 2016",UFC Fight Night 90 - Dos Anjos vs. Alvarez,Lightweight Title Fight,Eddie Alvarez,NA,NA,Rafael dos Anjos,NA,NA,TKO (Punches),1,3:49
+"Jul 7, 2016",UFC Fight Night 90 - Dos Anjos vs. Alvarez,Heavyweight,Derrick Lewis,NA,NA,Roy Nelson,NA,NA,Decision (Split),3,5:00
+"Jul 7, 2016",UFC Fight Night 90 - Dos Anjos vs. Alvarez,Welterweight,Alan Jouban,NA,NA,Belal Muhammad,NA,NA,Decision (Unanimous),3,5:00
+"Jul 7, 2016",UFC Fight Night 90 - Dos Anjos vs. Alvarez,Lightweight,Joseph Duffy,NA,NA,Mitch Clarke,NA,NA,Submission (Rear-Naked Choke),1,0:25
+"Jul 7, 2016",UFC Fight Night 90 - Dos Anjos vs. Alvarez,Welterweight,Alberto Mina,NA,NA,Mike Pyle,NA,NA,KO (Flying Knee),2,1:17
+"Jul 7, 2016",UFC Fight Night 90 - Dos Anjos vs. Alvarez,Lightweight,John Makdessi,NA,NA,Mehdi Baghdad,NA,NA,Decision (Split),3,5:00
+"Jul 7, 2016",UFC Fight Night 90 - Dos Anjos vs. Alvarez,Bantamweight,Anthony Birchak,NA,NA,Dileno Lopes,NA,NA,Decision (Split),3,5:00
+"Jul 7, 2016",UFC Fight Night 90 - Dos Anjos vs. Alvarez,Bantamweight,Pedro Munhoz,NA,NA,Russell Doane,NA,NA,Submission (Guillotine Choke),1,2:08
+"Jul 7, 2016",UFC Fight Night 90 - Dos Anjos vs. Alvarez,Bantamweight,Felipe Arantes,NA,NA,Jerrod Sanders,NA,NA,Submission (Armbar),2,1:39
+"Jul 7, 2016",UFC Fight Night 90 - Dos Anjos vs. Alvarez,Lightweight,Gilbert Burns,NA,NA,Lukasz Sajewski,NA,NA,Submission (Armbar),1,4:57
+"Jul 7, 2016",UFC Fight Night 90 - Dos Anjos vs. Alvarez,Bantamweight,Marco Beltran,NA,NA,Reginaldo Vieira,NA,NA,Submission (Rear-Naked Choke),2,3:04
+"Jul 7, 2016",UFC Fight Night 90 - Dos Anjos vs. Alvarez,Welterweight,Vicente Luque,NA,NA,Alvaro Herrera,NA,NA,Submission (Brabo Choke),2,3:52
+"Jul 8, 2016",UFC  - The Ultimate Fighter 23 Finale,Strawweight Title Fight,Joanna Jedrzejczyk,NA,NA,Claudia Gadelha,NA,NA,Decision (Unanimous),5,5:00
+"Jul 8, 2016",UFC  - The Ultimate Fighter 23 Finale,Light Heavyweight,Andrew Sanchez,NA,NA,Khalil Rountree,NA,NA,Decision (Unanimous),3,5:00
+"Jul 8, 2016",UFC  - The Ultimate Fighter 23 Finale,Strawweight,Tatiana Suarez,NA,NA,Amanda Bobby Brundage,,,Submission (Brabo Choke),1,3:43
+"Jul 8, 2016",UFC  - The Ultimate Fighter 23 Finale,Lightweight,Will Brooks,NA,NA,Ross Pearson,NA,NA,Decision (Unanimous),3,5:00
+"Jul 8, 2016",UFC  - The Ultimate Fighter 23 Finale,Featherweight,Doo Ho Choi,NA,NA,Thiago Tavares,NA,NA,KO (Punches),1,2:42
+"Jul 8, 2016",UFC  - The Ultimate Fighter 23 Finale,Lightweight,Joaquim Silva,NA,NA,Andrew Holbrook,NA,NA,KO (Punches),1,0:34
+"Jul 8, 2016",UFC  - The Ultimate Fighter 23 Finale,Featherweight,Gray Maynard,NA,NA,Fernando Bruno,NA,NA,Decision (Unanimous),3,5:00
+"Jul 8, 2016",UFC  - The Ultimate Fighter 23 Finale,Flyweight,Matheus Nicolau,NA,NA,John Moraga,NA,NA,Decision (Split),3,5:00
+"Jul 8, 2016",UFC  - The Ultimate Fighter 23 Finale,Light Heavyweight,Josh Stansbury,NA,NA,Cory Hendricks,NA,NA,Decision (Majority),3,5:00
+"Jul 8, 2016",UFC  - The Ultimate Fighter 23 Finale,Middleweight,Cezar Ferreira,NA,NA,Anthony Smith,NA,NA,Decision (Unanimous),3,5:00
+"Jul 8, 2016",UFC  - The Ultimate Fighter 23 Finale,Lightweight,Kevin Lee,NA,NA,Jake Matthews,NA,NA,TKO (Punches),1,4:06
+"Jul 8, 2016",UFC  - The Ultimate Fighter 23 Finale,Welterweight,Jingliang Li,NA,NA,Anton Zafir,NA,NA,KO (Punches),1,2:46
+"Jun 18, 2016",UFC Fight Night 89 - MacDonald vs. Thompson,Welterweight,Stephen Thompson,NA,NA,Rory MacDonald,NA,NA,Decision (Unanimous),5,5:00
+"Jun 18, 2016",UFC Fight Night 89 - MacDonald vs. Thompson,Welterweight,Donald Cerrone,NA,NA,Patrick Cote,NA,NA,TKO (Punches),3,2:35
+"Jun 18, 2016",UFC Fight Night 89 - MacDonald vs. Thompson,Light Heavyweight,Steve Bosse,NA,NA,Sean O'Connell,NA,NA,Decision (Unanimous),3,5:00
+"Jun 18, 2016",UFC Fight Night 89 - MacDonald vs. Thompson,Lightweight,Olivier Aubin-Mercier,NA,NA,Thibault Gouti,NA,NA,Submission (Rear-Naked Choke),3,2:28
+"Jun 18, 2016",UFC Fight Night 89 - MacDonald vs. Thompson,Flyweight,Joanne Wood,,,Valerie Letourneau,NA,NA,TKO (Body Kick and Punches),3,2:51
+"Jun 18, 2016",UFC Fight Night 89 - MacDonald vs. Thompson,Lightweight,Jason Saggo,NA,NA,Leandro Silva,NA,NA,Decision (Split),3,5:00
+"Jun 18, 2016",UFC Fight Night 89 - MacDonald vs. Thompson,Light Heavyweight,Misha Cirkunov,NA,NA,Ion Cutelaba,NA,NA,Submission (Arm-Triangle Choke),3,1:22
+"Jun 18, 2016",UFC Fight Night 89 - MacDonald vs. Thompson,Middleweight,Krzysztof Jotko,NA,NA,Tamdan McCrory,NA,NA,KO (Punches),1,0:59
+"Jun 18, 2016",UFC Fight Night 89 - MacDonald vs. Thompson,Bantamweight,Joe Soto,NA,NA,Christopher Mario Beal,,,Submission (Rear-Naked Choke),3,3:39
+"Jun 18, 2016",UFC Fight Night 89 - MacDonald vs. Thompson,Middleweight,Elias Theodorou,NA,NA,Sam Alvey,NA,NA,Decision (Unanimous),3,5:00
+"Jun 18, 2016",UFC Fight Night 89 - MacDonald vs. Thompson,118lb Catchweight,Randa Markos,NA,NA,Jocelyn Jones-Lybarger,NA,NA,Decision (Unanimous),3,5:00
+"Jun 18, 2016",UFC Fight Night 89 - MacDonald vs. Thompson,Welterweight,Colby Covington,NA,NA,Jonathan Meunier,NA,NA,Submission (Rear-Naked Choke),3,0:54
+"Jun 18, 2016",UFC Fight Night 89 - MacDonald vs. Thompson,Flyweight,Ali Bagautinov,NA,NA,Geane Herrera,NA,NA,Decision (Unanimous),3,5:00
+"Aug 20, 2016",UFC 202 - Diaz vs. McGregor 2,Welterweight,Conor McGregor,NA,NA,Nate Diaz,NA,NA,Decision (Majority),5,5:00
+"Aug 20, 2016",UFC 202 - Diaz vs. McGregor 2,Light Heavyweight,Anthony Johnson,NA,NA,Glover Teixeira,NA,NA,KO (Punch),1,0:13
+"Aug 20, 2016",UFC 202 - Diaz vs. McGregor 2,Welterweight,Donald Cerrone,NA,NA,Rick Story,NA,NA,TKO (Knee and Punches),2,2:02
+"Aug 20, 2016",UFC 202 - Diaz vs. McGregor 2,Welterweight,Mike Perry,NA,NA,Hyun Gyu Lim,NA,NA,TKO (Punches),1,3:38
+"Aug 20, 2016",UFC 202 - Diaz vs. McGregor 2,Welterweight,Tim Means,NA,NA,Sabah Homasi,NA,NA,TKO (Punches),2,2:56
+"Aug 20, 2016",UFC 202 - Diaz vs. McGregor 2,Bantamweight,Cody Garbrandt,NA,NA,Takeya Mizugaki,NA,NA,TKO (Punches),1,0:48
+"Aug 20, 2016",UFC 202 - Diaz vs. McGregor 2,Bantamweight,Raquel Pennington,NA,NA,Elizabeth Phillips,NA,NA,Decision (Unanimous),3,5:00
+"Aug 20, 2016",UFC 202 - Diaz vs. McGregor 2,Featherweight,Artem Lobov,NA,NA,Chris Avila,NA,NA,Decision (Unanimous),3,5:00
+"Aug 20, 2016",UFC 202 - Diaz vs. McGregor 2,Strawweight,Cortney Casey,NA,NA,Randa Markos,NA,NA,Submission (Armbar),1,4:34
+"Aug 20, 2016",UFC 202 - Diaz vs. McGregor 2,Welterweight,Lorenz Larkin,NA,NA,Neil Magny,NA,NA,TKO (Elbows),1,4:08
+"Aug 20, 2016",UFC 202 - Diaz vs. McGregor 2,Welterweight,Colby Covington,NA,NA,Max Griffin,NA,NA,TKO (Punches),3,2:18
+"Aug 20, 2016",UFC 202 - Diaz vs. McGregor 2,Middleweight,Marvin Vettori,NA,NA,Alberto Emiliano Pereira,NA,NA,Submission (Guillotine Choke),1,4:30
+"Jun 4, 2016",UFC 199 - Rockhold vs. Bisping 2,Middleweight Title Fight,Michael Bisping,NA,NA,Luke Rockhold,NA,NA,KO (Punches),1,3:36
+"Jun 4, 2016",UFC 199 - Rockhold vs. Bisping 2,Bantamweight Title Fight,Dominick Cruz,NA,NA,Urijah Faber,NA,NA,Decision (Unanimous),5,5:00
+"Jun 4, 2016",UFC 199 - Rockhold vs. Bisping 2,Featherweight,Max Holloway,NA,NA,Ricardo Lamas,NA,NA,Decision (Unanimous),3,5:00
+"Jun 4, 2016",UFC 199 - Rockhold vs. Bisping 2,Middleweight,Dan Henderson,NA,NA,Hector Lombard,NA,NA,KO (Elbow),2,1:27
+"Jun 4, 2016",UFC 199 - Rockhold vs. Bisping 2,Lightweight,Dustin Poirier,NA,NA,Bobby Green,NA,NA,KO (Punches),1,2:53
+"Jun 4, 2016",UFC 199 - Rockhold vs. Bisping 2,Featherweight,Brian Ortega,NA,NA,Clay Guida,NA,NA,KO (Knee),3,4:40
+"Jun 4, 2016",UFC 199 - Rockhold vs. Bisping 2,Lightweight,Beneil Dariush,NA,NA,James Vick,NA,NA,KO (Punches),1,4:16
+"Jun 4, 2016",UFC 199 - Rockhold vs. Bisping 2,Strawweight,Jessica Andrade,NA,NA,Jessica Penne,NA,NA,TKO (Punches),2,2:56
+"Jun 4, 2016",UFC 199 - Rockhold vs. Bisping 2,Featherweight,Alex Caceres,NA,NA,Cole Miller,NA,NA,Decision (Unanimous),3,5:00
+"Jun 4, 2016",UFC 199 - Rockhold vs. Bisping 2,Welterweight,Sean Strickland,NA,NA,Tom Breese,NA,NA,Decision (Split),3,5:00
+"Jun 4, 2016",UFC 199 - Rockhold vs. Bisping 2,Light Heavyweight,Henrique da Silva,NA,NA,Jonathan Wilson,NA,NA,TKO (Punches),2,4:11
+"Jun 4, 2016",UFC 199 - Rockhold vs. Bisping 2,Middleweight,Kevin Casey,NA,NA,Elvis Mutapcic,NA,NA,Draw (Split),3,5:00
+"Jun 4, 2016",UFC 199 - Rockhold vs. Bisping 2,Lightweight,Marco Polo Reyes,NA,NA,Dong Hyun Ma,,,KO (Punches),3,1:52
+"May 29, 2016",UFC Fight Night 88 - Almeida vs. Garbrandt,Bantamweight,Cody Garbrandt,NA,NA,Thomas Almeida,NA,NA,KO (Punches),1,2:53
+"May 29, 2016",UFC Fight Night 88 - Almeida vs. Garbrandt,Featherweight,Jeremy Stephens,NA,NA,Renan Barao,NA,NA,Decision (Unanimous),3,5:00
+"May 29, 2016",UFC Fight Night 88 - Almeida vs. Garbrandt,Welterweight,Rick Story,NA,NA,Tarec Saffiedine,NA,NA,Decision (Unanimous),3,5:00
+"May 29, 2016",UFC Fight Night 88 - Almeida vs. Garbrandt,Middleweight,Chris Camozzi,NA,NA,Vitor Miranda,NA,NA,Decision (Unanimous),3,5:00
+"May 29, 2016",UFC Fight Night 88 - Almeida vs. Garbrandt,Welterweight,Lorenz Larkin,NA,NA,Jorge Masvidal,NA,NA,Decision (Split),3,5:00
+"May 29, 2016",UFC Fight Night 88 - Almeida vs. Garbrandt,Lightweight,Paul Felder,NA,NA,Joshua Burkman,NA,NA,Decision (Unanimous),3,5:00
+"May 29, 2016",UFC Fight Night 88 - Almeida vs. Garbrandt,Bantamweight,Sara McMann,NA,NA,Jessica Eye,NA,NA,Decision (Unanimous),3,5:00
+"May 29, 2016",UFC Fight Night 88 - Almeida vs. Garbrandt,Lightweight,Abel Trujillo,NA,NA,Jordan Rinaldi,NA,NA,Decision (Unanimous),3,5:00
+"May 29, 2016",UFC Fight Night 88 - Almeida vs. Garbrandt,Middleweight,Jake Collier,NA,NA,Alberto Emiliano Pereira,,,KO (Knee and Body Kick),2,1:06
+"May 29, 2016",UFC Fight Night 88 - Almeida vs. Garbrandt,Lightweight,Erik Koch,NA,NA,Shane Campbell,NA,NA,Submission (Rear-Naked Choke),2,3:02
+"May 29, 2016",UFC Fight Night 88 - Almeida vs. Garbrandt,Bantamweight,Bryan Caraway,NA,NA,Aljamain Sterling,NA,NA,Decision (Split),3,5:00
+"May 29, 2016",UFC Fight Night 88 - Almeida vs. Garbrandt,Heavyweight,Adam Milstead,NA,NA,Chris de la Rocha,NA,NA,TKO (Punches),2,4:01
+"Apr 16, 2016",UFC on Fox 19 - Teixeira vs. Evans,Light Heavyweight,Glover Teixeira,NA,NA,Rashad Evans,NA,NA,KO (Punches),1,1:48
+"Apr 16, 2016",UFC on Fox 19 - Teixeira vs. Evans,Strawweight,Rose Namajunas,NA,NA,Tecia Pennington,,,Decision (Unanimous),3,5:00
+"Apr 16, 2016",UFC on Fox 19 - Teixeira vs. Evans,160lb Catchweight,Khabib Nurmagomedov,NA,NA,Darrell Horcher,NA,NA,TKO (Punches),2,3:38
+"Apr 16, 2016",UFC on Fox 19 - Teixeira vs. Evans,Featherweight,Cub Swanson,NA,NA,Hacran Dias,NA,NA,Decision (Unanimous),3,5:00
+"Apr 16, 2016",UFC on Fox 19 - Teixeira vs. Evans,Lightweight,Michael Chiesa,NA,NA,Beneil Dariush,NA,NA,Submission (Rear-Naked Choke),2,1:20
+"Apr 16, 2016",UFC on Fox 19 - Teixeira vs. Evans,Bantamweight,Raquel Pennington,NA,NA,Bethe Correia,NA,NA,Decision (Split),3,5:00
+"Apr 16, 2016",UFC on Fox 19 - Teixeira vs. Evans,Welterweight,Santiago Ponzinibbio,NA,NA,Court McGee,NA,NA,TKO (Punches),1,4:15
+"Apr 16, 2016",UFC on Fox 19 - Teixeira vs. Evans,Welterweight,Michael Graves,NA,NA,Randy Brown,NA,NA,Submission (Rear-Naked Choke),2,2:31
+"Apr 16, 2016",UFC on Fox 19 - Teixeira vs. Evans,Bantamweight,John Dodson,NA,NA,Manny Gamburyan,NA,NA,TKO (Punches),1,0:47
+"Apr 16, 2016",UFC on Fox 19 - Teixeira vs. Evans,Middleweight,Cezar Ferreira,NA,NA,Oluwale Bamgbose,NA,NA,Decision (Unanimous),3,5:00
+"Apr 16, 2016",UFC on Fox 19 - Teixeira vs. Evans,Welterweight,Elizeu Zaleski dos Santos,NA,NA,Omari Akhmedov,NA,NA,TKO (Knees and Punches),3,3:03
+"Apr 23, 2016",UFC 197 - Jones vs. St. Preux,Light Heavyweight Title Fight,Jon Jones,NA,NA,Ovince St. Preux,NA,NA,Decision (Unanimous),5,5:00
+"Apr 23, 2016",UFC 197 - Jones vs. St. Preux,Flyweight Title Fight,Demetrious Johnson,NA,NA,Henry Cejudo,NA,NA,TKO (Knees to the Body),1,2:49
+"Apr 23, 2016",UFC 197 - Jones vs. St. Preux,Lightweight,Edson Barboza,NA,NA,Anthony Pettis,NA,NA,Decision (Unanimous),3,5:00
+"Apr 23, 2016",UFC 197 - Jones vs. St. Preux,Middleweight,Robert Whittaker,NA,NA,Rafael Natal,NA,NA,Decision (Unanimous),3,5:00
+"Apr 23, 2016",UFC 197 - Jones vs. St. Preux,Featherweight,Yair Rodriguez,NA,NA,Andre Fili,NA,NA,KO (Head Kick),2,2:15
+"Apr 23, 2016",UFC 197 - Jones vs. St. Preux,Flyweight,Sergio Pettis,NA,NA,Chris Kelades,NA,NA,Decision (Unanimous),3,5:00
+"Apr 23, 2016",UFC 197 - Jones vs. St. Preux,Welterweight,Danny Roberts,NA,NA,Dominique Steele,NA,NA,Decision (Unanimous),3,5:00
+"Apr 23, 2016",UFC 197 - Jones vs. St. Preux,Strawweight,Carla Esparza,NA,NA,Juliana Lima,NA,NA,Decision (Unanimous),3,5:00
+"Apr 23, 2016",UFC 197 - Jones vs. St. Preux,Lightweight,James Vick,NA,NA,Glaico Franca,NA,NA,Decision (Unanimous),3,5:00
+"Apr 23, 2016",UFC 197 - Jones vs. St. Preux,Heavyweight,Walt Harris,NA,NA,Cody East,NA,NA,TKO (Punches),1,4:18
+"Apr 23, 2016",UFC 197 - Jones vs. St. Preux,Light Heavyweight,Marcos Rogerio de Lima,NA,NA,Clint Hester,NA,NA,Submission (Arm-Triangle Choke),1,4:35
+"Apr 23, 2016",UFC 197 - Jones vs. St. Preux,Lightweight,Kevin Lee,NA,NA,Efrain Escudero,NA,NA,Decision (Unanimous),3,5:00
+"Apr 10, 2016",UFC Fight Night 86 - Rothwell vs. Dos Santos,Heavyweight,Junior dos Santos,NA,NA,Ben Rothwell,NA,NA,Decision (Unanimous),5,5:00
+"Apr 10, 2016",UFC Fight Night 86 - Rothwell vs. Dos Santos,Heavyweight,Derrick Lewis,NA,NA,Gabriel Gonzaga,NA,NA,KO (Punches),1,4:48
+"Apr 10, 2016",UFC Fight Night 86 - Rothwell vs. Dos Santos,Heavyweight,Francis Ngannou,NA,NA,Curtis Blaydes,NA,NA,TKO (Doctor Stoppage),2,5:00
+"Apr 10, 2016",UFC Fight Night 86 - Rothwell vs. Dos Santos,Heavyweight,Tim Johnson,,,Marcin Tybura,NA,NA,Decision (Unanimous),3,5:00
+"Apr 10, 2016",UFC Fight Night 86 - Rothwell vs. Dos Santos,Light Heavyweight,Jan Blachowicz,NA,NA,Igor Pokrajac,NA,NA,Decision (Unanimous),3,5:00
+"Apr 10, 2016",UFC Fight Night 86 - Rothwell vs. Dos Santos,Strawweight,Maryna Moroz,NA,NA,Cristina Stanciu,NA,NA,Decision (Unanimous),3,5:00
+"Apr 10, 2016",UFC Fight Night 86 - Rothwell vs. Dos Santos,Middleweight,Zak Cummings,NA,NA,Nicolas Dalby,NA,NA,Decision (Unanimous),3,5:00
+"Apr 10, 2016",UFC Fight Night 86 - Rothwell vs. Dos Santos,Bantamweight,Alejandro Perez,NA,NA,Ian Entwistle,NA,NA,TKO (Punches),1,4:04
+"Apr 10, 2016",UFC Fight Night 86 - Rothwell vs. Dos Santos,Lightweight,Mairbek Taisumov,NA,NA,Damir Hadzovic,NA,NA,KO (Punch),1,3:44
+"Apr 10, 2016",UFC Fight Night 86 - Rothwell vs. Dos Santos,Bantamweight,Damian Stasiak,NA,NA,Filip Pejic,NA,NA,Submission (Rear-Naked Choke),1,2:16
+"Apr 10, 2016",UFC Fight Night 86 - Rothwell vs. Dos Santos,Featherweight,Lucas Martins,NA,NA,Robert Whiteford,NA,NA,Decision (Split),3,5:00
+"Apr 10, 2016",UFC Fight Night 86 - Rothwell vs. Dos Santos,Heavyweight,Jared Cannonier,NA,NA,Cyril Asker,NA,NA,KO (Punches and Elbows),1,2:44
+"Apr 10, 2016",UFC Fight Night 86 - Rothwell vs. Dos Santos,Middleweight,Bojan Velickovic,NA,NA,Alessio Di Chirico,NA,NA,Decision (Unanimous),3,5:00
+"May 14, 2016",UFC 198 - Werdum vs. Miocic,Heavyweight Title Fight,Stipe Miocic,NA,NA,Fabricio Werdum,NA,NA,KO (Punch),1,2:47
+"May 14, 2016",UFC 198 - Werdum vs. Miocic,Middleweight,Ronaldo Souza,NA,NA,Vitor Belfort,NA,NA,TKO (Punches),1,4:38
+"May 14, 2016",UFC 198 - Werdum vs. Miocic,140lb Catchweight,Cristiane Justino,,,Leslie Smith,NA,NA,TKO (Punches),1,1:21
+"May 14, 2016",UFC 198 - Werdum vs. Miocic,Light Heavyweight,Mauricio Rua,NA,NA,Corey Anderson,NA,NA,Decision (Split),3,5:00
+"May 14, 2016",UFC 198 - Werdum vs. Miocic,Welterweight,Bryan Barberena,NA,NA,Warlley Alves,NA,NA,Decision (Unanimous),3,5:00
+"May 14, 2016",UFC 198 - Werdum vs. Miocic,Welterweight,Demian Maia,NA,NA,Matt Brown,NA,NA,Submission (Rear-Naked Choke),3,4:31
+"May 14, 2016",UFC 198 - Werdum vs. Miocic,Middleweight,Thiago Santos,NA,NA,Nate Marquardt,NA,NA,KO (Punch),1,3:39
+"May 14, 2016",UFC 198 - Werdum vs. Miocic,Lightweight,Francisco Trinaldo,NA,NA,Yancy Medeiros,NA,NA,Decision (Unanimous),3,5:00
+"May 14, 2016",UFC 198 - Werdum vs. Miocic,Bantamweight,John Lineker,NA,NA,Rob Font,NA,NA,Decision (Unanimous),3,5:00
+"May 14, 2016",UFC 198 - Werdum vs. Miocic,Light Heavyweight,Antonio Rogerio Nogueira,NA,NA,Patrick Cummins,NA,NA,TKO (Punches),1,4:52
+"May 14, 2016",UFC 198 - Werdum vs. Miocic,Welterweight,Sergio Moraes,NA,NA,Luan Chagas,NA,NA,Draw (Split),3,5:00
+"May 14, 2016",UFC 198 - Werdum vs. Miocic,Featherweight,Renato Carneiro,NA,NA,Zubaira Tukhugov,NA,NA,Decision (Split),3,5:00
+"Mar 19, 2016",UFC Fight Night 85 - Hunt vs. Mir,Heavyweight,Mark Hunt,NA,NA,Frank Mir,NA,NA,KO (Punch),1,3:01
+"Mar 19, 2016",UFC Fight Night 85 - Hunt vs. Mir,Welterweight,Neil Magny,NA,NA,Hector Lombard,NA,NA,TKO (Punches),3,0:46
+"Mar 19, 2016",UFC Fight Night 85 - Hunt vs. Mir,Lightweight,Jake Matthews,NA,NA,Johnny Case,NA,NA,Submission (Rear-Naked Choke),3,4:45
+"Mar 19, 2016",UFC Fight Night 85 - Hunt vs. Mir,Middleweight,Daniel Kelly,NA,NA,Antonio Carlos Jr.,NA,NA,TKO (Punches),3,1:36
+"Mar 19, 2016",UFC Fight Night 85 - Hunt vs. Mir,Light Heavyweight,Steve Bosse,NA,NA,James Te Huna,NA,NA,KO (Punch),1,0:52
+"Mar 19, 2016",UFC Fight Night 85 - Hunt vs. Mir,Strawweight,Bec Rawlings,NA,NA,Seo Hee Ham,NA,NA,Decision (Unanimous),3,5:00
+"Mar 19, 2016",UFC Fight Night 85 - Hunt vs. Mir,Welterweight,Alan Jouban,NA,NA,Brendan O'Reilly,NA,NA,TKO (Elbows and Punches),1,2:15
+"Mar 19, 2016",UFC Fight Night 85 - Hunt vs. Mir,Featherweight,Dan Hooker,,,Mark Eddiva,NA,NA,Submission (Guillotine Choke),1,1:24
+"Mar 19, 2016",UFC Fight Night 85 - Hunt vs. Mir,Bantamweight,Leslie Smith,NA,NA,Rin Nakai,NA,NA,Decision (Unanimous),3,5:00
+"Mar 19, 2016",UFC Fight Night 85 - Hunt vs. Mir,Welterweight,Viscardi Andrade,NA,NA,Richard Walsh,NA,NA,Decision (Unanimous),3,5:00
+"Mar 19, 2016",UFC Fight Night 85 - Hunt vs. Mir,Lightweight,Ross Pearson,NA,NA,Chad Laprise,NA,NA,Decision (Split),3,5:00
+"Mar 19, 2016",UFC Fight Night 85 - Hunt vs. Mir,Lightweight,Alan Patrick,NA,NA,Damien Brown,NA,NA,Decision (Unanimous),3,5:00
+"May 8, 2016",UFC Fight Night 87 - Overeem vs. Arlovski,Heavyweight,Alistair Overeem,NA,NA,Andrei Arlovski,NA,NA,TKO (Front Kick and Punches),2,1:12
+"May 8, 2016",UFC Fight Night 87 - Overeem vs. Arlovski,Heavyweight,Stefan Struve,NA,NA,Antonio Silva,NA,NA,KO (Elbows),1,0:16
+"May 8, 2016",UFC Fight Night 87 - Overeem vs. Arlovski,Welterweight,Gunnar Nelson,NA,NA,Albert Tumenov,NA,NA,Submission (Neck Crank),2,3:15
+"May 8, 2016",UFC Fight Night 87 - Overeem vs. Arlovski,Bantamweight,Germaine de Randamie,NA,NA,Anna Elmose,NA,NA,KO (Knee to the Body),1,3:46
+"May 8, 2016",UFC Fight Night 87 - Overeem vs. Arlovski,Light Heavyweight,Nikita Krylov,NA,NA,Francimar Barroso,NA,NA,Submission (Rear-Naked Choke),2,3:11
+"May 8, 2016",UFC Fight Night 87 - Overeem vs. Arlovski,Strawweight,Karolina Kowalkiewicz,NA,NA,Heather Clark,NA,NA,Decision (Unanimous),3,5:00
+"May 8, 2016",UFC Fight Night 87 - Overeem vs. Arlovski,Lightweight,Rustam Khabilov,NA,NA,Chris Wade,NA,NA,Decision (Unanimous),3,5:00
+"May 8, 2016",UFC Fight Night 87 - Overeem vs. Arlovski,Middleweight,Magnus Cedenblad,NA,NA,Garreth McLellan,NA,NA,TKO (Head Kick and Punches),2,0:47
+"May 8, 2016",UFC Fight Night 87 - Overeem vs. Arlovski,Lightweight,Josh Emmett,NA,NA,Jon Tuck,NA,NA,Decision (Split),3,5:00
+"May 8, 2016",UFC Fight Night 87 - Overeem vs. Arlovski,Lightweight,Reza Madadi,NA,NA,Yan Cabral,NA,NA,TKO (Punches),3,1:56
+"May 8, 2016",UFC Fight Night 87 - Overeem vs. Arlovski,Flyweight,Kyoji Horiguchi,NA,NA,Neil Seery,NA,NA,Decision (Unanimous),3,5:00
+"May 8, 2016",UFC Fight Night 87 - Overeem vs. Arlovski,Welterweight,Leon Edwards,NA,NA,Dominic Waters,NA,NA,Decision (Unanimous),3,5:00
+"May 8, 2016",UFC Fight Night 87 - Overeem vs. Arlovski,Flyweight,Yuta Sasaki,NA,NA,Willie Gates,NA,NA,Submission (Rear-Naked Choke),2,3:30
+"Mar 5, 2016",UFC 196 - McGregor vs. Diaz,Welterweight,Nate Diaz,NA,NA,Conor McGregor,NA,NA,Submission (Rear-Naked Choke),2,4:12
+"Mar 5, 2016",UFC 196 - McGregor vs. Diaz,Bantamweight Title Fight,Miesha Tate,NA,NA,Holly Holm,NA,NA,Technical Submission (Rear-Naked Choke),5,3:30
+"Mar 5, 2016",UFC 196 - McGregor vs. Diaz,Light Heavyweight,Ilir Latifi,NA,NA,Gian Villante,NA,NA,Decision (Unanimous),3,5:00
+"Mar 5, 2016",UFC 196 - McGregor vs. Diaz,Light Heavyweight,Corey Anderson,NA,NA,Tom Lawlor,NA,NA,Decision (Unanimous),3,5:00
+"Mar 5, 2016",UFC 196 - McGregor vs. Diaz,Bantamweight,Amanda Nunes,NA,NA,Valentina Shevchenko,NA,NA,Decision (Unanimous),3,5:00
+"Mar 5, 2016",UFC 196 - McGregor vs. Diaz,Welterweight,Siyar Bahadurzada,NA,NA,Brandon Thatch,NA,NA,Submission (Arm-Triangle Choke),3,4:11
+"Mar 5, 2016",UFC 196 - McGregor vs. Diaz,Welterweight,Nordine Taleb,NA,NA,Erick Silva,NA,NA,KO (Punch),2,1:34
+"Mar 5, 2016",UFC 196 - McGregor vs. Diaz,Middleweight,Vitor Miranda,NA,NA,Marcelo Guimaraes,NA,NA,TKO (Head Kick and Punches),2,1:09
+"Mar 5, 2016",UFC 196 - McGregor vs. Diaz,Featherweight,Darren Elkins,NA,NA,Chas Skelly,NA,NA,Decision (Unanimous),3,5:00
+"Mar 5, 2016",UFC 196 - McGregor vs. Diaz,Lightweight,Diego Sanchez,NA,NA,Jim Miller,NA,NA,Decision (Unanimous),3,5:00
+"Mar 5, 2016",UFC 196 - McGregor vs. Diaz,Lightweight,Jason Saggo,NA,NA,Justin Salas,NA,NA,TKO (Punches),1,4:31
+"Mar 5, 2016",UFC 196 - McGregor vs. Diaz,Featherweight,Teruto Ishihara,NA,NA,Julian Erosa,NA,NA,KO (Punches),2,0:34
+"Feb 27, 2016",UFC Fight Night 84 - Silva vs. Bisping,Middleweight,Michael Bisping,NA,NA,Anderson Silva,NA,NA,Decision (Unanimous),5,5:00
+"Feb 27, 2016",UFC Fight Night 84 - Silva vs. Bisping,Middleweight,Gegard Mousasi,NA,NA,Thales Leites,NA,NA,Decision (Unanimous),3,5:00
+"Feb 27, 2016",UFC Fight Night 84 - Silva vs. Bisping,Welterweight,Tom Breese,NA,NA,Keita Nakamura,NA,NA,Decision (Unanimous),3,5:00
+"Feb 27, 2016",UFC Fight Night 84 - Silva vs. Bisping,Bantamweight,Brad Pickett,NA,NA,Francisco Rivera,NA,NA,Decision (Split),3,5:00
+"Feb 27, 2016",UFC Fight Night 84 - Silva vs. Bisping,Featherweight,Makwan Amirkhani,NA,NA,Mike Wilkinson,NA,NA,Decision (Unanimous),3,5:00
+"Feb 27, 2016",UFC Fight Night 84 - Silva vs. Bisping,Bantamweight,Davey Grant,NA,NA,Marlon Vera,NA,NA,Decision (Unanimous),3,5:00
+"Feb 27, 2016",UFC Fight Night 84 - Silva vs. Bisping,Middleweight,Scott Askham,NA,NA,Chris Dempsey,NA,NA,TKO (Punch and Head Kick),1,4:45
+"Feb 27, 2016",UFC Fight Night 84 - Silva vs. Bisping,Featherweight,Arnold Allen,NA,NA,Yaotzin Meza,NA,NA,Decision (Unanimous),3,5:00
+"Feb 27, 2016",UFC Fight Night 84 - Silva vs. Bisping,Middleweight,Krzysztof Jotko,NA,NA,Bradley Scott,NA,NA,Decision (Unanimous),3,5:00
+"Feb 27, 2016",UFC Fight Night 84 - Silva vs. Bisping,Lightweight,Rustam Khabilov,NA,NA,Norman Parke,NA,NA,Decision (Unanimous),3,5:00
+"Feb 27, 2016",UFC Fight Night 84 - Silva vs. Bisping,Heavyweight,Daniel Omielanczuk,NA,NA,Jarjis Danho,NA,NA,Technical Decision (Majority),3,1:31
+"Feb 27, 2016",UFC Fight Night 84 - Silva vs. Bisping,Lightweight,Teemu Packalen,NA,NA,Thibault Gouti,NA,NA,Submission (Rear-Naked Choke),1,0:24
+"Feb 27, 2016",UFC Fight Night 84 - Silva vs. Bisping,Lightweight,David Teymur,NA,NA,Martin Svensson,NA,NA,TKO (Punches),2,1:26
+"Feb 6, 2016",UFC Fight Night 82 - Hendricks vs. Thompson,Welterweight,Stephen Thompson,NA,NA,Johny Hendricks,NA,NA,TKO (Punches),1,3:31
+"Feb 6, 2016",UFC Fight Night 82 - Hendricks vs. Thompson,Heavyweight,Roy Nelson,NA,NA,Jared Rosholt,NA,NA,Decision (Unanimous),3,5:00
+"Feb 6, 2016",UFC Fight Night 82 - Hendricks vs. Thompson,Light Heavyweight,Ovince St. Preux,NA,NA,Rafael Cavalcante,NA,NA,Decision (Unanimous),3,5:00
+"Feb 6, 2016",UFC Fight Night 82 - Hendricks vs. Thompson,Flyweight,Joseph Benavidez,NA,NA,Zach Makovsky,NA,NA,Decision (Unanimous),3,5:00
+"Feb 6, 2016",UFC Fight Night 82 - Hendricks vs. Thompson,Light Heavyweight,Misha Cirkunov,NA,NA,Alex Nicholson,NA,NA,Submission (Neck Crank),2,1:28
+"Feb 6, 2016",UFC Fight Night 82 - Hendricks vs. Thompson,Welterweight,Mike Pyle,NA,NA,Sean Spencer,NA,NA,TKO (Elbows and Knees),3,4:25
+"Feb 6, 2016",UFC Fight Night 82 - Hendricks vs. Thompson,Lightweight,Joshua Burkman,NA,NA,K.J. Noons,NA,NA,Decision (Unanimous),3,5:00
+"Feb 6, 2016",UFC Fight Night 82 - Hendricks vs. Thompson,Heavyweight,Derrick Lewis,NA,NA,Damian Grabowski,NA,NA,TKO (Punches),1,2:17
+"Feb 6, 2016",UFC Fight Night 82 - Hendricks vs. Thompson,Flyweight,Justin Scoggins,NA,NA,Ray Borg,NA,NA,Decision (Unanimous),3,5:00
+"Feb 6, 2016",UFC Fight Night 82 - Hendricks vs. Thompson,Featherweight,Diego Rivas,NA,NA,Noad Lahat,NA,NA,KO (Flying Knee),2,0:23
+"Feb 6, 2016",UFC Fight Night 82 - Hendricks vs. Thompson,Welterweight,Mickey Gall,NA,NA,Mike Jackson,NA,NA,Submission (Rear-Naked Choke),1,0:45
+"Feb 6, 2016",UFC Fight Night 82 - Hendricks vs. Thompson,Featherweight,Alex White,NA,NA,Artem Lobov,NA,NA,Decision (Unanimous),3,5:00
+"Feb 21, 2016",UFC Fight Night 83 - Cerrone vs. Oliveira,Welterweight,Donald Cerrone,NA,NA,Alex Oliveira,NA,NA,Submission (Triangle Choke),1,2:33
+"Feb 21, 2016",UFC Fight Night 83 - Cerrone vs. Oliveira,Middleweight,Derek Brunson,NA,NA,Roan Carneiro,NA,NA,KO (Punches),1,2:38
+"Feb 21, 2016",UFC Fight Night 83 - Cerrone vs. Oliveira,142lb Catchweight,Cody Garbrandt,NA,NA,Augusto Mendes,NA,NA,KO (Punches),1,4:18
+"Feb 21, 2016",UFC Fight Night 83 - Cerrone vs. Oliveira,Featherweight,Dennis Bermudez,NA,NA,Tatsuya Kawajiri,NA,NA,Decision (Unanimous),3,5:00
+"Feb 21, 2016",UFC Fight Night 83 - Cerrone vs. Oliveira,Middleweight,Chris Camozzi,NA,NA,Joe Riggs,NA,NA,TKO (Knees),1,0:26
+"Feb 21, 2016",UFC Fight Night 83 - Cerrone vs. Oliveira,Lightweight,James Krause,NA,NA,Shane Campbell,NA,NA,Decision (Unanimous),3,5:00
+"Feb 21, 2016",UFC Fight Night 83 - Cerrone vs. Oliveira,Welterweight,Sean Strickland,NA,NA,Alex Garcia,NA,NA,TKO (Punches),3,4:25
+"Feb 21, 2016",UFC Fight Night 83 - Cerrone vs. Oliveira,Middleweight,Oluwale Bamgbose,NA,NA,Daniel Sarafian,NA,NA,KO (Head Kick and Punches),1,1:00
+"Feb 21, 2016",UFC Fight Night 83 - Cerrone vs. Oliveira,Middleweight,Anthony Smith,NA,NA,Leonardo Guimaraes,NA,NA,Decision (Unanimous),3,5:00
+"Feb 21, 2016",UFC Fight Night 83 - Cerrone vs. Oliveira,Welterweight,Nathan Coy,NA,NA,Jonavin Webb,NA,NA,Decision (Unanimous),3,5:00
+"Feb 21, 2016",UFC Fight Night 83 - Cerrone vs. Oliveira,Bantamweight,Ashlee Evans-Smith,NA,NA,Marion Reneau,NA,NA,Decision (Split),3,5:00
+"Feb 21, 2016",UFC Fight Night 83 - Cerrone vs. Oliveira,Bantamweight,Lauren Murphy,NA,NA,Kelly Faszholz,NA,NA,TKO (Elbows and Punches),3,4:55
+"Feb 21, 2016",UFC Fight Night 83 - Cerrone vs. Oliveira,Heavyweight,Shamil Abdurakhimov,NA,NA,Anthony Hamilton,NA,NA,Decision (Unanimous),3,5:00
+"Jan 30, 2016",UFC on Fox 18 - Johnson vs. Bader,Light Heavyweight,Anthony Johnson,NA,NA,Ryan Bader,NA,NA,KO (Punches),1,1:26
+"Jan 30, 2016",UFC on Fox 18 - Johnson vs. Bader,Heavyweight,Ben Rothwell,NA,NA,Josh Barnett,NA,NA,Submission (Guillotine Choke),2,3:48
+"Jan 30, 2016",UFC on Fox 18 - Johnson vs. Bader,Bantamweight,Jimmie Rivera,NA,NA,Iuri Alcantara,NA,NA,Decision (Unanimous),3,5:00
+"Jan 30, 2016",UFC on Fox 18 - Johnson vs. Bader,Lightweight,Bryan Barberena,NA,NA,Sage Northcutt,NA,NA,Submission (Arm-Triangle Choke),2,3:06
+"Jan 30, 2016",UFC on Fox 18 - Johnson vs. Bader,Welterweight,Tarec Saffiedine,NA,NA,Jake Ellenberger,NA,NA,Decision (Unanimous),3,5:00
+"Jan 30, 2016",UFC on Fox 18 - Johnson vs. Bader,Lightweight,Diego Ferreira,NA,NA,Olivier Aubin-Mercier,NA,NA,Decision (Unanimous),3,5:00
+"Jan 30, 2016",UFC on Fox 18 - Johnson vs. Bader,Middleweight,Rafael Natal,NA,NA,Kevin Casey,NA,NA,TKO (Punches),3,3:37
+"Jan 30, 2016",UFC on Fox 18 - Johnson vs. Bader,Flyweight,Wilson Reis,NA,NA,Dustin Ortiz,NA,NA,Decision (Unanimous),3,5:00
+"Jan 30, 2016",UFC on Fox 18 - Johnson vs. Bader,Welterweight,Alexander Yakovlev,NA,NA,George Sullivan,NA,NA,KO (Punch),1,3:59
+"Jan 30, 2016",UFC on Fox 18 - Johnson vs. Bader,Bantamweight,Alex Caceres,NA,NA,Masio Fullen,NA,NA,Decision (Unanimous),3,5:00
+"Jan 30, 2016",UFC on Fox 18 - Johnson vs. Bader,Welterweight,Randy Brown,NA,NA,Matt Dwyer,NA,NA,Decision (Unanimous),3,5:00
+"Jan 30, 2016",UFC on Fox 18 - Johnson vs. Bader,Featherweight,Damon Jackson,NA,NA,Levan Makashvili,NA,NA,Draw (Majority),3,5:00
+"Jan 30, 2016",UFC on Fox 18 - Johnson vs. Bader,Lightweight,Anthony Rocco Martin,,,Felipe Olivieri,NA,NA,Technical Submission (Rear-Naked Choke),3,3:02
+"Jan 2, 2016",UFC 195 - Lawler vs. Condit,Welterweight Title Fight,Robbie Lawler,NA,NA,Carlos Condit,NA,NA,Decision (Split),5,5:00
+"Jan 2, 2016",UFC 195 - Lawler vs. Condit,Heavyweight,Stipe Miocic,NA,NA,Andrei Arlovski,NA,NA,TKO (Punches),1,0:54
+"Jan 2, 2016",UFC 195 - Lawler vs. Condit,Welterweight,Albert Tumenov,NA,NA,Lorenz Larkin,NA,NA,Decision (Split),3,5:00
+"Jan 2, 2016",UFC 195 - Lawler vs. Condit,Featherweight,Brian Ortega,NA,NA,Diego Brandao,NA,NA,Submission (Triangle Choke),3,1:37
+"Jan 2, 2016",UFC 195 - Lawler vs. Condit,Lightweight,Abel Trujillo,NA,NA,Tony Sims,NA,NA,Submission (Guillotine Choke),1,3:18
+"Jan 2, 2016",UFC 195 - Lawler vs. Condit,Bantamweight,Michael McDonald,NA,NA,Masanori Kanehara,NA,NA,Submission (Rear-Naked Choke),2,2:09
+"Jan 2, 2016",UFC 195 - Lawler vs. Condit,Welterweight,Alex Morono,NA,NA,Kyle Noke,NA,NA,Decision (Split),3,5:00
+"Jan 2, 2016",UFC 195 - Lawler vs. Condit,Strawweight,Justine Kish,NA,NA,Nina Nunes,,,Decision (Unanimous),3,5:00
+"Jan 2, 2016",UFC 195 - Lawler vs. Condit,Lightweight,Drew Dober,NA,NA,Scott Holtzman,NA,NA,Decision (Unanimous),3,5:00
+"Jan 2, 2016",UFC 195 - Lawler vs. Condit,Lightweight,Dustin Poirier,NA,NA,Joseph Duffy,NA,NA,Decision (Unanimous),3,5:00
+"Jan 2, 2016",UFC 195 - Lawler vs. Condit,Bantamweight,Michinori Tanaka,NA,NA,Joe Soto,NA,NA,Decision (Split),3,5:00
+"Jan 2, 2016",UFC 195 - Lawler vs. Condit,Welterweight,Sheldon Westcott,NA,NA,Edgar Garcia,NA,NA,TKO (Punches),1,3:12
+"Jan 17, 2016",UFC Fight Night 81 - Dillashaw vs. Cruz,Bantamweight Title Fight,Dominick Cruz,NA,NA,T.J. Dillashaw,NA,NA,Decision (Split),5,5:00
+"Jan 17, 2016",UFC Fight Night 81 - Dillashaw vs. Cruz,Lightweight,Eddie Alvarez,NA,NA,Anthony Pettis,NA,NA,Decision (Split),3,5:00
+"Jan 17, 2016",UFC Fight Night 81 - Dillashaw vs. Cruz,Heavyweight,Travis Browne,NA,NA,Matt Mitrione,NA,NA,TKO (Punches),3,4:09
+"Jan 17, 2016",UFC Fight Night 81 - Dillashaw vs. Cruz,Lightweight,Francisco Trinaldo,NA,NA,Ross Pearson,NA,NA,Decision (Unanimous),3,5:00
+"Jan 17, 2016",UFC Fight Night 81 - Dillashaw vs. Cruz,Welterweight,Patrick Cote,NA,NA,Ben Saunders,NA,NA,TKO (Punches),2,1:14
+"Jan 17, 2016",UFC Fight Night 81 - Dillashaw vs. Cruz,Light Heavyweight,Ed Herman,NA,NA,Tim Boetsch,NA,NA,KO (Knee),2,1:39
+"Jan 17, 2016",UFC Fight Night 81 - Dillashaw vs. Cruz,Lightweight,Chris Wade,NA,NA,Mehdi Baghdad,NA,NA,Submission (Rear-Naked Choke),1,4:30
+"Jan 17, 2016",UFC Fight Night 81 - Dillashaw vs. Cruz,Featherweight,Luke Sanders,NA,NA,Maximo Blanco,NA,NA,Submission (Rear-Naked Choke),1,3:38
+"Jan 17, 2016",UFC Fight Night 81 - Dillashaw vs. Cruz,Lightweight,Paul Felder,NA,NA,Daron Cruickshank,NA,NA,Submission (Rear-Naked Choke),3,3:56
+"Jan 17, 2016",UFC Fight Night 81 - Dillashaw vs. Cruz,Light Heavyweight,Ilir Latifi,NA,NA,Sean O'Connell,,,TKO (Punches),1,0:30
+"Jan 17, 2016",UFC Fight Night 81 - Dillashaw vs. Cruz,Featherweight,Charles Rosa,NA,NA,Kyle Bochniak,NA,NA,Decision (Unanimous),3,5:00
+"Jan 17, 2016",UFC Fight Night 81 - Dillashaw vs. Cruz,Bantamweight,Rob Font,NA,NA,Joey Gomez,NA,NA,TKO (Punches),2,4:13
+"Jan 17, 2016",UFC Fight Night 81 - Dillashaw vs. Cruz,Light Heavyweight,Francimar Barroso,NA,NA,Elvis Mutapcic,NA,NA,Decision (Unanimous),3,5:00

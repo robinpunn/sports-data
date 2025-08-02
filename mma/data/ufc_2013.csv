@@ -1,0 +1,387 @@
+date,event,weight_class,winner,winner_weight,winner_odds,loser,loser_weight,loser_odds,method,rnd,time
+"Dec 14, 2013",UFC on Fox 9 - Johnson vs. Benavidez 2,Flyweight Title Fight,Demetrious Johnson,NA,NA,Joseph Benavidez,NA,NA,KO (Punches),1,2:08
+"Dec 14, 2013",UFC on Fox 9 - Johnson vs. Benavidez 2,Bantamweight,Urijah Faber,NA,NA,Michael McDonald,NA,NA,Submission (Guillotine Choke),2,3:22
+"Dec 14, 2013",UFC on Fox 9 - Johnson vs. Benavidez 2,Featherweight,Chad Mendes,NA,NA,Nik Lentz,NA,NA,Decision (Unanimous),3,5:00
+"Dec 14, 2013",UFC on Fox 9 - Johnson vs. Benavidez 2,Lightweight,Joe Lauzon,NA,NA,Mac Danzig,NA,NA,Decision (Unanimous),3,5:00
+"Dec 14, 2013",UFC on Fox 9 - Johnson vs. Benavidez 2,Welterweight,Ryan LaFlare,NA,NA,Court McGee,NA,NA,Decision (Unanimous),3,5:00
+"Dec 14, 2013",UFC on Fox 9 - Johnson vs. Benavidez 2,Lightweight,Edson Barboza,NA,NA,Danny Castillo,NA,NA,Decision (Majority),3,5:00
+"Dec 14, 2013",UFC on Fox 9 - Johnson vs. Benavidez 2,Lightweight,Bobby Green,NA,NA,Pat Healy,NA,NA,Decision (Unanimous),3,5:00
+"Dec 14, 2013",UFC on Fox 9 - Johnson vs. Benavidez 2,Flyweight,Zach Makovsky,NA,NA,Scott Jorgensen,NA,NA,Decision (Unanimous),3,5:00
+"Dec 14, 2013",UFC on Fox 9 - Johnson vs. Benavidez 2,Lightweight,Sam Stout,NA,NA,Cody McKenzie,NA,NA,Decision (Unanimous),3,5:00
+"Dec 14, 2013",UFC on Fox 9 - Johnson vs. Benavidez 2,Lightweight,Abel Trujillo,NA,NA,Roger Bowling,NA,NA,TKO (Punches),2,1:35
+"Dec 14, 2013",UFC on Fox 9 - Johnson vs. Benavidez 2,Flyweight,Alptekin Ozkilic,,,Darren Uyenoyama,NA,NA,Decision (Split),3,5:00
+"Dec 7, 2013",UFC Fight Night 33 - Hunt vs. Bigfoot,Heavyweight,Mark Hunt,,,Antonio Silva,,,Draw (Majority),5,5:00
+"Dec 7, 2013",UFC Fight Night 33 - Hunt vs. Bigfoot,Light Heavyweight,Mauricio Rua,,,James Te Huna,,,KO (Punch),1,1:03
+"Dec 7, 2013",UFC Fight Night 33 - Hunt vs. Bigfoot,Light Heavyweight,Ryan Bader,,,Anthony Perosh,,,Decision (Unanimous),3,5:00
+"Dec 7, 2013",UFC Fight Night 33 - Hunt vs. Bigfoot,Heavyweight,Soa Palelei,,,Pat Barry,,,KO (Punches),1,2:09
+"Dec 7, 2013",UFC Fight Night 33 - Hunt vs. Bigfoot,Middleweight,Clint Hester,,,Dylan Andrews,,,TKO (Doctor Stoppage),2,5:00
+"Dec 7, 2013",UFC Fight Night 33 - Hunt vs. Bigfoot,Bantamweight,Bethe Correia,,,Julie Kedzie,,,Decision (Split),3,5:00
+"Dec 7, 2013",UFC Fight Night 33 - Hunt vs. Bigfoot,Bantamweight,Takeya Mizugaki,,,Nam Phan,,,Decision (Unanimous),3,5:00
+"Dec 7, 2013",UFC Fight Night 33 - Hunt vs. Bigfoot,Middleweight,Caio Magalhaes,,,Nick Ring,,,Decision (Unanimous),3,5:00
+"Dec 7, 2013",UFC Fight Night 33 - Hunt vs. Bigfoot,Flyweight,Justin Scoggins,,,Richie Vaculik,,,TKO (Punches),1,4:43
+"Dec 7, 2013",UFC Fight Night 33 - Hunt vs. Bigfoot,Middleweight,Krzysztof Jotko,,,Bruno Santos,,,Decision (Unanimous),3,5:00
+"Dec 7, 2013",UFC Fight Night 33 - Hunt vs. Bigfoot,Welterweight,Alex Garcia,,,Ben Wall,,,KO (Punches),1,0:43
+"Dec 28, 2013",UFC 168 - Weidman vs. Silva 2,Middleweight Title Fight,Chris Weidman,NA,NA,Anderson Silva,NA,NA,TKO (Leg Injury),2,1:16
+"Dec 28, 2013",UFC 168 - Weidman vs. Silva 2,Bantamweight Title Fight,Ronda Rousey,NA,NA,Miesha Tate,NA,NA,Submission (Armbar),3,0:58
+"Dec 28, 2013",UFC 168 - Weidman vs. Silva 2,Heavyweight,Travis Browne,NA,NA,Josh Barnett,NA,NA,KO (Elbows),1,1:00
+"Dec 28, 2013",UFC 168 - Weidman vs. Silva 2,Lightweight,Jim Miller,NA,NA,Fabricio Camoes,NA,NA,Submission (Armbar),1,3:42
+"Dec 28, 2013",UFC 168 - Weidman vs. Silva 2,152lb Catchweight,Dustin Poirier,NA,NA,Diego Brandao,NA,NA,KO (Punches),1,4:54
+"Dec 28, 2013",UFC 168 - Weidman vs. Silva 2,Middleweight,Uriah Hall,NA,NA,Chris Leben,NA,NA,TKO (Retirement),1,5:00
+"Dec 28, 2013",UFC 168 - Weidman vs. Silva 2,Lightweight,Michael Johnson,NA,NA,Gleison Tibau,NA,NA,KO (Punches),2,1:32
+"Dec 28, 2013",UFC 168 - Weidman vs. Silva 2,Featherweight,Dennis Siver,NA,NA,Manny Gamburyan,NA,NA,No Contest (Overturned by Commission),3,5:00
+"Dec 28, 2013",UFC 168 - Weidman vs. Silva 2,Welterweight,John Howard,NA,NA,Siyar Bahadurzada,NA,NA,Decision (Unanimous),3,5:00
+"Dec 28, 2013",UFC 168 - Weidman vs. Silva 2,Welterweight,William Macario,NA,NA,Bobby Voelker,NA,NA,Decision (Unanimous),3,5:00
+"Dec 28, 2013",UFC 168 - Weidman vs. Silva 2,Featherweight,Robbie Peralta,NA,NA,Estevan Payan,NA,NA,TKO (Punches),3,0:12
+"Oct 26, 2013",UFC Fight Night 30 - Machida vs. Munoz,Middleweight,Lyoto Machida,,,Mark Munoz,,,KO (Head Kick),1,3:10
+"Oct 26, 2013",UFC Fight Night 30 - Machida vs. Munoz,Lightweight,Melvin Guillard,,,Ross Pearson,,,No Contest (Illegal Knee),1,1:57
+"Oct 26, 2013",UFC Fight Night 30 - Machida vs. Munoz,Light Heavyweight,Jimi Manuwa,,,Ryan Jimmo,,,TKO (Leg Injury),2,4:41
+"Oct 26, 2013",UFC Fight Night 30 - Machida vs. Munoz,Lightweight,Norman Parke,,,Jon Tuck,,,Decision (Unanimous),3,5:00
+"Oct 26, 2013",UFC Fight Night 30 - Machida vs. Munoz,Middleweight,Nicholas Musoke,,,Alessio Sakara,,,Submission (Armbar),1,3:07
+"Oct 26, 2013",UFC Fight Night 30 - Machida vs. Munoz,128lb Catchweight,John Lineker,,,Phil Harris,,,KO (Punch to the Body),1,2:51
+"Oct 26, 2013",UFC Fight Night 30 - Machida vs. Munoz,Lightweight,Al Iaquinta,,,Piotr Hallmann,,,Decision (Unanimous),3,5:00
+"Oct 26, 2013",UFC Fight Night 30 - Machida vs. Munoz,Middleweight,Luke Barnatt,,,Andrew Craig,,,Submission (Rear-Naked Choke),2,2:12
+"Oct 26, 2013",UFC Fight Night 30 - Machida vs. Munoz,Bantamweight,Jessica Andrade,,,Rosi Sexton,,,Decision (Unanimous),3,5:00
+"Oct 26, 2013",UFC Fight Night 30 - Machida vs. Munoz,Featherweight,Cole Miller,,,Andy Ogle,,,Decision (Unanimous),3,5:00
+"Oct 26, 2013",UFC Fight Night 30 - Machida vs. Munoz,Featherweight,Jim Hettes,,,Robert Whiteford,,,Technical Submission (Triangle Choke),2,2:17
+"Oct 26, 2013",UFC Fight Night 30 - Machida vs. Munoz,Middleweight,Bradley Scott,,,Michael Kuiper,,,Submission (Guillotine Choke),1,4:17
+"Nov 6, 2013",UFC Fight Night 31 - Fight for the Troops 3,Middleweight,Tim Kennedy,NA,NA,Rafael Natal,NA,NA,KO (Punches),1,4:40
+"Nov 6, 2013",UFC Fight Night 31 - Fight for the Troops 3,Bantamweight,Alexis Davis,NA,NA,Liz Carmouche,NA,NA,Decision (Unanimous),3,5:00
+"Nov 6, 2013",UFC Fight Night 31 - Fight for the Troops 3,Middleweight,Yoel Romero,NA,NA,Ronny Markes,NA,NA,KO (Punches),3,1:39
+"Nov 6, 2013",UFC Fight Night 31 - Fight for the Troops 3,Lightweight,Rustam Khabilov,NA,NA,Jorge Masvidal,NA,NA,Decision (Unanimous),3,5:00
+"Nov 6, 2013",UFC Fight Night 31 - Fight for the Troops 3,Lightweight,Michael Chiesa,NA,NA,Colton Smith,NA,NA,Submission (Rear-Naked Choke),2,1:41
+"Nov 6, 2013",UFC Fight Night 31 - Fight for the Troops 3,Lightweight,Bobby Green,NA,NA,James Krause,NA,NA,TKO (Body Kick),1,3:50
+"Nov 6, 2013",UFC Fight Night 31 - Fight for the Troops 3,Bantamweight,Francisco Rivera,NA,NA,George Roop,NA,NA,TKO (Punches),2,2:20
+"Nov 6, 2013",UFC Fight Night 31 - Fight for the Troops 3,Featherweight,Dennis Bermudez,NA,NA,Steven Siler,NA,NA,Decision (Unanimous),3,5:00
+"Nov 6, 2013",UFC Fight Night 31 - Fight for the Troops 3,Bantamweight,Amanda Nunes,NA,NA,Germaine de Randamie,NA,NA,TKO (Elbows),1,3:56
+"Nov 6, 2013",UFC Fight Night 31 - Fight for the Troops 3,Middleweight,Lorenz Larkin,NA,NA,Chris Camozzi,NA,NA,Decision (Unanimous),3,5:00
+"Nov 6, 2013",UFC Fight Night 31 - Fight for the Troops 3,Lightweight,Yancy Medeiros,NA,NA,Yves Edwards,NA,NA,No Contest (Overturned),1,2:47
+"Nov 6, 2013",UFC Fight Night 31 - Fight for the Troops 3,Welterweight,Seth Baczynski,NA,NA,Neil Magny,NA,NA,Decision (Unanimous),3,5:00
+"Nov 6, 2013",UFC Fight Night 31 - Fight for the Troops 3,Middleweight,Derek Brunson,NA,NA,Brian Houston,NA,NA,Submission (Rear-Naked Choke),1,0:48
+"Nov 9, 2013",UFC Fight Night 32 - Belfort vs. Henderson,Light Heavyweight,Vitor Belfort,NA,NA,Dan Henderson,NA,NA,KO (Head Kick),1,1:17
+"Nov 9, 2013",UFC Fight Night 32 - Belfort vs. Henderson,Middleweight,Cezar Ferreira,NA,NA,Daniel Sarafian,NA,NA,Decision (Split),3,5:00
+"Nov 9, 2013",UFC Fight Night 32 - Belfort vs. Henderson,Light Heavyweight,Rafael Cavalcante,,,Igor Pokrajac,NA,NA,TKO (Knees and Punches),1,1:18
+"Nov 9, 2013",UFC Fight Night 32 - Belfort vs. Henderson,Welterweight,Brandon Thatch,NA,NA,Paulo Thiago,NA,NA,KO (Knee to the Body),1,2:10
+"Nov 9, 2013",UFC Fight Night 32 - Belfort vs. Henderson,Welterweight,Ryan LaFlare,NA,NA,Santiago Ponzinibbio,NA,NA,Decision (Unanimous),3,5:00
+"Nov 9, 2013",UFC Fight Night 32 - Belfort vs. Henderson,Featherweight,Jeremy Stephens,NA,NA,Rony Mariano Bezerra,,,KO (Head Kick),1,0:40
+"Nov 9, 2013",UFC Fight Night 32 - Belfort vs. Henderson,Featherweight,Sam Sicilia,NA,NA,Godofredo Castro,NA,NA,TKO (Punches),1,1:42
+"Nov 9, 2013",UFC Fight Night 32 - Belfort vs. Henderson,Middleweight,Omari Akhmedov,NA,NA,Thiago de Oliveira Perpetuo,NA,NA,KO (Punches),1,3:31
+"Nov 9, 2013",UFC Fight Night 32 - Belfort vs. Henderson,Lightweight,Thiago Tavares,NA,NA,Justin Salas,NA,NA,Submission (Rear-Naked Choke),1,2:38
+"Nov 9, 2013",UFC Fight Night 32 - Belfort vs. Henderson,Lightweight,Adriano Martins,NA,NA,Daron Cruickshank,NA,NA,Submission (Straight Armbar),2,2:49
+"Nov 9, 2013",UFC Fight Night 32 - Belfort vs. Henderson,Flyweight,Dustin Ortiz,NA,NA,Jose Maria Tome,NA,NA,TKO (Punches),3,3:19
+"Sep 4, 2013",UFC Fight Night 28 - Teixeira vs. Bader,Light Heavyweight,Glover Teixeira,NA,NA,Ryan Bader,NA,NA,TKO (Punches),1,2:55
+"Sep 4, 2013",UFC Fight Night 28 - Teixeira vs. Bader,Middleweight,Ronaldo Souza,,,Yushin Okami,NA,NA,TKO (Punches),1,2:47
+"Sep 4, 2013",UFC Fight Night 28 - Teixeira vs. Bader,Flyweight,Joseph Benavidez,NA,NA,Jussier Formiga,,,TKO (Knee to the Body and Punches),1,3:07
+"Sep 4, 2013",UFC Fight Night 28 - Teixeira vs. Bader,Lightweight,Piotr Hallmann,NA,NA,Francisco Trinaldo,NA,NA,Submission (Kimura),2,3:50
+"Sep 4, 2013",UFC Fight Night 28 - Teixeira vs. Bader,Middleweight,Rafael Natal,NA,NA,Tor Troeng,NA,NA,Decision (Unanimous),3,5:00
+"Sep 4, 2013",UFC Fight Night 28 - Teixeira vs. Bader,Bantamweight,Ali Bagautinov,NA,NA,Marcos Vinicius Borges,NA,NA,TKO (Punches),3,3:28
+"Sep 4, 2013",UFC Fight Night 28 - Teixeira vs. Bader,Featherweight,Edimilson Souza,NA,NA,Felipe Arantes,NA,NA,Decision (Split),3,5:00
+"Sep 4, 2013",UFC Fight Night 28 - Teixeira vs. Bader,Lightweight,Lucas Martins,NA,NA,Ramiro Hernandez,NA,NA,Technical Submission (Rear-Naked Choke),1,1:10
+"Sep 4, 2013",UFC Fight Night 28 - Teixeira vs. Bader,Welterweight,Elias Silverio,NA,NA,Joao Zeferino,NA,NA,Decision (Unanimous),3,5:00
+"Sep 4, 2013",UFC Fight Night 28 - Teixeira vs. Bader,Welterweight,Ivan Jorge,NA,NA,Keith Wisniewski,NA,NA,Decision (Unanimous),3,5:00
+"Sep 4, 2013",UFC Fight Night 28 - Teixeira vs. Bader,Welterweight,Sean Spencer,NA,NA,Yuri Villefort,NA,NA,Decision (Split),3,5:00
+"Aug 31, 2013",UFC 164 - Henderson vs. Pettis 2,Lightweight Title Fight,Anthony Pettis,NA,NA,Benson Henderson,NA,NA,Submission (Armbar),1,4:31
+"Aug 31, 2013",UFC 164 - Henderson vs. Pettis 2,Heavyweight,Josh Barnett,NA,NA,Frank Mir,NA,NA,TKO (Knee),1,1:56
+"Aug 31, 2013",UFC 164 - Henderson vs. Pettis 2,Featherweight,Chad Mendes,NA,NA,Clay Guida,NA,NA,TKO (Punches),3,0:30
+"Aug 31, 2013",UFC 164 - Henderson vs. Pettis 2,Heavyweight,Ben Rothwell,NA,NA,Brandon Vera,NA,NA,TKO (Punches and Knees),3,1:54
+"Aug 31, 2013",UFC 164 - Henderson vs. Pettis 2,Featherweight,Dustin Poirier,NA,NA,Erik Koch,NA,NA,Decision (Unanimous),3,5:00
+"Aug 31, 2013",UFC 164 - Henderson vs. Pettis 2,Lightweight,Gleison Tibau,NA,NA,Jamie Varner,NA,NA,Decision (Split),3,5:00
+"Aug 31, 2013",UFC 164 - Henderson vs. Pettis 2,Flyweight,Tim Elliott,NA,NA,Louis Gaudinot,NA,NA,Decision (Unanimous),3,5:00
+"Aug 31, 2013",UFC 164 - Henderson vs. Pettis 2,Welterweight,Hyun Gyu Lim,NA,NA,Pascal Krauss,NA,NA,KO (Knee and Punches),1,3:58
+"Aug 31, 2013",UFC 164 - Henderson vs. Pettis 2,Bantamweight,Chico Camus,NA,NA,Kyung Ho Kang,NA,NA,Decision (Unanimous),3,5:00
+"Aug 31, 2013",UFC 164 - Henderson vs. Pettis 2,Heavyweight,Soa Palelei,NA,NA,Nikita Krylov,NA,NA,TKO (Punches),3,1:34
+"Aug 31, 2013",UFC 164 - Henderson vs. Pettis 2,Lightweight,Al Iaquinta,NA,NA,Ryan Couture,NA,NA,Decision (Unanimous),3,5:00
+"Aug 31, 2013",UFC 164 - Henderson vs. Pettis 2,Middleweight,Magnus Cedenblad,NA,NA,Jared Hamman,NA,NA,Submission (Guillotine Choke),1,0:57
+"Aug 3, 2013",UFC 163 - Aldo vs. Korean Zombie,Featherweight Title Fight,Jose Aldo,,,Chan Sung Jung,,,TKO (Punches),4,2:00
+"Aug 3, 2013",UFC 163 - Aldo vs. Korean Zombie,Light Heavyweight,Phil Davis,,,Lyoto Machida,,,Decision (Unanimous),3,5:00
+"Aug 3, 2013",UFC 163 - Aldo vs. Korean Zombie,Middleweight,Cezar Ferreira,,,Thiago Santos,,,Submission (Guillotine Choke),1,0:47
+"Aug 3, 2013",UFC 163 - Aldo vs. Korean Zombie,Middleweight,Thales Leites,,,Tom Watson,,,Decision (Unanimous),3,5:00
+"Aug 3, 2013",UFC 163 - Aldo vs. Korean Zombie,129lb Catchweight,John Lineker,,,Jose Maria Tome,,,TKO (Punches),2,1:03
+"Aug 3, 2013",UFC 163 - Aldo vs. Korean Zombie,Light Heavyweight,Anthony Perosh,,,Vinny Magalhaes,,,KO (Punches),1,0:14
+"Aug 3, 2013",UFC 163 - Aldo vs. Korean Zombie,Bantamweight,Amanda Nunes,,,Sheila Gaff,,,TKO (Punches and Elbows),1,2:08
+"Aug 3, 2013",UFC 163 - Aldo vs. Korean Zombie,Welterweight,Sergio Moraes,,,Neil Magny,,,Submission (Triangle Choke),1,3:13
+"Aug 3, 2013",UFC 163 - Aldo vs. Korean Zombie,Flyweight,Ian McCall,,,Iliarde Santos,,,Decision (Unanimous),3,5:00
+"Aug 3, 2013",UFC 163 - Aldo vs. Korean Zombie,Featherweight,Rani Yahya,,,Josh Clopton,,,Decision (Unanimous),3,5:00
+"Aug 3, 2013",UFC 163 - Aldo vs. Korean Zombie,Light Heavyweight,Francimar Barroso,,,Ednaldo Oliveira,,,Decision (Unanimous),3,5:00
+"Aug 3, 2013",UFC 163 - Aldo vs. Korean Zombie,Welterweight,Viscardi Andrade,,,Bristol Marunde,,,TKO (Punches),1,1:36
+"Oct 19, 2013",UFC 166 - Velasquez vs. Dos Santos 3,Heavyweight Title Fight,Cain Velasquez,NA,NA,Junior dos Santos,NA,NA,TKO (Slam and Punch),5,3:09
+"Oct 19, 2013",UFC 166 - Velasquez vs. Dos Santos 3,Heavyweight,Daniel Cormier,NA,NA,Roy Nelson,NA,NA,Decision (Unanimous),3,5:00
+"Oct 19, 2013",UFC 166 - Velasquez vs. Dos Santos 3,Lightweight,Gilbert Melendez,NA,NA,Diego Sanchez,NA,NA,Decision (Unanimous),3,5:00
+"Oct 19, 2013",UFC 166 - Velasquez vs. Dos Santos 3,Heavyweight,Gabriel Gonzaga,NA,NA,Shawn Jordan,NA,NA,KO (Punches),1,1:33
+"Oct 19, 2013",UFC 166 - Velasquez vs. Dos Santos 3,Flyweight,John Dodson,NA,NA,Darrell Montague,NA,NA,KO (Punch),1,4:13
+"Oct 19, 2013",UFC 166 - Velasquez vs. Dos Santos 3,Middleweight,Tim Boetsch,NA,NA,C.B. Dollaway,NA,NA,Decision (Split),3,5:00
+"Oct 19, 2013",UFC 166 - Velasquez vs. Dos Santos 3,Welterweight,Hector Lombard,NA,NA,Nate Marquardt,NA,NA,KO (Punches),1,1:48
+"Oct 19, 2013",UFC 166 - Velasquez vs. Dos Santos 3,Bantamweight,Jessica Eye,NA,NA,Sarah Kaufman,NA,NA,No Contest (Overturned by TDLR),3,5:00
+"Oct 19, 2013",UFC 166 - Velasquez vs. Dos Santos 3,Lightweight,K.J. Noons,NA,NA,George Sotiropoulos,NA,NA,Decision (Unanimous),3,5:00
+"Oct 19, 2013",UFC 166 - Velasquez vs. Dos Santos 3,Welterweight,Adlan Amagov,NA,NA,T.J. Waldburger,NA,NA,KO (Punches),1,3:00
+"Oct 19, 2013",UFC 166 - Velasquez vs. Dos Santos 3,Lightweight,Tony Ferguson,NA,NA,Mike Rio,NA,NA,Submission (Brabo Choke),1,1:52
+"Oct 19, 2013",UFC 166 - Velasquez vs. Dos Santos 3,149lb Catchweight,Andre Fili,NA,NA,Jeremy Larsen,NA,NA,TKO (Punches),2,0:53
+"Oct 19, 2013",UFC 166 - Velasquez vs. Dos Santos 3,Bantamweight,Kyoji Horiguchi,NA,NA,Dustin Pague,NA,NA,TKO (Punches),2,3:51
+"Jul 6, 2013",UFC 162 - Silva vs. Weidman,Middleweight Title Fight,Chris Weidman,,,Anderson Silva,,,KO (Punches),2,1:18
+"Jul 6, 2013",UFC 162 - Silva vs. Weidman,Featherweight,Frankie Edgar,,,Charles Oliveira,,,Decision (Unanimous),3,5:00
+"Jul 6, 2013",UFC 162 - Silva vs. Weidman,Middleweight,Tim Kennedy,,,Roger Gracie,,,Decision (Unanimous),3,5:00
+"Jul 6, 2013",UFC 162 - Silva vs. Weidman,Middleweight,Mark Munoz,,,Tim Boetsch,,,Decision (Unanimous),3,5:00
+"Jul 6, 2013",UFC 162 - Silva vs. Weidman,Featherweight,Cub Swanson,,,Dennis Siver,,,TKO (Punches),3,2:24
+"Jul 6, 2013",UFC 162 - Silva vs. Weidman,Middleweight,Andrew Craig,,,Chris Leben,,,Decision (Split),3,5:00
+"Jul 6, 2013",UFC 162 - Silva vs. Weidman,Lightweight,Norman Parke,,,Kazuki Tokudome,,,Decision (Unanimous),3,5:00
+"Jul 6, 2013",UFC 162 - Silva vs. Weidman,Heavyweight,Gabriel Gonzaga,,,Dave Herman,,,KO (Punches),1,0:17
+"Jul 6, 2013",UFC 162 - Silva vs. Weidman,Lightweight,Edson Barboza,,,Rafaello Oliveira,,,TKO (Leg Kicks),2,1:44
+"Jul 6, 2013",UFC 162 - Silva vs. Weidman,Welterweight,Brian Melancon,,,Seth Baczynski,,,KO (Punches),1,4:59
+"Jul 6, 2013",UFC 162 - Silva vs. Weidman,Welterweight,Mike Pierce,,,David Mitchell,,,TKO (Punches),2,2:55
+"Nov 16, 2013",UFC 167 - St. Pierre vs. Hendricks,Welterweight Title Fight,Georges St. Pierre,NA,NA,Johny Hendricks,NA,NA,Decision (Split),5,5:00
+"Nov 16, 2013",UFC 167 - St. Pierre vs. Hendricks,Light Heavyweight,Rashad Evans,NA,NA,Chael Sonnen,NA,NA,TKO (Punches),1,4:05
+"Nov 16, 2013",UFC 167 - St. Pierre vs. Hendricks,Welterweight,Robbie Lawler,NA,NA,Rory MacDonald,NA,NA,Decision (Split),3,5:00
+"Nov 16, 2013",UFC 167 - St. Pierre vs. Hendricks,Welterweight,Tyron Woodley,NA,NA,Josh Koscheck,NA,NA,KO (Punches),1,4:38
+"Nov 16, 2013",UFC 167 - St. Pierre vs. Hendricks,Flyweight,Ali Bagautinov,NA,NA,Tim Elliott,NA,NA,Decision (Unanimous),3,5:00
+"Nov 16, 2013",UFC 167 - St. Pierre vs. Hendricks,Lightweight,Donald Cerrone,NA,NA,Evan Dunham,NA,NA,Submission (Triangle Choke),2,3:49
+"Nov 16, 2013",UFC 167 - St. Pierre vs. Hendricks,Middleweight,Thales Leites,NA,NA,Ed Herman,NA,NA,Decision (Unanimous),3,5:00
+"Nov 16, 2013",UFC 167 - St. Pierre vs. Hendricks,Welterweight,Rick Story,NA,NA,Brian Ebersole,NA,NA,Decision (Unanimous),3,5:00
+"Nov 16, 2013",UFC 167 - St. Pierre vs. Hendricks,Bantamweight,Erik Perez,NA,NA,Edwin Figueroa,NA,NA,Decision (Unanimous),3,5:00
+"Nov 16, 2013",UFC 167 - St. Pierre vs. Hendricks,Welterweight,Jason High,NA,NA,Anthony Lapsley,NA,NA,Decision (Unanimous),3,5:00
+"Nov 16, 2013",UFC 167 - St. Pierre vs. Hendricks,Bantamweight,Sergio Pettis,NA,NA,Will Campuzano,NA,NA,Decision (Unanimous),3,5:00
+"Nov 16, 2013",UFC 167 - St. Pierre vs. Hendricks,Light Heavyweight,Gian Villante,NA,NA,Cody Donovan,NA,NA,TKO (Punches),2,1:22
+"Jun 8, 2013",UFC on Fuel TV 10 - Nogueira vs. Werdum,Heavyweight,Fabricio Werdum,,,Antonio Rodrigo Nogueira,,,Submission (Armbar),2,2:41
+"Jun 8, 2013",UFC on Fuel TV 10 - Nogueira vs. Werdum,Welterweight,Leonardo Santos,,,William Macario,,,Submission (Arm-Triangle Choke),2,4:43
+"Jun 8, 2013",UFC on Fuel TV 10 - Nogueira vs. Werdum,Light Heavyweight,Thiago Silva,,,Rafael Cavalcante,,,KO (Punches),1,4:29
+"Jun 8, 2013",UFC on Fuel TV 10 - Nogueira vs. Werdum,Welterweight,Erick Silva,,,Jason High,,,Submission (Reverse Triangle Armbar),1,1:11
+"Jun 8, 2013",UFC on Fuel TV 10 - Nogueira vs. Werdum,Middleweight,Daniel Sarafian,,,Eddie Mendez,,,Submission (Arm-Triangle Choke),1,2:20
+"Jun 8, 2013",UFC on Fuel TV 10 - Nogueira vs. Werdum,Featherweight,Rony Mariano Bezerra,,,Mike Wilkinson,,,Technical Submission (Triangle Choke),1,1:24
+"Jun 8, 2013",UFC on Fuel TV 10 - Nogueira vs. Werdum,Bantamweight,Raphael Assuncao,,,Vaughan Lee,,,Submission (Armbar),2,1:51
+"Jun 8, 2013",UFC on Fuel TV 10 - Nogueira vs. Werdum,Featherweight,Felipe Arantes,,,Godofredo Castro,,,TKO (Elbows and Punches),1,3:32
+"Jun 8, 2013",UFC on Fuel TV 10 - Nogueira vs. Werdum,Welterweight,Ildemar Alcantara,,,Leandro Silva,,,Decision (Unanimous),3,5:00
+"Jun 8, 2013",UFC on Fuel TV 10 - Nogueira vs. Werdum,Featherweight,Rodrigo Damm,,,Mizuto Hirota,,,Decision (Split),3,5:00
+"Jun 8, 2013",UFC on Fuel TV 10 - Nogueira vs. Werdum,Middleweight,Caio Magalhaes,,,Karlos Vemola,,,Submission (Rear-Naked Choke),2,2:49
+"Jun 8, 2013",UFC on Fuel TV 10 - Nogueira vs. Werdum,Middleweight,Antonio Braga Neto,,,Anthony Smith,,,Submission (Kneebar),1,1:52
+"Jun 15, 2013",UFC 161 - Evans vs. Henderson,Light Heavyweight,Rashad Evans,,,Dan Henderson,,,Decision (Split),3,5:00
+"Jun 15, 2013",UFC 161 - Evans vs. Henderson,Heavyweight,Stipe Miocic,,,Roy Nelson,,,Decision (Unanimous),3,5:00
+"Jun 15, 2013",UFC 161 - Evans vs. Henderson,Light Heavyweight,Ryan Jimmo,,,Igor Pokrajac,,,Decision (Unanimous),3,5:00
+"Jun 15, 2013",UFC 161 - Evans vs. Henderson,Bantamweight,Alexis Davis,,,Rosi Sexton,,,Decision (Unanimous),3,5:00
+"Jun 15, 2013",UFC 161 - Evans vs. Henderson,Heavyweight,Shawn Jordan,,,Pat Barry,,,TKO (Punches),1,0:59
+"Jun 15, 2013",UFC 161 - Evans vs. Henderson,Welterweight,Jake Shields,,,Tyron Woodley,,,Decision (Split),3,5:00
+"Jun 15, 2013",UFC 161 - Evans vs. Henderson,Lightweight,James Krause,,,Sam Stout,,,Submission (Guillotine Choke),3,4:47
+"Jun 15, 2013",UFC 161 - Evans vs. Henderson,Welterweight,Sean Pierson,,,Kenny Robertson,,,Decision (Majority),3,5:00
+"Jun 15, 2013",UFC 161 - Evans vs. Henderson,Bantamweight,Roland Delorme,,,Edwin Figueroa,,,Decision (Unanimous),3,5:00
+"Jun 15, 2013",UFC 161 - Evans vs. Henderson,Lightweight,Mitch Clarke,,,John Maguire,,,Decision (Unanimous),3,5:00
+"Jun 15, 2013",UFC 161 - Evans vs. Henderson,Bantamweight,Yves Jabouin,,,Dustin Pague,,,Decision (Split),3,5:00
+"May 25, 2013",UFC 160 - Velasquez vs. Bigfoot 2,Heavyweight Title Fight,Cain Velasquez,,,Antonio Silva,,,TKO (Punches),1,1:21
+"May 25, 2013",UFC 160 - Velasquez vs. Bigfoot 2,Heavyweight,Junior dos Santos,,,Mark Hunt,,,KO (Spinning Hook Kick),3,4:18
+"May 25, 2013",UFC 160 - Velasquez vs. Bigfoot 2,Light Heavyweight,Glover Teixeira,,,James Te Huna,,,Submission (Guillotine Choke),1,2:38
+"May 25, 2013",UFC 160 - Velasquez vs. Bigfoot 2,Lightweight,T.J. Grant,,,Gray Maynard,,,TKO (Punches),1,2:07
+"May 25, 2013",UFC 160 - Velasquez vs. Bigfoot 2,Lightweight,Donald Cerrone,,,K.J. Noons,,,Decision (Unanimous),3,5:00
+"May 25, 2013",UFC 160 - Velasquez vs. Bigfoot 2,Welterweight,Mike Pyle,,,Rick Story,,,Decision (Split),3,5:00
+"May 25, 2013",UFC 160 - Velasquez vs. Bigfoot 2,Featherweight,Dennis Bermudez,,,Max Holloway,,,Decision (Split),3,5:00
+"May 25, 2013",UFC 160 - Velasquez vs. Bigfoot 2,Welterweight,Robert Whittaker,,,Colton Smith,,,TKO (Punches),3,0:41
+"May 25, 2013",UFC 160 - Velasquez vs. Bigfoot 2,159lb Catchweight,Khabib Nurmagomedov,,,Abel Trujillo,,,Decision (Unanimous),3,5:00
+"May 25, 2013",UFC 160 - Velasquez vs. Bigfoot 2,Welterweight,Stephen Thompson,,,Nah-Shon Burrell,,,Decision (Unanimous),3,5:00
+"May 25, 2013",UFC 160 - Velasquez vs. Bigfoot 2,Bantamweight,George Roop,,,Brian Bowles,,,TKO (Punches),2,1:43
+"May 25, 2013",UFC 160 - Velasquez vs. Bigfoot 2,Featherweight,Jeremy Stephens,,,Estevan Payan,,,Decision (Unanimous),3,5:00
+"Aug 28, 2013",UFC Fight Night 27 - Condit vs. Kampmann 2,Welterweight,Carlos Condit,NA,NA,Martin Kampmann,NA,NA,TKO (Punches and Knees),4,0:54
+"Aug 28, 2013",UFC Fight Night 27 - Condit vs. Kampmann 2,Lightweight,Rafael dos Anjos,NA,NA,Donald Cerrone,NA,NA,Decision (Unanimous),3,5:00
+"Aug 28, 2013",UFC Fight Night 27 - Condit vs. Kampmann 2,Welterweight,Kelvin Gastelum,NA,NA,Brian Melancon,NA,NA,Submission (Rear-Naked Choke),1,2:26
+"Aug 28, 2013",UFC Fight Night 27 - Condit vs. Kampmann 2,Welterweight,Court McGee,NA,NA,Robert Whittaker,NA,NA,Decision (Split),3,5:00
+"Aug 28, 2013",UFC Fight Night 27 - Condit vs. Kampmann 2,Bantamweight,Takeya Mizugaki,NA,NA,Erik Perez,NA,NA,Decision (Split),3,5:00
+"Aug 28, 2013",UFC Fight Night 27 - Condit vs. Kampmann 2,Middleweight,Brad Tavares,NA,NA,Bubba McDaniel,NA,NA,Decision (Unanimous),3,5:00
+"Aug 28, 2013",UFC Fight Night 27 - Condit vs. Kampmann 2,Middleweight,Dylan Andrews,NA,NA,Papy Abedi,NA,NA,KO (Punches),3,1:32
+"Aug 28, 2013",UFC Fight Night 27 - Condit vs. Kampmann 2,Welterweight,Brandon Thatch,NA,NA,Justin Edwards,NA,NA,TKO (Knees and Punches),1,1:23
+"Aug 28, 2013",UFC Fight Night 27 - Condit vs. Kampmann 2,Featherweight,Darren Elkins,NA,NA,Hatsu Hioki,NA,NA,Decision (Unanimous),3,5:00
+"Aug 28, 2013",UFC Fight Night 27 - Condit vs. Kampmann 2,Welterweight,Jason High,NA,NA,James Head,NA,NA,Submission (Guillotine Choke),1,1:41
+"Aug 28, 2013",UFC Fight Night 27 - Condit vs. Kampmann 2,Welterweight,Zak Cummings,NA,NA,Ben Alloway,NA,NA,Submission (Brabo Choke),1,4:19
+"Aug 28, 2013",UFC Fight Night 27 - Condit vs. Kampmann 2,Lightweight,Roger Bowling,NA,NA,Abel Trujillo,NA,NA,No Contest (Illegal Knee),2,4:57
+"Oct 9, 2013",UFC Fight Night 29 - Maia vs. Shields,Welterweight,Jake Shields,NA,NA,Demian Maia,NA,NA,Decision (Split),5,5:00
+"Oct 9, 2013",UFC Fight Night 29 - Maia vs. Shields,Welterweight,Dong Hyun Kim,NA,NA,Erick Silva,NA,NA,KO (Punch),2,3:01
+"Oct 9, 2013",UFC Fight Night 29 - Maia vs. Shields,208lb Catchweight,Thiago Silva,NA,NA,Matt Hamill,NA,NA,Decision (Unanimous),3,5:00
+"Oct 9, 2013",UFC Fight Night 29 - Maia vs. Shields,Light Heavyweight,Fabio Maldonado,NA,NA,Joey Beltran,NA,NA,Decision (Split),3,5:00
+"Oct 9, 2013",UFC Fight Night 29 - Maia vs. Shields,Welterweight,Rousimar Palhares,NA,NA,Mike Pierce,NA,NA,Submission (Heel Hook),1,0:31
+"Oct 9, 2013",UFC Fight Night 29 - Maia vs. Shields,Bantamweight,Raphael Assuncao,NA,NA,T.J. Dillashaw,NA,NA,Decision (Split),3,5:00
+"Oct 9, 2013",UFC Fight Night 29 - Maia vs. Shields,Welterweight,Igor Araujo,NA,NA,Ildemar Alcantara,NA,NA,Decision (Unanimous),3,5:00
+"Oct 9, 2013",UFC Fight Night 29 - Maia vs. Shields,Welterweight,Yan Cabral,NA,NA,David Mitchell,NA,NA,Decision (Unanimous),3,5:00
+"Oct 9, 2013",UFC Fight Night 29 - Maia vs. Shields,Flyweight,Chris Cariaso,NA,NA,Iliarde Santos,NA,NA,TKO (Punches),2,4:31
+"Oct 9, 2013",UFC Fight Night 29 - Maia vs. Shields,Lightweight,Alan Patrick,,,Garett Whiteley,NA,NA,TKO (Punches),1,3:54
+"Jul 27, 2013",UFC on Fox 8 - Johnson vs. Moraga,Flyweight Title Fight,Demetrious Johnson,,,John Moraga,,,Submission (Armbar),5,3:43
+"Jul 27, 2013",UFC on Fox 8 - Johnson vs. Moraga,Welterweight,Rory MacDonald,,,Jake Ellenberger,,,Decision (Unanimous),3,5:00
+"Jul 27, 2013",UFC on Fox 8 - Johnson vs. Moraga,Welterweight,Robbie Lawler,,,Bobby Voelker,,,KO (Head Kick and Punch),2,0:24
+"Jul 27, 2013",UFC on Fox 8 - Johnson vs. Moraga,Bantamweight,Liz Carmouche,,,Jessica Andrade,,,TKO (Punches and Elbows),2,3:57
+"Jul 27, 2013",UFC on Fox 8 - Johnson vs. Moraga,Lightweight,Jorge Masvidal,,,Michael Chiesa,,,Submission (Brabo Choke),2,4:59
+"Jul 27, 2013",UFC on Fox 8 - Johnson vs. Moraga,160lb Catchweight,Danny Castillo,,,Tim Means,,,Decision (Unanimous),3,5:00
+"Jul 27, 2013",UFC on Fox 8 - Johnson vs. Moraga,Lightweight,Melvin Guillard,,,Mac Danzig,,,KO (Punches),2,2:47
+"Jul 27, 2013",UFC on Fox 8 - Johnson vs. Moraga,Lightweight,Daron Cruickshank,,,Yves Edwards,,,Decision (Split),3,5:00
+"Jul 27, 2013",UFC on Fox 8 - Johnson vs. Moraga,Middleweight,Ed Herman,,,Trevor Smith,,,Decision (Split),3,5:00
+"Jul 27, 2013",UFC on Fox 8 - Johnson vs. Moraga,Bantamweight,Germaine de Randamie,,,Julie Kedzie,,,Decision (Split),3,5:00
+"Jul 27, 2013",UFC on Fox 8 - Johnson vs. Moraga,Lightweight,Justin Salas,,,Aaron Riley,,,Decision (Split),3,5:00
+"Jul 27, 2013",UFC on Fox 8 - Johnson vs. Moraga,137lb Catchweight,Yaotzin Meza,,,John Albert,,,Submission (Rear-Naked Choke),2,2:49
+"Sep 21, 2013",UFC 165 - Jones vs. Gustafsson,Light Heavyweight Title Fight,Jon Jones,NA,NA,Alexander Gustafsson,NA,NA,Decision (Unanimous),5,5:00
+"Sep 21, 2013",UFC 165 - Jones vs. Gustafsson,Bantamweight Title Fight,Renan Barao,NA,NA,Eddie Wineland,NA,NA,TKO (Spinning Back Kick and Punches),2,0:35
+"Sep 21, 2013",UFC 165 - Jones vs. Gustafsson,Heavyweight,Brendan Schaub,NA,NA,Matt Mitrione,NA,NA,Technical Submission (Brabo Choke),1,4:06
+"Sep 21, 2013",UFC 165 - Jones vs. Gustafsson,Middleweight,Francis Carmont,NA,NA,Costas Philippou,NA,NA,Decision (Unanimous),3,5:00
+"Sep 21, 2013",UFC 165 - Jones vs. Gustafsson,Lightweight,Khabib Nurmagomedov,NA,NA,Pat Healy,NA,NA,Decision (Unanimous),3,5:00
+"Sep 21, 2013",UFC 165 - Jones vs. Gustafsson,Lightweight,Myles Jury,NA,NA,Mike Ricci,NA,NA,Decision (Split),3,5:00
+"Sep 21, 2013",UFC 165 - Jones vs. Gustafsson,Bantamweight,Wilson Reis,NA,NA,Ivan Menjivar,NA,NA,Decision (Unanimous),3,5:00
+"Sep 21, 2013",UFC 165 - Jones vs. Gustafsson,Welterweight,Stephen Thompson,NA,NA,Chris Clements,NA,NA,TKO (Punches),2,1:27
+"Sep 21, 2013",UFC 165 - Jones vs. Gustafsson,Bantamweight,Mitch Gagnon,NA,NA,Dustin Kimura,NA,NA,Technical Submission (Guillotine Choke),1,4:05
+"Sep 21, 2013",UFC 165 - Jones vs. Gustafsson,Lightweight,John Makdessi,NA,NA,Renee Forte,NA,NA,KO (Punches),1,2:01
+"Sep 21, 2013",UFC 165 - Jones vs. Gustafsson,Lightweight,Michel Prazeres,,,Jesse Ronson,NA,NA,Decision (Split),3,5:00
+"Sep 21, 2013",UFC 165 - Jones vs. Gustafsson,Bantamweight,Alex Caceres,NA,NA,Roland Delorme,NA,NA,Decision (Split),3,5:00
+"Sep 21, 2013",UFC 165 - Jones vs. Gustafsson,Heavyweight,Daniel Omielanczuk,NA,NA,Nandor Guelmino,NA,NA,KO (Punch),3,3:18
+"Nov 30, 2013",UFC - The Ultimate Fighter 18 Finale,Lightweight,Nate Diaz,NA,NA,Gray Maynard,NA,NA,TKO (Punches),1,2:38
+"Nov 30, 2013",UFC - The Ultimate Fighter 18 Finale,Bantamweight,Julianna Pena,NA,NA,Jessica Rakoczy,NA,NA,TKO (Punches),1,4:59
+"Nov 30, 2013",UFC - The Ultimate Fighter 18 Finale,Bantamweight,Chris Holdsworth,NA,NA,Davey Grant,NA,NA,Submission (Rear-Naked Choke),2,2:10
+"Nov 30, 2013",UFC - The Ultimate Fighter 18 Finale,Bantamweight,Jessamyn Duke,NA,NA,Peggy Morgan,NA,NA,Decision (Unanimous),3,5:00
+"Nov 30, 2013",UFC - The Ultimate Fighter 18 Finale,Bantamweight,Raquel Pennington,NA,NA,Roxanne Modafferi,NA,NA,Decision (Unanimous),3,5:00
+"Nov 30, 2013",UFC - The Ultimate Fighter 18 Finale,Featherweight,Akira Corassani,NA,NA,Maximo Blanco,NA,NA,Disqualification (Illegal Knee),1,0:25
+"Nov 30, 2013",UFC - The Ultimate Fighter 18 Finale,Featherweight,Tom Niinimaki,NA,NA,Rani Yahya,NA,NA,Decision (Split),3,5:00
+"Nov 30, 2013",UFC - The Ultimate Fighter 18 Finale,Heavyweight,Jared Rosholt,NA,NA,Walt Harris,,,Decision (Unanimous),3,5:00
+"Nov 30, 2013",UFC - The Ultimate Fighter 18 Finale,Welterweight,Sean Spencer,NA,NA,Drew Dober,NA,NA,Decision (Unanimous),3,5:00
+"Nov 30, 2013",UFC - The Ultimate Fighter 18 Finale,128lb Catchweight,Josh Sampo,,,Ryan Benoit,NA,NA,Submission (Rear-Naked Choke),2,4:31
+"May 18, 2013",UFC on FX 8 - Belfort vs. Rockhold,Middleweight,Vitor Belfort,,,Luke Rockhold,,,KO (Spinning Heel Kick and Punches),1,2:32
+"May 18, 2013",UFC on FX 8 - Belfort vs. Rockhold,Middleweight,Ronaldo Souza,,,Chris Camozzi,,,Technical Submission (Arm-Triangle Choke),1,3:37
+"May 18, 2013",UFC on FX 8 - Belfort vs. Rockhold,Lightweight,Rafael dos Anjos,,,Evan Dunham,,,Decision (Unanimous),3,5:00
+"May 18, 2013",UFC on FX 8 - Belfort vs. Rockhold,Middleweight,Rafael Natal,,,Joao Zeferino,,,Decision (Unanimous),3,5:00
+"May 18, 2013",UFC on FX 8 - Belfort vs. Rockhold,Featherweight,Nik Lentz,,,Hacran Dias,,,Decision (Unanimous),3,5:00
+"May 18, 2013",UFC on FX 8 - Belfort vs. Rockhold,Lightweight,Francisco Trinaldo,,,Mike Rio,,,Submission (Arm-Triangle Choke),1,3:08
+"May 18, 2013",UFC on FX 8 - Belfort vs. Rockhold,Lightweight,Gleison Tibau,,,John Cholish,,,Submission (Guillotine Choke),2,2:34
+"May 18, 2013",UFC on FX 8 - Belfort vs. Rockhold,Welterweight,Paulo Thiago,,,Michel Prazeres,,,Decision (Unanimous),3,5:00
+"May 18, 2013",UFC on FX 8 - Belfort vs. Rockhold,Bantamweight,Iuri Alcantara,,,Iliarde Santos,,,KO (Punches),1,2:31
+"May 18, 2013",UFC on FX 8 - Belfort vs. Rockhold,Light Heavyweight,Fabio Maldonado,,,Roger Hollett,,,Decision (Unanimous),3,5:00
+"May 18, 2013",UFC on FX 8 - Belfort vs. Rockhold,Flyweight,John Lineker,,,Azamat Gashimov,,,TKO (Punches),2,1:07
+"May 18, 2013",UFC on FX 8 - Belfort vs. Rockhold,Flyweight,Jussier Formiga,,,Chris Cariaso,,,Decision (Unanimous),3,5:00
+"May 18, 2013",UFC on FX 8 - Belfort vs. Rockhold,Lightweight,Lucas Martins,,,Jeremy Larsen,,,KO (Punch),3,0:13
+"Apr 27, 2013",UFC 159 - Jones vs. Sonnen,Light Heavyweight Title Fight,Jon Jones,,,Chael Sonnen,,,TKO (Elbows and Punches),1,4:33
+"Apr 27, 2013",UFC 159 - Jones vs. Sonnen,Middleweight,Michael Bisping,,,Alan Belcher,,,Technical Decision (Unanimous),3,4:31
+"Apr 27, 2013",UFC 159 - Jones vs. Sonnen,Heavyweight,Roy Nelson,,,Cheick Kongo,,,KO (Punches),1,2:03
+"Apr 27, 2013",UFC 159 - Jones vs. Sonnen,Light Heavyweight,Phil Davis,,,Vinny Magalhaes,,,Decision (Unanimous),3,5:00
+"Apr 27, 2013",UFC 159 - Jones vs. Sonnen,Lightweight,Pat Healy,,,Jim Miller,,,No Contest (Overturned by Commission),3,4:02
+"Apr 27, 2013",UFC 159 - Jones vs. Sonnen,Lightweight,Rustam Khabilov,,,Yancy Medeiros,,,TKO (Thumb Injury),1,2:32
+"Apr 27, 2013",UFC 159 - Jones vs. Sonnen,Light Heavyweight,Ovince St. Preux,,,Gian Villante,,,Technical Decision (Majority),3,0:33
+"Apr 27, 2013",UFC 159 - Jones vs. Sonnen,Bantamweight,Sara McMann,,,Sheila Gaff,,,TKO (Punches),1,4:06
+"Apr 27, 2013",UFC 159 - Jones vs. Sonnen,Bantamweight,Bryan Caraway,,,Johnny Bedford,,,Submission (Guillotine Choke),3,4:44
+"Apr 27, 2013",UFC 159 - Jones vs. Sonnen,Featherweight,Cody McKenzie,,,Leonard Garcia,,,Decision (Unanimous),3,5:00
+"Apr 27, 2013",UFC 159 - Jones vs. Sonnen,Featherweight,Steven Siler,,,Kurt Holobaugh,,,Decision (Unanimous),3,5:00
+"Apr 20, 2013",UFC on Fox 7 - Henderson vs. Melendez,Lightweight Title Fight,Benson Henderson,,,Gilbert Melendez,,,Decision (Split),5,5:00
+"Apr 20, 2013",UFC on Fox 7 - Henderson vs. Melendez,Heavyweight,Daniel Cormier,,,Frank Mir,,,Decision (Unanimous),3,5:00
+"Apr 20, 2013",UFC on Fox 7 - Henderson vs. Melendez,Lightweight,Josh Thomson,,,Nate Diaz,,,TKO (Head Kick and Punches),2,3:44
+"Apr 20, 2013",UFC on Fox 7 - Henderson vs. Melendez,Welterweight,Matt Brown,,,Jordan Mein,,,TKO (Elbows),2,1:00
+"Apr 20, 2013",UFC on Fox 7 - Henderson vs. Melendez,Featherweight,Chad Mendes,,,Darren Elkins,,,KO (Punches),1,1:08
+"Apr 20, 2013",UFC on Fox 7 - Henderson vs. Melendez,Middleweight,Francis Carmont,,,Lorenz Larkin,,,Decision (Unanimous),3,5:00
+"Apr 20, 2013",UFC on Fox 7 - Henderson vs. Melendez,Lightweight,Myles Jury,,,Ramsey Nijem,,,KO (Punch),2,1:02
+"Apr 20, 2013",UFC on Fox 7 - Henderson vs. Melendez,Flyweight,Joseph Benavidez,,,Darren Uyenoyama,,,KO (Punch to the Body),2,4:50
+"Apr 20, 2013",UFC on Fox 7 - Henderson vs. Melendez,Lightweight,Jorge Masvidal,,,Tim Means,,,Decision (Unanimous),3,5:00
+"Apr 20, 2013",UFC on Fox 7 - Henderson vs. Melendez,Bantamweight,T.J. Dillashaw,,,Hugo Viana,,,TKO (Punches),1,4:22
+"Apr 20, 2013",UFC on Fox 7 - Henderson vs. Melendez,Lightweight,Anthony Njokuani,,,Roger Bowling,,,KO (Punch),2,2:52
+"Apr 20, 2013",UFC on Fox 7 - Henderson vs. Melendez,Middleweight,Yoel Romero,,,Clifford Starks,,,KO (Flying Knee and Punches),1,1:32
+"Apr 13, 2013",UFC - The Ultimate Fighter 17 Finale,Bantamweight,Urijah Faber,,,Scott Jorgensen,,,Submission (Rear-Naked Choke),4,3:16
+"Apr 13, 2013",UFC - The Ultimate Fighter 17 Finale,Middleweight,Kelvin Gastelum,,,Uriah Hall,,,Decision (Split),3,5:00
+"Apr 13, 2013",UFC - The Ultimate Fighter 17 Finale,Bantamweight,Cat Zingano,,,Miesha Tate,,,TKO (Knees and Elbow),3,2:55
+"Apr 13, 2013",UFC - The Ultimate Fighter 17 Finale,Heavyweight,Travis Browne,,,Gabriel Gonzaga,,,KO (Elbows),1,1:11
+"Apr 13, 2013",UFC - The Ultimate Fighter 17 Finale,Middleweight,Bubba McDaniel,,,Gilbert Smith,,,Submission (Triangle Armbar),3,2:49
+"Apr 13, 2013",UFC - The Ultimate Fighter 17 Finale,Middleweight,Josh Samman,,,Kevin Casey,,,TKO (Knees),2,2:17
+"Apr 13, 2013",UFC - The Ultimate Fighter 17 Finale,Middleweight,Luke Barnatt,,,Collin Hart,,,Decision (Unanimous),3,5:00
+"Apr 13, 2013",UFC - The Ultimate Fighter 17 Finale,Middleweight,Dylan Andrews,,,Jimmy Quinlan,,,TKO (Punches),1,3:22
+"Apr 13, 2013",UFC - The Ultimate Fighter 17 Finale,Middleweight,Clint Hester,,,Bristol Marunde,,,KO (Elbow),3,3:53
+"Apr 13, 2013",UFC - The Ultimate Fighter 17 Finale,Featherweight,Cole Miller,,,Bart Palaszewski,,,Submission (Rear-Naked Choke),1,4:23
+"Apr 13, 2013",UFC - The Ultimate Fighter 17 Finale,Featherweight,Maximo Blanco,,,Sam Sicilia,,,Decision (Unanimous),3,5:00
+"Apr 13, 2013",UFC - The Ultimate Fighter 17 Finale,Featherweight,Daniel Pineda,,,Justin Lawrence,,,Submission (Kimura),1,1:35
+"Apr 6, 2013",UFC on Fuel TV 9 - Mousasi vs. Latifi,Light Heavyweight,Gegard Mousasi,,,Ilir Latifi,,,Decision (Unanimous),3,5:00
+"Apr 6, 2013",UFC on Fuel TV 9 - Mousasi vs. Latifi,Lightweight,Ross Pearson,,,Ryan Couture,,,TKO (Punches),2,3:45
+"Apr 6, 2013",UFC on Fuel TV 9 - Mousasi vs. Latifi,Heavyweight,Matt Mitrione,,,Phil De Fries,,,KO (Punches),1,0:19
+"Apr 6, 2013",UFC on Fuel TV 9 - Mousasi vs. Latifi,Bantamweight,Brad Pickett,,,Mike Easton,,,Decision (Split),3,5:00
+"Apr 6, 2013",UFC on Fuel TV 9 - Mousasi vs. Latifi,Featherweight,Diego Brandao,,,Pablo Garza,,,Submission (Arm-Triangle Choke),1,3:27
+"Apr 6, 2013",UFC on Fuel TV 9 - Mousasi vs. Latifi,Featherweight,Akira Corassani,,,Robbie Peralta,,,Decision (Unanimous),3,5:00
+"Apr 6, 2013",UFC on Fuel TV 9 - Mousasi vs. Latifi,Lightweight,Reza Madadi,,,Michael Johnson,,,Submission (Brabo Choke),3,1:33
+"Apr 6, 2013",UFC on Fuel TV 9 - Mousasi vs. Latifi,Middleweight,Tor Troeng,,,Adam Cella,,,Submission (Rear-Naked Choke),1,3:11
+"Apr 6, 2013",UFC on Fuel TV 9 - Mousasi vs. Latifi,Welterweight,Adlan Amagov,,,Chris Spang,,,Decision (Unanimous),3,5:00
+"Apr 6, 2013",UFC on Fuel TV 9 - Mousasi vs. Latifi,Featherweight,Conor McGregor,,,Marcus Brimage,,,TKO (Punches),1,1:07
+"Apr 6, 2013",UFC on Fuel TV 9 - Mousasi vs. Latifi,Welterweight,Ryan LaFlare,,,Ben Alloway,,,Decision (Unanimous),3,5:00
+"Apr 6, 2013",UFC on Fuel TV 9 - Mousasi vs. Latifi,Middleweight,Tom Lawlor,,,Michael Kuiper,,,Submission (Guillotine Choke),2,1:05
+"Apr 6, 2013",UFC on Fuel TV 9 - Mousasi vs. Latifi,Welterweight,Papy Abedi,,,Besam Yousef,,,Decision (Split),3,5:00
+"Aug 17, 2013",UFC Fight Night 26 - Shogun vs. Sonnen,Light Heavyweight,Chael Sonnen,,,Mauricio Rua,,,Submission (Guillotine Choke),1,4:47
+"Aug 17, 2013",UFC Fight Night 26 - Shogun vs. Sonnen,Heavyweight,Travis Browne,,,Alistair Overeem,,,KO (Front Kick and Punches),1,4:08
+"Aug 17, 2013",UFC Fight Night 26 - Shogun vs. Sonnen,Bantamweight,Urijah Faber,,,Iuri Alcantara,,,Decision (Unanimous),3,5:00
+"Aug 17, 2013",UFC Fight Night 26 - Shogun vs. Sonnen,Welterweight,Matt Brown,,,Mike Pyle,,,KO (Punches),1,0:29
+"Aug 17, 2013",UFC Fight Night 26 - Shogun vs. Sonnen,Middleweight,John Howard,,,Uriah Hall,,,Decision (Split),3,5:00
+"Aug 17, 2013",UFC Fight Night 26 - Shogun vs. Sonnen,Lightweight,Michael Johnson,,,Joe Lauzon,,,Decision (Unanimous),3,5:00
+"Aug 17, 2013",UFC Fight Night 26 - Shogun vs. Sonnen,Bantamweight,Michael McDonald,,,Brad Pickett,,,Submission (Triangle Choke),2,3:43
+"Aug 17, 2013",UFC Fight Night 26 - Shogun vs. Sonnen,Featherweight,Conor McGregor,,,Max Holloway,,,Decision (Unanimous),3,5:00
+"Aug 17, 2013",UFC Fight Night 26 - Shogun vs. Sonnen,Featherweight,Steven Siler,,,Mike Thomas Brown,,,KO (Punches),1,0:50
+"Aug 17, 2013",UFC Fight Night 26 - Shogun vs. Sonnen,Featherweight,Diego Brandao,,,Daniel Pineda,,,Decision (Unanimous),3,5:00
+"Aug 17, 2013",UFC Fight Night 26 - Shogun vs. Sonnen,Featherweight,Manny Gamburyan,,,Cole Miller,,,Decision (Unanimous),3,5:00
+"Aug 17, 2013",UFC Fight Night 26 - Shogun vs. Sonnen,Light Heavyweight,Ovince St. Preux,,,Cody Donovan,,,KO (Punches),1,2:07
+"Aug 17, 2013",UFC Fight Night 26 - Shogun vs. Sonnen,Lightweight,James Vick,,,Ramsey Nijem,,,Submission (Guillotine Choke),1,0:58
+"Mar 16, 2013",UFC 158 - St. Pierre vs. Diaz,Welterweight Title Fight,Georges St. Pierre,,,Nick Diaz,,,Decision (Unanimous),5,5:00
+"Mar 16, 2013",UFC 158 - St. Pierre vs. Diaz,Welterweight,Johny Hendricks,,,Carlos Condit,,,Decision (Unanimous),3,5:00
+"Mar 16, 2013",UFC 158 - St. Pierre vs. Diaz,Welterweight,Jake Ellenberger,,,Nate Marquardt,,,KO (Punches),1,3:00
+"Mar 16, 2013",UFC 158 - St. Pierre vs. Diaz,Middleweight,Chris Camozzi,,,Nick Ring,,,Decision (Split),3,5:00
+"Mar 16, 2013",UFC 158 - St. Pierre vs. Diaz,Lightweight,Mike Ricci,,,Colin Fletcher,,,Decision (Unanimous),3,5:00
+"Mar 16, 2013",UFC 158 - St. Pierre vs. Diaz,Welterweight,Patrick Cote,,,Bobby Voelker,,,Decision (Unanimous),3,5:00
+"Mar 16, 2013",UFC 158 - St. Pierre vs. Diaz,Featherweight,Darren Elkins,,,Antonio Carvalho,,,TKO (Punches),1,3:06
+"Mar 16, 2013",UFC 158 - St. Pierre vs. Diaz,Welterweight,Jordan Mein,,,Dan Miller,,,TKO (Punches),1,4:42
+"Mar 16, 2013",UFC 158 - St. Pierre vs. Diaz,Lightweight,John Makdessi,,,Daron Cruickshank,,,Decision (Unanimous),3,5:00
+"Mar 16, 2013",UFC 158 - St. Pierre vs. Diaz,Welterweight,Rick Story,,,Quinn Mulhern,,,TKO (Punches),1,3:05
+"Mar 16, 2013",UFC 158 - St. Pierre vs. Diaz,Bantamweight,T.J. Dillashaw,,,Issei Tamura,,,KO (Head Kick and Punches),2,0:26
+"Mar 16, 2013",UFC 158 - St. Pierre vs. Diaz,Bantamweight,George Roop,,,Reuben Duran,,,Decision (Unanimous),3,5:00
+"Jan 26, 2013",UFC on Fox 6 - Johnson vs. Dodson,Flyweight Title Fight,Demetrious Johnson,,,John Dodson,,,Decision (Unanimous),5,5:00
+"Jan 26, 2013",UFC on Fox 6 - Johnson vs. Dodson,Light Heavyweight,Glover Teixeira,,,Quinton Jackson,,,Decision (Unanimous),3,5:00
+"Jan 26, 2013",UFC on Fox 6 - Johnson vs. Dodson,Lightweight,Anthony Pettis,,,Donald Cerrone,,,KO (Kick to the Body),1,2:35
+"Jan 26, 2013",UFC on Fox 6 - Johnson vs. Dodson,Featherweight,Ricardo Lamas,,,Erik Koch,,,TKO (Elbows),2,2:32
+"Jan 26, 2013",UFC on Fox 6 - Johnson vs. Dodson,Lightweight,T.J. Grant,,,Matt Wiman,,,KO (Elbows and Punches),1,4:51
+"Jan 26, 2013",UFC on Fox 6 - Johnson vs. Dodson,Featherweight,Clay Guida,,,Hatsu Hioki,,,Decision (Split),3,5:00
+"Jan 26, 2013",UFC on Fox 6 - Johnson vs. Dodson,Welterweight,Pascal Krauss,,,Mike Stumpf,,,Decision (Unanimous),3,5:00
+"Jan 26, 2013",UFC on Fox 6 - Johnson vs. Dodson,Light Heavyweight,Ryan Bader,,,Vladimir Matyushenko,,,Submission (Guillotine Choke),1,0:50
+"Jan 26, 2013",UFC on Fox 6 - Johnson vs. Dodson,Heavyweight,Shawn Jordan,,,Mike Russow,,,TKO (Punches and Elbows),2,3:48
+"Jan 26, 2013",UFC on Fox 6 - Johnson vs. Dodson,Middleweight,Rafael Natal,,,Sean Spencer,,,Submission (Arm-Triangle Choke),3,2:13
+"Jan 26, 2013",UFC on Fox 6 - Johnson vs. Dodson,Welterweight,David Mitchell,,,Simeon Thoresen,,,Decision (Unanimous),3,5:00
+"Feb 2, 2013",UFC 156 - Aldo vs. Edgar,Featherweight Title Fight,Jose Aldo,,,Frankie Edgar,,,Decision (Unanimous),5,5:00
+"Feb 2, 2013",UFC 156 - Aldo vs. Edgar,Light Heavyweight,Antonio Rogerio Nogueira,,,Rashad Evans,,,Decision (Unanimous),3,5:00
+"Feb 2, 2013",UFC 156 - Aldo vs. Edgar,Heavyweight,Antonio Silva,,,Alistair Overeem,,,KO (Punches),3,0:25
+"Feb 2, 2013",UFC 156 - Aldo vs. Edgar,Welterweight,Demian Maia,,,Jon Fitch,,,Decision (Unanimous),3,5:00
+"Feb 2, 2013",UFC 156 - Aldo vs. Edgar,Flyweight,Joseph Benavidez,,,Ian McCall,,,Decision (Unanimous),3,5:00
+"Feb 2, 2013",UFC 156 - Aldo vs. Edgar,Lightweight,Evan Dunham,,,Gleison Tibau,,,Decision (Split),3,5:00
+"Feb 2, 2013",UFC 156 - Aldo vs. Edgar,Welterweight,Tyron Woodley,,,Jay Hieron,,,KO (Punches),1,0:36
+"Feb 2, 2013",UFC 156 - Aldo vs. Edgar,Lightweight,Bobby Green,,,Jacob Volkmann,,,Submission (Rear-Naked Choke),3,4:25
+"Feb 2, 2013",UFC 156 - Aldo vs. Edgar,Lightweight,Isaac Vallie-Flagg,,,Yves Edwards,,,Decision (Split),3,5:00
+"Feb 2, 2013",UFC 156 - Aldo vs. Edgar,140lb Catchweight,Dustin Kimura,,,Chico Camus,,,Submission (Rear-Naked Choke),3,1:50
+"Feb 2, 2013",UFC 156 - Aldo vs. Edgar,Bantamweight,Francisco Rivera,,,Edwin Figueroa,,,TKO (Punches),2,4:20
+"Jan 19, 2013",UFC on FX 7 - Belfort vs. Bisping,Middleweight,Vitor Belfort,,,Michael Bisping,,,TKO (Head Kick and Punches),2,1:27
+"Jan 19, 2013",UFC on FX 7 - Belfort vs. Bisping,Middleweight,C.B. Dollaway,,,Daniel Sarafian,,,Decision (Split),3,5:00
+"Jan 19, 2013",UFC on FX 7 - Belfort vs. Bisping,Heavyweight,Gabriel Gonzaga,,,Ben Rothwell,,,Submission (Guillotine Choke),2,1:01
+"Jan 19, 2013",UFC on FX 7 - Belfort vs. Bisping,Lightweight,Khabib Nurmagomedov,,,Thiago Tavares,,,TKO (Punches and Elbows),1,1:55
+"Jan 19, 2013",UFC on FX 7 - Belfort vs. Bisping,Featherweight,Godofredo Castro,,,Milton Vieira,,,Decision (Split),3,5:00
+"Jan 19, 2013",UFC on FX 7 - Belfort vs. Bisping,Middleweight,Ronny Markes,,,Andrew Craig,,,Decision (Unanimous),3,5:00
+"Jan 19, 2013",UFC on FX 7 - Belfort vs. Bisping,Featherweight,Nik Lentz,,,Diego Nunes,,,Decision (Unanimous),3,5:00
+"Jan 19, 2013",UFC on FX 7 - Belfort vs. Bisping,Lightweight,Edson Barboza,,,Lucas Martins,,,TKO (Retirement),1,2:38
+"Jan 19, 2013",UFC on FX 7 - Belfort vs. Bisping,Bantamweight,Pedro Nobre,,,Iuri Alcantara,,,No Contest,1,2:11
+"Jan 19, 2013",UFC on FX 7 - Belfort vs. Bisping,Light Heavyweight,Ildemar Alcantara,,,Wagner Prado,,,Submission (Kneebar),2,2:39
+"Jan 19, 2013",UFC on FX 7 - Belfort vs. Bisping,Lightweight,Francisco Trinaldo,,,C.J. Keith,,,Submission (Arm-Triangle Choke),2,1:50
+"Mar 3, 2013",UFC on Fuel TV 8 - Silva vs. Stann,Light Heavyweight,Wanderlei Silva,,,Brian Stann,,,KO (Punches),2,4:08
+"Mar 3, 2013",UFC on Fuel TV 8 - Silva vs. Stann,Heavyweight,Mark Hunt,,,Stefan Struve,,,TKO (Punches),3,1:44
+"Mar 3, 2013",UFC on Fuel TV 8 - Silva vs. Stann,158lb Catchweight,Diego Sanchez,,,Takanori Gomi,,,Decision (Split),3,5:00
+"Mar 3, 2013",UFC on Fuel TV 8 - Silva vs. Stann,Middleweight,Yushin Okami,,,Hector Lombard,,,Decision (Split),3,5:00
+"Mar 3, 2013",UFC on Fuel TV 8 - Silva vs. Stann,Featherweight,Rani Yahya,,,Mizuto Hirota,,,Decision (Unanimous),3,5:00
+"Mar 3, 2013",UFC on Fuel TV 8 - Silva vs. Stann,Welterweight,Dong Hyun Kim,,,Siyar Bahadurzada,,,Decision (Unanimous),3,5:00
+"Mar 3, 2013",UFC on Fuel TV 8 - Silva vs. Stann,Middleweight,Brad Tavares,,,Riki Fukuda,,,Decision (Unanimous),3,5:00
+"Mar 3, 2013",UFC on Fuel TV 8 - Silva vs. Stann,Bantamweight,Takeya Mizugaki,,,Bryan Caraway,,,Decision (Split),3,5:00
+"Mar 3, 2013",UFC on Fuel TV 8 - Silva vs. Stann,Lightweight,Kazuki Tokudome,,,Cristiano Marcello,,,Decision (Unanimous),3,5:00
+"Mar 3, 2013",UFC on Fuel TV 8 - Silva vs. Stann,Bantamweight,Alex Caceres,,,Kyung Ho Kang,,,No Contest (Caceres Failed Drug Test),3,5:00
+"Mar 3, 2013",UFC on Fuel TV 8 - Silva vs. Stann,Welterweight,Hyun Gyu Lim,,,Marcelo Guimaraes,,,KO (Knee),2,4:00
+"Feb 23, 2013",UFC 157 - Rousey vs. Carmouche,Bantamweight Title Fight,Ronda Rousey,,,Liz Carmouche,,,Submission (Armbar),1,4:49
+"Feb 23, 2013",UFC 157 - Rousey vs. Carmouche,Light Heavyweight,Lyoto Machida,,,Dan Henderson,,,Decision (Split),3,5:00
+"Feb 23, 2013",UFC 157 - Rousey vs. Carmouche,Bantamweight,Urijah Faber,,,Ivan Menjivar,,,Submission (Rear-Naked Choke),1,4:34
+"Feb 23, 2013",UFC 157 - Rousey vs. Carmouche,Welterweight,Court McGee,,,Josh Neer,,,Decision (Unanimous),3,5:00
+"Feb 23, 2013",UFC 157 - Rousey vs. Carmouche,Welterweight,Robbie Lawler,,,Josh Koscheck,,,TKO (Punches),1,3:57
+"Feb 23, 2013",UFC 157 - Rousey vs. Carmouche,Heavyweight,Brendan Schaub,,,Lavar Johnson,,,Decision (Unanimous),3,5:00
+"Feb 23, 2013",UFC 157 - Rousey vs. Carmouche,Lightweight,Michael Chiesa,,,Anton Kuivanen,,,Submission (Rear-Naked Choke),2,2:29
+"Feb 23, 2013",UFC 157 - Rousey vs. Carmouche,Featherweight,Dennis Bermudez,,,Matt Grice,,,Decision (Split),3,5:00
+"Feb 23, 2013",UFC 157 - Rousey vs. Carmouche,Lightweight,Sam Stout,,,Caros Fodor,,,Decision (Split),3,5:00
+"Feb 23, 2013",UFC 157 - Rousey vs. Carmouche,Welterweight,Kenny Robertson,,,Brock Jardine,,,Submission (Kneebar),1,2:57
+"Feb 23, 2013",UFC 157 - Rousey vs. Carmouche,Welterweight,Neil Magny,,,Jon Manley,,,Decision (Unanimous),3,5:00
+"Feb 23, 2013",UFC 157 - Rousey vs. Carmouche,176lb Catchweight,Nah-Shon Burrell,,,Yuri Villefort,,,Decision (Unanimous),3,5:00
+"Feb 16, 2013",UFC on Fuel TV 7 - Barao vs. McDonald,Bantamweight Title Fight,Renan Barao,,,Michael McDonald,,,Submission (Arm-Triangle Choke),4,3:57
+"Feb 16, 2013",UFC on Fuel TV 7 - Barao vs. McDonald,Featherweight,Cub Swanson,,,Dustin Poirier,,,Decision (Unanimous),3,5:00
+"Feb 16, 2013",UFC on Fuel TV 7 - Barao vs. McDonald,Light Heavyweight,Jimi Manuwa,,,Cyrille Diabate,,,TKO (Retirement),1,5:00
+"Feb 16, 2013",UFC on Fuel TV 7 - Barao vs. McDonald,Welterweight,Gunnar Nelson,,,Jorge Santiago,,,Decision (Unanimous),3,5:00
+"Feb 16, 2013",UFC on Fuel TV 7 - Barao vs. McDonald,Light Heavyweight,James Te Huna,,,Ryan Jimmo,,,Decision (Unanimous),3,5:00
+"Feb 16, 2013",UFC on Fuel TV 7 - Barao vs. McDonald,Welterweight,Matt Riddle,,,Che Mills,,,No Contest (Overturned),3,5:00
+"Feb 16, 2013",UFC on Fuel TV 7 - Barao vs. McDonald,Lightweight,Renee Forte,,,Terry Etim,,,Decision (Unanimous),3,5:00
+"Feb 16, 2013",UFC on Fuel TV 7 - Barao vs. McDonald,Lightweight,Danny Castillo,,,Paul Sass,,,Decision (Unanimous),3,5:00
+"Feb 16, 2013",UFC on Fuel TV 7 - Barao vs. McDonald,Featherweight,Andy Ogle,,,Josh Grispi,,,Decision (Unanimous),3,5:00
+"Feb 16, 2013",UFC on Fuel TV 7 - Barao vs. McDonald,Middleweight,Tom Watson,,,Stanislav Nedkov,,,TKO (Knee to the Body and Punches),2,4:42
+"Feb 16, 2013",UFC on Fuel TV 7 - Barao vs. McDonald,Bantamweight,Vaughan Lee,,,Motonobu Tezuka,,,Decision (Unanimous),3,5:00
+"Feb 16, 2013",UFC on Fuel TV 7 - Barao vs. McDonald,Flyweight,Phil Harris,,,Ulysses Gomez,,,Decision (Unanimous),3,5:00

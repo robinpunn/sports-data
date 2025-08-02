@@ -1,0 +1,517 @@
+date,event,weight_class,winner,winner_weight,winner_odds,loser,loser_weight,loser_odds,method,rnd,time
+"Dec 21, 2019",UFC Fight Night 165 - Edgar vs. Korean Zombie,Featherweight,Chan Sung Jung,NA,NA,Frankie Edgar,NA,NA,TKO (Punches),1,3:18
+"Dec 21, 2019",UFC Fight Night 165 - Edgar vs. Korean Zombie,Light Heavyweight,Volkan Oezdemir,NA,NA,Aleksandar Rakic,NA,NA,Decision (Split),3,5:00
+"Dec 21, 2019",UFC Fight Night 165 - Edgar vs. Korean Zombie,Featherweight,Charles Jourdain,NA,NA,Doo Ho Choi,NA,NA,TKO (Punches),2,4:32
+"Dec 21, 2019",UFC Fight Night 165 - Edgar vs. Korean Zombie,Light Heavyweight,Da Woon Jung,,,Mike Rodriguez,NA,NA,KO (Punches),1,1:04
+"Dec 21, 2019",UFC Fight Night 165 - Edgar vs. Korean Zombie,Middleweight,Jun Yong Park,NA,NA,Marc-Andre Barriault,NA,NA,Decision (Unanimous),3,5:00
+"Dec 21, 2019",UFC Fight Night 165 - Edgar vs. Korean Zombie,Bantamweight,Kyung Ho Kang,NA,NA,Pingyuan Liu,NA,NA,Decision (Split),3,5:00
+"Dec 21, 2019",UFC Fight Night 165 - Edgar vs. Korean Zombie,Heavyweight,Ciryl Gane,NA,NA,Tanner Boser,NA,NA,Decision (Unanimous),3,5:00
+"Dec 21, 2019",UFC Fight Night 165 - Edgar vs. Korean Zombie,Featherweight,Seung Woo Choi,,,Suman Mokhtarian,NA,NA,Decision (Unanimous),3,5:00
+"Dec 21, 2019",UFC Fight Night 165 - Edgar vs. Korean Zombie,Lightweight,Omar Morales,,,Dong Hyun Ma,NA,NA,Decision (Unanimous),3,5:00
+"Dec 21, 2019",UFC Fight Night 165 - Edgar vs. Korean Zombie,Flyweight,Alexandre Pantoja,NA,NA,Matt Schnell,NA,NA,KO (Punches),1,4:17
+"Dec 21, 2019",UFC Fight Night 165 - Edgar vs. Korean Zombie,Bantamweight,Raoni Barcelos,NA,NA,Said Nurmagomedov,NA,NA,Decision (Unanimous),3,5:00
+"Dec 21, 2019",UFC Fight Night 165 - Edgar vs. Korean Zombie,Strawweight,Amanda Lemos,NA,NA,Miranda Granger,NA,NA,Technical Submission (Rear-Naked Choke),1,3:43
+"Dec 21, 2019",UFC Fight Night 165 - Edgar vs. Korean Zombie,Bantamweight,Heili Alateng,NA,NA,Ryan Benoit,NA,NA,Decision (Split),3,5:00
+"Dec 14, 2019",UFC 245 - Usman vs. Covington,Welterweight Title Fight,Kamaru Usman,NA,NA,Colby Covington,NA,NA,TKO (Punches),5,4:10
+"Dec 14, 2019",UFC 245 - Usman vs. Covington,Featherweight Title Fight,Alexander Volkanovski,NA,NA,Max Holloway,NA,NA,Decision (Unanimous),5,5:00
+"Dec 14, 2019",UFC 245 - Usman vs. Covington,Bantamweight Title Fight,Amanda Nunes,NA,NA,Germaine de Randamie,NA,NA,Decision (Unanimous),5,5:00
+"Dec 14, 2019",UFC 245 - Usman vs. Covington,Bantamweight,Marlon Moraes,NA,NA,Jose Aldo,NA,NA,Decision (Split),3,5:00
+"Dec 14, 2019",UFC 245 - Usman vs. Covington,Bantamweight,Petr Yan,NA,NA,Urijah Faber,NA,NA,KO (Head Kick),3,0:43
+"Dec 14, 2019",UFC 245 - Usman vs. Covington,Welterweight,Geoff Neal,NA,NA,Mike Perry,NA,NA,TKO (Head Kick and Punches),1,1:30
+"Dec 14, 2019",UFC 245 - Usman vs. Covington,Bantamweight,Irene Aldana,NA,NA,Ketlen Vieira,NA,NA,KO (Punches),1,4:51
+"Dec 14, 2019",UFC 245 - Usman vs. Covington,Middleweight,Omari Akhmedov,NA,NA,Ian Heinisch,NA,NA,Decision (Unanimous),3,5:00
+"Dec 14, 2019",UFC 245 - Usman vs. Covington,Welterweight,Matt Brown,NA,NA,Ben Saunders,NA,NA,KO (Elbows and Punches),2,4:55
+"Dec 14, 2019",UFC 245 - Usman vs. Covington,Featherweight,Chase Hooper,NA,NA,Daniel Teymur,NA,NA,TKO (Elbows and Punches),1,4:34
+"Dec 14, 2019",UFC 245 - Usman vs. Covington,Flyweight,Brandon Moreno,NA,NA,Kai Kara-France,NA,NA,Decision (Unanimous),3,5:00
+"Dec 14, 2019",UFC 245 - Usman vs. Covington,131lb Catchweight,Jessica Eye,NA,NA,Viviane Araujo,NA,NA,Decision (Unanimous),3,5:00
+"Dec 14, 2019",UFC 245 - Usman vs. Covington,Middleweight,Punahele Soriano,NA,NA,Oskar Piechota,NA,NA,KO (Punch),1,3:17
+"Nov 16, 2019",UFC Fight Night 164 - Blachowicz vs. Jacare,Light Heavyweight,Jan Blachowicz,NA,NA,Ronaldo Souza,NA,NA,Decision (Split),5,5:00
+"Nov 16, 2019",UFC Fight Night 164 - Blachowicz vs. Jacare,Light Heavyweight,Mauricio Rua,NA,NA,Paul Craig,NA,NA,Draw (Split),3,5:00
+"Nov 16, 2019",UFC Fight Night 164 - Blachowicz vs. Jacare,Lightweight,Charles Oliveira,NA,NA,Jared Gordon,NA,NA,KO (Punches),1,1:26
+"Nov 16, 2019",UFC Fight Night 164 - Blachowicz vs. Jacare,Middleweight,Andre Muniz,NA,NA,Antonio Arroyo,NA,NA,Decision (Unanimous),3,5:00
+"Nov 16, 2019",UFC Fight Night 164 - Blachowicz vs. Jacare,Middleweight,Wellington Turman,NA,NA,Markus Perez,NA,NA,Decision (Unanimous),3,5:00
+"Nov 16, 2019",UFC Fight Night 164 - Blachowicz vs. Jacare,Welterweight,James Krause,NA,NA,Sergio Moraes,NA,NA,KO (Punches),3,4:19
+"Nov 16, 2019",UFC Fight Night 164 - Blachowicz vs. Jacare,Featherweight,Ricardo Ramos,NA,NA,Luiz Eduardo Garagorri,NA,NA,Submission (Rear-Naked Choke),1,3:57
+"Nov 16, 2019",UFC Fight Night 164 - Blachowicz vs. Jacare,Lightweight,Francisco Trinaldo,NA,NA,Bobby Green,NA,NA,Decision (Unanimous),3,5:00
+"Nov 16, 2019",UFC Fight Night 164 - Blachowicz vs. Jacare,Welterweight,Randy Brown,NA,NA,Warlley Alves,NA,NA,Submission (Triangle Choke),2,1:22
+"Nov 16, 2019",UFC Fight Night 164 - Blachowicz vs. Jacare,Featherweight,Douglas Silva de Andrade,NA,NA,Renan Barao,NA,NA,Decision (Unanimous),3,5:00
+"Nov 16, 2019",UFC Fight Night 164 - Blachowicz vs. Jacare,131lb Catchweight,Ariane Lipski da Silva,NA,NA,Isabela de Padua,NA,NA,Decision (Unanimous),3,5:00
+"Nov 16, 2019",UFC Fight Night 164 - Blachowicz vs. Jacare,Bantamweight,Tracy Cortez,NA,NA,Vanessa Melo,NA,NA,Decision (Unanimous),3,5:00
+"Nov 9, 2019",UFC Fight Night 163 - Magomedsharipov vs. Kattar,Featherweight,Zabit Magomedsharipov,NA,NA,Calvin Kattar,NA,NA,Decision (Unanimous),3,5:00
+"Nov 9, 2019",UFC Fight Night 163 - Magomedsharipov vs. Kattar,Heavyweight,Alexander Volkov,NA,NA,Greg Hardy,NA,NA,Decision (Unanimous),3,5:00
+"Nov 9, 2019",UFC Fight Night 163 - Magomedsharipov vs. Kattar,Welterweight,Danny Roberts,NA,NA,Zelim Imadaev,NA,NA,KO (Punch),2,4:54
+"Nov 9, 2019",UFC Fight Night 163 - Magomedsharipov vs. Kattar,Light Heavyweight,Ed Herman,NA,NA,Khadis Ibragimov,NA,NA,Decision (Unanimous),3,5:00
+"Nov 9, 2019",UFC Fight Night 163 - Magomedsharipov vs. Kattar,Welterweight,Anthony Rocco Martin,NA,NA,Ramazan Emeev,NA,NA,Decision (Unanimous),3,5:00
+"Nov 9, 2019",UFC Fight Night 163 - Magomedsharipov vs. Kattar,Light Heavyweight,Shamil Gamzatov,NA,NA,Klidson Abreu,NA,NA,Decision (Split),3,5:00
+"Nov 9, 2019",UFC Fight Night 163 - Magomedsharipov vs. Kattar,Light Heavyweight,Magomed Ankalaev,NA,NA,Dalcha Lungiambula,NA,NA,KO (Front Kick and Punch),3,0:29
+"Nov 9, 2019",UFC Fight Night 163 - Magomedsharipov vs. Kattar,Welterweight,Rustam Khabilov,NA,NA,Sergey Khandozhko,NA,NA,Decision (Unanimous),3,5:00
+"Nov 9, 2019",UFC Fight Night 163 - Magomedsharipov vs. Kattar,Middleweight,Karl Roberson,NA,NA,Roman Kopylov,NA,NA,Submission (Rear-Naked Choke),3,4:01
+"Nov 9, 2019",UFC Fight Night 163 - Magomedsharipov vs. Kattar,Welterweight,David Zawada,NA,NA,Abubakar Nurmagomedov,NA,NA,Submission (Triangle Choke),1,2:50
+"Nov 9, 2019",UFC Fight Night 163 - Magomedsharipov vs. Kattar,Lightweight,Roosevelt Roberts,NA,NA,Alexander Yakovlev,NA,NA,Decision (Unanimous),3,5:00
+"Nov 9, 2019",UFC Fight Night 163 - Magomedsharipov vs. Kattar,Bantamweight,Pannie Kianzad,NA,NA,Jessica-Rose Clark,NA,NA,Decision (Unanimous),3,5:00
+"Nov 9, 2019",UFC Fight Night 163 - Magomedsharipov vs. Kattar,Bantamweight,Davey Grant,NA,NA,Grigory Popov,NA,NA,Decision (Split),3,5:00
+"Oct 26, 2019",UFC Fight Night 162 - Maia vs. Askren,Welterweight,Demian Maia,NA,NA,Ben Askren,NA,NA,Technical Submission (Rear-Naked Choke),3,3:54
+"Oct 26, 2019",UFC Fight Night 162 - Maia vs. Askren,Lightweight,Steven Ray,NA,NA,Michael Johnson,NA,NA,Decision (Majority),3,5:00
+"Oct 26, 2019",UFC Fight Night 162 - Maia vs. Askren,Lightweight,Beneil Dariush,NA,NA,Frank Camacho,NA,NA,Submission (Rear-Naked Choke),1,2:02
+"Oct 26, 2019",UFC Fight Night 162 - Maia vs. Askren,Heavyweight,Ciryl Gane,NA,NA,Don'Tale Mayes,NA,NA,Submission (Heel Hook),3,4:46
+"Oct 26, 2019",UFC Fight Night 162 - Maia vs. Askren,Welterweight,Muslim Salikhov,NA,NA,Laureano Staropoli,NA,NA,Decision (Unanimous),3,5:00
+"Oct 26, 2019",UFC Fight Night 162 - Maia vs. Askren,Strawweight,Randa Markos,NA,NA,Ashley Yoder,NA,NA,Decision (Split),3,5:00
+"Oct 26, 2019",UFC Fight Night 162 - Maia vs. Askren,Lightweight,Rafael Fiziev,NA,NA,Alex White,NA,NA,Decision (Unanimous),3,5:00
+"Oct 26, 2019",UFC Fight Night 162 - Maia vs. Askren,Featherweight,Movsar Evloev,NA,NA,Enrique Barzola,NA,NA,Decision (Unanimous),3,5:00
+"Oct 26, 2019",UFC Fight Night 162 - Maia vs. Askren,Heavyweight,Sergei Pavlovich,NA,NA,Maurice Greene,NA,NA,TKO (Punches),1,2:11
+"Oct 26, 2019",UFC Fight Night 162 - Maia vs. Askren,Strawweight,Konklak Suphisara,NA,NA,Aleksandra Albu,NA,NA,Decision (Split),3,5:00
+"Oct 26, 2019",UFC Fight Night 162 - Maia vs. Askren,Heavyweight,Raphael Pessoa,NA,NA,Jeff Hughes,NA,NA,Decision (Unanimous),3,5:00
+"Dec 7, 2019",UFC on ESPN 7 - Overeem vs. Rozenstruik,Heavyweight,Jairzinho Rozenstruik,NA,NA,Alistair Overeem,NA,NA,KO (Punch),5,4:56
+"Dec 7, 2019",UFC on ESPN 7 - Overeem vs. Rozenstruik,121lb Catchweight,Marina Rodriguez,NA,NA,Cynthia Calvillo,NA,NA,Draw (Majority),3,5:00
+"Dec 7, 2019",UFC on ESPN 7 - Overeem vs. Rozenstruik,Heavyweight,Ben Rothwell,NA,NA,Stefan Struve,NA,NA,TKO (Punches),2,4:57
+"Dec 7, 2019",UFC on ESPN 7 - Overeem vs. Rozenstruik,Bantamweight,Aspen Ladd,NA,NA,Yana Santos,,,TKO (Punches),3,0:33
+"Dec 7, 2019",UFC on ESPN 7 - Overeem vs. Rozenstruik,Bantamweight,Cody Stamann,NA,NA,Yadong Song,NA,NA,Draw (Majority),3,5:00
+"Dec 7, 2019",UFC on ESPN 7 - Overeem vs. Rozenstruik,Bantamweight,Rob Font,NA,NA,Ricky Simon,NA,NA,Decision (Unanimous),3,5:00
+"Dec 7, 2019",UFC on ESPN 7 - Overeem vs. Rozenstruik,Welterweight,Tim Means,NA,NA,Thiago Alves,NA,NA,Submission (Guillotine Choke),1,2:38
+"Dec 7, 2019",UFC on ESPN 7 - Overeem vs. Rozenstruik,Featherweight,Billy Quarantillo,NA,NA,Jacob Kilburn,NA,NA,Submission (Triangle Choke),2,3:18
+"Dec 7, 2019",UFC on ESPN 7 - Overeem vs. Rozenstruik,149lb Catchweight,Bryce Mitchell,NA,NA,Matt Sayles,NA,NA,Submission (Twister),1,4:20
+"Dec 7, 2019",UFC on ESPN 7 - Overeem vs. Rozenstruik,Lightweight,Joe Solecki,NA,NA,Matt Wiman,NA,NA,Decision (Unanimous),3,5:00
+"Dec 7, 2019",UFC on ESPN 7 - Overeem vs. Rozenstruik,Strawweight,Virna Jandiroba,NA,NA,Mallory Martin,NA,NA,Submission (Rear-Naked Choke),2,1:16
+"Dec 7, 2019",UFC on ESPN 7 - Overeem vs. Rozenstruik,Middleweight,Makhmud Muradov,NA,NA,Trevor Smith,NA,NA,KO (Punch),3,4:09
+"Nov 2, 2019",UFC 244 - Masvidal vs. Diaz,Welterweight,Jorge Masvidal,NA,NA,Nate Diaz,NA,NA,TKO (Doctor Stoppage),3,5:00
+"Nov 2, 2019",UFC 244 - Masvidal vs. Diaz,Middleweight,Darren Till,NA,NA,Kelvin Gastelum,NA,NA,Decision (Split),3,5:00
+"Nov 2, 2019",UFC 244 - Masvidal vs. Diaz,Welterweight,Stephen Thompson,NA,NA,Vicente Luque,NA,NA,Decision (Unanimous),3,5:00
+"Nov 2, 2019",UFC 244 - Masvidal vs. Diaz,Heavyweight,Derrick Lewis,NA,NA,Blagoy Ivanov,NA,NA,Decision (Split),3,5:00
+"Nov 2, 2019",UFC 244 - Masvidal vs. Diaz,Lightweight,Kevin Lee,NA,NA,Gregor Gillespie,NA,NA,KO (Head Kick),1,2:47
+"Nov 2, 2019",UFC 244 - Masvidal vs. Diaz,Light Heavyweight,Corey Anderson,NA,NA,Johnny Walker,NA,NA,TKO (Punches),1,2:07
+"Nov 2, 2019",UFC 244 - Masvidal vs. Diaz,Featherweight,Shane Burgos,NA,NA,Makwan Amirkhani,NA,NA,TKO (Punches),3,4:32
+"Nov 2, 2019",UFC 244 - Masvidal vs. Diaz,Middleweight,Edmen Shahbazyan,NA,NA,Brad Tavares,NA,NA,KO (Head Kick),1,2:27
+"Nov 2, 2019",UFC 244 - Masvidal vs. Diaz,Heavyweight,Jairzinho Rozenstruik,NA,NA,Andrei Arlovski,NA,NA,KO (Punch),1,0:29
+"Nov 2, 2019",UFC 244 - Masvidal vs. Diaz,128lb Catchweight,Katlyn Cerminara,,,Jennifer Maia,NA,NA,Decision (Unanimous),3,5:00
+"Nov 2, 2019",UFC 244 - Masvidal vs. Diaz,Welterweight,Lyman Good,NA,NA,Chance Rencountre,NA,NA,TKO (Punches),3,2:03
+"Nov 2, 2019",UFC 244 - Masvidal vs. Diaz,Featherweight,Hakeem Dawodu,NA,NA,Julio Arce,NA,NA,Decision (Split),3,5:00
+"Oct 18, 2019",UFC on ESPN 6 - Reyes vs. Weidman,Light Heavyweight,Dominick Reyes,NA,NA,Chris Weidman,NA,NA,KO (Punches),1,1:43
+"Oct 18, 2019",UFC on ESPN 6 - Reyes vs. Weidman,Featherweight,Yair Rodriguez,NA,NA,Jeremy Stephens,NA,NA,Decision (Unanimous),3,5:00
+"Oct 18, 2019",UFC on ESPN 6 - Reyes vs. Weidman,Heavyweight,Greg Hardy,NA,NA,Ben Sosoli,NA,NA,No Contest (Overturned by MSAC),3,5:00
+"Oct 18, 2019",UFC on ESPN 6 - Reyes vs. Weidman,Lightweight,Joe Lauzon,NA,NA,Jonathan Pearce,NA,NA,TKO (Punches),1,1:33
+"Oct 18, 2019",UFC on ESPN 6 - Reyes vs. Weidman,Flyweight,Maycee Barber,NA,NA,Gillian Robertson,NA,NA,TKO (Elbows and Punches),1,3:04
+"Oct 18, 2019",UFC on ESPN 6 - Reyes vs. Weidman,189lb Catchweight,Darren Stewart,NA,NA,Deron Winn,NA,NA,Decision (Split),3,5:00
+"Oct 18, 2019",UFC on ESPN 6 - Reyes vs. Weidman,148lb Catchweight,Charles Rosa,NA,NA,Manny Bermudez,NA,NA,Submission (Armbar),1,2:46
+"Oct 18, 2019",UFC on ESPN 6 - Reyes vs. Weidman,Flyweight,Molly McCann,NA,NA,Diana Belbita,NA,NA,Decision (Unanimous),3,5:00
+"Oct 18, 2019",UFC on ESPN 6 - Reyes vs. Weidman,Featherweight,Sean Woodson,NA,NA,Kyle Bochniak,NA,NA,Decision (Unanimous),3,5:00
+"Oct 18, 2019",UFC on ESPN 6 - Reyes vs. Weidman,Bantamweight,Randy Costa,NA,NA,Boston Salmon,NA,NA,TKO (Punches),1,2:15
+"Oct 18, 2019",UFC on ESPN 6 - Reyes vs. Weidman,Welterweight,Sean Brady,NA,NA,Court McGee,NA,NA,Decision (Unanimous),3,5:00
+"Oct 18, 2019",UFC on ESPN 6 - Reyes vs. Weidman,Middleweight,Brendan Allen,NA,NA,Kevin Holland,NA,NA,Submission (Rear-Naked Choke),2,3:38
+"Oct 18, 2019",UFC on ESPN 6 - Reyes vs. Weidman,Heavyweight,Tanner Boser,NA,NA,Daniel Spitz,NA,NA,Decision (Unanimous),3,5:00
+"Oct 5, 2019",UFC 243 - Whittaker vs. Adesanya,Middleweight Title Fight,Israel Adesanya,NA,NA,Robert Whittaker,NA,NA,KO (Punches),2,3:33
+"Oct 5, 2019",UFC 243 - Whittaker vs. Adesanya,Lightweight,Dan Hooker,NA,NA,Al Iaquinta,NA,NA,Decision (Unanimous),3,5:00
+"Oct 5, 2019",UFC 243 - Whittaker vs. Adesanya,Heavyweight,Serghei Spivac,,,Tai Tuivasa,NA,NA,Technical Submission (Arm-Triangle Choke),2,3:14
+"Oct 5, 2019",UFC 243 - Whittaker vs. Adesanya,Welterweight,Dhiego Lima,NA,NA,Luke Jumeau,NA,NA,Decision (Split),3,5:00
+"Oct 5, 2019",UFC 243 - Whittaker vs. Adesanya,Heavyweight,Yorgan De Castro,NA,NA,Justin Tafa,NA,NA,KO (Punch),1,2:10
+"Oct 5, 2019",UFC 243 - Whittaker vs. Adesanya,Welterweight,Jake Matthews,NA,NA,Rostem Akman,NA,NA,Decision (Unanimous),3,5:00
+"Oct 5, 2019",UFC 243 - Whittaker vs. Adesanya,Welterweight,Callan Potter,NA,NA,Maki Pitolo,NA,NA,Decision (Unanimous),3,5:00
+"Oct 5, 2019",UFC 243 - Whittaker vs. Adesanya,Lightweight,Brad Riddell,NA,NA,Jamie Mullarkey,NA,NA,Decision (Unanimous),3,5:00
+"Oct 5, 2019",UFC 243 - Whittaker vs. Adesanya,Featherweight,Megan Anderson,NA,NA,Zarah Fairn,NA,NA,Submission (Triangle Choke),1,3:57
+"Oct 5, 2019",UFC 243 - Whittaker vs. Adesanya,128lb Catchweight,Ji Yeon Kim,NA,NA,Nadia Kassem,NA,NA,KO (Punch to the Body),2,4:59
+"Oct 5, 2019",UFC 243 - Whittaker vs. Adesanya,137lb Catchweight,Khalid Taha,NA,NA,Bruno Silva,NA,NA,No Contest (Overturned by VPBCSB),3,3:00
+"Sep 28, 2019",UFC Fight Night 160 - Hermansson vs. Cannonier,Middleweight,Jared Cannonier,NA,NA,Jack Hermansson,NA,NA,TKO (Punches),2,0:27
+"Sep 28, 2019",UFC Fight Night 160 - Hermansson vs. Cannonier,Lightweight,Mark O. Madsen,NA,NA,Danilo Belluardo,NA,NA,TKO (Punches),1,1:12
+"Sep 28, 2019",UFC Fight Night 160 - Hermansson vs. Cannonier,Welterweight,Gilbert Burns,NA,NA,Gunnar Nelson,NA,NA,Decision (Unanimous),3,5:00
+"Sep 28, 2019",UFC Fight Night 160 - Hermansson vs. Cannonier,Light Heavyweight,Ion Cutelaba,NA,NA,Khalil Rountree,NA,NA,TKO (Elbows),1,2:35
+"Sep 28, 2019",UFC Fight Night 160 - Hermansson vs. Cannonier,Light Heavyweight,Ovince St. Preux,NA,NA,Michal Oleksiejczuk,NA,NA,Submission (Shoulder Choke),2,2:14
+"Sep 28, 2019",UFC Fight Night 160 - Hermansson vs. Cannonier,Welterweight,Nicolas Dalby,NA,NA,Alex Oliveira,NA,NA,Decision (Unanimous),3,5:00
+"Sep 28, 2019",UFC Fight Night 160 - Hermansson vs. Cannonier,Middleweight,John Phillips,NA,NA,Alen Amedovski,NA,NA,KO (Punches),1,0:17
+"Sep 28, 2019",UFC Fight Night 160 - Hermansson vs. Cannonier,Middleweight,Makhmud Muradov,NA,NA,Alessio Di Chirico,NA,NA,Decision (Unanimous),3,5:00
+"Sep 28, 2019",UFC Fight Night 160 - Hermansson vs. Cannonier,Welterweight,Ismail Naurdiev,NA,NA,Siyar Bahadurzada,NA,NA,Decision (Unanimous),3,5:00
+"Sep 28, 2019",UFC Fight Night 160 - Hermansson vs. Cannonier,Featherweight,Giga Chikadze,NA,NA,Brandon Davis,NA,NA,Decision (Split),3,5:00
+"Sep 28, 2019",UFC Fight Night 160 - Hermansson vs. Cannonier,Bantamweight,Lina Lansberg,NA,NA,Macy Chiasson,NA,NA,Decision (Unanimous),3,5:00
+"Sep 28, 2019",UFC Fight Night 160 - Hermansson vs. Cannonier,Lightweight,Marc Diakiese,NA,NA,Lando Vannata,NA,NA,Decision (Unanimous),3,5:00
+"Sep 28, 2019",UFC Fight Night 160 - Hermansson vs. Cannonier,Bantamweight,Jack Shore,NA,NA,Nohelin Hernandez,NA,NA,Submission (Rear-Naked Choke),3,2:51
+"Oct 12, 2019",UFC Fight Night 161 - Jedrzejczyk vs. Waterson,Strawweight,Joanna Jedrzejczyk,NA,NA,Michelle Waterson-Gomez,NA,NA,Decision (Unanimous),5,5:00
+"Oct 12, 2019",UFC Fight Night 161 - Jedrzejczyk vs. Waterson,Featherweight,Cub Swanson,NA,NA,Kron Gracie,NA,NA,Decision (Unanimous),3,5:00
+"Oct 12, 2019",UFC Fight Night 161 - Jedrzejczyk vs. Waterson,Welterweight,Niko Price,NA,NA,James Vick,NA,NA,KO (Upkick),1,1:44
+"Oct 12, 2019",UFC Fight Night 161 - Jedrzejczyk vs. Waterson,Strawweight,Amanda Ribas,NA,NA,Mackenzie Dern,NA,NA,Decision (Unanimous),3,5:00
+"Oct 12, 2019",UFC Fight Night 161 - Jedrzejczyk vs. Waterson,Lightweight,Matt Frevola,NA,NA,Luis Pena,NA,NA,Decision (Split),3,5:00
+"Oct 12, 2019",UFC Fight Night 161 - Jedrzejczyk vs. Waterson,Middleweight,Eryk Anders,NA,NA,Gerald Meerschaert,NA,NA,Decision (Split),3,5:00
+"Oct 12, 2019",UFC Fight Night 161 - Jedrzejczyk vs. Waterson,Light Heavyweight,Ryan Spann,NA,NA,Devin Clark,NA,NA,Submission (Guillotine Choke),2,2:01
+"Oct 12, 2019",UFC Fight Night 161 - Jedrzejczyk vs. Waterson,Lightweight,Mike Davis,NA,NA,Thomas Gifford,NA,NA,KO (Punch),3,4:45
+"Oct 12, 2019",UFC Fight Night 161 - Jedrzejczyk vs. Waterson,Welterweight,Alex Morono,NA,NA,Max Griffin,NA,NA,Decision (Unanimous) ,3,5:00
+"Oct 12, 2019",UFC Fight Night 161 - Jedrzejczyk vs. Waterson,Flyweight,Deiveson Figueiredo,NA,NA,Tim Elliott,NA,NA,Submission (Guillotine Choke),1,3:08
+"Oct 12, 2019",UFC Fight Night 161 - Jedrzejczyk vs. Waterson,Bantamweight,Marlon Vera,NA,NA,Andre Ewell,NA,NA,TKO (Elbow and Punches),3,3:17
+"Oct 12, 2019",UFC Fight Night 161 - Jedrzejczyk vs. Waterson,Welterweight,Miguel Baeza,NA,NA,Hector Aldana,NA,NA,TKO (Leg Kick and Elbows),2,2:32
+"Oct 12, 2019",UFC Fight Night 161 - Jedrzejczyk vs. Waterson,Middleweight,Marvin Vettori,NA,NA,Andrew Sanchez,NA,NA,Decision (Unanimous),3,5:00
+"Oct 12, 2019",UFC Fight Night 161 - Jedrzejczyk vs. Waterson,Flyweight,J.J. Aldrich,NA,NA,Lauren Mueller,NA,NA,Decision (Unanimous),3,5:00
+"Sep 21, 2019",UFC Fight Night 159 - Rodriguez vs. Stephens,Featherweight,Yair Rodriguez,NA,NA,Jeremy Stephens,NA,NA,No Contest (Accidental Eye Poke),1,0:15
+"Sep 21, 2019",UFC Fight Night 159 - Rodriguez vs. Stephens,Strawweight,Carla Esparza,NA,NA,Alexa Grasso,NA,NA,Decision (Majority),3,5:00
+"Sep 21, 2019",UFC Fight Night 159 - Rodriguez vs. Stephens,Flyweight,Brandon Moreno,NA,NA,Askar Askarov,NA,NA,Draw (Split),3,5:00
+"Sep 21, 2019",UFC Fight Night 159 - Rodriguez vs. Stephens,140lb Catchweight,Irene Aldana,NA,NA,Vanessa Melo,NA,NA,Decision (Unanimous),3,5:00
+"Sep 21, 2019",UFC Fight Night 159 - Rodriguez vs. Stephens,Featherweight,Steven Peterson,NA,NA,Martin Bravo,NA,NA,KO (Spinning Backfist),2,1:31
+"Sep 21, 2019",UFC Fight Night 159 - Rodriguez vs. Stephens,Bantamweight,Jose Quinonez,,,Carlos Huachin,NA,NA,Decision (Unanimous),3,5:00
+"Sep 21, 2019",UFC Fight Night 159 - Rodriguez vs. Stephens,Featherweight,Kyle Nelson,NA,NA,Marco Polo Reyes,NA,NA,TKO (Punches),1,1:36
+"Sep 21, 2019",UFC Fight Night 159 - Rodriguez vs. Stephens,Strawweight,Angela Hill,NA,NA,Ariane Carnelossi,NA,NA,TKO (Doctor Stoppage),3,1:56
+"Sep 21, 2019",UFC Fight Night 159 - Rodriguez vs. Stephens,Flyweight,Sergio Pettis,NA,NA,Tyson Nam,NA,NA,Decision (Unanimous),3,5:00
+"Sep 21, 2019",UFC Fight Night 159 - Rodriguez vs. Stephens,Light Heavyweight,Paul Craig,NA,NA,Vinicius Moreira,NA,NA,Submission (Rear-Naked Choke),1,3:19
+"Sep 21, 2019",UFC Fight Night 159 - Rodriguez vs. Stephens,Bantamweight,Bethe Correia,NA,NA,Sijara Eubanks,NA,NA,Decision (Unanimous),3,5:00
+"Sep 21, 2019",UFC Fight Night 159 - Rodriguez vs. Stephens,Lightweight,Claudio Puelles,NA,NA,Marcos Mariano,NA,NA,Decision (Unanimous),3,5:00
+"Sep 14, 2019",UFC Fight Night 158 - Cowboy vs. Gaethje,Lightweight,Justin Gaethje,NA,NA,Donald Cerrone,NA,NA,TKO (Punches),1,4:18
+"Sep 14, 2019",UFC Fight Night 158 - Cowboy vs. Gaethje,Light Heavyweight,Glover Teixeira,NA,NA,Nikita Krylov,NA,NA,Decision (Split),3,5:00
+"Sep 14, 2019",UFC Fight Night 158 - Cowboy vs. Gaethje,Heavyweight,Jeff Hughes,NA,NA,Todd Duffee,NA,NA,No Contest (Accidental Eye Poke),1,4:03
+"Sep 14, 2019",UFC Fight Night 158 - Cowboy vs. Gaethje,172lb Catchweight,Tristan Connelly,NA,NA,Michel Pereira,NA,NA,Decision (Unanimous),3,5:00
+"Sep 14, 2019",UFC Fight Night 158 - Cowboy vs. Gaethje,Middleweight,Uriah Hall,NA,NA,Antonio Carlos Jr.,NA,NA,Decision (Split),3,5:00
+"Sep 14, 2019",UFC Fight Night 158 - Cowboy vs. Gaethje,Light Heavyweight,Misha Cirkunov,NA,NA,Jimmy Crute,,,Submission (Peruvian Necktie),1,3:38
+"Sep 14, 2019",UFC Fight Night 158 - Cowboy vs. Gaethje,Heavyweight,Augusto Sakai,NA,NA,Marcin Tybura,NA,NA,KO (Punches),1,0:59
+"Sep 14, 2019",UFC Fight Night 158 - Cowboy vs. Gaethje,Bantamweight,Miles Johns,NA,NA,Cole Smith,NA,NA,Decision (Split),3,5:00
+"Sep 14, 2019",UFC Fight Night 158 - Cowboy vs. Gaethje,Bantamweight,Hunter Azure,NA,NA,Brad Katona,NA,NA,Decision (Unanimous),3,5:00
+"Sep 14, 2019",UFC Fight Night 158 - Cowboy vs. Gaethje,Featherweight,Chas Skelly,NA,NA,Jordan Griffin,NA,NA,Decision (Unanimous),3,5:00
+"Sep 14, 2019",UFC Fight Night 158 - Cowboy vs. Gaethje,Bantamweight,Louis Smolka,NA,NA,Ryan MacDonald,NA,NA,TKO (Punches),1,4:43
+"Sep 14, 2019",UFC Fight Night 158 - Cowboy vs. Gaethje,Lightweight,Austin Hubbard,NA,NA,Kyle Prepolec,NA,NA,Decision (Unanimous),3,5:00
+"Sep 7, 2019",UFC 242 - Khabib vs. Poirier,Lightweight Title Fight,Khabib Nurmagomedov,NA,NA,Dustin Poirier,NA,NA,Submission (Rear-Naked Choke),3,2:06
+"Sep 7, 2019",UFC 242 - Khabib vs. Poirier,Lightweight,Paul Felder,NA,NA,Edson Barboza,NA,NA,Decision (Split),3,5:00
+"Sep 7, 2019",UFC 242 - Khabib vs. Poirier,Lightweight,Islam Makhachev,NA,NA,Davi Ramos,NA,NA,Decision (Unanimous),3,5:00
+"Sep 7, 2019",UFC 242 - Khabib vs. Poirier,Heavyweight,Curtis Blaydes,NA,NA,Shamil Abdurakhimov,NA,NA,TKO (Elbow and Punch),2,2:22
+"Sep 7, 2019",UFC 242 - Khabib vs. Poirier,Lightweight,Diego Ferreira,NA,NA,Mairbek Taisumov,NA,NA,Decision (Unanimous),3,5:00
+"Sep 7, 2019",UFC 242 - Khabib vs. Poirier,Flyweight,Joanne Wood,,,Andrea Lee,NA,NA,Decision (Split),3,5:00
+"Sep 7, 2019",UFC 242 - Khabib vs. Poirier,Featherweight,Zubaira Tukhugov,NA,NA,Lerone Murphy,NA,NA,Draw (Split),3,5:00
+"Sep 7, 2019",UFC 242 - Khabib vs. Poirier,138lb Catchweight,Sarah Moras,NA,NA,Liana Jojua,NA,NA,TKO (Elbows and Punches),3,2:26
+"Sep 7, 2019",UFC 242 - Khabib vs. Poirier,Lightweight,Ottman Azaitar,NA,NA,Teemu Packalen,NA,NA,KO (Punch),1,3:33
+"Sep 7, 2019",UFC 242 - Khabib vs. Poirier,Welterweight,Belal Muhammad,NA,NA,Takashi Sato,NA,NA,Submission (Rear-Naked Choke),3,1:55
+"Sep 7, 2019",UFC 242 - Khabib vs. Poirier,Welterweight,Muslim Salikhov,NA,NA,Nordine Taleb,NA,NA,KO (Punch),1,4:26
+"Sep 7, 2019",UFC 242 - Khabib vs. Poirier,Middleweight,Omari Akhmedov,NA,NA,Zak Cummings,NA,NA,Decision (Unanimous),3,5:00
+"Sep 7, 2019",UFC 242 - Khabib vs. Poirier,Lightweight,Don Madge,NA,NA,Fares Ziam,NA,NA,Decision (Unanimous),3,5:00
+"Aug 31, 2019",UFC Fight Night 157 - Andrade vs. Zhang,Strawweight Title Fight,Weili Zhang,NA,NA,Jessica Andrade,NA,NA,TKO (Knees and Punches),1,0:42
+"Aug 31, 2019",UFC Fight Night 157 - Andrade vs. Zhang,Welterweight,Jingliang Li,NA,NA,Elizeu Zaleski dos Santos,NA,NA,TKO (Punches),3,4:51
+"Aug 31, 2019",UFC Fight Night 157 - Andrade vs. Zhang,Flyweight,Kai Kara-France,NA,NA,Mark De La Rosa,NA,NA,Decision (Unanimous),3,5:00
+"Aug 31, 2019",UFC Fight Night 157 - Andrade vs. Zhang,Welterweight,Kenan Song,NA,NA,Derrick Krantz,NA,NA,Decision (Unanimous),3,5:00
+"Aug 31, 2019",UFC Fight Night 157 - Andrade vs. Zhang,129lb Catchweight,Mizuki Inoue,NA,NA,Yanan Wu,NA,NA,Decision (Split),3,5:00
+"Aug 31, 2019",UFC Fight Night 157 - Andrade vs. Zhang,Middleweight,Anthony Hernandez,NA,NA,Jun Yong Park,NA,NA,Submission (Anaconda Choke),2,4:39
+"Aug 31, 2019",UFC Fight Night 157 - Andrade vs. Zhang,Bantamweight,Su Mudaerji,NA,NA,Andre Soukhamthath,NA,NA,Decision (Unanimous),3,5:00
+"Aug 31, 2019",UFC Fight Night 157 - Andrade vs. Zhang,Light Heavyweight,Da Woon Jung,,,Khadis Ibragimov,NA,NA,Submission (Guillotine Choke),3,2:00
+"Aug 31, 2019",UFC Fight Night 157 - Andrade vs. Zhang,Lightweight,Damir Ismagulov,NA,NA,Thiago Moises,NA,NA,Decision (Unanimous),3,5:00
+"Aug 31, 2019",UFC Fight Night 157 - Andrade vs. Zhang,Bantamweight,Heili Alateng,NA,NA,Batgerel Danaa,,,Decision (Unanimous),3,5:00
+"Aug 31, 2019",UFC Fight Night 157 - Andrade vs. Zhang,Bantamweight,Karol Rosa,NA,NA,Lara Fritzen,NA,NA,Decision (Split),3,5:00
+"Aug 3, 2019",UFC on ESPN 5 - Covington vs. Lawler,Welterweight,Colby Covington,NA,NA,Robbie Lawler,NA,NA,Decision (Unanimous),5,5:00
+"Aug 3, 2019",UFC on ESPN 5 - Covington vs. Lawler,Lightweight,Jim Miller,NA,NA,Clay Guida,NA,NA,Technical Submission (Guillotine Choke),1,0:58
+"Aug 3, 2019",UFC on ESPN 5 - Covington vs. Lawler,Lightweight,Nasrat Haqparast,NA,NA,Joaquim Silva,NA,NA,KO (Punches),2,0:36
+"Aug 3, 2019",UFC on ESPN 5 - Covington vs. Lawler,Middleweight,Gerald Meerschaert,NA,NA,Trevin Giles,NA,NA,Technical Submission (Guillotine Choke),3,1:49
+"Aug 3, 2019",UFC on ESPN 5 - Covington vs. Lawler,158lb Catchweight,Scott Holtzman,NA,NA,Dong Hyun Ma,NA,NA,TKO (Doctor Stoppage),2,5:00
+"Aug 3, 2019",UFC on ESPN 5 - Covington vs. Lawler,Light Heavyweight,Kennedy Nzechukwu,NA,NA,Darko Stosic,NA,NA,Decision (Unanimous),3,5:00
+"Aug 3, 2019",UFC on ESPN 5 - Covington vs. Lawler,Welterweight,Mickey Gall,NA,NA,Salim Touahri,NA,NA,Decision (Unanimous),3,5:00
+"Aug 3, 2019",UFC on ESPN 5 - Covington vs. Lawler,Flyweight,Antonina Shevchenko,NA,NA,Lucie Pudilova,NA,NA,Technical Submission (Rear-Naked Choke),2,1:20
+"Aug 3, 2019",UFC on ESPN 5 - Covington vs. Lawler,Flyweight,Matt Schnell,NA,NA,Jordan Espinosa,NA,NA,Submission (Triangle Choke),1,1:23
+"Aug 3, 2019",UFC on ESPN 5 - Covington vs. Lawler,Flyweight,Lauren Murphy,NA,NA,Mara Romero Borella,NA,NA,TKO (Knee and Elbows),3,1:46
+"Aug 3, 2019",UFC on ESPN 5 - Covington vs. Lawler,176lb Catchweight,Claudio Silva,,,Cole Williams,NA,NA,Submission (Rear-Naked Choke),1,2:35
+"Aug 3, 2019",UFC on ESPN 5 - Covington vs. Lawler,Flyweight,Miranda Granger,NA,NA,Hannah Goldy,NA,NA,Decision (Unanimous),3,5:00
+"Jul 13, 2019",UFC Fight Night 155 - De Randamie vs. Ladd,Bantamweight,Germaine de Randamie,NA,NA,Aspen Ladd,NA,NA,TKO (Punches),1,0:16
+"Jul 13, 2019",UFC Fight Night 155 - De Randamie vs. Ladd,Bantamweight,Urijah Faber,NA,NA,Ricky Simon,NA,NA,TKO (Punches),1,0:46
+"Jul 13, 2019",UFC Fight Night 155 - De Randamie vs. Ladd,Featherweight,Josh Emmett,NA,NA,Mirsad Bektic,NA,NA,TKO (Punches),1,4:25
+"Jul 13, 2019",UFC Fight Night 155 - De Randamie vs. Ladd,Middleweight,Karl Roberson,NA,NA,Wellington Turman,NA,NA,Decision (Split),3,5:00
+"Jul 13, 2019",UFC Fight Night 155 - De Randamie vs. Ladd,Middleweight,Marvin Vettori,NA,NA,Cezar Ferreira,NA,NA,Decision (Unanimous),3,5:00
+"Jul 13, 2019",UFC Fight Night 155 - De Randamie vs. Ladd,Light Heavyweight,John Allan,NA,NA,Mike Rodriguez,NA,NA,No Contest (Overturned by CSAC),3,5:00
+"Jul 13, 2019",UFC Fight Night 155 - De Randamie vs. Ladd,Featherweight,Andre Fili,NA,NA,Sheymon Moraes,NA,NA,KO (Punches),1,3:07
+"Jul 13, 2019",UFC Fight Night 155 - De Randamie vs. Ladd,Bantamweight,Julianna Pena,NA,NA,Nicco Montano,NA,NA,Decision (Unanimous),3,5:00
+"Jul 13, 2019",UFC Fight Night 155 - De Randamie vs. Ladd,Featherweight,Ryan Hall,NA,NA,Darren Elkins,NA,NA,Decision (Unanimous),3,5:00
+"Jul 13, 2019",UFC Fight Night 155 - De Randamie vs. Ladd,Bantamweight,Jonathan Martinez,NA,NA,Pingyuan Liu,NA,NA,KO (Knee),3,3:53
+"Jul 13, 2019",UFC Fight Night 155 - De Randamie vs. Ladd,Strawweight,Brianna Fortino,,,Livinha Souza,NA,NA,Decision (Unanimous),3,5:00
+"Jul 13, 2019",UFC Fight Night 155 - De Randamie vs. Ladd,Bantamweight,Benito Lopez,NA,NA,Vince Morales,NA,NA,Decision (Unanimous),3,5:00
+"Jul 27, 2019",UFC 240 - Holloway vs. Edgar,Featherweight Title Fight,Max Holloway,NA,NA,Frankie Edgar,NA,NA,Decision (Unanimous),5,5:00
+"Jul 27, 2019",UFC 240 - Holloway vs. Edgar,Featherweight,Cristiane Justino,NA,NA,Felicia Spencer,NA,NA,Decision (Unanimous),3,5:00
+"Jul 27, 2019",UFC 240 - Holloway vs. Edgar,Welterweight,Geoff Neal,NA,NA,Niko Price,NA,NA,TKO (Punches),2,2:39
+"Jul 27, 2019",UFC 240 - Holloway vs. Edgar,Lightweight,Arman Tsarukyan,NA,NA,Olivier Aubin-Mercier,NA,NA,Decision (Unanimous),3,5:00
+"Jul 27, 2019",UFC 240 - Holloway vs. Edgar,Middleweight,Krzysztof Jotko,NA,NA,Marc-Andre Barriault,NA,NA,Decision (Split),3,5:00
+"Jul 27, 2019",UFC 240 - Holloway vs. Edgar,Flyweight,Viviane Araujo,NA,NA,Alexis Davis,NA,NA,Decision (Unanimous),3,5:00
+"Jul 27, 2019",UFC 240 - Holloway vs. Edgar,Featherweight,Hakeem Dawodu,NA,NA,Yoshinori Horie,NA,NA,TKO (Head Kick),3,4:09
+"Jul 27, 2019",UFC 240 - Holloway vs. Edgar,Featherweight,Gavin Tucker,NA,NA,Seung Woo Choi,,,Submission (Rear-Naked Choke),3,3:17
+"Jul 27, 2019",UFC 240 - Holloway vs. Edgar,Flyweight,Deiveson Figueiredo,NA,NA,Alexandre Pantoja,NA,NA,Decision (Unanimous),3,5:00
+"Jul 27, 2019",UFC 240 - Holloway vs. Edgar,Flyweight,Gillian Robertson,NA,NA,Sarah Frota,NA,NA,TKO (Elbows),2,4:13
+"Jul 27, 2019",UFC 240 - Holloway vs. Edgar,Welterweight,Erik Koch,NA,NA,Kyle Stewart,NA,NA,Decision (Unanimous),3,5:00
+"Jul 20, 2019",UFC on ESPN 4 - Dos Anjos vs. Edwards,Welterweight,Leon Edwards,NA,NA,Rafael dos Anjos,NA,NA,Decision (Unanimous),5,5:00
+"Jul 20, 2019",UFC on ESPN 4 - Dos Anjos vs. Edwards,Heavyweight,Walt Harris,NA,NA,Alexey Oleynik,NA,NA,KO (Knee and Punches),1,0:12
+"Jul 20, 2019",UFC on ESPN 4 - Dos Anjos vs. Edwards,Heavyweight,Greg Hardy,NA,NA,Juan Adams,NA,NA,TKO (Punches),1,0:45
+"Jul 20, 2019",UFC on ESPN 4 - Dos Anjos vs. Edwards,Lightweight,Dan Hooker,NA,NA,James Vick,NA,NA,KO (Punch),1,2:33
+"Jul 20, 2019",UFC on ESPN 4 - Dos Anjos vs. Edwards,Lightweight,Alexander Hernandez,NA,NA,Francisco Trinaldo,NA,NA,Decision (Unanimous),3,5:00
+"Jul 20, 2019",UFC on ESPN 4 - Dos Anjos vs. Edwards,Heavyweight,Andrei Arlovski,NA,NA,Ben Rothwell,NA,NA,Decision (Unanimous),3,5:00
+"Jul 20, 2019",UFC on ESPN 4 - Dos Anjos vs. Edwards,Featherweight,Alex Caceres,NA,NA,Steven Peterson,NA,NA,Decision (Unanimous),3,5:00
+"Jul 20, 2019",UFC on ESPN 4 - Dos Anjos vs. Edwards,Bantamweight,Raquel Pennington,NA,NA,Irene Aldana,NA,NA,Decision (Split),3,5:00
+"Jul 20, 2019",UFC on ESPN 4 - Dos Anjos vs. Edwards,Light Heavyweight,Klidson Abreu,NA,NA,Sam Alvey,NA,NA,Decision (Unanimous),3,5:00
+"Jul 20, 2019",UFC on ESPN 4 - Dos Anjos vs. Edwards,129lb Catchweight,Jennifer Maia,NA,NA,Roxanne Modafferi,NA,NA,Decision (Unanimous),3,5:00
+"Jul 20, 2019",UFC on ESPN 4 - Dos Anjos vs. Edwards,Bantamweight,Ray Borg,NA,NA,Gabriel Silva,NA,NA,Decision (Unanimous),3,5:00
+"Jul 20, 2019",UFC on ESPN 4 - Dos Anjos vs. Edwards,Bantamweight,Mario Bautista,NA,NA,Jin Soo Son,NA,NA,Decision (Unanimous),3,5:00
+"Jul 20, 2019",UFC on ESPN 4 - Dos Anjos vs. Edwards,Bantamweight,Felipe Colares,,,Domingo Pilarte,NA,NA,Decision (Split),3,5:00
+"Aug 17, 2019",UFC 241 - Cormier vs. Miocic 2,Heavyweight Title Fight,Stipe Miocic,NA,NA,Daniel Cormier,NA,NA,TKO (Punches),4,4:09
+"Aug 17, 2019",UFC 241 - Cormier vs. Miocic 2,Welterweight,Nate Diaz,NA,NA,Anthony Pettis,NA,NA,Decision (Unanimous),3,5:00
+"Aug 17, 2019",UFC 241 - Cormier vs. Miocic 2,Middleweight,Paulo Costa,,,Yoel Romero,NA,NA,Decision (Unanimous),3,5:00
+"Aug 17, 2019",UFC 241 - Cormier vs. Miocic 2,Featherweight,Sodiq Yusuff,NA,NA,Gabriel Benitez,NA,NA,TKO (Punches),1,4:14
+"Aug 17, 2019",UFC 241 - Cormier vs. Miocic 2,Middleweight,Derek Brunson,NA,NA,Ian Heinisch,NA,NA,Decision (Unanimous),3,5:00
+"Aug 17, 2019",UFC 241 - Cormier vs. Miocic 2,Lightweight,Khama Worthy,NA,NA,Devonte Smith,NA,NA,TKO (Punches),1,4:15
+"Aug 17, 2019",UFC 241 - Cormier vs. Miocic 2,Bantamweight,Cory Sandhagen,NA,NA,Raphael Assuncao,NA,NA,Decision (Unanimous),3,5:00
+"Aug 17, 2019",UFC 241 - Cormier vs. Miocic 2,Lightweight,Drakkar Klose,NA,NA,Christos Giagos,NA,NA,Decision (Unanimous),3,5:00
+"Aug 17, 2019",UFC 241 - Cormier vs. Miocic 2,140lb Catchweight,Casey Kenney,NA,NA,Manny Bermudez,NA,NA,Decision (Unanimous),3,5:00
+"Aug 17, 2019",UFC 241 - Cormier vs. Miocic 2,Strawweight,Hannah Cifers,NA,NA,Jodie Esquibel,NA,NA,Decision (Unanimous),3,5:00
+"Aug 17, 2019",UFC 241 - Cormier vs. Miocic 2,Bantamweight,Kyung Ho Kang,NA,NA,Brandon Davis,NA,NA,Decision (Split),3,5:00
+"Aug 17, 2019",UFC 241 - Cormier vs. Miocic 2,Flyweight,Sabina Mazo,NA,NA,Shana Dobson,NA,NA,Decision (Unanimous),3,5:00
+"Jul 6, 2019",UFC 239 - Jones vs. Santos,Light Heavyweight Title Fight,Jon Jones,NA,NA,Thiago Santos,NA,NA,Decision (Split),5,5:00
+"Jul 6, 2019",UFC 239 - Jones vs. Santos,Bantamweight Title Fight,Amanda Nunes,NA,NA,Holly Holm,NA,NA,TKO (Head Kick and Punches),1,4:10
+"Jul 6, 2019",UFC 239 - Jones vs. Santos,Welterweight,Jorge Masvidal,NA,NA,Ben Askren,NA,NA,KO (Flying Knee),1,0:05
+"Jul 6, 2019",UFC 239 - Jones vs. Santos,Light Heavyweight,Jan Blachowicz,NA,NA,Luke Rockhold,NA,NA,KO (Punches),2,1:39
+"Jul 6, 2019",UFC 239 - Jones vs. Santos,Welterweight,Michael Chiesa,NA,NA,Diego Sanchez,NA,NA,Decision (Unanimous),3,5:00
+"Jul 6, 2019",UFC 239 - Jones vs. Santos,Featherweight,Arnold Allen,NA,NA,Gilbert Melendez,NA,NA,Decision (Unanimous),3,5:00
+"Jul 6, 2019",UFC 239 - Jones vs. Santos,Bantamweight,Marlon Vera,NA,NA,Nohelin Hernandez,NA,NA,Submission (Rear-Naked Choke),2,3:25
+"Jul 6, 2019",UFC 239 - Jones vs. Santos,Strawweight,Claudia Gadelha,NA,NA,Randa Markos,NA,NA,Decision (Unanimous),3,5:00
+"Jul 6, 2019",UFC 239 - Jones vs. Santos,Bantamweight,Yadong Song,NA,NA,Alejandro Perez,NA,NA,KO (Punch),1,2:04
+"Jul 6, 2019",UFC 239 - Jones vs. Santos,Middleweight,Edmen Shahbazyan,NA,NA,Jack Marshman,NA,NA,Submission (Rear-Naked Choke),1,1:12
+"Jul 6, 2019",UFC 239 - Jones vs. Santos,Welterweight,Chance Rencountre,NA,NA,Ismail Naurdiev,NA,NA,Decision (Unanimous),3,5:00
+"Jul 6, 2019",UFC 239 - Jones vs. Santos,Bantamweight,Julia Avila,NA,NA,Pannie Kianzad,NA,NA,Decision (Unanimous),3,5:00
+"Jun 29, 2019",UFC on ESPN 3 - Ngannou vs. Dos Santos,Heavyweight,Francis Ngannou,NA,NA,Junior dos Santos,NA,NA,TKO (Punches),1,1:11
+"Jun 29, 2019",UFC on ESPN 3 - Ngannou vs. Dos Santos,Flyweight,Joseph Benavidez,NA,NA,Jussier Formiga,NA,NA,TKO (Head Kick and Punches),2,4:47
+"Jun 29, 2019",UFC on ESPN 3 - Ngannou vs. Dos Santos,Welterweight,Demian Maia,NA,NA,Anthony Rocco Martin,NA,NA,Decision (Majority),3,5:00
+"Jun 29, 2019",UFC on ESPN 3 - Ngannou vs. Dos Santos,Lightweight,Vinc Pichel,NA,NA,Roosevelt Roberts,NA,NA,Decision (Unanimous),3,5:00
+"Jun 29, 2019",UFC on ESPN 3 - Ngannou vs. Dos Santos,Lightweight,Drew Dober,NA,NA,Marco Polo Reyes,NA,NA,TKO (Punches),1,1:07
+"Jun 29, 2019",UFC on ESPN 3 - Ngannou vs. Dos Santos,Light Heavyweight,Alonzo Menifield,NA,NA,Paul Craig,NA,NA,KO (Punches),1,3:19
+"Jun 29, 2019",UFC on ESPN 3 - Ngannou vs. Dos Santos,Bantamweight,Ricardo Ramos,NA,NA,Journey Newson,NA,NA,Decision (Unanimous),3,5:00
+"Jun 29, 2019",UFC on ESPN 3 - Ngannou vs. Dos Santos,Light Heavyweight,Eryk Anders,NA,NA,Vinicius Moreira,NA,NA,KO (Punches),1,1:18
+"Jun 29, 2019",UFC on ESPN 3 - Ngannou vs. Dos Santos,Lightweight,Jared Gordon,NA,NA,Dan Moret,NA,NA,Decision (Unanimous),3,5:00
+"Jun 29, 2019",UFC on ESPN 3 - Ngannou vs. Dos Santos,Light Heavyweight,Dalcha Lungiambula,NA,NA,Dequan Townsend,NA,NA,TKO (Punches and Elbows),3,0:42
+"Jun 29, 2019",UFC on ESPN 3 - Ngannou vs. Dos Santos,Strawweight,Amanda Ribas,NA,NA,Emily Whitmire,NA,NA,Submission (Rear-Naked Choke),2,2:10
+"Jun 29, 2019",UFC on ESPN 3 - Ngannou vs. Dos Santos,Heavyweight,Maurice Greene,NA,NA,Junior Albini,NA,NA,TKO (Punches),1,3:38
+"May 11, 2019",UFC 237 - Namajunas vs. Andrade,Strawweight Title Fight,Jessica Andrade,NA,NA,Rose Namajunas,NA,NA,KO (Slam),2,2:58
+"May 11, 2019",UFC 237 - Namajunas vs. Andrade,Middleweight,Jared Cannonier,NA,NA,Anderson Silva,NA,NA,TKO (Leg Kick),1,4:49
+"May 11, 2019",UFC 237 - Namajunas vs. Andrade,Featherweight,Alexander Volkanovski,NA,NA,Jose Aldo,NA,NA,Decision (Unanimous),3,5:00
+"May 11, 2019",UFC 237 - Namajunas vs. Andrade,Welterweight,Laureano Staropoli,NA,NA,Thiago Alves,NA,NA,Decision (Unanimous),3,5:00
+"May 11, 2019",UFC 237 - Namajunas vs. Andrade,141lb Catchweight,Irene Aldana,NA,NA,Bethe Correia,NA,NA,Submission (Armbar),3,3:24
+"May 11, 2019",UFC 237 - Namajunas vs. Andrade,Light Heavyweight,Ryan Spann,NA,NA,Antonio Rogerio Nogueira,NA,NA,KO (Punches),1,2:07
+"May 11, 2019",UFC 237 - Namajunas vs. Andrade,Lightweight,Thiago Moises,NA,NA,Kurt Holobaugh,NA,NA,Decision (Unanimous),3,5:00
+"May 11, 2019",UFC 237 - Namajunas vs. Andrade,Welterweight,Warlley Alves,NA,NA,Sergio Moraes,NA,NA,KO (Punch),3,4:13
+"May 11, 2019",UFC 237 - Namajunas vs. Andrade,Lightweight,Clay Guida,NA,NA,B.J. Penn,NA,NA,Decision (Unanimous),3,5:00
+"May 11, 2019",UFC 237 - Namajunas vs. Andrade,Flyweight,Luana Carolina,NA,NA,Priscila Cachoeira,NA,NA,Decision (Unanimous),3,5:00
+"May 11, 2019",UFC 237 - Namajunas vs. Andrade,Bantamweight,Raoni Barcelos,NA,NA,Carlos Huachin,NA,NA,TKO (Elbows and Punches),2,4:49
+"May 11, 2019",UFC 237 - Namajunas vs. Andrade,Bantamweight,Viviane Araujo,NA,NA,Talita Bernardo,NA,NA,KO (Punch),3,0:48
+"May 4, 2019",UFC Fight Night 151 - Iaquinta vs. Cowboy,Lightweight,Donald Cerrone,NA,NA,Al Iaquinta,NA,NA,Decision (Unanimous),5,5:00
+"May 4, 2019",UFC Fight Night 151 - Iaquinta vs. Cowboy,Middleweight,Derek Brunson,NA,NA,Elias Theodorou,NA,NA,Decision (Unanimous),3,5:00
+"May 4, 2019",UFC Fight Night 151 - Iaquinta vs. Cowboy,Featherweight,Shane Burgos,NA,NA,Cub Swanson,NA,NA,Decision (Split),3,5:00
+"May 4, 2019",UFC Fight Night 151 - Iaquinta vs. Cowboy,Bantamweight,Merab Dvalishvili,NA,NA,Brad Katona,NA,NA,Decision (Unanimous),3,5:00
+"May 4, 2019",UFC Fight Night 151 - Iaquinta vs. Cowboy,Heavyweight,Walt Harris,NA,NA,Serghei Spivac,,,TKO (Punches),1,0:50
+"May 4, 2019",UFC Fight Night 151 - Iaquinta vs. Cowboy,Middleweight,Andrew Sanchez,NA,NA,Marc-Andre Barriault,NA,NA,Decision (Unanimous),3,5:00
+"May 4, 2019",UFC Fight Night 151 - Iaquinta vs. Cowboy,Bantamweight,Macy Chiasson,NA,NA,Sarah Moras,NA,NA,TKO (Punches),2,2:22
+"May 4, 2019",UFC Fight Night 151 - Iaquinta vs. Cowboy,Bantamweight,Vince Morales,NA,NA,Aiemann Zahabi,NA,NA,Decision (Unanimous),3,5:00
+"May 4, 2019",UFC Fight Night 151 - Iaquinta vs. Cowboy,Welterweight,Nordine Taleb,NA,NA,Kyle Prepolec,NA,NA,Decision (Unanimous),3,5:00
+"May 4, 2019",UFC Fight Night 151 - Iaquinta vs. Cowboy,Featherweight,Matt Sayles,NA,NA,Kyle Nelson,NA,NA,Submission (Arm-Triangle Choke),3,3:16
+"May 4, 2019",UFC Fight Night 151 - Iaquinta vs. Cowboy,Heavyweight,Arjan Singh Bhullar,NA,NA,Juan Adams,NA,NA,Decision (Unanimous),3,5:00
+"May 4, 2019",UFC Fight Night 151 - Iaquinta vs. Cowboy,Bantamweight,Cole Smith,NA,NA,Mitch Gagnon,NA,NA,Decision (Unanimous),3,5:00
+"Jun 8, 2019",UFC 238 - Cejudo vs. Moraes,Bantamweight Title Fight,Henry Cejudo,NA,NA,Marlon Moraes,NA,NA,TKO (Punches),3,4:51
+"Jun 8, 2019",UFC 238 - Cejudo vs. Moraes,Flyweight Title Fight,Valentina Shevchenko,NA,NA,Jessica Eye,NA,NA,KO (Head Kick),2,0:26
+"Jun 8, 2019",UFC 238 - Cejudo vs. Moraes,Lightweight,Tony Ferguson,NA,NA,Donald Cerrone,NA,NA,TKO (Doctor Stoppage),2,5:00
+"Jun 8, 2019",UFC 238 - Cejudo vs. Moraes,Bantamweight,Petr Yan,NA,NA,Jimmie Rivera,NA,NA,Decision (Unanimous),3,5:00
+"Jun 8, 2019",UFC 238 - Cejudo vs. Moraes,Heavyweight,Blagoy Ivanov,NA,NA,Tai Tuivasa,NA,NA,Decision (Unanimous),3,5:00
+"Jun 8, 2019",UFC 238 - Cejudo vs. Moraes,Strawweight,Tatiana Suarez,NA,NA,Nina Nunes,,,Decision (Unanimous),3,5:00
+"Jun 8, 2019",UFC 238 - Cejudo vs. Moraes,Bantamweight,Aljamain Sterling,NA,NA,Pedro Munhoz,NA,NA,Decision (Unanimous),3,5:00
+"Jun 8, 2019",UFC 238 - Cejudo vs. Moraes,Strawweight,Alexa Grasso,NA,NA,Karolina Kowalkiewicz,NA,NA,Decision (Unanimous),3,5:00
+"Jun 8, 2019",UFC 238 - Cejudo vs. Moraes,Featherweight,Calvin Kattar,NA,NA,Ricardo Lamas,NA,NA,TKO (Punches),1,4:06
+"Jun 8, 2019",UFC 238 - Cejudo vs. Moraes,Strawweight,Xiaonan Yan,NA,NA,Angela Hill,NA,NA,Decision (Unanimous),3,5:00
+"Jun 8, 2019",UFC 238 - Cejudo vs. Moraes,Middleweight,Darren Stewart,NA,NA,Bevon Lewis,NA,NA,Decision (Unanimous),3,5:00
+"Jun 8, 2019",UFC 238 - Cejudo vs. Moraes,Bantamweight,Eddie Wineland,NA,NA,Grigory Popov,NA,NA,KO (Punches),2,4:47
+"Jun 8, 2019",UFC 238 - Cejudo vs. Moraes,Flyweight,Katlyn Cerminara,,,Joanne Wood,,,Decision (Unanimous),3,5:00
+"May 18, 2019",UFC Fight Night 152 - Dos Anjos vs. Lee,Welterweight,Rafael dos Anjos,NA,NA,Kevin Lee,NA,NA,Submission (Arm-Triangle Choke),4,3:47
+"May 18, 2019",UFC Fight Night 152 - Dos Anjos vs. Lee,Middleweight,Ian Heinisch,NA,NA,Antonio Carlos Jr.,NA,NA,Decision (Unanimous),3,5:00
+"May 18, 2019",UFC Fight Night 152 - Dos Anjos vs. Lee,Featherweight,Felicia Spencer,NA,NA,Megan Anderson,NA,NA,Submission (Rear-Naked Choke),1,3:24
+"May 18, 2019",UFC Fight Night 152 - Dos Anjos vs. Lee,Welterweight,Vicente Luque,NA,NA,Derrick Krantz,NA,NA,TKO (Punches),1,3:52
+"May 18, 2019",UFC Fight Night 152 - Dos Anjos vs. Lee,Lightweight,Charles Oliveira,NA,NA,Nik Lentz,NA,NA,TKO (Punches),2,2:11
+"May 18, 2019",UFC Fight Night 152 - Dos Anjos vs. Lee,Lightweight,Davi Ramos,NA,NA,Austin Hubbard,NA,NA,Decision (Unanimous),3,5:00
+"May 18, 2019",UFC Fight Night 152 - Dos Anjos vs. Lee,Bantamweight,Aspen Ladd,NA,NA,Sijara Eubanks,NA,NA,Decision (Unanimous),3,5:00
+"May 18, 2019",UFC Fight Night 152 - Dos Anjos vs. Lee,Lightweight,Desmond Green,NA,NA,Charles Jourdain,NA,NA,Decision (Unanimous),3,5:00
+"May 18, 2019",UFC Fight Night 152 - Dos Anjos vs. Lee,Welterweight,Michel Pereira,NA,NA,Danny Roberts,NA,NA,KO (Flying Knee and Punch),1,1:47
+"May 18, 2019",UFC Fight Night 152 - Dos Anjos vs. Lee,Featherweight,Grant Dawson,NA,NA,Michael Trizano,NA,NA,Submission (Rear-Naked Choke),2,2:27
+"May 18, 2019",UFC Fight Night 152 - Dos Anjos vs. Lee,Light Heavyweight,Ed Herman,NA,NA,Patrick Cummins,NA,NA,TKO (Knee and Punches),1,3:39
+"May 18, 2019",UFC Fight Night 152 - Dos Anjos vs. Lee,Middleweight,Zak Cummings,NA,NA,Trevin Giles,NA,NA,Submission (Guillotine Choke),3,4:01
+"May 18, 2019",UFC Fight Night 152 - Dos Anjos vs. Lee,Featherweight,Julio Arce,NA,NA,Julian Erosa,NA,NA,KO (Head Kick),3,1:49
+"Jun 1, 2019",UFC Fight Night 153 - Gustafsson vs. Smith,Light Heavyweight,Anthony Smith,NA,NA,Alexander Gustafsson,NA,NA,Submission (Rear-Naked Choke),4,2:38
+"Jun 1, 2019",UFC Fight Night 153 - Gustafsson vs. Smith,Light Heavyweight,Aleksandar Rakic,NA,NA,Jimi Manuwa,NA,NA,KO (Head Kick),1,0:42
+"Jun 1, 2019",UFC Fight Night 153 - Gustafsson vs. Smith,Featherweight,Makwan Amirkhani,NA,NA,Chris Fishgold,NA,NA,Submission (Anaconda Choke),2,4:25
+"Jun 1, 2019",UFC Fight Night 153 - Gustafsson vs. Smith,Lightweight,Christos Giagos,NA,NA,Damir Hadzovic,NA,NA,Decision (Unanimous),3,5:00
+"Jun 1, 2019",UFC Fight Night 153 - Gustafsson vs. Smith,Featherweight,Daniel Teymur,NA,NA,Sung Bin Jo,NA,NA,Decision (Unanimous),3,5:00
+"Jun 1, 2019",UFC Fight Night 153 - Gustafsson vs. Smith,Welterweight,Sergey Khandozhko,NA,NA,Rostem Akman,NA,NA,Decision (Unanimous),3,5:00
+"Jun 1, 2019",UFC Fight Night 153 - Gustafsson vs. Smith,Bantamweight,Lina Lansberg,NA,NA,Tonya Evinger,NA,NA,Decision (Unanimous),3,5:00
+"Jun 1, 2019",UFC Fight Night 153 - Gustafsson vs. Smith,Lightweight,Leonardo Santos,NA,NA,Steven Ray,NA,NA,KO (Punch),1,2:17
+"Jun 1, 2019",UFC Fight Night 153 - Gustafsson vs. Smith,Lightweight,Frank Camacho,NA,NA,Nick Hein,NA,NA,TKO (Punches),2,4:56
+"Jun 1, 2019",UFC Fight Night 153 - Gustafsson vs. Smith,Bantamweight,Bea Malecki,NA,NA,Duda Santana,,,Submission (Rear-Naked Choke),2,1:59
+"Jun 1, 2019",UFC Fight Night 153 - Gustafsson vs. Smith,Light Heavyweight,Devin Clark,NA,NA,Darko Stosic,NA,NA,Decision (Unanimous),3,5:00
+"Jun 1, 2019",UFC Fight Night 153 - Gustafsson vs. Smith,Lightweight,Joel Alvarez,NA,NA,Danilo Belluardo,NA,NA,TKO (Punches),2,2:22
+"Apr 27, 2019",UFC Fight Night 150 - Jacare vs. Hermansson,Middleweight,Jack Hermansson,NA,NA,Ronaldo Souza,NA,NA,Decision (Unanimous),5,5:00
+"Apr 27, 2019",UFC Fight Night 150 - Jacare vs. Hermansson,Heavyweight,Greg Hardy,NA,NA,Dmitry Smoliakov,NA,NA,TKO (Punches),1,2:15
+"Apr 27, 2019",UFC Fight Night 150 - Jacare vs. Hermansson,Welterweight,Mike Perry,NA,NA,Alex Oliveira,NA,NA,Decision (Unanimous),3,5:00
+"Apr 27, 2019",UFC Fight Night 150 - Jacare vs. Hermansson,Light Heavyweight,Glover Teixeira,NA,NA,Ion Cutelaba,NA,NA,Submission (Rear-Naked Choke),2,3:37
+"Apr 27, 2019",UFC Fight Night 150 - Jacare vs. Hermansson,Bantamweight,Cory Sandhagen,NA,NA,John Lineker,NA,NA,Decision (Split),3,5:00
+"Apr 27, 2019",UFC Fight Night 150 - Jacare vs. Hermansson,Lightweight,Roosevelt Roberts,NA,NA,Thomas Gifford,NA,NA,Decision (Unanimous),3,5:00
+"Apr 27, 2019",UFC Fight Night 150 - Jacare vs. Hermansson,Welterweight,Takashi Sato,NA,NA,Ben Saunders,NA,NA,TKO (Punches and Elbows),2,1:18
+"Apr 27, 2019",UFC Fight Night 150 - Jacare vs. Hermansson,Heavyweight,Augusto Sakai,NA,NA,Andrei Arlovski,NA,NA,Decision (Split),3,5:00
+"Apr 27, 2019",UFC Fight Night 150 - Jacare vs. Hermansson,Strawweight,Carla Esparza,NA,NA,Virna Jandiroba,NA,NA,Decision (Unanimous),3,5:00
+"Apr 27, 2019",UFC Fight Night 150 - Jacare vs. Hermansson,Lightweight,Gilbert Burns,NA,NA,Mike Davis,NA,NA,Submission (Rear-Naked Choke),2,4:15
+"Apr 27, 2019",UFC Fight Night 150 - Jacare vs. Hermansson,Lightweight,Jim Miller,NA,NA,Jason Gonzalez,NA,NA,Submission (Rear-Naked Choke),1,2:12
+"Apr 27, 2019",UFC Fight Night 150 - Jacare vs. Hermansson,Strawweight,Angela Hill,NA,NA,Jodie Esquibel,NA,NA,Decision (Unanimous),3,5:00
+"Apr 27, 2019",UFC Fight Night 150 - Jacare vs. Hermansson,Welterweight,Dhiego Lima,NA,NA,Court McGee,NA,NA,Decision (Split),3,5:00
+"Jun 22, 2019",UFC Fight Night 154 - Moicano vs. The Korean Zombie,Featherweight,Chan Sung Jung,NA,NA,Renato Carneiro,NA,NA,TKO (Punches),1,0:58
+"Jun 22, 2019",UFC Fight Night 154 - Moicano vs. The Korean Zombie,Welterweight,Randy Brown,NA,NA,Bryan Barberena,NA,NA,TKO (Punches),3,2:54
+"Jun 22, 2019",UFC Fight Night 154 - Moicano vs. The Korean Zombie,Bantamweight,Andre Ewell,NA,NA,Anderson dos Santos,NA,NA,Decision (Unanimous),3,5:00
+"Jun 22, 2019",UFC Fight Night 154 - Moicano vs. The Korean Zombie,Flyweight,Andrea Lee,NA,NA,Montana De La Rosa,NA,NA,Decision (Unanimous),3,5:00
+"Jun 22, 2019",UFC Fight Night 154 - Moicano vs. The Korean Zombie,Middleweight,Kevin Holland,NA,NA,Alessio Di Chirico,NA,NA,Decision (Unanimous),3,5:00
+"Jun 22, 2019",UFC Fight Night 154 - Moicano vs. The Korean Zombie,Featherweight,Dan Ige,NA,NA,Kevin Aguilar,NA,NA,Decision (Unanimous),3,5:00
+"Jun 22, 2019",UFC Fight Night 154 - Moicano vs. The Korean Zombie,Strawweight,Ashley Yoder,NA,NA,Syuri Kondo,NA,NA,Decision (Unanimous),3,5:00
+"Jun 22, 2019",UFC Fight Night 154 - Moicano vs. The Korean Zombie,Lightweight,Luis Pena,NA,NA,Matt Wiman,NA,NA,TKO (Punches),3,1:14
+"Jun 22, 2019",UFC Fight Night 154 - Moicano vs. The Korean Zombie,Heavyweight,Jairzinho Rozenstruik,NA,NA,Allen Crowder,NA,NA,KO (Punches),1,0:09
+"Jun 22, 2019",UFC Fight Night 154 - Moicano vs. The Korean Zombie,Flyweight,Molly McCann,NA,NA,Ariane Lipski da Silva,NA,NA,Decision (Unanimous),3,5:00
+"Jun 22, 2019",UFC Fight Night 154 - Moicano vs. The Korean Zombie,Middleweight,Deron Winn,NA,NA,Eric Spicely,NA,NA,Decision (Unanimous),3,5:00
+"Aug 10, 2019",UFC Fight Night 156 - Shevchenko vs. Carmouche 2,Flyweight Title Fight,Valentina Shevchenko,NA,NA,Liz Carmouche,NA,NA,Decision (Unanimous),5,5:00
+"Aug 10, 2019",UFC Fight Night 156 - Shevchenko vs. Carmouche 2,Welterweight,Vicente Luque,NA,NA,Mike Perry,NA,NA,Decision (Split),3,5:00
+"Aug 10, 2019",UFC Fight Night 156 - Shevchenko vs. Carmouche 2,Featherweight,Luiz Eduardo Garagorri,NA,NA,Humberto Bandenay,NA,NA,Decision (Unanimous),3,5:00
+"Aug 10, 2019",UFC Fight Night 156 - Shevchenko vs. Carmouche 2,Light Heavyweight,Volkan Oezdemir,NA,NA,Ilir Latifi,NA,NA,KO (Punches),2,4:31
+"Aug 10, 2019",UFC Fight Night 156 - Shevchenko vs. Carmouche 2,Middleweight,Rodolfo Vieira,NA,NA,Oskar Piechota,NA,NA,Submission (Arm-Triangle Choke),2,4:26
+"Aug 10, 2019",UFC Fight Night 156 - Shevchenko vs. Carmouche 2,Featherweight,Enrique Barzola,NA,NA,Bobby Moffett,NA,NA,Decision (Split),3,5:00
+"Aug 10, 2019",UFC Fight Night 156 - Shevchenko vs. Carmouche 2,Welterweight,Gilbert Burns,NA,NA,Alexey Kunchenko,NA,NA,Decision (Unanimous),3,5:00
+"Aug 10, 2019",UFC Fight Night 156 - Shevchenko vs. Carmouche 2,Heavyweight,Ciryl Gane,NA,NA,Raphael Pessoa,NA,NA,Submission (Arm-Triangle Choke),1,4:12
+"Aug 10, 2019",UFC Fight Night 156 - Shevchenko vs. Carmouche 2,Strawweight,Marina Rodriguez,NA,NA,Tecia Pennington,,,Decision (Unanimous),3,5:00
+"Aug 10, 2019",UFC Fight Night 156 - Shevchenko vs. Carmouche 2,Flyweight,Rogerio Bontorin,NA,NA,Raulian Paiva,NA,NA,TKO (Doctor Stoppage),1,2:56
+"Aug 10, 2019",UFC Fight Night 156 - Shevchenko vs. Carmouche 2,Bantamweight,Chris Gutierrez,NA,NA,Geraldo de Freitas Jr.,NA,NA,Decision (Split),3,5:00
+"Aug 10, 2019",UFC Fight Night 156 - Shevchenko vs. Carmouche 2,Lightweight,Alex da Silva Coelho,NA,NA,Rodrigo Vargas,NA,NA,Decision (Unanimous),3,5:00
+"Aug 10, 2019",UFC Fight Night 156 - Shevchenko vs. Carmouche 2,Flyweight,Veronica Hardy,,,Polyana Viana,NA,NA,Submission (Armbar),1,1:09
+"Apr 20, 2019",UFC Fight Night 149 - Overeem vs. Oleynik,Heavyweight,Alistair Overeem,NA,NA,Alexey Oleynik,NA,NA,TKO (Punches),1,4:45
+"Apr 20, 2019",UFC Fight Night 149 - Overeem vs. Oleynik,Lightweight,Islam Makhachev,NA,NA,Arman Tsarukyan,NA,NA,Decision (Unanimous),3,5:00
+"Apr 20, 2019",UFC Fight Night 149 - Overeem vs. Oleynik,Heavyweight,Sergei Pavlovich,NA,NA,Marcelo Golm,NA,NA,KO (Punch),1,1:06
+"Apr 20, 2019",UFC Fight Night 149 - Overeem vs. Oleynik,Flyweight,Roxanne Modafferi,NA,NA,Antonina Shevchenko,NA,NA,Decision (Split),3,5:00
+"Apr 20, 2019",UFC Fight Night 149 - Overeem vs. Oleynik,Middleweight,Krzysztof Jotko,NA,NA,Alen Amedovski,NA,NA,Decision (Unanimous),3,5:00
+"Apr 20, 2019",UFC Fight Night 149 - Overeem vs. Oleynik,Featherweight,Movsar Evloev,NA,NA,Seung Woo Choi,,,Decision (Unanimous),3,5:00
+"Apr 20, 2019",UFC Fight Night 149 - Overeem vs. Oleynik,Welterweight,Sultan Aliev,NA,NA,Keita Nakamura,NA,NA,Decision (Unanimous),3,5:00
+"Apr 20, 2019",UFC Fight Night 149 - Overeem vs. Oleynik,Lightweight,Alexander Yakovlev,NA,NA,Alex da Silva Coelho,NA,NA,Submission (Guillotine Choke),2,3:10
+"Apr 20, 2019",UFC Fight Night 149 - Overeem vs. Oleynik,Heavyweight,Shamil Abdurakhimov,NA,NA,Marcin Tybura,NA,NA,TKO (Punches),2,3:15
+"Apr 20, 2019",UFC Fight Night 149 - Overeem vs. Oleynik,Light Heavyweight,Michal Oleksiejczuk,NA,NA,Gadzhimurad Antigulov,NA,NA,KO (Punch),1,0:44
+"Apr 20, 2019",UFC Fight Night 149 - Overeem vs. Oleynik,Lightweight,Magomed Mustafaev,NA,NA,Rafael Fiziev,NA,NA,TKO (Spinning Back Kick and Punches) ,1,1:26
+"Apr 13, 2019",UFC 236 - Holloway vs. Poirier,Lightweight Title Fight,Dustin Poirier,NA,NA,Max Holloway,NA,NA,Decision (Unanimous),5,5:00
+"Apr 13, 2019",UFC 236 - Holloway vs. Poirier,Middleweight Title Fight,Israel Adesanya,NA,NA,Kelvin Gastelum,NA,NA,Decision (Unanimous),5,5:00
+"Apr 13, 2019",UFC 236 - Holloway vs. Poirier,Light Heavyweight,Khalil Rountree,NA,NA,Eryk Anders,NA,NA,Decision (Unanimous),3,5:00
+"Apr 13, 2019",UFC 236 - Holloway vs. Poirier,Welterweight,Dwight Grant,NA,NA,Alan Jouban,NA,NA,Decision (Split),3,5:00
+"Apr 13, 2019",UFC 236 - Holloway vs. Poirier,Light Heavyweight,Nikita Krylov,NA,NA,Ovince St. Preux,NA,NA,Submission (Rear-Naked Choke),2,2:30
+"Apr 13, 2019",UFC 236 - Holloway vs. Poirier,Lightweight,Matt Frevola,NA,NA,Jalin Turner,NA,NA,Decision (Unanimous),3,5:00
+"Apr 13, 2019",UFC 236 - Holloway vs. Poirier,Flyweight,Alexandre Pantoja,NA,NA,Wilson Reis,NA,NA,TKO (Punches),1,2:58
+"Apr 13, 2019",UFC 236 - Holloway vs. Poirier,Welterweight,Max Griffin,NA,NA,Zelim Imadaev,NA,NA,Decision (Majority),3,5:00
+"Apr 13, 2019",UFC 236 - Holloway vs. Poirier,Bantamweight,Khalid Taha,NA,NA,Boston Salmon,NA,NA,TKO (Punches),1,0:25
+"Apr 13, 2019",UFC 236 - Holloway vs. Poirier,Welterweight,Belal Muhammad,NA,NA,Curtis Millender,NA,NA,Decision (Unanimous),3,5:00
+"Apr 13, 2019",UFC 236 - Holloway vs. Poirier,Bantamweight,Montel Jackson,NA,NA,Andre Soukhamthath,NA,NA,Decision (Unanimous),3,5:00
+"Apr 13, 2019",UFC 236 - Holloway vs. Poirier,Flyweight,Poliana Botelho,NA,NA,Lauren Mueller,NA,NA,Decision (Unanimous),3,5:00
+"Apr 13, 2019",UFC 236 - Holloway vs. Poirier,Bantamweight,Brandon Davis,NA,NA,Randy Costa,NA,NA,Submission (Rear-Naked Choke),2,1:12
+"Mar 30, 2019",UFC on ESPN 2 - Barboza vs. Gaethje,Lightweight,Justin Gaethje,NA,NA,Edson Barboza,NA,NA,KO (Punch),1,2:30
+"Mar 30, 2019",UFC on ESPN 2 - Barboza vs. Gaethje,Middleweight,Jack Hermansson,NA,NA,David Branch,NA,NA,Submission (Guillotine Choke) ,1,0:49
+"Mar 30, 2019",UFC on ESPN 2 - Barboza vs. Gaethje,Featherweight,Josh Emmett,NA,NA,Michael Johnson,NA,NA,KO (Punch),3,4:14
+"Mar 30, 2019",UFC on ESPN 2 - Barboza vs. Gaethje,Strawweight,Michelle Waterson-Gomez,NA,NA,Karolina Kowalkiewicz,NA,NA,Decision (Unanimous),3,5:00
+"Mar 30, 2019",UFC on ESPN 2 - Barboza vs. Gaethje,Light Heavyweight,Paul Craig,NA,NA,Kennedy Nzechukwu,NA,NA,Submission (Triangle Choke),3,4:20
+"Mar 30, 2019",UFC on ESPN 2 - Barboza vs. Gaethje,Featherweight,Sodiq Yusuff,NA,NA,Sheymon Moraes,NA,NA,Decision (Unanimous),3,5:00
+"Mar 30, 2019",UFC on ESPN 2 - Barboza vs. Gaethje,Strawweight,Marina Rodriguez,NA,NA,Jessica Aguilar,NA,NA,Decision (Unanimous),3,5:00
+"Mar 30, 2019",UFC on ESPN 2 - Barboza vs. Gaethje,Lightweight,Desmond Green,NA,NA,Ross Pearson,NA,NA,TKO (Punches),1,2:52
+"Mar 30, 2019",UFC on ESPN 2 - Barboza vs. Gaethje,Featherweight,Kevin Aguilar,NA,NA,Enrique Barzola,NA,NA,Decision (Unanimous),3,5:00
+"Mar 30, 2019",UFC on ESPN 2 - Barboza vs. Gaethje,Middleweight,Kevin Holland,NA,NA,Gerald Meerschaert,NA,NA,Decision (Split),3,5:00
+"Mar 30, 2019",UFC on ESPN 2 - Barboza vs. Gaethje,138lb Catchweight,Casey Kenney,NA,NA,Ray Borg,NA,NA,Decision (Unanimous),3,5:00
+"Mar 30, 2019",UFC on ESPN 2 - Barboza vs. Gaethje,Flyweight,Maryna Moroz,NA,NA,Sabina Mazo,NA,NA,Decision (Unanimous),3,5:00
+"Mar 30, 2019",UFC on ESPN 2 - Barboza vs. Gaethje,Bantamweight,Alex Perez,NA,NA,Mark De La Rosa,NA,NA,Decision (Unanimous),3,5:00
+"Mar 23, 2019",UFC Fight Night 148 - Thompson vs. Pettis,Welterweight,Anthony Pettis,NA,NA,Stephen Thompson,NA,NA,KO (Punches),2,4:55
+"Mar 23, 2019",UFC Fight Night 148 - Thompson vs. Pettis,Heavyweight,Curtis Blaydes,NA,NA,Justin Willis,NA,NA,Decision (Unanimous),3,5:00
+"Mar 23, 2019",UFC Fight Night 148 - Thompson vs. Pettis,Lightweight,John Makdessi,NA,NA,Jesus Pinedo,NA,NA,Decision (Unanimous),3,5:00
+"Mar 23, 2019",UFC Fight Night 148 - Thompson vs. Pettis,Flyweight,Jussier Formiga,,,Deiveson Figueiredo,NA,NA,Decision (Unanimous),3,5:00
+"Mar 23, 2019",UFC Fight Night 148 - Thompson vs. Pettis,149lb Catchweight,Luis Pena,NA,NA,Steven Peterson,NA,NA,Decision (Unanimous),3,5:00
+"Mar 23, 2019",UFC Fight Night 148 - Thompson vs. Pettis,Flyweight,Maycee Barber,NA,NA,J.J. Aldrich,NA,NA,TKO (Knees and Punches),2,3:01
+"Mar 23, 2019",UFC Fight Night 148 - Thompson vs. Pettis,Featherweight,Bryce Mitchell,NA,NA,Bobby Moffett,NA,NA,Decision (Unanimous),3,5:00
+"Mar 23, 2019",UFC Fight Night 148 - Thompson vs. Pettis,Bantamweight,Marlon Vera,NA,NA,Frankie Saenz,NA,NA,TKO (Punches),1,1:25
+"Mar 23, 2019",UFC Fight Night 148 - Thompson vs. Pettis,Flyweight,Jennifer Maia,NA,NA,Alexis Davis,NA,NA,Decision (Unanimous),3,5:00
+"Mar 23, 2019",UFC Fight Night 148 - Thompson vs. Pettis,Strawweight,Randa Markos,NA,NA,Angela Hill,NA,NA,Submission (Armbar),1,4:24
+"Mar 23, 2019",UFC Fight Night 148 - Thompson vs. Pettis,Bantamweight,Chris Gutierrez,NA,NA,Ryan MacDonald,NA,NA,Decision (Unanimous),3,5:00
+"Mar 23, 2019",UFC Fight Night 148 - Thompson vs. Pettis,Flyweight,Jordan Espinosa,NA,NA,Eric Shelton,NA,NA,Decision (Unanimous),3,5:00
+"Mar 16, 2019",UFC Fight Night 147 - Till vs. Masvidal,Welterweight,Jorge Masvidal,NA,NA,Darren Till,NA,NA,KO (Punches),2,3:05
+"Mar 16, 2019",UFC Fight Night 147 - Till vs. Masvidal,Welterweight,Leon Edwards,NA,NA,Gunnar Nelson,NA,NA,Decision (Split),3,5:00
+"Mar 16, 2019",UFC Fight Night 147 - Till vs. Masvidal,Light Heavyweight,Dominick Reyes,NA,NA,Volkan Oezdemir,NA,NA,Decision (Split),3,5:00
+"Mar 16, 2019",UFC Fight Night 147 - Till vs. Masvidal,Bantamweight,Nathaniel Wood,NA,NA,Jose Quinonez,,,Submission (Rear-Naked Choke),2,2:46
+"Mar 16, 2019",UFC Fight Night 147 - Till vs. Masvidal,Welterweight,Claudio Silva,,,Danny Roberts,NA,NA,Submission (Armbar),3,2:37
+"Mar 16, 2019",UFC Fight Night 147 - Till vs. Masvidal,188lb Catchweight,Jack Marshman,NA,NA,John Phillips,NA,NA,Decision (Split),3,5:00
+"Mar 16, 2019",UFC Fight Night 147 - Till vs. Masvidal,Featherweight,Arnold Allen,NA,NA,Jordan Rinaldi,NA,NA,Decision (Unanimous),3,5:00
+"Mar 16, 2019",UFC Fight Night 147 - Till vs. Masvidal,Lightweight,Marc Diakiese,NA,NA,Joseph Duffy,NA,NA,Decision (Unanimous),3,5:00
+"Mar 16, 2019",UFC Fight Night 147 - Till vs. Masvidal,Light Heavyweight,Saparbek Safarov,NA,NA,Nicolae Negumereanu,NA,NA,Decision (Unanimous),3,5:00
+"Mar 16, 2019",UFC Fight Night 147 - Till vs. Masvidal,Featherweight,Dan Ige,NA,NA,Danny Henry,NA,NA,Submission (Rear-Naked Choke),1,1:17
+"Mar 16, 2019",UFC Fight Night 147 - Till vs. Masvidal,Flyweight,Molly McCann,NA,NA,Priscila Cachoeira,NA,NA,Decision (Unanimous),3,5:00
+"Mar 16, 2019",UFC Fight Night 147 - Till vs. Masvidal,Featherweight,Mike Grundy,NA,NA,Nad Narimani,NA,NA,TKO (Punches),2,4:42
+"Mar 9, 2019",UFC Fight Night 146 - Lewis vs. Dos Santos,Heavyweight,Junior dos Santos,NA,NA,Derrick Lewis,NA,NA,TKO (Punches),2,1:58
+"Mar 9, 2019",UFC Fight Night 146 - Lewis vs. Dos Santos,Welterweight,Elizeu Zaleski dos Santos,NA,NA,Curtis Millender,NA,NA,Submission (Rear-Naked Choke),1,2:35
+"Mar 9, 2019",UFC Fight Night 146 - Lewis vs. Dos Santos,Welterweight,Niko Price,NA,NA,Tim Means,NA,NA,TKO (Punches),1,4:50
+"Mar 9, 2019",UFC Fight Night 146 - Lewis vs. Dos Santos,Heavyweight,Blagoy Ivanov,NA,NA,Ben Rothwell,NA,NA,Decision (Unanimous),3,5:00
+"Mar 9, 2019",UFC Fight Night 146 - Lewis vs. Dos Santos,Lightweight,Beneil Dariush,NA,NA,Drew Dober,NA,NA,Submission (Armbar),2,4:41
+"Mar 9, 2019",UFC Fight Night 146 - Lewis vs. Dos Santos,Middleweight,Omari Akhmedov,NA,NA,Tim Boetsch,NA,NA,Decision (Unanimous),3,5:00
+"Mar 9, 2019",UFC Fight Night 146 - Lewis vs. Dos Santos,Welterweight,Anthony Rocco Martin,NA,NA,Sergio Moraes,NA,NA,Decision (Unanimous),3,5:00
+"Mar 9, 2019",UFC Fight Night 146 - Lewis vs. Dos Santos,Bantamweight,Yana Santos,,,Marion Reneau,NA,NA,Decision (Unanimous),3,5:00
+"Mar 9, 2019",UFC Fight Night 146 - Lewis vs. Dos Santos,Featherweight,Grant Dawson,NA,NA,Julian Erosa,NA,NA,Decision (Unanimous),3,5:00
+"Mar 9, 2019",UFC Fight Night 146 - Lewis vs. Dos Santos,Heavyweight,Maurice Greene,NA,NA,Jeff Hughes,NA,NA,Decision (Split),3,5:00
+"Mar 9, 2019",UFC Fight Night 146 - Lewis vs. Dos Santos,Bantamweight,Matt Schnell,NA,NA,Louis Smolka,NA,NA,Submission (Triangle Choke),1,3:18
+"Mar 9, 2019",UFC Fight Night 146 - Lewis vs. Dos Santos,Welterweight,Alex Morono,NA,NA,Zak Ottow,NA,NA,TKO (Submission to Elbows),1,3:34
+"Mar 9, 2019",UFC Fight Night 146 - Lewis vs. Dos Santos,Lightweight,Alex White,NA,NA,Dan Moret,NA,NA,Decision (Unanimous),3,5:00
+"Mar 2, 2019",UFC 235 - Jones vs. Smith,Light Heavyweight Title Fight,Jon Jones,NA,NA,Anthony Smith,NA,NA,Decision (Unanimous),5,5:00
+"Mar 2, 2019",UFC 235 - Jones vs. Smith,Welterweight Title Fight,Kamaru Usman,NA,NA,Tyron Woodley,NA,NA,Decision (Unanimous),5,5:00
+"Mar 2, 2019",UFC 235 - Jones vs. Smith,Welterweight,Ben Askren,NA,NA,Robbie Lawler,NA,NA,Technical Submission (Bulldog Choke),1,3:20
+"Mar 2, 2019",UFC 235 - Jones vs. Smith,Strawweight,Weili Zhang,NA,NA,Tecia Pennington,,,Decision (Unanimous),3,5:00
+"Mar 2, 2019",UFC 235 - Jones vs. Smith,Bantamweight,Pedro Munhoz,NA,NA,Cody Garbrandt,NA,NA,TKO (Punches),1,4:51
+"Mar 2, 2019",UFC 235 - Jones vs. Smith,Featherweight,Zabit Magomedsharipov,NA,NA,Jeremy Stephens,NA,NA,Decision (Unanimous),3,5:00
+"Mar 2, 2019",UFC 235 - Jones vs. Smith,Light Heavyweight,Johnny Walker,NA,NA,Misha Cirkunov,NA,NA,TKO (Flying Knee and Punches),1,0:38
+"Mar 2, 2019",UFC 235 - Jones vs. Smith,Bantamweight,Cody Stamann,NA,NA,Alejandro Perez,NA,NA,Decision (Unanimous),3,5:00
+"Mar 2, 2019",UFC 235 - Jones vs. Smith,Welterweight,Diego Sanchez,NA,NA,Mickey Gall,NA,NA,TKO (Punches),2,4:13
+"Mar 2, 2019",UFC 235 - Jones vs. Smith,Middleweight,Edmen Shahbazyan,NA,NA,Charles Byrd,NA,NA,TKO (Elbows and Punches),1,0:38
+"Mar 2, 2019",UFC 235 - Jones vs. Smith,Bantamweight,Macy Chiasson,NA,NA,Gina Mazany,NA,NA,TKO (Punches),1,1:49
+"Mar 2, 2019",UFC 235 - Jones vs. Smith,Strawweight,Hannah Cifers,NA,NA,Polyana Viana,NA,NA,Decision (Split),3,5:00
+"Feb 9, 2019",UFC 234 - Adesanya vs. Silva,Middleweight,Israel Adesanya,NA,NA,Anderson Silva,NA,NA,Decision (Unanimous),3,5:00
+"Feb 9, 2019",UFC 234 - Adesanya vs. Silva,Lightweight,Lando Vannata,NA,NA,Marcos Mariano,,,Submission (Kimura),1,4:55
+"Feb 9, 2019",UFC 234 - Adesanya vs. Silva,Bantamweight,Ricky Simon,NA,NA,Rani Yahya,NA,NA,Decision (Unanimous),3,5:00
+"Feb 9, 2019",UFC 234 - Adesanya vs. Silva,Flyweight,Montana De La Rosa,NA,NA,Nadia Kassem,NA,NA,Submission (Armbar),2,2:37
+"Feb 9, 2019",UFC 234 - Adesanya vs. Silva,Light Heavyweight,Jimmy Crute,,,Sam Alvey,NA,NA,TKO (Punches),1,2:49
+"Feb 9, 2019",UFC 234 - Adesanya vs. Silva,Lightweight,Devonte Smith,NA,NA,Dong Hyun Ma,NA,NA,TKO (Punches),1,3:53
+"Feb 9, 2019",UFC 234 - Adesanya vs. Silva,Featherweight,Shane Young,NA,NA,Austin Arnett,NA,NA,Decision (Unanimous),3,5:00
+"Feb 9, 2019",UFC 234 - Adesanya vs. Silva,Flyweight,Kai Kara-France,NA,NA,Raulian Paiva,NA,NA,Decision (Split),3,5:00
+"Feb 9, 2019",UFC 234 - Adesanya vs. Silva,Bantamweight,Kyung Ho Kang,NA,NA,Teruto Ishihara,NA,NA,Technical Submission (Rear-Naked Choke),1,3:59
+"Feb 9, 2019",UFC 234 - Adesanya vs. Silva,Lightweight,Jalin Turner,NA,NA,Callan Potter,NA,NA,TKO (Kick to the Body and Punches),1,0:53
+"Feb 9, 2019",UFC 234 - Adesanya vs. Silva,Bantamweight,Jonathan Martinez,NA,NA,Lijiburen Wu,,,Decision (Unanimous),3,5:00
+"Feb 23, 2019",UFC Fight Night 145 - Blachowicz vs. Santos,Light Heavyweight,Thiago Santos,NA,NA,Jan Blachowicz,NA,NA,TKO (Punches),3,0:39
+"Feb 23, 2019",UFC Fight Night 145 - Blachowicz vs. Santos,Heavyweight,Stefan Struve,NA,NA,Marcos Rogerio de Lima,NA,NA,Submission (Arm-Triangle Choke),2,2:21
+"Feb 23, 2019",UFC Fight Night 145 - Blachowicz vs. Santos,Light Heavyweight,Michal Oleksiejczuk,NA,NA,Gian Villante,NA,NA,TKO (Punches),1,1:34
+"Feb 23, 2019",UFC Fight Night 145 - Blachowicz vs. Santos,Flyweight,Liz Carmouche,NA,NA,Lucie Pudilova,NA,NA,Decision (Unanimous),3,5:00
+"Feb 23, 2019",UFC Fight Night 145 - Blachowicz vs. Santos,Bantamweight,Petr Yan,NA,NA,John Dodson,NA,NA,Decision (Unanimous),3,5:00
+"Feb 23, 2019",UFC Fight Night 145 - Blachowicz vs. Santos,209lb Catchweight,Magomed Ankalaev,NA,NA,Klidson Abreu,,,Decision (Unanimous),3,5:00
+"Feb 23, 2019",UFC Fight Night 145 - Blachowicz vs. Santos,Welterweight,Dwight Grant,NA,NA,Carlo Pedersoli Jr.,NA,NA,TKO (Punches),1,4:59
+"Feb 23, 2019",UFC Fight Night 145 - Blachowicz vs. Santos,Featherweight,Chris Fishgold,NA,NA,Daniel Teymur,NA,NA,Submission (Rear-Naked Choke),2,1:10
+"Feb 23, 2019",UFC Fight Night 145 - Blachowicz vs. Santos,Flyweight,Gillian Robertson,NA,NA,Veronica Hardy,,,Submission (Rear-Naked Choke),2,3:27
+"Feb 23, 2019",UFC Fight Night 145 - Blachowicz vs. Santos,Lightweight,Damir Hadzovic,NA,NA,Marco Polo Reyes,NA,NA,TKO (Punches),2,2:03
+"Feb 23, 2019",UFC Fight Night 145 - Blachowicz vs. Santos,Welterweight,Ismail Naurdiev,NA,NA,Michel Prazeres,NA,NA,Decision (Unanimous),3,5:00
+"Feb 23, 2019",UFC Fight Night 145 - Blachowicz vs. Santos,157lb Catchweight,Diego Ferreira,NA,NA,Rustam Khabilov,NA,NA,Decision (Unanimous),3,5:00
+"Feb 23, 2019",UFC Fight Night 145 - Blachowicz vs. Santos,Lightweight,Damir Ismagulov,NA,NA,Joel Alvarez,NA,NA,Decision (Unanimous),3,5:00
+"Feb 17, 2019",UFC on ESPN 1 - Ngannou vs. Velasquez,Heavyweight,Francis Ngannou,NA,NA,Cain Velasquez,NA,NA,KO (Punches),1,0:26
+"Feb 17, 2019",UFC on ESPN 1 - Ngannou vs. Velasquez,Lightweight,Paul Felder,NA,NA,James Vick,NA,NA,Decision (Unanimous),3,5:00
+"Feb 17, 2019",UFC on ESPN 1 - Ngannou vs. Velasquez,Strawweight,Cynthia Calvillo,NA,NA,Cortney Casey,NA,NA,Decision (Unanimous),3,5:00
+"Feb 17, 2019",UFC on ESPN 1 - Ngannou vs. Velasquez,Featherweight,Kron Gracie,NA,NA,Alex Caceres,NA,NA,Submission (Rear-Naked Choke),1,2:06
+"Feb 17, 2019",UFC on ESPN 1 - Ngannou vs. Velasquez,Welterweight,Vicente Luque,NA,NA,Bryan Barberena,NA,NA,TKO (Knees and Punches),3,4:54
+"Feb 17, 2019",UFC on ESPN 1 - Ngannou vs. Velasquez,Featherweight,Andre Fili,NA,NA,Myles Jury,NA,NA,Decision (Unanimous),3,5:00
+"Feb 17, 2019",UFC on ESPN 1 - Ngannou vs. Velasquez,Bantamweight,Aljamain Sterling,NA,NA,Jimmie Rivera,NA,NA,Decision (Unanimous),3,5:00
+"Feb 17, 2019",UFC on ESPN 1 - Ngannou vs. Velasquez,140lb Catchweight,Manny Bermudez,NA,NA,Benito Lopez,NA,NA,Submission (Guillotine Choke),1,3:09
+"Feb 17, 2019",UFC on ESPN 1 - Ngannou vs. Velasquez,Flyweight,Andrea Lee,NA,NA,Ashlee Evans-Smith,NA,NA,Decision (Unanimous),3,5:00
+"Feb 17, 2019",UFC on ESPN 1 - Ngannou vs. Velasquez,Lightweight,Nik Lentz,NA,NA,Scott Holtzman,NA,NA,Decision (Unanimous),3,5:00
+"Feb 17, 2019",UFC on ESPN 1 - Ngannou vs. Velasquez,138lb Catchweight,Luke Sanders,NA,NA,Renan Barao,NA,NA,KO (Punches),2,1:01
+"Feb 17, 2019",UFC on ESPN 1 - Ngannou vs. Velasquez,Strawweight,Emily Whitmire,NA,NA,Aleksandra Albu,NA,NA,Submission (Rear-Naked Choke),1,1:01
+"Feb 2, 2019",UFC Fight Night 144 - Assuncao vs. Moraes 2,Bantamweight,Marlon Moraes,NA,NA,Raphael Assuncao,NA,NA,Submission (Guillotine Choke),1,3:17
+"Feb 2, 2019",UFC Fight Night 144 - Assuncao vs. Moraes 2,Featherweight,Jose Aldo,NA,NA,Renato Carneiro,NA,NA,TKO (Punches),2,0:44
+"Feb 2, 2019",UFC Fight Night 144 - Assuncao vs. Moraes 2,Welterweight,Demian Maia,NA,NA,Lyman Good,NA,NA,Submission (Rear-Naked Choke),1,2:38
+"Feb 2, 2019",UFC Fight Night 144 - Assuncao vs. Moraes 2,Lightweight,Charles Oliveira,NA,NA,David Teymur,NA,NA,Submission (Anaconda Choke),2,0:55
+"Feb 2, 2019",UFC Fight Night 144 - Assuncao vs. Moraes 2,Light Heavyweight,Johnny Walker,NA,NA,Justin Ledet,NA,NA,TKO (Spinning Back Fist and Punches),1,0:15
+"Feb 2, 2019",UFC Fight Night 144 - Assuncao vs. Moraes 2,123lb Catchweight,Livinha Souza,NA,NA,Sarah Frota,NA,NA,Decision (Split),3,5:00
+"Feb 2, 2019",UFC Fight Night 144 - Assuncao vs. Moraes 2,Middleweight,Markus Perez,NA,NA,Anthony Hernandez,NA,NA,Submission (Anaconda Choke),2,1:07
+"Feb 2, 2019",UFC Fight Night 144 - Assuncao vs. Moraes 2,Flyweight,Mara Romero Borella,NA,NA,Taila Santos,NA,NA,Decision (Split),3,5:00
+"Feb 2, 2019",UFC Fight Night 144 - Assuncao vs. Moraes 2,Welterweight,Thiago Alves,NA,NA,Max Griffin,NA,NA,Decision (Split),3,5:00
+"Feb 2, 2019",UFC Fight Night 144 - Assuncao vs. Moraes 2,Heavyweight,Jairzinho Rozenstruik,NA,NA,Junior Albini,NA,NA,TKO (Head Kick and Punches),2,0:54
+"Feb 2, 2019",UFC Fight Night 144 - Assuncao vs. Moraes 2,Bantamweight,Geraldo de Freitas Jr.,NA,NA,Felipe Colares,,,Decision (Unanimous),3,5:00
+"Feb 2, 2019",UFC Fight Night 144 - Assuncao vs. Moraes 2,Bantamweight,Said Nurmagomedov,NA,NA,Ricardo Ramos,NA,NA,TKO (Spinning Back Kick and Punches),1,2:28
+"Feb 2, 2019",UFC Fight Night 144 - Assuncao vs. Moraes 2,127lb Catchweight,Rogerio Bontorin,NA,NA,Magomed Bibulatov,NA,NA,Decision (Split),3,5:00
+"Jan 19, 2019",UFC Fight Night 143 - Cejudo vs. Dillashaw,Flyweight Title Fight,Henry Cejudo,NA,NA,T.J. Dillashaw,NA,NA,TKO (Punches),1,0:32
+"Jan 19, 2019",UFC Fight Night 143 - Cejudo vs. Dillashaw,Heavyweight,Allen Crowder,NA,NA,Greg Hardy,NA,NA,Disqualification (Illegal Knee),2,2:28
+"Jan 19, 2019",UFC Fight Night 143 - Cejudo vs. Dillashaw,Lightweight,Gregor Gillespie,NA,NA,Yancy Medeiros,NA,NA,TKO (Punches),2,4:59
+"Jan 19, 2019",UFC Fight Night 143 - Cejudo vs. Dillashaw,Flyweight,Joseph Benavidez,NA,NA,Dustin Ortiz,NA,NA,Decision (Unanimous),3,5:00
+"Jan 19, 2019",UFC Fight Night 143 - Cejudo vs. Dillashaw,Flyweight,Paige VanZant,NA,NA,Rachael Ostovich,NA,NA,Submission (Armbar),2,1:50
+"Jan 19, 2019",UFC Fight Night 143 - Cejudo vs. Dillashaw,Light Heavyweight,Glover Teixeira,NA,NA,Karl Roberson,NA,NA,Submission (Arm-Triangle Choke),1,3:21
+"Jan 19, 2019",UFC Fight Night 143 - Cejudo vs. Dillashaw,Lightweight,Donald Cerrone,NA,NA,Alexander Hernandez,NA,NA,TKO (Head Kick and Punches),2,3:42
+"Jan 19, 2019",UFC Fight Night 143 - Cejudo vs. Dillashaw,Flyweight,Joanne Wood,,,Ariane Lipski da Silva,NA,NA,Decision (Unanimous),3,5:00
+"Jan 19, 2019",UFC Fight Night 143 - Cejudo vs. Dillashaw,Light Heavyweight,Alonzo Menifield,NA,NA,Vinicius Moreira,,,TKO (Punches),1, 3:56
+"Jan 19, 2019",UFC Fight Night 143 - Cejudo vs. Dillashaw,Bantamweight,Cory Sandhagen,NA,NA,Mario Bautista,NA,NA,Submission (Armbar),1,3:31
+"Jan 19, 2019",UFC Fight Night 143 - Cejudo vs. Dillashaw,Lightweight,Dennis Bermudez,NA,NA,Te Edwards,NA,NA,Decision (Unanimous),3,5:00
+"Jan 19, 2019",UFC Fight Night 143 - Cejudo vs. Dillashaw,Welterweight,Geoff Neal,NA,NA,Belal Muhammad,NA,NA,Decision (Unanimous),3,5:00
+"Jan 19, 2019",UFC Fight Night 143 - Cejudo vs. Dillashaw,Welterweight,Chance Rencountre,NA,NA,Kyle Stewart,NA,NA,Submission (Rear-Naked Choke),1,2:25

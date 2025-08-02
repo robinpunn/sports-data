@@ -1,0 +1,474 @@
+date,event,weight_class,winner,winner_weight,winner_odds,loser,loser_weight,loser_odds,method,rnd,time
+"Dec 19, 2015",UFC on Fox 17 - Dos Anjos vs. Cerrone 2,Lightweight Title Fight,Rafael dos Anjos,NA,NA,Donald Cerrone,NA,NA,TKO (Punches),1,1:06
+"Dec 19, 2015",UFC on Fox 17 - Dos Anjos vs. Cerrone 2,Heavyweight,Alistair Overeem,NA,NA,Junior dos Santos,NA,NA,TKO (Punches),2,4:43
+"Dec 19, 2015",UFC on Fox 17 - Dos Anjos vs. Cerrone 2,Lightweight,Nate Diaz,NA,NA,Michael Johnson,NA,NA,Decision (Unanimous),3,5:00
+"Dec 19, 2015",UFC on Fox 17 - Dos Anjos vs. Cerrone 2,Strawweight,Karolina Kowalkiewicz,NA,NA,Randa Markos,NA,NA,Decision (Unanimous),3,5:00
+"Dec 19, 2015",UFC on Fox 17 - Dos Anjos vs. Cerrone 2,151lb Catchweight,Charles Oliveira,NA,NA,Myles Jury,NA,NA,Submission (Guillotine Choke),1,3:05
+"Dec 19, 2015",UFC on Fox 17 - Dos Anjos vs. Cerrone 2,Middleweight,Nate Marquardt,NA,NA,C.B. Dollaway,NA,NA,KO (Punch),2,0:28
+"Dec 19, 2015",UFC on Fox 17 - Dos Anjos vs. Cerrone 2,Bantamweight,Valentina Shevchenko,NA,NA,Sarah Kaufman,NA,NA,Decision (Split),3,5:00
+"Dec 19, 2015",UFC on Fox 17 - Dos Anjos vs. Cerrone 2,Middleweight,Tamdan McCrory,NA,NA,Josh Samman,NA,NA,Submission (Triangle Choke),3,4:10
+"Dec 19, 2015",UFC on Fox 17 - Dos Anjos vs. Cerrone 2,Lightweight,Nik Lentz,NA,NA,Danny Castillo,NA,NA,Decision (Split),3,5:00
+"Dec 19, 2015",UFC on Fox 17 - Dos Anjos vs. Cerrone 2,Featherweight,Cole Miller,NA,NA,Jim Alers,NA,NA,No Contest (Accidental Eye Poke),2,1:34
+"Dec 19, 2015",UFC on Fox 17 - Dos Anjos vs. Cerrone 2,Welterweight,Kamaru Usman,NA,NA,Leon Edwards,NA,NA,Decision (Unanimous),3,5:00
+"Dec 19, 2015",UFC on Fox 17 - Dos Anjos vs. Cerrone 2,Welterweight,Vicente Luque,NA,NA,Hayder Hassan,NA,NA,Technical Submission (Anaconda Choke),1,2:13
+"Dec 19, 2015",UFC on Fox 17 - Dos Anjos vs. Cerrone 2,Heavyweight,Francis Ngannou,NA,NA,Luis Henrique,NA,NA,KO (Punch),2,2:53
+"Dec 12, 2015",UFC 194 - Aldo vs. McGregor,Featherweight Title Fight,Conor McGregor,NA,NA,Jose Aldo,NA,NA,KO (Punch),1,0:13
+"Dec 12, 2015",UFC 194 - Aldo vs. McGregor,Middleweight Title Fight,Luke Rockhold,NA,NA,Chris Weidman,NA,NA,TKO (Punches),4,3:12
+"Dec 12, 2015",UFC 194 - Aldo vs. McGregor,Middleweight,Yoel Romero,NA,NA,Ronaldo Souza,,,Decision (Split),3,5:00
+"Dec 12, 2015",UFC 194 - Aldo vs. McGregor,Welterweight,Demian Maia,NA,NA,Gunnar Nelson,NA,NA,Decision (Unanimous),3,5:00
+"Dec 12, 2015",UFC 194 - Aldo vs. McGregor,Featherweight,Max Holloway,NA,NA,Jeremy Stephens,NA,NA,Decision (Unanimous),3,5:00
+"Dec 12, 2015",UFC 194 - Aldo vs. McGregor,Bantamweight,Urijah Faber,NA,NA,Frankie Saenz,NA,NA,Decision (Unanimous),3,5:00
+"Dec 12, 2015",UFC 194 - Aldo vs. McGregor,Strawweight,Tecia Pennington,,,Jocelyn Jones-Lybarger,NA,NA,Decision (Unanimous),3,5:00
+"Dec 12, 2015",UFC 194 - Aldo vs. McGregor,Welterweight,Warlley Alves,NA,NA,Colby Covington,NA,NA,Submission (Guillotine Choke),1,1:26
+"Dec 12, 2015",UFC 194 - Aldo vs. McGregor,Lightweight,Leonardo Santos,NA,NA,Kevin Lee,NA,NA,TKO (Punches),1,3:26
+"Dec 12, 2015",UFC 194 - Aldo vs. McGregor,Lightweight,Magomed Mustafaev,NA,NA,Joe Proctor,NA,NA,TKO (Knees and Punches),1,1:54
+"Dec 12, 2015",UFC 194 - Aldo vs. McGregor,Lightweight,Yancy Medeiros,NA,NA,John Makdessi,NA,NA,Decision (Split),3,5:00
+"Dec 12, 2015",UFC 194 - Aldo vs. McGregor,Welterweight,Court McGee,NA,NA,Marcio Alexandre Jr.,NA,NA,Decision (Unanimous),3,5:00
+"Dec 10, 2015",UFC Fight Night 80 - Namajunas vs. VanZant,Strawweight,Rose Namajunas,NA,NA,Paige VanZant,NA,NA,Submission (Rear-Naked Choke),5,2:25
+"Dec 10, 2015",UFC Fight Night 80 - Namajunas vs. VanZant,Lightweight,Michael Chiesa,NA,NA,Jim Miller,NA,NA,Submission (Rear-Naked Choke),2,2:57
+"Dec 10, 2015",UFC Fight Night 80 - Namajunas vs. VanZant,Lightweight,Sage Northcutt,NA,NA,Cody Pfister,NA,NA,Submission (Guillotine Choke),2,0:41
+"Dec 10, 2015",UFC Fight Night 80 - Namajunas vs. VanZant,Middleweight,Thiago Santos,NA,NA,Elias Theodorou,NA,NA,Decision (Unanimous),3,5:00
+"Dec 10, 2015",UFC Fight Night 80 - Namajunas vs. VanZant,Welterweight,Tim Means,NA,NA,John Howard,NA,NA,KO (Punches),2,0:21
+"Dec 10, 2015",UFC Fight Night 80 - Namajunas vs. VanZant,Welterweight,Sergio Moraes,NA,NA,Omari Akhmedov,NA,NA,TKO (Punches),3,2:18
+"Dec 10, 2015",UFC Fight Night 80 - Namajunas vs. VanZant,Middleweight,Kevin Casey,NA,NA,Antonio Carlos Jr.,NA,NA,No Contest (Eye Poke),1,0:11
+"Dec 10, 2015",UFC Fight Night 80 - Namajunas vs. VanZant,Bantamweight,Aljamain Sterling,NA,NA,Johnny Eduardo,NA,NA,Submission (Guillotine Choke),2,4:18
+"Dec 10, 2015",UFC Fight Night 80 - Namajunas vs. VanZant,Welterweight,Santiago Ponzinibbio,NA,NA,Andreas Stahl,NA,NA,TKO (Punches),1,4:25
+"Dec 10, 2015",UFC Fight Night 80 - Namajunas vs. VanZant,Welterweight,Danny Roberts,NA,NA,Nathan Coy,NA,NA,Technical Submission (Triangle Choke),1,2:46
+"Dec 10, 2015",UFC Fight Night 80 - Namajunas vs. VanZant,Featherweight,Zubaira Tukhugov,NA,NA,Phillipe Nover,NA,NA,Decision (Split),3,5:00
+"Dec 10, 2015",UFC Fight Night 80 - Namajunas vs. VanZant,Strawweight,Kailin Curran,NA,NA,Emily Kagan,NA,NA,Submission (Rear-Naked Choke),2,4:13
+"Nov 21, 2015",UFC Fight Night 78 - Magny vs. Gastelum,Welterweight,Neil Magny,NA,NA,Kelvin Gastelum,NA,NA,Decision (Split),5,5:00
+"Nov 21, 2015",UFC Fight Night 78 - Magny vs. Gastelum,Featherweight,Ricardo Lamas,NA,NA,Diego Sanchez,NA,NA,Decision (Unanimous),3,5:00
+"Nov 21, 2015",UFC Fight Night 78 - Magny vs. Gastelum,Flyweight,Henry Cejudo,NA,NA,Jussier Formiga,,,Decision (Split),3,5:00
+"Nov 21, 2015",UFC Fight Night 78 - Magny vs. Gastelum,Welterweight,Erick Montano,NA,NA,Enrique Marin,NA,NA,Decision (Split),3,5:00
+"Nov 21, 2015",UFC Fight Night 78 - Magny vs. Gastelum,Lightweight,Enrique Barzola,NA,NA,Horacio Gutierrez,NA,NA,Decision (Unanimous),3,5:00
+"Nov 21, 2015",UFC Fight Night 78 - Magny vs. Gastelum,Lightweight,Leandro Silva,NA,NA,Efrain Escudero,NA,NA,Decision (Unanimous),3,5:00
+"Nov 21, 2015",UFC Fight Night 78 - Magny vs. Gastelum,Bantamweight,Erik Perez,NA,NA,Taylor Lapilus,NA,NA,Decision (Unanimous),3,5:00
+"Nov 21, 2015",UFC Fight Night 78 - Magny vs. Gastelum,Welterweight,Bartosz Fabinski,NA,NA,Hector Urbina,NA,NA,Decision (Unanimous),3,5:00
+"Nov 21, 2015",UFC Fight Night 78 - Magny vs. Gastelum,Bantamweight,Alejandro Perez,NA,NA,Scott Jorgensen,NA,NA,TKO (Leg Injury),2,4:26
+"Nov 21, 2015",UFC Fight Night 78 - Magny vs. Gastelum,Featherweight,Andre Fili,NA,NA,Gabriel Benitez,NA,NA,KO (Head Kick and Punches),1,3:13
+"Nov 21, 2015",UFC Fight Night 78 - Magny vs. Gastelum,Welterweight,Alvaro Herrera,NA,NA,Vernon Ramos,NA,NA,KO (Punches),1,0:30
+"Nov 21, 2015",UFC Fight Night 78 - Magny vs. Gastelum,Lightweight,Marco Polo Reyes,NA,NA,Cesar Arzamendia,NA,NA,KO (Punch),1,3:42
+"Nov 21, 2015",UFC Fight Night 78 - Magny vs. Gastelum,Lightweight,Michel Prazeres,,,Valmir Lazaro,NA,NA,Decision (Split),3,5:00
+"Dec 11, 2015",UFC - The Ultimate Fighter 22 Finale,Featherweight,Frankie Edgar,NA,NA,Chad Mendes,NA,NA,KO (Punch),1,2:28
+"Dec 11, 2015",UFC - The Ultimate Fighter 22 Finale,Featherweight,Ryan Hall,NA,NA,Artem Lobov,NA,NA,Decision (Unanimous),3,5:00
+"Dec 11, 2015",UFC - The Ultimate Fighter 22 Finale,Lightweight,Tony Ferguson,NA,NA,Edson Barboza,NA,NA,Submission (Brabo Choke),2,2:54
+"Dec 11, 2015",UFC - The Ultimate Fighter 22 Finale,Lightweight,Evan Dunham,NA,NA,Joe Lauzon,NA,NA,Decision (Unanimous),3,5:00
+"Dec 11, 2015",UFC - The Ultimate Fighter 22 Finale,Featherweight,Tatsuya Kawajiri,NA,NA,Jason Knight,NA,NA,Decision (Unanimous),3,5:00
+"Dec 11, 2015",UFC - The Ultimate Fighter 22 Finale,Featherweight,Julian Erosa,NA,NA,Marcin Wrzosek,NA,NA,Decision (Split),3,5:00
+"Dec 11, 2015",UFC - The Ultimate Fighter 22 Finale,Heavyweight,Gabriel Gonzaga,NA,NA,Konstantin Erokhin,NA,NA,Decision (Unanimous),3,5:00
+"Dec 11, 2015",UFC - The Ultimate Fighter 22 Finale,Welterweight,Ryan LaFlare,NA,NA,Mike Pierce,NA,NA,Decision (Unanimous),3,5:00
+"Dec 11, 2015",UFC - The Ultimate Fighter 22 Finale,Flyweight,Geane Herrera,NA,NA,Joby Sanchez,NA,NA,TKO (Punches),2,4:28
+"Dec 11, 2015",UFC - The Ultimate Fighter 22 Finale,Lightweight,Chris Gruetzemacher,NA,NA,Abner Lloveras,NA,NA,Decision (Unanimous),3,5:00
+"Nov 28, 2015",UFC Fight Night 79 - Henderson vs. Masvidal,Welterweight,Benson Henderson,NA,NA,Jorge Masvidal,NA,NA,Decision (Split),5,5:00
+"Nov 28, 2015",UFC Fight Night 79 - Henderson vs. Masvidal,Welterweight,Dong Hyun Kim,NA,NA,Dominic Waters,NA,NA,TKO (Punches),1,3:11
+"Nov 28, 2015",UFC Fight Night 79 - Henderson vs. Masvidal,Welterweight,Alberto Mina,NA,NA,Yoshihiro Akiyama,NA,NA,Decision (Split),3,5:00
+"Nov 28, 2015",UFC Fight Night 79 - Henderson vs. Masvidal,Featherweight,Doo Ho Choi,NA,NA,Sam Sicilia,NA,NA,KO (Punches),1,1:33
+"Nov 28, 2015",UFC Fight Night 79 - Henderson vs. Masvidal,Middleweight,Dongi Yang,NA,NA,Jake Collier,NA,NA,TKO (Punches),2,1:50
+"Nov 28, 2015",UFC Fight Night 79 - Henderson vs. Masvidal,Featherweight,Mike de la Torre,NA,NA,Yui Chul Nam,NA,NA,Decision (Split),3,5:00
+"Nov 28, 2015",UFC Fight Night 79 - Henderson vs. Masvidal,Lightweight,Tae Hyun Bang,NA,NA,Leo Kuntz,NA,NA,Decision (Split),3,5:00
+"Nov 28, 2015",UFC Fight Night 79 - Henderson vs. Masvidal,Strawweight,Seo Hee Ham,NA,NA,Cortney Casey,NA,NA,Decision (Unanimous),3,5:00
+"Nov 28, 2015",UFC Fight Night 79 - Henderson vs. Masvidal,Flyweight,Fredy Serrano,,,Zhikui Yao,NA,NA,TKO (Arm Injury),1,0:44
+"Nov 28, 2015",UFC Fight Night 79 - Henderson vs. Masvidal,Bantamweight,Marco Beltran,NA,NA,Guangyou Ning,NA,NA,Decision (Split),3,5:00
+"Nov 28, 2015",UFC Fight Night 79 - Henderson vs. Masvidal,Welterweight,Dominique Steele,NA,NA,Dong Hyun Ma,,,KO (Slam),3,0:27
+"Nov 14, 2015",UFC 193 - Rousey vs. Holm,Bantamweight Title Fight,Holly Holm,NA,NA,Ronda Rousey,NA,NA,KO (Head Kick and Punches),2,0:59
+"Nov 14, 2015",UFC 193 - Rousey vs. Holm,Strawweight Title Fight,Joanna Jedrzejczyk,NA,NA,Valerie Letourneau,NA,NA,Decision (Unanimous),5,5:00
+"Nov 14, 2015",UFC 193 - Rousey vs. Holm,Heavyweight,Mark Hunt,NA,NA,Antonio Silva,NA,NA,TKO (Punches),1,3:41
+"Nov 14, 2015",UFC 193 - Rousey vs. Holm,Middleweight,Robert Whittaker,NA,NA,Uriah Hall,NA,NA,Decision (Unanimous),3,5:00
+"Nov 14, 2015",UFC 193 - Rousey vs. Holm,Heavyweight,Jared Rosholt,NA,NA,Stefan Struve,NA,NA,Decision (Unanimous),3,5:00
+"Nov 14, 2015",UFC 193 - Rousey vs. Holm,Lightweight,Jake Matthews,NA,NA,Akbarh Arreola,NA,NA,TKO (Doctor Stoppage),2,5:00
+"Nov 14, 2015",UFC 193 - Rousey vs. Holm,Welterweight,Kyle Noke,NA,NA,Peter Sobotta,NA,NA,TKO (Body Kick and Punches),1,2:01
+"Nov 14, 2015",UFC 193 - Rousey vs. Holm,Light Heavyweight,Gian Villante,NA,NA,Anthony Perosh,NA,NA,KO (Punch),1,2:56
+"Nov 14, 2015",UFC 193 - Rousey vs. Holm,Flyweight,Danny Martinez,NA,NA,Richie Vaculik,NA,NA,Decision (Unanimous),3,5:00
+"Nov 14, 2015",UFC 193 - Rousey vs. Holm,Middleweight,Daniel Kelly,NA,NA,Steve Montgomery,NA,NA,Decision (Unanimous),3,5:00
+"Nov 14, 2015",UFC 193 - Rousey vs. Holm,Welterweight,Richard Walsh,NA,NA,Steve Kennedy,NA,NA,Decision (Unanimous),3,5:00
+"Nov 14, 2015",UFC 193 - Rousey vs. Holm,Welterweight,James Moontasri,NA,NA,Anton Zafir,NA,NA,TKO (Spinning Back Fist),1,4:36
+"Nov 14, 2015",UFC 193 - Rousey vs. Holm,Flyweight,Ben Nguyen,NA,NA,Ryan Benoit,NA,NA,Submission (Rear-Naked Choke),1,2:35
+"Nov 7, 2015",UFC Fight Night 77 - Belfort vs. Henderson 3,Middleweight,Vitor Belfort,NA,NA,Dan Henderson,NA,NA,KO (Punches),1,2:07
+"Nov 7, 2015",UFC Fight Night 77 - Belfort vs. Henderson 3,Light Heavyweight,Glover Teixeira,NA,NA,Patrick Cummins,NA,NA,TKO (Punches),2,1:12
+"Nov 7, 2015",UFC Fight Night 77 - Belfort vs. Henderson 3,Bantamweight,Thomas Almeida,NA,NA,Anthony Birchak,NA,NA,KO (Punch),1,4:24
+"Nov 7, 2015",UFC Fight Night 77 - Belfort vs. Henderson 3,Lightweight,Alex Oliveira,NA,NA,Piotr Hallmann,NA,NA,KO (Punch),3,0:51
+"Nov 7, 2015",UFC Fight Night 77 - Belfort vs. Henderson 3,Lightweight,Rashid Magomedov,NA,NA,Gilbert Burns,NA,NA,Decision (Unanimous),3,5:00
+"Nov 7, 2015",UFC Fight Night 77 - Belfort vs. Henderson 3,Light Heavyweight,Corey Anderson,NA,NA,Fabio Maldonado,NA,NA,Decision (Unanimous),3,5:00
+"Nov 7, 2015",UFC Fight Night 77 - Belfort vs. Henderson 3,Lightweight,Abel Trujillo,NA,NA,Gleison Tibau,NA,NA,Disqualification (Failed Drug Test),1,1:45
+"Nov 7, 2015",UFC Fight Night 77 - Belfort vs. Henderson 3,Lightweight,Johnny Case,NA,NA,Yan Cabral,NA,NA,Decision (Unanimous),3,5:00
+"Nov 7, 2015",UFC Fight Night 77 - Belfort vs. Henderson 3,Featherweight,Thiago Tavares,NA,NA,Clay Guida,NA,NA,Submission (Guillotine Choke),1,0:39
+"Nov 7, 2015",UFC Fight Night 77 - Belfort vs. Henderson 3,Featherweight,Chas Skelly,NA,NA,Edimilson Souza,NA,NA,Submission (Rear-Naked Choke),2,1:56
+"Nov 7, 2015",UFC Fight Night 77 - Belfort vs. Henderson 3,Welterweight,Viscardi Andrade,NA,NA,Gasan Umalatov,NA,NA,Decision (Unanimous),3,5:00
+"Nov 7, 2015",UFC Fight Night 77 - Belfort vs. Henderson 3,Bantamweight,Jimmie Rivera,NA,NA,Pedro Munhoz,NA,NA,Decision (Split),3,5:00
+"Nov 7, 2015",UFC Fight Night 77 - Belfort vs. Henderson 3,Flyweight,Matheus Nicolau,NA,NA,Bruno Mesquita,,,Submission (Japanese Necktie),3,3:27
+"Oct 3, 2015",UFC 192 - Cormier vs. Gustafsson,Light Heavyweight Title Fight,Daniel Cormier,NA,NA,Alexander Gustafsson,NA,NA,Decision (Split),5,5:00
+"Oct 3, 2015",UFC 192 - Cormier vs. Gustafsson,Light Heavyweight,Ryan Bader,NA,NA,Rashad Evans,NA,NA,Decision (Unanimous),3,5:00
+"Oct 3, 2015",UFC 192 - Cormier vs. Gustafsson,Heavyweight,Ruslan Magomedov,NA,NA,Shawn Jordan,NA,NA,Decision (Unanimous),3,5:00
+"Oct 3, 2015",UFC 192 - Cormier vs. Gustafsson,Flyweight,Joseph Benavidez,NA,NA,Ali Bagautinov,NA,NA,Decision (Unanimous),3,5:00
+"Oct 3, 2015",UFC 192 - Cormier vs. Gustafsson,Bantamweight,Julianna Pena,NA,NA,Jessica Eye,NA,NA,Decision (Unanimous),3,5:00
+"Oct 3, 2015",UFC 192 - Cormier vs. Gustafsson,Featherweight,Yair Rodriguez,NA,NA,Dan Hooker,,,Decision (Unanimous),3,5:00
+"Oct 3, 2015",UFC 192 - Cormier vs. Gustafsson,Welterweight,Albert Tumenov,NA,NA,Alan Jouban,NA,NA,TKO (Head Kick and Punches),1,2:55
+"Oct 3, 2015",UFC 192 - Cormier vs. Gustafsson,Lightweight,Adriano Martins,NA,NA,Islam Makhachev,NA,NA,KO (Punch),1,1:46
+"Oct 3, 2015",UFC 192 - Cormier vs. Gustafsson,Strawweight,Rose Namajunas,NA,NA,Angela Hill,NA,NA,Submission (Rear-Naked Choke),1,2:47
+"Oct 3, 2015",UFC 192 - Cormier vs. Gustafsson,160lb Catchweight,Sage Northcutt,NA,NA,Francisco Trevino,NA,NA,TKO (Elbows and Punches),1,0:57
+"Oct 3, 2015",UFC 192 - Cormier vs. Gustafsson,Flyweight,Sergio Pettis,NA,NA,Chris Cariaso,NA,NA,Decision (Unanimous),3,5:00
+"Oct 3, 2015",UFC 192 - Cormier vs. Gustafsson,Heavyweight,Derrick Lewis,NA,NA,Viktor Pesta,NA,NA,TKO (Punches),3,1:15
+"Sep 5, 2015",UFC 191 - Johnson vs. Dodson 2,Flyweight Title Fight,Demetrious Johnson,NA,NA,John Dodson,NA,NA,Decision (Unanimous),5,5:00
+"Sep 5, 2015",UFC 191 - Johnson vs. Dodson 2,Heavyweight,Andrei Arlovski,NA,NA,Frank Mir,NA,NA,Decision (Unanimous),3,5:00
+"Sep 5, 2015",UFC 191 - Johnson vs. Dodson 2,Light Heavyweight,Anthony Johnson,NA,NA,Jimi Manuwa,NA,NA,KO (Punches),2,0:28
+"Sep 5, 2015",UFC 191 - Johnson vs. Dodson 2,Light Heavyweight,Corey Anderson,NA,NA,Jan Blachowicz,NA,NA,Decision (Unanimous),3,5:00
+"Sep 5, 2015",UFC 191 - Johnson vs. Dodson 2,Strawweight,Paige VanZant,NA,NA,Alex Chambers,NA,NA,Submission (Armbar),3,1:01
+"Sep 5, 2015",UFC 191 - Johnson vs. Dodson 2,Lightweight,Ross Pearson,NA,NA,Paul Felder,NA,NA,Decision (Split),3,5:00
+"Sep 5, 2015",UFC 191 - Johnson vs. Dodson 2,Bantamweight,John Lineker,NA,NA,Francisco Rivera,NA,NA,Submission (Guillotine Choke),1,2:08
+"Sep 5, 2015",UFC 191 - Johnson vs. Dodson 2,Bantamweight,Raquel Pennington,NA,NA,Jessica Andrade,NA,NA,Submission (Rear-Naked Choke),2,4:58
+"Sep 5, 2015",UFC 191 - Johnson vs. Dodson 2,Featherweight,Tiago dos Santos e Silva,NA,NA,Clay Collard,NA,NA,Decision (Split),3,5:00
+"Sep 5, 2015",UFC 191 - Johnson vs. Dodson 2,Middleweight,Joe Riggs,NA,NA,Ron Stallings,NA,NA,Disqualification (Illegal Upkick) ,2,2:28
+"Sep 5, 2015",UFC 191 - Johnson vs. Dodson 2,Lightweight,Joaquim Silva,NA,NA,Nazareno Malegarie,NA,NA,Decision (Split),3,5:00
+"Oct 24, 2015",UFC Fight Night 76 - Holohan vs. Smolka,Flyweight,Louis Smolka,NA,NA,Patrick Holohan,NA,NA,Submission (Rear-Naked Choke),2,4:09
+"Oct 24, 2015",UFC Fight Night 76 - Holohan vs. Smolka,Lightweight,Norman Parke,NA,NA,Reza Madadi,NA,NA,Decision (Unanimous),3,5:00
+"Oct 24, 2015",UFC Fight Night 76 - Holohan vs. Smolka,Welterweight,Darren Till,NA,NA,Nicolas Dalby,NA,NA,Draw (Majority),3,5:00
+"Oct 24, 2015",UFC Fight Night 76 - Holohan vs. Smolka,Flyweight,Neil Seery,NA,NA,Jon delos Reyes,NA,NA,Submission (Guillotine Choke),2,4:12
+"Oct 24, 2015",UFC Fight Night 76 - Holohan vs. Smolka,Lightweight,Steven Ray,NA,NA,Mickael Lebout,NA,NA,Decision (Unanimous),3,5:00
+"Oct 24, 2015",UFC Fight Night 76 - Holohan vs. Smolka,Strawweight,Aisling Daly,NA,NA,Ericka Almeida,NA,NA,Decision (Unanimous),3,5:00
+"Oct 24, 2015",UFC Fight Night 76 - Holohan vs. Smolka,Middleweight,Krzysztof Jotko,NA,NA,Scott Askham,NA,NA,Decision (Split),3,5:00
+"Oct 24, 2015",UFC Fight Night 76 - Holohan vs. Smolka,Welterweight,Tom Breese,NA,NA,Cathal Pendred,NA,NA,TKO (Body Kick and Punches),1,4:37
+"Oct 24, 2015",UFC Fight Night 76 - Holohan vs. Smolka,Featherweight,Darren Elkins,NA,NA,Robert Whiteford,NA,NA,Decision (Unanimous),3,5:00
+"Oct 24, 2015",UFC Fight Night 76 - Holohan vs. Smolka,Middleweight,Garreth McLellan,NA,NA,Bubba Bush,NA,NA,KO (Punches),3,4:58
+"Sep 26, 2015",UFC Fight Night 75 - Barnett vs. Nelson,Heavyweight,Josh Barnett,NA,NA,Roy Nelson,NA,NA,Decision (Unanimous),5,5:00
+"Sep 26, 2015",UFC Fight Night 75 - Barnett vs. Nelson,Middleweight,Uriah Hall,NA,NA,Gegard Mousasi,NA,NA,TKO (Flying Knee and Punches),2,0:25
+"Sep 26, 2015",UFC Fight Night 75 - Barnett vs. Nelson,Flyweight,Kyoji Horiguchi,NA,NA,Chico Camus,NA,NA,Decision (Unanimous),3,5:00
+"Sep 26, 2015",UFC Fight Night 75 - Barnett vs. Nelson,Bantamweight,Takeya Mizugaki,NA,NA,George Roop,NA,NA,Decision (Unanimous),3,5:00
+"Sep 26, 2015",UFC Fight Night 75 - Barnett vs. Nelson,Featherweight,Diego Brandao,NA,NA,Katsunori Kikuno,NA,NA,TKO (Punches),1,0:28
+"Sep 26, 2015",UFC Fight Night 75 - Barnett vs. Nelson,Featherweight,Mizuto Hirota,NA,NA,Teruto Ishihara,NA,NA,Draw (Split),3,5:00
+"Sep 26, 2015",UFC Fight Night 75 - Barnett vs. Nelson,Welterweight,Keita Nakamura,NA,NA,Jingliang Li,NA,NA,Technical Submission (Rear-Naked Choke),3,2:17
+"Sep 26, 2015",UFC Fight Night 75 - Barnett vs. Nelson,Lightweight,Nick Hein,NA,NA,Yusuke Kasuya,NA,NA,Decision (Unanimous),3,5:00
+"Sep 26, 2015",UFC Fight Night 75 - Barnett vs. Nelson,Lightweight,Kajan Johnson,NA,NA,Naoyuki Kotani,NA,NA,Decision (Unanimous),3,5:00
+"Sep 26, 2015",UFC Fight Night 75 - Barnett vs. Nelson,Welterweight,Shinsho Anzai,NA,NA,Roger Zapata,NA,NA,TKO (Hand Injury),3,0:47
+"Aug 23, 2015",UFC Fight Night 74 - Holloway vs. Oliveira,Featherweight,Max Holloway,NA,NA,Charles Oliveira,NA,NA,TKO (Esophagus Injury),1,1:39
+"Aug 23, 2015",UFC Fight Night 74 - Holloway vs. Oliveira,Welterweight,Neil Magny,NA,NA,Erick Silva,NA,NA,Decision (Split),3,5:00
+"Aug 23, 2015",UFC Fight Night 74 - Holloway vs. Oliveira,Welterweight,Patrick Cote,NA,NA,Joshua Burkman,,,TKO (Punches),3,1:26
+"Aug 23, 2015",UFC Fight Night 74 - Holloway vs. Oliveira,Lightweight,Francisco Trinaldo,NA,NA,Chad Laprise,NA,NA,TKO (Punches),1,2:43
+"Aug 23, 2015",UFC Fight Night 74 - Holloway vs. Oliveira,Lightweight,Olivier Aubin-Mercier,NA,NA,Tony Sims,NA,NA,Decision (Unanimous),3,5:00
+"Aug 23, 2015",UFC Fight Night 74 - Holloway vs. Oliveira,Strawweight,Valerie Letourneau,NA,NA,Maryna Moroz,NA,NA,Decision (Unanimous),3,5:00
+"Aug 23, 2015",UFC Fight Night 74 - Holloway vs. Oliveira,Lightweight,Frankie Perez,NA,NA,Sam Stout,NA,NA,TKO (Punches),1,0:54
+"Aug 23, 2015",UFC Fight Night 74 - Holloway vs. Oliveira,Bantamweight,Felipe Arantes,NA,NA,Yves Jabouin,NA,NA,Submission (Armbar),1,4:21
+"Aug 23, 2015",UFC Fight Night 74 - Holloway vs. Oliveira,Light Heavyweight,Nikita Krylov,NA,NA,Marcos Rogerio de Lima,NA,NA,Submission (Rear-Naked Choke),1,2:29
+"Aug 23, 2015",UFC Fight Night 74 - Holloway vs. Oliveira,Flyweight,Chris Kelades,NA,NA,Christopher Mario Beal,,,Decision (Split),3,5:00
+"Aug 23, 2015",UFC Fight Night 74 - Holloway vs. Oliveira,Lightweight,Shane Campbell,NA,NA,Elias Silverio,NA,NA,Decision (Unanimous),3,5:00
+"Aug 23, 2015",UFC Fight Night 74 - Holloway vs. Oliveira,Light Heavyweight,Misha Cirkunov,NA,NA,Daniel Jolly,NA,NA,KO (Punches),1,4:45
+"Aug 8, 2015",UFC Fight Night 73 - Teixeira vs. St. Preux,Light Heavyweight,Glover Teixeira,NA,NA,Ovince St. Preux,NA,NA,Technical Submission (Rear-Naked Choke),3,3:10
+"Aug 8, 2015",UFC Fight Night 73 - Teixeira vs. St. Preux,Lightweight,Beneil Dariush,NA,NA,Michael Johnson,NA,NA,Decision (Split),3,5:00
+"Aug 8, 2015",UFC Fight Night 73 - Teixeira vs. St. Preux,Middleweight,Derek Brunson,NA,NA,Sam Alvey,NA,NA,TKO (Punches),1,2:19
+"Aug 8, 2015",UFC Fight Night 73 - Teixeira vs. St. Preux,Heavyweight,Jared Rosholt,NA,NA,Tim Johnson,,,Decision (Unanimous),3,5:00
+"Aug 8, 2015",UFC Fight Night 73 - Teixeira vs. St. Preux,Bantamweight,Amanda Nunes,NA,NA,Sara McMann,NA,NA,Submission (Rear-Naked Choke),1,2:53
+"Aug 8, 2015",UFC Fight Night 73 - Teixeira vs. St. Preux,127lb Catchweight,Ray Borg,NA,NA,Geane Herrera,NA,NA,Decision (Unanimous),3,5:00
+"Aug 8, 2015",UFC Fight Night 73 - Teixeira vs. St. Preux,Middleweight,Uriah Hall,NA,NA,Oluwale Bamgbose,NA,NA,TKO (Punches),1,2:32
+"Aug 8, 2015",UFC Fight Night 73 - Teixeira vs. St. Preux,Middleweight,Chris Camozzi,NA,NA,Tom Watson,NA,NA,Decision (Unanimous),3,5:00
+"Aug 8, 2015",UFC Fight Night 73 - Teixeira vs. St. Preux,Flyweight,Dustin Ortiz,NA,NA,Willie Gates,NA,NA,TKO (Punches),3,2:58
+"Aug 8, 2015",UFC Fight Night 73 - Teixeira vs. St. Preux,Bantamweight,Frankie Saenz,NA,NA,Sirwan Kakai,NA,NA,Decision (Split),3,5:00
+"Aug 8, 2015",UFC Fight Night 73 - Teixeira vs. St. Preux,Light Heavyweight,Jonathan Wilson,NA,NA,Chris Dempsey,NA,NA,KO (Punches),1,0:50
+"Aug 8, 2015",UFC Fight Night 73 - Teixeira vs. St. Preux,Bantamweight,Marlon Vera,NA,NA,Roman Salazar,NA,NA,Submission (Triangle Armbar),2,2:15
+"Aug 8, 2015",UFC Fight Night 73 - Teixeira vs. St. Preux,Lightweight,Scott Holtzman,NA,NA,Anthony Christodoulou,NA,NA,Submission (Rear-Naked Choke),3,2:40
+"Aug 1, 2015",UFC 190 - Rousey vs. Correia,Bantamweight Title Fight,Ronda Rousey,NA,NA,Bethe Correia,NA,NA,KO (Punch),1,0:34
+"Aug 1, 2015",UFC 190 - Rousey vs. Correia,Light Heavyweight,Mauricio Rua,NA,NA,Antonio Rogerio Nogueira,NA,NA,Decision (Unanimous),3,5:00
+"Aug 1, 2015",UFC 190 - Rousey vs. Correia,Lightweight,Glaico Franca,NA,NA,Fernando Bruno,NA,NA,Submission (Rear-Naked Choke),3,4:46
+"Aug 1, 2015",UFC 190 - Rousey vs. Correia,Bantamweight,Reginaldo Vieira,NA,NA,Dileno Lopes,NA,NA,Decision (Unanimous),3,5:00
+"Aug 1, 2015",UFC 190 - Rousey vs. Correia,Heavyweight,Stefan Struve,NA,NA,Antonio Rodrigo Nogueira,NA,NA,Decision (Unanimous),3,5:00
+"Aug 1, 2015",UFC 190 - Rousey vs. Correia,Heavyweight,Antonio Silva,NA,NA,Soa Palelei,NA,NA,TKO (Punches),2,0:41
+"Aug 1, 2015",UFC 190 - Rousey vs. Correia,Strawweight,Claudia Gadelha,NA,NA,Jessica Aguilar,NA,NA,Decision (Unanimous),3,5:00
+"Aug 1, 2015",UFC 190 - Rousey vs. Correia,Welterweight,Demian Maia,NA,NA,Neil Magny,NA,NA,Submission (Rear-Naked Choke),2,2:52
+"Aug 1, 2015",UFC 190 - Rousey vs. Correia,Light Heavyweight,Patrick Cummins,NA,NA,Rafael Cavalcante,NA,NA,TKO (Elbows),3,0:45
+"Aug 1, 2015",UFC 190 - Rousey vs. Correia,Welterweight,Warlley Alves,NA,NA,Nordine Taleb,NA,NA,Submission (Guillotine Choke),2,4:11
+"Aug 1, 2015",UFC 190 - Rousey vs. Correia,Bantamweight,Iuri Alcantara,NA,NA,Leandro Issa,NA,NA,Decision (Unanimous),3,5:00
+"Aug 1, 2015",UFC 190 - Rousey vs. Correia,Middleweight,Vitor Miranda,NA,NA,Clint Hester,NA,NA,TKO (Punches and Elbows),2,2:38
+"Aug 1, 2015",UFC 190 - Rousey vs. Correia,Bantamweight,Guido Cannetti,NA,NA,Hugo Viana,NA,NA,Decision (Unanimous),3,5:00
+"Jul 25, 2015",UFC on Fox 16 - Dillashaw vs. Barao 2,Bantamweight Title Fight,T.J. Dillashaw,NA,NA,Renan Barao,NA,NA,TKO (Punches),4,0:35
+"Jul 25, 2015",UFC on Fox 16 - Dillashaw vs. Barao 2,Bantamweight,Miesha Tate,NA,NA,Jessica Eye,NA,NA,Decision (Unanimous),3,5:00
+"Jul 25, 2015",UFC on Fox 16 - Dillashaw vs. Barao 2,Lightweight,Edson Barboza,NA,NA,Paul Felder,NA,NA,Decision (Unanimous),3,5:00
+"Jul 25, 2015",UFC on Fox 16 - Dillashaw vs. Barao 2,Lightweight,Joe Lauzon,NA,NA,Takanori Gomi,NA,NA,TKO (Punches),1,2:37
+"Jul 25, 2015",UFC on Fox 16 - Dillashaw vs. Barao 2,Light Heavyweight,Tom Lawlor,NA,NA,Gian Villante,NA,NA,TKO (Punch),2,0:27
+"Jul 25, 2015",UFC on Fox 16 - Dillashaw vs. Barao 2,Lightweight,Jim Miller,NA,NA,Danny Castillo,NA,NA,Decision (Split),3,5:00
+"Jul 25, 2015",UFC on Fox 16 - Dillashaw vs. Barao 2,Welterweight,Ben Saunders,NA,NA,Kenny Robertson,NA,NA,Decision (Split),3,5:00
+"Jul 25, 2015",UFC on Fox 16 - Dillashaw vs. Barao 2,Bantamweight,Bryan Caraway,NA,NA,Eddie Wineland,NA,NA,Decision (Unanimous),3,5:00
+"Jul 25, 2015",UFC on Fox 16 - Dillashaw vs. Barao 2,Lightweight,James Krause,NA,NA,Daron Cruickshank,NA,NA,Submission (Rear-Naked Choke),1,1:27
+"Jul 25, 2015",UFC on Fox 16 - Dillashaw vs. Barao 2,Lightweight,Andrew Holbrook,NA,NA,Ramsey Nijem,NA,NA,Decision (Split),3,5:00
+"Jul 25, 2015",UFC on Fox 16 - Dillashaw vs. Barao 2,Bantamweight,Elizabeth Phillips,NA,NA,Jessamyn Duke,NA,NA,Decision (Unanimous),3,5:00
+"Jul 25, 2015",UFC on Fox 16 - Dillashaw vs. Barao 2,Welterweight,Zak Cummings,NA,NA,Dominique Steele,NA,NA,TKO (Punches),1,0:43
+"Jul 18, 2015",UFC Fight Night 72 - Bisping vs. Leites,Middleweight,Michael Bisping,NA,NA,Thales Leites,NA,NA,Decision (Split),5,5:00
+"Jul 18, 2015",UFC Fight Night 72 - Bisping vs. Leites,Lightweight,Evan Dunham,NA,NA,Ross Pearson,NA,NA,Decision (Unanimous),3,5:00
+"Jul 18, 2015",UFC Fight Night 72 - Bisping vs. Leites,Lightweight,Joseph Duffy,NA,NA,Ivan Jorge,NA,NA,Submission (Triangle Choke),1,3:05
+"Jul 18, 2015",UFC Fight Night 72 - Bisping vs. Leites,Strawweight,Joanne Wood,,,Cortney Casey,NA,NA,Decision (Unanimous),3,5:00
+"Jul 18, 2015",UFC Fight Night 72 - Bisping vs. Leites,Welterweight,Leon Edwards,NA,NA,Pawel Pawlak,NA,NA,Decision (Unanimous),3,5:00
+"Jul 18, 2015",UFC Fight Night 72 - Bisping vs. Leites,Lightweight,Steven Ray,NA,NA,Leonardo Mafra Teixeira,,,TKO (Punches),1,2:30
+"Jul 18, 2015",UFC Fight Night 72 - Bisping vs. Leites,Flyweight,Patrick Holohan,NA,NA,Vaughan Lee,NA,NA,Decision (Unanimous),3,5:00
+"Jul 18, 2015",UFC Fight Night 72 - Bisping vs. Leites,Light Heavyweight,Ilir Latifi,NA,NA,Hans Stringer,NA,NA,KO (Punches),1,0:56
+"Jul 18, 2015",UFC Fight Night 72 - Bisping vs. Leites,Lightweight,Mickael Lebout,NA,NA,Teemu Packalen,NA,NA,Decision (Unanimous),3,5:00
+"Jul 18, 2015",UFC Fight Night 72 - Bisping vs. Leites,Featherweight,Robert Whiteford,NA,NA,Paul Redmond,NA,NA,KO (Punches),1,3:04
+"Jul 18, 2015",UFC Fight Night 72 - Bisping vs. Leites,Bantamweight,Jimmie Rivera,NA,NA,Marcus Brimage,NA,NA,KO (Punches),1,1:29
+"Jul 18, 2015",UFC Fight Night 72 - Bisping vs. Leites,Heavyweight,Daniel Omielanczuk,NA,NA,Chris de la Rocha,NA,NA,TKO (Punches),1,0:48
+"Jul 12, 2015",UFC - The Ultimate Fighter 21 Finale,Welterweight,Stephen Thompson,NA,NA,Jake Ellenberger,NA,NA,KO (Spinning Wheel Kick),1,4:29
+"Jul 12, 2015",UFC - The Ultimate Fighter 21 Finale,Welterweight,Kamaru Usman,NA,NA,Hayder Hassan,NA,NA,Submission (Arm-Triangle Choke),2,1:19
+"Jul 12, 2015",UFC - The Ultimate Fighter 21 Finale,Welterweight,Michael Graves,NA,NA,Vicente Luque,NA,NA,Decision (Unanimous),3,5:00
+"Jul 12, 2015",UFC - The Ultimate Fighter 21 Finale,Welterweight,Jorge Masvidal,NA,NA,Cezar Ferreira,NA,NA,KO (Elbows and Punches),1,4:22
+"Jul 12, 2015",UFC - The Ultimate Fighter 21 Finale,Strawweight,Michelle Waterson-Gomez,NA,NA,Angela Magana,NA,NA,Submission (Rear-Naked Choke),3,2:38
+"Jul 12, 2015",UFC - The Ultimate Fighter 21 Finale,149lb Catchweight,Maximo Blanco,NA,NA,Mike de la Torre,NA,NA,TKO (Punches),1,0:16
+"Jul 12, 2015",UFC - The Ultimate Fighter 21 Finale,Middleweight,Josh Samman,NA,NA,Caio Magalhaes,NA,NA,Submission (Rear-Naked Choke),1,2:52
+"Jul 12, 2015",UFC - The Ultimate Fighter 21 Finale,Bantamweight,Jerrod Sanders,NA,NA,Russell Doane,NA,NA,Decision (Unanimous),3,5:00
+"Jul 12, 2015",UFC - The Ultimate Fighter 21 Finale,Middleweight,Trevor Smith,NA,NA,Dan Miller,NA,NA,Decision (Unanimous),3,5:00
+"Jul 12, 2015",UFC - The Ultimate Fighter 21 Finale,Welterweight,George Sullivan,NA,NA,Dominic Waters,NA,NA,Decision (Unanimous),3,5:00
+"Jul 12, 2015",UFC - The Ultimate Fighter 21 Finale,Flyweight,Willie Gates,NA,NA,Darrell Montague,NA,NA,TKO (Punches and Elbows),1,1:36
+"Jul 15, 2015",UFC Fight Night 71 - Mir vs. Duffee,Heavyweight,Frank Mir,NA,NA,Todd Duffee,NA,NA,KO (Punch),1,1:13
+"Jul 15, 2015",UFC Fight Night 71 - Mir vs. Duffee,Lightweight,Tony Ferguson,NA,NA,Josh Thomson,NA,NA,Decision (Unanimous),3,5:00
+"Jul 15, 2015",UFC Fight Night 71 - Mir vs. Duffee,Bantamweight,Holly Holm,NA,NA,Marion Reneau,NA,NA,Decision (Unanimous),3,5:00
+"Jul 15, 2015",UFC Fight Night 71 - Mir vs. Duffee,Bantamweight,Manny Gamburyan,NA,NA,Scott Jorgensen,NA,NA,Decision (Unanimous),3,5:00
+"Jul 15, 2015",UFC Fight Night 71 - Mir vs. Duffee,Lightweight,Kevin Lee,NA,NA,James Moontasri,NA,NA,Submission (Rear-Naked Choke),1,2:56
+"Jul 15, 2015",UFC Fight Night 71 - Mir vs. Duffee,Welterweight,Alan Jouban,NA,NA,Matt Dwyer,NA,NA,Decision (Unanimous),3,5:00
+"Jul 15, 2015",UFC Fight Night 71 - Mir vs. Duffee,Featherweight,Sam Sicilia,NA,NA,Yaotzin Meza,NA,NA,Decision (Unanimous),3,5:00
+"Jul 15, 2015",UFC Fight Night 71 - Mir vs. Duffee,Bantamweight,Jessica Andrade,NA,NA,Sarah Moras,NA,NA,Decision (Unanimous),3,5:00
+"Jul 15, 2015",UFC Fight Night 71 - Mir vs. Duffee,Bantamweight,Rani Yahya,NA,NA,Masanori Kanehara,NA,NA,Decision (Split),3,5:00
+"Jul 15, 2015",UFC Fight Night 71 - Mir vs. Duffee,Welterweight,Sean Strickland,NA,NA,Igor Araujo,NA,NA,Decision (Unanimous),3,5:00
+"Jul 15, 2015",UFC Fight Night 71 - Mir vs. Duffee,Middleweight,Kevin Casey,NA,NA,Ildemar Alcantara,NA,NA,Decision (Unanimous),3,5:00
+"Jul 15, 2015",UFC Fight Night 71 - Mir vs. Duffee,Welterweight,Lyman Good,NA,NA,Andrew Craig,NA,NA,KO (Punches),2,3:37
+"Jul 11, 2015",UFC 189 - Mendes vs. McGregor,Featherweight Title Fight,Conor McGregor,NA,NA,Chad Mendes,NA,NA,TKO (Punches),2,4:57
+"Jul 11, 2015",UFC 189 - Mendes vs. McGregor,Welterweight Title Fight,Robbie Lawler,NA,NA,Rory MacDonald,NA,NA,TKO (Punches),5,1:00
+"Jul 11, 2015",UFC 189 - Mendes vs. McGregor,150lb Catchweight,Jeremy Stephens,NA,NA,Dennis Bermudez,NA,NA,TKO (Knee and Punches),3,0:32
+"Jul 11, 2015",UFC 189 - Mendes vs. McGregor,Welterweight,Gunnar Nelson,NA,NA,Brandon Thatch,NA,NA,Submission (Rear-Naked Choke),1,2:54
+"Jul 11, 2015",UFC 189 - Mendes vs. McGregor,Welterweight,Thomas Almeida,NA,NA,Brad Pickett,NA,NA,KO (Knee),2,0:29
+"Jul 11, 2015",UFC 189 - Mendes vs. McGregor,Welterweight,Matt Brown,NA,NA,Tim Means,NA,NA,Submission (Guillotine Choke),1,4:44
+"Jul 11, 2015",UFC 189 - Mendes vs. McGregor,Welterweight,Alex Garcia,NA,NA,Mike Swick,NA,NA,Decision (Unanimous),3,5:00
+"Jul 11, 2015",UFC 189 - Mendes vs. McGregor,Welterweight,John Howard,NA,NA,Cathal Pendred,NA,NA,Decision (Split),3,5:00
+"Jul 11, 2015",UFC 189 - Mendes vs. McGregor,Bantamweight,Cody Garbrandt,NA,NA,Enrique Briones,NA,NA,Decision (Unanimous),3,5:00
+"Jul 11, 2015",UFC 189 - Mendes vs. McGregor,Flyweight,Louis Smolka,NA,NA,Neil Seery,NA,NA,Decision (Unanimous),3,5:00
+"Jul 11, 2015",UFC 189 - Mendes vs. McGregor,Lightweight,Cody Pfister,NA,NA,Yosdenis Cedeno,NA,NA,Decision (Unanimous),3,5:00
+"Jun 27, 2015",UFC Fight Night 70 - Machida vs. Romero,Middleweight,Yoel Romero,NA,NA,Lyoto Machida,NA,NA,KO (Elbows),3,1:38
+"Jun 27, 2015",UFC Fight Night 70 - Machida vs. Romero,Welterweight,Lorenz Larkin,NA,NA,Santiago Ponzinibbio,NA,NA,TKO (Punches),2,3:07
+"Jun 27, 2015",UFC Fight Night 70 - Machida vs. Romero,Middleweight,Antonio Carlos Jr.,NA,NA,Eddie Gordon,NA,NA,Submission (Rear-Naked Choke),3,4:37
+"Jun 27, 2015",UFC Fight Night 70 - Machida vs. Romero,Middleweight,Thiago Santos,NA,NA,Steve Bosse,NA,NA,KO (Head Kick),1,0:29
+"Jun 27, 2015",UFC Fight Night 70 - Machida vs. Romero,Featherweight,Hacran Dias,NA,NA,Levan Makashvili,NA,NA,Decision (Split),3,5:00
+"Jun 27, 2015",UFC Fight Night 70 - Machida vs. Romero,Welterweight,Alex Oliveira,NA,NA,Joe Merritt,NA,NA,Decision (Unanimous),3,5:00
+"Jun 27, 2015",UFC Fight Night 70 - Machida vs. Romero,Welterweight,Leandro Silva,NA,NA,Lewis Gonzalez,NA,NA,Decision (Unanimous),3,5:00
+"Jun 27, 2015",UFC Fight Night 70 - Machida vs. Romero,Welterweight,Tony Sims,NA,NA,Steve Montgomery,NA,NA,KO (Punches),1,2:43
+"Jun 27, 2015",UFC Fight Night 70 - Machida vs. Romero,Bantamweight,Sirwan Kakai,NA,NA,Danny Martinez,NA,NA,Decision (Unanimous),3,5:00
+"Jun 20, 2015",UFC Fight Night 69 - Jedrzejczyk vs. Penne,Strawweight Title Fight,Joanna Jedrzejczyk,NA,NA,Jessica Penne,NA,NA,TKO (Punches and Knee),3,4:22
+"Jun 20, 2015",UFC Fight Night 69 - Jedrzejczyk vs. Penne,Featherweight,Tatsuya Kawajiri,NA,NA,Dennis Siver,NA,NA,Decision (Unanimous),3,5:00
+"Jun 20, 2015",UFC Fight Night 69 - Jedrzejczyk vs. Penne,Welterweight,Peter Sobotta,NA,NA,Steve Kennedy,NA,NA,Submission (Rear-Naked Choke),1,2:57
+"Jun 20, 2015",UFC Fight Night 69 - Jedrzejczyk vs. Penne,Lightweight,Nick Hein,NA,NA,Lukasz Sajewski,NA,NA,Decision (Unanimous),3,5:00
+"Jun 20, 2015",UFC Fight Night 69 - Jedrzejczyk vs. Penne,Featherweight,Makwan Amirkhani,NA,NA,Masio Fullen,NA,NA,Submission (Rear-Naked Choke),1,1:41
+"Jun 20, 2015",UFC Fight Night 69 - Jedrzejczyk vs. Penne,Lightweight,Mairbek Taisumov,NA,NA,Alan Patrick,NA,NA,TKO (Head Kick and Punches),2,1:30
+"Jun 20, 2015",UFC Fight Night 69 - Jedrzejczyk vs. Penne,Featherweight,Arnold Allen,NA,NA,Alan Omer,NA,NA,Submission (Guillotine Choke),3,1:41
+"Jun 20, 2015",UFC Fight Night 69 - Jedrzejczyk vs. Penne,Featherweight,Noad Lahat,NA,NA,Niklas Backstrom,NA,NA,Decision (Majority),3,5:00
+"Jun 20, 2015",UFC Fight Night 69 - Jedrzejczyk vs. Penne,Middleweight,Scott Askham,NA,NA,Antonio dos Santos Jr.,NA,NA,KO (Knees),1,2:52
+"Jun 20, 2015",UFC Fight Night 69 - Jedrzejczyk vs. Penne,Lightweight,Magomed Mustafaev,NA,NA,Piotr Hallmann,NA,NA,TKO (Doctor Stoppage),2,3:24
+"Jun 20, 2015",UFC Fight Night 69 - Jedrzejczyk vs. Penne,Bantamweight,Taylor Lapilus,NA,NA,Yuta Sasaki,NA,NA,TKO (Punches),2,1:26
+"Jun 6, 2015",UFC Fight Night 68 - Boetsch vs. Henderson,Middleweight,Dan Henderson,NA,NA,Tim Boetsch,NA,NA,KO (Punches),1,0:28
+"Jun 6, 2015",UFC Fight Night 68 - Boetsch vs. Henderson,Heavyweight,Ben Rothwell,NA,NA,Matt Mitrione,NA,NA,Submission (Guillotine Choke),1,1:54
+"Jun 6, 2015",UFC Fight Night 68 - Boetsch vs. Henderson,160lb Catchweight,Dustin Poirier,NA,NA,Yancy Medeiros,NA,NA,TKO (Punches),1,2:38
+"Jun 6, 2015",UFC Fight Night 68 - Boetsch vs. Henderson,Featherweight,Brian Ortega,NA,NA,Thiago Tavares,NA,NA,TKO (Punches),3,4:10
+"Jun 6, 2015",UFC Fight Night 68 - Boetsch vs. Henderson,Bantamweight,Anthony Birchak,NA,NA,Joe Soto,NA,NA,KO (Punches),1,1:37
+"Jun 6, 2015",UFC Fight Night 68 - Boetsch vs. Henderson,Bantamweight,Francisco Rivera,NA,NA,Alex Caceres,NA,NA,KO (Punches),1,0:21
+"Jun 6, 2015",UFC Fight Night 68 - Boetsch vs. Henderson,Heavyweight,Shawn Jordan,NA,NA,Derrick Lewis,NA,NA,TKO (Hook Kick and Punches),2,0:48
+"Jun 6, 2015",UFC Fight Night 68 - Boetsch vs. Henderson,Welterweight,Omari Akhmedov,NA,NA,Brian Ebersole,NA,NA,TKO (Knee Injury),1,5:00
+"Jun 6, 2015",UFC Fight Night 68 - Boetsch vs. Henderson,Lightweight,Chris Wade,NA,NA,Christos Giagos,NA,NA,Decision (Unanimous),3,5:00
+"Jun 6, 2015",UFC Fight Night 68 - Boetsch vs. Henderson,Lightweight,Joe Proctor,NA,NA,Justin Edwards,NA,NA,Technical Submission (Guillotine Choke),3,4:58
+"Jun 6, 2015",UFC Fight Night 68 - Boetsch vs. Henderson,Middleweight,Jake Collier,NA,NA,Ricardo Abreu,NA,NA,Decision (Split),3,5:00
+"Jun 6, 2015",UFC Fight Night 68 - Boetsch vs. Henderson,137lb Catchweight,Jose Quinonez,,,Leonardo Morales,NA,NA,Submission (Rear-Naked Choke),1,2:34
+"Jun 13, 2015",UFC 188 - Velasquez vs. Werdum,Heavyweight Title Fight,Fabricio Werdum,NA,NA,Cain Velasquez,NA,NA,Submission (Guillotine Choke),3,2:13
+"Jun 13, 2015",UFC 188 - Velasquez vs. Werdum,Lightweight,Eddie Alvarez,NA,NA,Gilbert Melendez,NA,NA,Decision (Split),3,5:00
+"Jun 13, 2015",UFC 188 - Velasquez vs. Werdum,Middleweight,Kelvin Gastelum,NA,NA,Nate Marquardt,NA,NA,TKO (Corner Stoppage),2,5:00
+"Jun 13, 2015",UFC 188 - Velasquez vs. Werdum,Featherweight,Yair Rodriguez,NA,NA,Charles Rosa,NA,NA,Decision (Split),3,5:00
+"Jun 13, 2015",UFC 188 - Velasquez vs. Werdum,Strawweight,Tecia Pennington,,,Angela Hill,NA,NA,Decision (Unanimous),3,5:00
+"Jun 13, 2015",UFC 188 - Velasquez vs. Werdum,Flyweight,Henry Cejudo,NA,NA,Chico Camus,NA,NA,Decision (Unanimous),3,5:00
+"Jun 13, 2015",UFC 188 - Velasquez vs. Werdum,Lightweight,Efrain Escudero,NA,NA,Drew Dober,NA,NA,Submission (Guillotine Choke),1,0:54
+"Jun 13, 2015",UFC 188 - Velasquez vs. Werdum,Bantamweight,Patrick Williams,NA,NA,Alejandro Perez,NA,NA,Technical Submission (Guillotine Choke),1,0:23
+"Jun 13, 2015",UFC 188 - Velasquez vs. Werdum,Lightweight,Johnny Case,NA,NA,Francisco Trevino,NA,NA,Decision (Unanimous),3,5:00
+"Jun 13, 2015",UFC 188 - Velasquez vs. Werdum,Welterweight,Cathal Pendred,NA,NA,Augusto Montano,NA,NA,Decision (Unanimous),3,5:00
+"Jun 13, 2015",UFC 188 - Velasquez vs. Werdum,Featherweight,Gabriel Benitez,NA,NA,Clay Collard,NA,NA,Decision (Unanimous),3,5:00
+"May 30, 2015",UFC Fight Night 67 - Condit vs. Alves,Welterweight,Carlos Condit,NA,NA,Thiago Alves,NA,NA,TKO (Doctor Stoppage),2,5:00
+"May 30, 2015",UFC Fight Night 67 - Condit vs. Alves,Featherweight,Charles Oliveira,NA,NA,Nik Lentz,NA,NA,Submission (Guillotine Choke),3,1:10
+"May 30, 2015",UFC Fight Night 67 - Condit vs. Alves,Lightweight,Alex Oliveira,NA,NA,K.J. Noons,NA,NA,Submission (Rear-Naked Choke),1,2:51
+"May 30, 2015",UFC Fight Night 67 - Condit vs. Alves,Light Heavyweight,Francimar Barroso,NA,NA,Ryan Jimmo,NA,NA,Decision (Unanimous),3,5:00
+"May 30, 2015",UFC Fight Night 67 - Condit vs. Alves,Lightweight,Francisco Trinaldo,NA,NA,Norman Parke,NA,NA,Decision (Split),3,5:00
+"May 30, 2015",UFC Fight Night 67 - Condit vs. Alves,Welterweight,Darren Till,NA,NA,Wendell de Oliveira Marques,NA,NA,KO (Elbows),2,1:37
+"May 30, 2015",UFC Fight Night 67 - Condit vs. Alves,Featherweight,Rony Mariano Bezerra,NA,NA,Damon Jackson,NA,NA,No Contest (Overturned by CABMMA),1,3:31
+"May 30, 2015",UFC Fight Night 67 - Condit vs. Alves,Flyweight,Jussier Formiga,,,Wilson Reis,NA,NA,Decision (Unanimous),3,5:00
+"May 30, 2015",UFC Fight Night 67 - Condit vs. Alves,Welterweight,Nicolas Dalby,NA,NA,Elizeu Zaleski dos Santos,NA,NA,Decision (Split),3,5:00
+"May 30, 2015",UFC Fight Night 67 - Condit vs. Alves,Featherweight,Mirsad Bektic,NA,NA,Lucas Martins,NA,NA,TKO (Punches),2,0:30
+"May 30, 2015",UFC Fight Night 67 - Condit vs. Alves,Strawweight,Juliana Lima,,,Ericka Almeida,NA,NA,Decision (Unanimous),3,5:00
+"May 30, 2015",UFC Fight Night 67 - Condit vs. Alves,Welterweight,Tom Breese,NA,NA,Luiz Jorge Dutra Jr.,NA,NA,TKO (Punches),1,4:58
+"May 16, 2015",UFC Fight Night 66 - Edgar vs. Faber,Featherweight,Frankie Edgar,NA,NA,Urijah Faber,NA,NA,Decision (Unanimous),5,5:00
+"May 16, 2015",UFC Fight Night 66 - Edgar vs. Faber,Middleweight,Gegard Mousasi,NA,NA,Costas Philippou,NA,NA,Decision (Unanimous),3,5:00
+"May 16, 2015",UFC Fight Night 66 - Edgar vs. Faber,Middleweight,Mark Munoz,NA,NA,Luke Barnatt,NA,NA,Decision (Unanimous),3,5:00
+"May 16, 2015",UFC Fight Night 66 - Edgar vs. Faber,Welterweight,Neil Magny,NA,NA,Hyun Gyu Lim,NA,NA,TKO (Punches),2,1:24
+"May 16, 2015",UFC Fight Night 66 - Edgar vs. Faber,Featherweight,Phillipe Nover,NA,NA,Yui Chul Nam,NA,NA,Decision (Split),3,5:00
+"May 16, 2015",UFC Fight Night 66 - Edgar vs. Faber,Featherweight,Levan Makashvili,NA,NA,Mark Eddiva,NA,NA,Decision (Split),3,5:00
+"May 16, 2015",UFC Fight Night 66 - Edgar vs. Faber,Lightweight,Jon Tuck,NA,NA,Tae Hyun Bang,NA,NA,Submission (Rear-Naked Choke),1,3:56
+"May 16, 2015",UFC Fight Night 66 - Edgar vs. Faber,Lightweight,Kajan Johnson,NA,NA,Lipeng Zhang,NA,NA,Decision (Unanimous),3,5:00
+"May 16, 2015",UFC Fight Night 66 - Edgar vs. Faber,Welterweight,Jingliang Li,NA,NA,Dhiego Lima,NA,NA,KO (Punches),1,1:25
+"May 16, 2015",UFC Fight Night 66 - Edgar vs. Faber,137lb Catchweight,Guangyou Ning,NA,NA,Royston Wee,NA,NA,TKO (Punches and Elbows),2,4:59
+"May 16, 2015",UFC Fight Night 66 - Edgar vs. Faber,Flyweight,Jon delos Reyes,NA,NA,Roldan Sangcha-an,NA,NA,Submission (Rear-Naked Choke),2,3:13
+"May 16, 2015",UFC Fight Night 66 - Edgar vs. Faber,Flyweight,Zhikui Yao,NA,NA,Nolan Ticman,NA,NA,Decision (Split),3,5:00
+"May 23, 2015",UFC 187 - Johnson vs. Cormier,Light Heavyweight Title Fight,Daniel Cormier,NA,NA,Anthony Johnson,NA,NA,Submission (Rear-Naked Choke),3,2:39
+"May 23, 2015",UFC 187 - Johnson vs. Cormier,Middleweight Title Fight,Chris Weidman,NA,NA,Vitor Belfort,NA,NA,TKO (Punches),1,2:53
+"May 23, 2015",UFC 187 - Johnson vs. Cormier,Lightweight,Donald Cerrone,NA,NA,John Makdessi,NA,NA,TKO (Head Kick),2,4:44
+"May 23, 2015",UFC 187 - Johnson vs. Cormier,Heavyweight,Andrei Arlovski,NA,NA,Travis Browne,NA,NA,TKO (Punches),1,4:41
+"May 23, 2015",UFC 187 - Johnson vs. Cormier,Flyweight,Joseph Benavidez,NA,NA,John Moraga,NA,NA,Decision (Unanimous),3,5:00
+"May 23, 2015",UFC 187 - Johnson vs. Cormier,Flyweight,John Dodson,NA,NA,Zach Makovsky,NA,NA,Decision (Unanimous),3,5:00
+"May 23, 2015",UFC 187 - Johnson vs. Cormier,Welterweight,Dong Hyun Kim,NA,NA,Joshua Burkman,,,Submission (Arm-Triangle Choke),3,2:13
+"May 23, 2015",UFC 187 - Johnson vs. Cormier,Middleweight,Rafael Natal,NA,NA,Uriah Hall,NA,NA,Decision (Split),3,5:00
+"May 23, 2015",UFC 187 - Johnson vs. Cormier,Welterweight,Colby Covington,NA,NA,Mike Pyle,NA,NA,Decision (Unanimous),3,5:00
+"May 23, 2015",UFC 187 - Johnson vs. Cormier,Lightweight,Islam Makhachev,NA,NA,Leo Kuntz,NA,NA,Submission (Rear-Naked Choke),2,2:38
+"May 23, 2015",UFC 187 - Johnson vs. Cormier,Flyweight,Justin Scoggins,NA,NA,Josh Sampo,NA,NA,Decision (Unanimous),3,5:00
+"May 10, 2015",UFC Fight Night 65 - Miocic vs. Hunt,Heavyweight,Stipe Miocic,NA,NA,Mark Hunt,NA,NA,TKO (Punches),5,2:47
+"May 10, 2015",UFC Fight Night 65 - Miocic vs. Hunt,Middleweight,Robert Whittaker,NA,NA,Brad Tavares,NA,NA,KO (Punches),1,0:44
+"May 10, 2015",UFC Fight Night 65 - Miocic vs. Hunt,Light Heavyweight,Sean O'Connell,NA,NA,Anthony Perosh,NA,NA,TKO (Punches),1,0:56
+"May 10, 2015",UFC Fight Night 65 - Miocic vs. Hunt,Lightweight,James Vick,NA,NA,Jake Matthews,NA,NA,Submission (Guillotine Choke),1,4:53
+"May 10, 2015",UFC Fight Night 65 - Miocic vs. Hunt,Featherweight,Dan Hooker,,,Hatsu Hioki,NA,NA,KO (Head Kick and Punches),2,4:13
+"May 10, 2015",UFC Fight Night 65 - Miocic vs. Hunt,Welterweight,Kyle Noke,NA,NA,Jonavin Webb,NA,NA,Decision (Split),3,5:00
+"May 10, 2015",UFC Fight Night 65 - Miocic vs. Hunt,Middleweight,Sam Alvey,NA,NA,Daniel Kelly,NA,NA,TKO (Punches),1,0:49
+"May 10, 2015",UFC Fight Night 65 - Miocic vs. Hunt,Strawweight,Bec Rawlings,NA,NA,Lisa Ellis,NA,NA,Submission (Rear-Naked Choke),1,4:09
+"May 10, 2015",UFC Fight Night 65 - Miocic vs. Hunt,Middleweight,Bradley Scott,,,Dylan Andrews,NA,NA,Submission (Guillotine Choke),2,4:54
+"May 10, 2015",UFC Fight Night 65 - Miocic vs. Hunt,Strawweight,Alex Chambers,NA,NA,Kailin Curran,NA,NA,Submission (Armbar),3,3:15
+"May 10, 2015",UFC Fight Night 65 - Miocic vs. Hunt,Welterweight,Brendan O'Reilly,NA,NA,Vik Grujic,NA,NA,Decision (Unanimous),3,5:00
+"May 10, 2015",UFC Fight Night 65 - Miocic vs. Hunt,Flyweight,Ben Nguyen,NA,NA,Alptekin Ozkilic,NA,NA,KO (Punches),1,4:59
+"Apr 25, 2015",UFC 186 - Johnson vs. Horiguchi,Flyweight Title Fight,Demetrious Johnson,NA,NA,Kyoji Horiguchi,NA,NA,Submission (Armbar),5,4:59
+"Apr 25, 2015",UFC 186 - Johnson vs. Horiguchi,215lb Catchweight,Quinton Jackson,NA,NA,Fabio Maldonado,NA,NA,Decision (Unanimous),3,5:00
+"Apr 25, 2015",UFC 186 - Johnson vs. Horiguchi,Middleweight,Michael Bisping,NA,NA,C.B. Dollaway,NA,NA,Decision (Unanimous),3,5:00
+"Apr 25, 2015",UFC 186 - Johnson vs. Horiguchi,160lb Catchweight,John Makdessi,NA,NA,Shane Campbell,NA,NA,TKO (Punches),1,4:53
+"Apr 25, 2015",UFC 186 - Johnson vs. Horiguchi,Bantamweight,Thomas Almeida,NA,NA,Yves Jabouin,NA,NA,TKO (Punches),1,4:18
+"Apr 25, 2015",UFC 186 - Johnson vs. Horiguchi,Welterweight,Patrick Cote,NA,NA,Joe Riggs,NA,NA,Decision (Unanimous),3,5:00
+"Apr 25, 2015",UFC 186 - Johnson vs. Horiguchi,Bantamweight,Alexis Davis,NA,NA,Sarah Kaufman,NA,NA,Submission (Armbar),2,3:08
+"Apr 25, 2015",UFC 186 - Johnson vs. Horiguchi,Lightweight,Chad Laprise,NA,NA,Bryan Barberena,NA,NA,Decision (Unanimous),3,5:00
+"Apr 25, 2015",UFC 186 - Johnson vs. Horiguchi,Lightweight,Olivier Aubin-Mercier,NA,NA,David Michaud,NA,NA,Submission (Rear-Naked Choke),3,1:26
+"Apr 25, 2015",UFC 186 - Johnson vs. Horiguchi,Welterweight,Nordine Taleb,NA,NA,Chris Clements,NA,NA,Decision (Unanimous),3,5:00
+"Apr 25, 2015",UFC 186 - Johnson vs. Horiguchi,Strawweight,Valerie Letourneau,NA,NA,Jessica Rakoczy,NA,NA,Decision (Unanimous),3,5:00
+"Apr 25, 2015",UFC 186 - Johnson vs. Horiguchi,Strawweight,Randa Markos,NA,NA,Aisling Daly,NA,NA,Decision (Unanimous),3,5:00
+"Apr 18, 2015",UFC on Fox 15 - Machida vs. Rockhold,Middleweight,Luke Rockhold,NA,NA,Lyoto Machida,NA,NA,Submission (Rear-Naked Choke),2,2:31
+"Apr 18, 2015",UFC on Fox 15 - Machida vs. Rockhold,Middleweight,Ronaldo Souza,NA,NA,Chris Camozzi,NA,NA,Submission (Armbar),1,2:33
+"Apr 18, 2015",UFC on Fox 15 - Machida vs. Rockhold,Featherweight,Max Holloway,NA,NA,Cub Swanson,NA,NA,Submission (Guillotine Choke),3,3:58
+"Apr 18, 2015",UFC on Fox 15 - Machida vs. Rockhold,Strawweight,Paige VanZant,NA,NA,Felice Herrig,NA,NA,Decision (Unanimous),3,5:00
+"Apr 18, 2015",UFC on Fox 15 - Machida vs. Rockhold,Lightweight,Beneil Dariush,NA,NA,Jim Miller,NA,NA,Decision (Unanimous),3,5:00
+"Apr 18, 2015",UFC on Fox 15 - Machida vs. Rockhold,Light Heavyweight,Ovince St. Preux,NA,NA,Patrick Cummins,NA,NA,KO (Punches),1,4:54
+"Apr 18, 2015",UFC on Fox 15 - Machida vs. Rockhold,Light Heavyweight,Gian Villante,NA,NA,Corey Anderson,NA,NA,TKO (Punches),3,4:18
+"Apr 18, 2015",UFC on Fox 15 - Machida vs. Rockhold,Bantamweight,Aljamain Sterling,NA,NA,Takeya Mizugaki,NA,NA,Submission (Arm-Triangle Choke),3,2:11
+"Apr 18, 2015",UFC on Fox 15 - Machida vs. Rockhold,Welterweight,Tim Means,NA,NA,George Sullivan,NA,NA,Submission (Arm-Triangle Choke),3,3:41
+"Apr 18, 2015",UFC on Fox 15 - Machida vs. Rockhold,Bantamweight,Diego Brandao,NA,NA,Jim Hettes,NA,NA,TKO (Doctor Stoppage),1,5:00
+"Apr 18, 2015",UFC on Fox 15 - Machida vs. Rockhold,Middleweight,Chris Dempsey,NA,NA,Eddie Gordon,NA,NA,Decision (Split),3,5:00
+"Apr 11, 2015",UFC Fight Night 64 - Gonzaga vs. Cro Cop 2,Heavyweight,Mirko Filipovic,NA,NA,Gabriel Gonzaga,NA,NA,TKO (Elbows and Punches),3,3:30
+"Apr 11, 2015",UFC Fight Night 64 - Gonzaga vs. Cro Cop 2,Light Heavyweight,Jimi Manuwa,NA,NA,Jan Blachowicz,NA,NA,Decision (Unanimous),3,5:00
+"Apr 11, 2015",UFC Fight Night 64 - Gonzaga vs. Cro Cop 2,Welterweight,Pawel Pawlak,NA,NA,Sheldon Westcott,NA,NA,Decision (Unanimous),3,5:00
+"Apr 11, 2015",UFC Fight Night 64 - Gonzaga vs. Cro Cop 2,Strawweight,Maryna Moroz,NA,NA,Joanne Wood,,,Submission (Armbar),1,1:30
+"Apr 11, 2015",UFC Fight Night 64 - Gonzaga vs. Cro Cop 2,Welterweight,Leon Edwards,NA,NA,Seth Baczynski,NA,NA,KO (Punches),1,0:08
+"Apr 11, 2015",UFC Fight Night 64 - Gonzaga vs. Cro Cop 2,Middleweight,Bartosz Fabinski,NA,NA,Garreth McLellan,NA,NA,Decision (Unanimous),3,5:00
+"Apr 11, 2015",UFC Fight Night 64 - Gonzaga vs. Cro Cop 2,Welterweight,Sergio Moraes,NA,NA,Mickael Lebout,NA,NA,Decision (Unanimous),3,5:00
+"Apr 11, 2015",UFC Fight Night 64 - Gonzaga vs. Cro Cop 2,Featherweight,Yaotzin Meza,NA,NA,Damian Stasiak,NA,NA,Decision (Unanimous),3,5:00
+"Apr 11, 2015",UFC Fight Night 64 - Gonzaga vs. Cro Cop 2,Heavyweight,Anthony Hamilton,NA,NA,Daniel Omielanczuk,NA,NA,Decision (Unanimous),3,5:00
+"Apr 11, 2015",UFC Fight Night 64 - Gonzaga vs. Cro Cop 2,Strawweight,Aleksandra Albu,NA,NA,Izabela Badurek,NA,NA,Submission (Guillotine Choke),2,3:34
+"Apr 11, 2015",UFC Fight Night 64 - Gonzaga vs. Cro Cop 2,Lightweight,Steven Ray,NA,NA,Marcin Bandel,NA,NA,TKO (Punches),2,1:35
+"Apr 11, 2015",UFC Fight Night 64 - Gonzaga vs. Cro Cop 2,Featherweight,Taylor Lapilus,NA,NA,Rocky Lee,NA,NA,Decision (Unanimous),3,5:00
+"Apr 4, 2015",UFC Fight Night 63 - Mendes vs. Lamas,Featherweight,Chad Mendes,NA,NA,Ricardo Lamas,NA,NA,TKO (Punches),1,2:45
+"Apr 4, 2015",UFC Fight Night 63 - Mendes vs. Lamas,Lightweight,Al Iaquinta,NA,NA,Jorge Masvidal,NA,NA,Decision (Split),3,5:00
+"Apr 4, 2015",UFC Fight Night 63 - Mendes vs. Lamas,Lightweight,Michael Chiesa,NA,NA,Mitch Clarke,NA,NA,Decision (Unanimous),3,5:00
+"Apr 4, 2015",UFC Fight Night 63 - Mendes vs. Lamas,Bantamweight,Julianna Pena,NA,NA,Milana Dudieva,NA,NA,TKO (Punches and Elbows),1,3:59
+"Apr 4, 2015",UFC Fight Night 63 - Mendes vs. Lamas,Featherweight,Clay Guida,NA,NA,Robbie Peralta,NA,NA,Decision (Unanimous),3,5:00
+"Apr 4, 2015",UFC Fight Night 63 - Mendes vs. Lamas,Lightweight,Dustin Poirier,NA,NA,Diego Ferreira,NA,NA,KO (Punches),1,3:45
+"Apr 4, 2015",UFC Fight Night 63 - Mendes vs. Lamas,Bantamweight,Liz Carmouche,NA,NA,Lauren Murphy,NA,NA,Decision (Unanimous),3,5:00
+"Apr 4, 2015",UFC Fight Night 63 - Mendes vs. Lamas,Lightweight,Alexander Yakovlev,NA,NA,Gray Maynard,NA,NA,Decision (Unanimous),3,5:00
+"Apr 4, 2015",UFC Fight Night 63 - Mendes vs. Lamas,Heavyweight,Tim Johnson,,,Shamil Abdurakhimov,,,TKO (Punches),1,4:57
+"Apr 4, 2015",UFC Fight Night 63 - Mendes vs. Lamas,Middleweight,Ron Stallings,NA,NA,Justin Jones,NA,NA,Decision (Unanimous),3,5:00
+"Mar 21, 2015",UFC Fight Night 62 - Maia vs. LaFlare,Welterweight,Demian Maia,NA,NA,Ryan LaFlare,NA,NA,Decision (Unanimous),5,5:00
+"Mar 21, 2015",UFC Fight Night 62 - Maia vs. LaFlare,Welterweight,Erick Silva,NA,NA,Josh Koscheck,NA,NA,Submission (Guillotine Choke),1,4:21
+"Mar 21, 2015",UFC Fight Night 62 - Maia vs. LaFlare,Lightweight,Leonardo Santos,NA,NA,Anthony Rocco Martin,,,Submission (Rear-Naked Choke),2,2:29
+"Mar 21, 2015",UFC Fight Night 62 - Maia vs. LaFlare,Bantamweight,Amanda Nunes,NA,NA,Shayna Baszler,NA,NA,TKO (Leg Kick),1,1:56
+"Mar 21, 2015",UFC Fight Night 62 - Maia vs. LaFlare,Lightweight,Gilbert Burns,NA,NA,Alex Oliveira,NA,NA,Submission (Armbar),3,4:14
+"Mar 21, 2015",UFC Fight Night 62 - Maia vs. LaFlare,Featherweight,Godofredo Castro,NA,NA,Andre Fili,NA,NA,Submission (Triangle Choke),1,3:14
+"Mar 21, 2015",UFC Fight Night 62 - Maia vs. LaFlare,Lightweight,Francisco Trinaldo,NA,NA,Akbarh Arreola,NA,NA,Decision (Unanimous),3,5:00
+"Mar 21, 2015",UFC Fight Night 62 - Maia vs. LaFlare,Featherweight,Edimilson Souza,NA,NA,Katsunori Kikuno,NA,NA,KO (Punch),1,1:31
+"Mar 21, 2015",UFC Fight Night 62 - Maia vs. LaFlare,Lightweight,Leandro Silva,NA,NA,Drew Dober,NA,NA,No Contest (Overturned by CABMMA),2,2:45
+"Mar 21, 2015",UFC Fight Night 62 - Maia vs. LaFlare,Lightweight,Leonardo Mafra Teixeira,,,Cain Carrizosa,NA,NA,Decision (Unanimous),3,5:00
+"Mar 21, 2015",UFC Fight Night 62 - Maia vs. LaFlare,Lightweight,Christos Giagos,NA,NA,Jorge Antonio Cezario de Oliveira,NA,NA,Submission (Rear-Naked Choke),1,3:12
+"Mar 21, 2015",UFC Fight Night 62 - Maia vs. LaFlare,Flyweight,Fredy Serrano,,,Bentley Syler,NA,NA,KO (Punch),3,1:34
+"Mar 14, 2015",UFC 185 - Pettis vs. dos Anjos,Lightweight Title Fight,Rafael dos Anjos,NA,NA,Anthony Pettis,NA,NA,Decision (Unanimous),5,5:00
+"Mar 14, 2015",UFC 185 - Pettis vs. dos Anjos,Strawweight Title Fight,Joanna Jedrzejczyk,NA,NA,Carla Esparza,NA,NA,KO (Punches),2,4:17
+"Mar 14, 2015",UFC 185 - Pettis vs. dos Anjos,Welterweight,Johny Hendricks,NA,NA,Matt Brown,NA,NA,Decision (Unanimous),3,5:00
+"Mar 14, 2015",UFC 185 - Pettis vs. dos Anjos,Heavyweight,Alistair Overeem,NA,NA,Roy Nelson,NA,NA,Decision (Unanimous),3,5:00
+"Mar 14, 2015",UFC 185 - Pettis vs. dos Anjos,Flyweight,Henry Cejudo,NA,NA,Chris Cariaso,NA,NA,Decision (Unanimous),3,5:00
+"Mar 14, 2015",UFC 185 - Pettis vs. dos Anjos,Lightweight,Ross Pearson,NA,NA,Sam Stout,NA,NA,KO (Punch),2,1:33
+"Mar 14, 2015",UFC 185 - Pettis vs. dos Anjos,Middleweight,Elias Theodorou,NA,NA,Roger Narvaez,NA,NA,TKO (Punches),2,4:07
+"Mar 14, 2015",UFC 185 - Pettis vs. dos Anjos,157lb Catchweight,Beneil Dariush,NA,NA,Daron Cruickshank,NA,NA,Submission (Rear-Naked Choke),2,2:48
+"Mar 14, 2015",UFC 185 - Pettis vs. dos Anjos,Heavyweight,Jared Rosholt,NA,NA,Josh Copeland,NA,NA,TKO (Elbows and Punches),3,3:12
+"Mar 14, 2015",UFC 185 - Pettis vs. dos Anjos,Flyweight,Ryan Benoit,NA,NA,Sergio Pettis,NA,NA,TKO (Punches),2,1:34
+"Mar 14, 2015",UFC 185 - Pettis vs. dos Anjos,Lightweight,Joseph Duffy,NA,NA,Jake Lindsey,NA,NA,KO (Punch to the Body),1,1:47
+"Mar 14, 2015",UFC 185 - Pettis vs. dos Anjos,Bantamweight,Germaine de Randamie,NA,NA,Larissa Pacheco,NA,NA,TKO (Punches),2,2:02
+"Feb 22, 2015",UFC Fight Night 61 - Bigfoot vs. Mir,Heavyweight,Frank Mir,NA,NA,Antonio Silva,NA,NA,KO (Elbows),1,1:40
+"Feb 22, 2015",UFC Fight Night 61 - Bigfoot vs. Mir,Lightweight,Michael Johnson,NA,NA,Edson Barboza,NA,NA,Decision (Unanimous),3,5:00
+"Feb 22, 2015",UFC Fight Night 61 - Bigfoot vs. Mir,Middleweight,Sam Alvey,NA,NA,Cezar Ferreira,NA,NA,KO (Punches),1,3:34
+"Feb 22, 2015",UFC Fight Night 61 - Bigfoot vs. Mir,Lightweight,Adriano Martins,NA,NA,Rustam Khabilov,NA,NA,Decision (Split),3,5:00
+"Feb 22, 2015",UFC Fight Night 61 - Bigfoot vs. Mir,Bantamweight,Frankie Saenz,NA,NA,Iuri Alcantara,NA,NA,Decision (Unanimous),3,5:00
+"Feb 22, 2015",UFC Fight Night 61 - Bigfoot vs. Mir,Welterweight,Santiago Ponzinibbio,NA,NA,Sean Strickland,NA,NA,Decision (Unanimous),3,5:00
+"Feb 22, 2015",UFC Fight Night 61 - Bigfoot vs. Mir,Bantamweight,Marion Reneau,NA,NA,Jessica Andrade,NA,NA,Submission (Triangle Choke),1,1:54
+"Feb 22, 2015",UFC Fight Night 61 - Bigfoot vs. Mir,Welterweight,Matt Dwyer,NA,NA,William Macario,NA,NA,KO (Superman Punch),1,3:14
+"Feb 22, 2015",UFC Fight Night 61 - Bigfoot vs. Mir,Featherweight,Mike de la Torre,NA,NA,Tiago dos Santos e Silva,,,KO (Punches),1,2:59
+"Feb 22, 2015",UFC Fight Night 61 - Bigfoot vs. Mir,Bantamweight,Douglas Silva de Andrade,NA,NA,Cody Gibson,NA,NA,Decision (Unanimous),3,5:00
+"Feb 22, 2015",UFC Fight Night 61 - Bigfoot vs. Mir,Lightweight,Ivan Jorge,NA,NA,Josh Shockley,NA,NA,Decision (Unanimous),3,5:00
+"Feb 28, 2015",UFC 184 - Rousey vs. Zingano,Bantamweight Title Fight,Ronda Rousey,NA,NA,Cat Zingano,NA,NA,Submission (Straight Armbar),1,0:14
+"Feb 28, 2015",UFC 184 - Rousey vs. Zingano,Bantamweight,Holly Holm,NA,NA,Raquel Pennington,NA,NA,Decision (Split),3,5:00
+"Feb 28, 2015",UFC 184 - Rousey vs. Zingano,Welterweight,Jake Ellenberger,NA,NA,Josh Koscheck,NA,NA,Submission (North-South Choke),2,4:20
+"Feb 28, 2015",UFC 184 - Rousey vs. Zingano,Welterweight,Alan Jouban,NA,NA,Richard Walsh,NA,NA,KO (Elbow and Punch),1,2:19
+"Feb 28, 2015",UFC 184 - Rousey vs. Zingano,Lightweight,Tony Ferguson,NA,NA,Gleison Tibau,NA,NA,Submission (Rear-Naked Choke),1,2:37
+"Feb 28, 2015",UFC 184 - Rousey vs. Zingano,Middleweight,Roan Carneiro,NA,NA,Mark Munoz,NA,NA,Technical Submission (Rear-Naked Choke),1,1:40
+"Feb 28, 2015",UFC 184 - Rousey vs. Zingano,Bantamweight,Roman Salazar,NA,NA,Norifumi Yamamoto,NA,NA,No Contest (Accidental Eye Poke),2,2:37
+"Feb 28, 2015",UFC 184 - Rousey vs. Zingano,Welterweight,Tim Means,NA,NA,Dhiego Lima,NA,NA,TKO (Punches),1,2:17
+"Feb 28, 2015",UFC 184 - Rousey vs. Zingano,Heavyweight,Derrick Lewis,NA,NA,Ruan Potts,NA,NA,TKO (Punches),2,3:18
+"Feb 28, 2015",UFC 184 - Rousey vs. Zingano,Lightweight,Valmir Lazaro,NA,NA,James Krause,NA,NA,Decision (Split),3,5:00
+"Feb 28, 2015",UFC 184 - Rousey vs. Zingano,Featherweight,Masio Fullen,NA,NA,Alex Torres,NA,NA,Decision (Split),3,5:00
+"Feb 14, 2015",UFC Fight Night 60 - Henderson vs. Thatch,Welterweight,Benson Henderson,NA,NA,Brandon Thatch,NA,NA,Submission (Rear-Naked Choke),4,3:58
+"Feb 14, 2015",UFC Fight Night 60 - Henderson vs. Thatch,Featherweight,Max Holloway,NA,NA,Cole Miller,NA,NA,Decision (Unanimous),3,5:00
+"Feb 14, 2015",UFC Fight Night 60 - Henderson vs. Thatch,Welterweight,Neil Magny,NA,NA,Kiichi Kunimoto,NA,NA,Submission (Rear-Naked Choke),3,1:22
+"Feb 14, 2015",UFC Fight Night 60 - Henderson vs. Thatch,192lb Catchweight,Daniel Kelly,NA,NA,Patrick Walsh,NA,NA,Decision (Unanimous),3,5:00
+"Feb 14, 2015",UFC Fight Night 60 - Henderson vs. Thatch,Lightweight,Kevin Lee,NA,NA,Michel Prazeres,,,Decision (Unanimous),3,5:00
+"Feb 14, 2015",UFC Fight Night 60 - Henderson vs. Thatch,Flyweight,Ray Borg,NA,NA,Chris Kelades,NA,NA,Submission (Kimura),3,2:56
+"Feb 14, 2015",UFC Fight Night 60 - Henderson vs. Thatch,Lightweight,Efrain Escudero,NA,NA,Rodrigo Goiana de Lima,,,Decision (Unanimous),3,5:00
+"Feb 14, 2015",UFC Fight Night 60 - Henderson vs. Thatch,Featherweight,Chas Skelly,NA,NA,Jim Alers,NA,NA,TKO (Punches and Knee),2,4:59
+"Feb 14, 2015",UFC Fight Night 60 - Henderson vs. Thatch,Flyweight,Zach Makovsky,NA,NA,Tim Elliott,NA,NA,Decision (Unanimous),3,5:00
+"Feb 14, 2015",UFC Fight Night 60 - Henderson vs. Thatch,158lb Catchweight,James Moontasri,NA,NA,Cody Pfister,NA,NA,Submission (Rear-Naked Choke),2,1:49
+"Jan 31, 2015",UFC 183 - Silva vs. Diaz,Middleweight,Anderson Silva,NA,NA,Nick Diaz,NA,NA,No Contest (Overturned by NSAC),5,5:00
+"Jan 31, 2015",UFC 183 - Silva vs. Diaz,180lb Catchweight,Tyron Woodley,NA,NA,Kelvin Gastelum,NA,NA,Decision (Split),3,5:00
+"Jan 31, 2015",UFC 183 - Silva vs. Diaz,Lightweight,Al Iaquinta,NA,NA,Joe Lauzon,NA,NA,TKO (Punches),2,3:34
+"Jan 31, 2015",UFC 183 - Silva vs. Diaz,Middleweight,Thales Leites,NA,NA,Tim Boetsch,NA,NA,Technical Submission (Arm-Triangle Choke),2,3:45
+"Jan 31, 2015",UFC 183 - Silva vs. Diaz,Welterweight,Thiago Alves,NA,NA,Jordan Mein,NA,NA,KO (Body Kick),2,0:39
+"Jan 31, 2015",UFC 183 - Silva vs. Diaz,Bantamweight,Miesha Tate,NA,NA,Sara McMann,NA,NA,Decision (Majority),3,5:00
+"Jan 31, 2015",UFC 183 - Silva vs. Diaz,Middleweight,Derek Brunson,NA,NA,Ed Herman,NA,NA,TKO (Punches),1,0:36
+"Jan 31, 2015",UFC 183 - Silva vs. Diaz,130lb Catchweight,John Lineker,NA,NA,Ian McCall,NA,NA,Decision (Unanimous),3,5:00
+"Jan 31, 2015",UFC 183 - Silva vs. Diaz,Middleweight,Rafael Natal,NA,NA,Tom Watson,NA,NA,Decision (Unanimous),3,5:00
+"Jan 31, 2015",UFC 183 - Silva vs. Diaz,Middleweight,Ildemar Alcantara,NA,NA,Richardson Moreira,NA,NA,Decision (Split),3,5:00
+"Jan 31, 2015",UFC 183 - Silva vs. Diaz,Middleweight,Thiago Santos,NA,NA,Andy Enz,NA,NA,TKO (Punches),1,1:56
+"Jan 24, 2015",UFC on Fox 14 - Gustafsson vs. Johnson,Light Heavyweight,Anthony Johnson,NA,NA,Alexander Gustafsson,NA,NA,TKO (Punches),1,2:15
+"Jan 24, 2015",UFC on Fox 14 - Gustafsson vs. Johnson,Light Heavyweight,Gegard Mousasi,NA,NA,Dan Henderson,NA,NA,TKO (Punches),1,1:10
+"Jan 24, 2015",UFC on Fox 14 - Gustafsson vs. Johnson,Light Heavyweight,Ryan Bader,NA,NA,Phil Davis,NA,NA,Decision (Split),3,5:00
+"Jan 24, 2015",UFC on Fox 14 - Gustafsson vs. Johnson,Featherweight,Sam Sicilia,NA,NA,Akira Corassani,NA,NA,KO (Punch),1,3:26
+"Jan 24, 2015",UFC on Fox 14 - Gustafsson vs. Johnson,Welterweight,Albert Tumenov,NA,NA,Nicholas Musoke,,,Decision (Unanimous),3,5:00
+"Jan 24, 2015",UFC on Fox 14 - Gustafsson vs. Johnson,Welterweight,Kenny Robertson,NA,NA,Sultan Aliev,NA,NA,KO (Punches),1,2:42
+"Jan 24, 2015",UFC on Fox 14 - Gustafsson vs. Johnson,Featherweight,Makwan Amirkhani,NA,NA,Andy Ogle,NA,NA,TKO (Flying Knee and Punches),1,0:08
+"Jan 24, 2015",UFC on Fox 14 - Gustafsson vs. Johnson,Light Heavyweight,Nikita Krylov,NA,NA,Stanislav Nedkov,NA,NA,Submission (Guillotine Choke),1,1:24
+"Jan 24, 2015",UFC on Fox 14 - Gustafsson vs. Johnson,Lightweight,Mairbek Taisumov,NA,NA,Anthony Christodoulou,NA,NA,KO (Punches),2,0:38
+"Jan 24, 2015",UFC on Fox 14 - Gustafsson vs. Johnson,149lb Catchweight,Mirsad Bektic,NA,NA,Paul Redmond,NA,NA,Decision (Unanimous),3,5:00
+"Jan 24, 2015",UFC on Fox 14 - Gustafsson vs. Johnson,Heavyweight,Viktor Pesta,NA,NA,Konstantin Erokhin,NA,NA,Decision (Unanimous),3,5:00
+"Jan 24, 2015",UFC on Fox 14 - Gustafsson vs. Johnson,Flyweight,Neil Seery,NA,NA,Christopher Mario Beal,,,Decision (Unanimous),3,5:00
+"Jan 18, 2015",UFC Fight Night 59 - McGregor vs. Siver,Featherweight,Conor McGregor,NA,NA,Dennis Siver,NA,NA,TKO (Punches),2,1:54
+"Jan 18, 2015",UFC Fight Night 59 - McGregor vs. Siver,Lightweight,Donald Cerrone,NA,NA,Benson Henderson,NA,NA,Decision (Unanimous),3,5:00
+"Jan 18, 2015",UFC Fight Night 59 - McGregor vs. Siver,Middleweight,Uriah Hall,NA,NA,Ron Stallings,NA,NA,TKO (Doctor Stoppage),1,3:37
+"Jan 18, 2015",UFC Fight Night 59 - McGregor vs. Siver,Lightweight,Gleison Tibau,NA,NA,Norman Parke,NA,NA,Decision (Split),3,5:00
+"Jan 18, 2015",UFC Fight Night 59 - McGregor vs. Siver,Welterweight,Cathal Pendred,NA,NA,Sean Spencer,NA,NA,Decision (Unanimous),3,5:00
+"Jan 18, 2015",UFC Fight Night 59 - McGregor vs. Siver,Welterweight,Lorenz Larkin,NA,NA,John Howard,NA,NA,TKO (Punches),1,2:17
+"Jan 18, 2015",UFC Fight Night 59 - McGregor vs. Siver,Welterweight,Chris Wade,NA,NA,Lipeng Zhang,NA,NA,Decision (Unanimous),3,5:00
+"Jan 18, 2015",UFC Fight Night 59 - McGregor vs. Siver,Flyweight,Patrick Holohan,NA,NA,Shane Howell,NA,NA,Decision (Unanimous),3,5:00
+"Jan 18, 2015",UFC Fight Night 59 - McGregor vs. Siver,Lightweight,Johnny Case,NA,NA,Frankie Perez,NA,NA,TKO (Punches),3,1:54
+"Jan 18, 2015",UFC Fight Night 59 - McGregor vs. Siver,Bantamweight,Charles Rosa,NA,NA,Sean Soriano,NA,NA,Submission (Brabo Choke),3,4:43
+"Jan 18, 2015",UFC Fight Night 59 - McGregor vs. Siver,Light Heavyweight,Sean O'Connell,NA,NA,Matt Van Buren,NA,NA,TKO (Punches),3,2:11
+"Jan 18, 2015",UFC Fight Night 59 - McGregor vs. Siver,Flyweight,Joby Sanchez,NA,NA,Tateki Matsuda,NA,NA,Decision (Split),3,5:00
+"Jan 3, 2015",UFC 182 - Jones vs. Cormier,Light Heavyweight Title Fight,Jon Jones,NA,NA,Daniel Cormier,NA,NA,Decision (Unanimous),5,5:00
+"Jan 3, 2015",UFC 182 - Jones vs. Cormier,Lightweight,Donald Cerrone,NA,NA,Myles Jury,NA,NA,Decision (Unanimous),3,5:00
+"Jan 3, 2015",UFC 182 - Jones vs. Cormier,Middleweight,Brad Tavares,NA,NA,Nate Marquardt,NA,NA,Decision (Unanimous),3,5:00
+"Jan 3, 2015",UFC 182 - Jones vs. Cormier,Flyweight,Kyoji Horiguchi,NA,NA,Louis Gaudinot,NA,NA,Decision (Unanimous),3,5:00
+"Jan 3, 2015",UFC 182 - Jones vs. Cormier,Welterweight,Hector Lombard,NA,NA,Joshua Burkman,,,No Contest (Overturned by NSAC),3,5:00
+"Jan 3, 2015",UFC 182 - Jones vs. Cormier,Lightweight,Paul Felder,NA,NA,Danny Castillo,NA,NA,KO (Spinning Backfist),2,2:09
+"Jan 3, 2015",UFC 182 - Jones vs. Cormier,Bantamweight,Cody Garbrandt,NA,NA,Marcus Brimage,NA,NA,TKO (Punches),3,4:50
+"Jan 3, 2015",UFC 182 - Jones vs. Cormier,Heavyweight,Shawn Jordan,NA,NA,Jared Cannonier,NA,NA,KO (Punches),1,2:57
+"Jan 3, 2015",UFC 182 - Jones vs. Cormier,Lightweight,Evan Dunham,NA,NA,Rodrigo Damm,NA,NA,Decision (Unanimous),3,5:00
+"Jan 3, 2015",UFC 182 - Jones vs. Cormier,Welterweight,Omari Akhmedov,NA,NA,Mats Nilsson,NA,NA,Decision (Unanimous),3,5:00
+"Jan 3, 2015",UFC 182 - Jones vs. Cormier,138lb Catchweight,Marion Reneau,NA,NA,Alexis Dufresne,NA,NA,Decision (Unanimous),3,5:00
