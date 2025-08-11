@@ -1,4 +1,16 @@
 date,event,weight_class,winner,winner_weight,winner_odds,loser,loser_weight,loser_odds,method,rnd,time
+"Aug 9, 2025",UFC on ESPN 72 - Dolidze vs. Hernandez,Middleweight,Anthony Hernandez,186,-350,Roman Dolidze,185.5,280,Submission (Rear-Naked Choke),4,2:45
+"Aug 9, 2025",UFC on ESPN 72 - Dolidze vs. Hernandez,Bantamweight,Steve Erceg,135.5,-400,Ode Osbourne,135.5,300,Decision (Unanimous),3,5:00
+"Aug 9, 2025",UFC on ESPN 72 - Dolidze vs. Hernandez,Strawweight,Iasmin Lucindo,115,-190,Angela Hill,116,150,Decision (Unanimous),3,5:00
+"Aug 9, 2025",UFC on ESPN 72 - Dolidze vs. Hernandez,Featherweight,Andre Fili,146,200,Christian Rodriguez,146,-250,Decision (Split),3,5:00
+"Aug 9, 2025",UFC on ESPN 72 - Dolidze vs. Hernandez,Bantamweight,Jean Matsumoto,136,-310,Miles Johns,136,250,Decision (Split),3,5:00
+"Aug 9, 2025",UFC on ESPN 72 - Dolidze vs. Hernandez,Middleweight,Christian Leroy Duncan,185,-500,Eryk Anders,186,425,KO (Spinning Back Elbow and Punches),1,3:53
+"Aug 9, 2025",UFC on ESPN 72 - Dolidze vs. Hernandez,Light Heavyweight,Julius Walker,206,-600,Raffael Cerqueira,203,450,Decision (Unanimous),3,5:00
+"Aug 9, 2025",UFC on ESPN 72 - Dolidze vs. Hernandez,Bantamweight,Elijah Smith,136,-600,Toshiomi Kazama,136,450,KO (Slam),1,4:10
+"Aug 9, 2025",UFC on ESPN 72 - Dolidze vs. Hernandez,Bantamweight,Joselyne Edwards,136,-300,Priscila Cachoeira,134,250,KO (Punches),1,2:24
+"Aug 9, 2025",UFC on ESPN 72 - Dolidze vs. Hernandez,Welterweight,Uros Medic,171,-400,Gilbert Urbina,171,300,KO (Punch),1,1:03
+"Aug 9, 2025",UFC on ESPN 72 - Dolidze vs. Hernandez,Flyweight,Gabriella Fernandes,125.5,-400,Julija Stoliarenko,126,325,Decision (Unanimous),3,5:00
+"Aug 9, 2025",UFC on ESPN 72 - Dolidze vs. Hernandez,Light Heavyweight,Eric McConico,204.5,160,Cody Brundage,202.5,-190,Decision (Split),3,5:00
 "Aug 2, 2025",UFC on ESPN 71 - Taira vs. Park,Flyweight,Tatsuro Taira,126,-250,Hyun Sung Park,126,200,Submission (Face Crank),2,1:06
 "Aug 2, 2025",UFC on ESPN 71 - Taira vs. Park,Lightweight,Chris Duncan,156,170,Mateusz Rebecki,155.5,-200,Decision (Unanimous),3,5:00
 "Aug 2, 2025",UFC on ESPN 71 - Taira vs. Park,Lightweight,Esteban Ribovics,155.5,-275,Elves Brener,155.5,200,Decision (Unanimous),3,5:00
