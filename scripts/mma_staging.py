@@ -1,6 +1,6 @@
 import os
 import glob
-import pandas as pd 
+import pandas as pd
 from dotenv import load_dotenv
 import psycopg2
 from psycopg2.extras import execute_values
@@ -47,21 +47,22 @@ for csv_file in csv_files:
         ])
 
         df['source_file'] = os.path.basename(csv_file)
-        df['match_number'] = df.groupby('event').cumcount(ascending=False) + 1
 
-        records = df[['event', 'date', 'match_number', 'weight_class', 'winner', 'winner_weight',
+        records = df[['event', 'date', 'weight_class', 'winner', 'winner_weight',
                       'winner_odds', 'loser', 'loser_weight', 'loser_odds',
                       'method', 'rnd', 'time', 'source_file']].values.tolist()
 
         insert_query = """
         INSERT INTO stg_mma_fights (
-            event_name, event_date, match_number, weight_class, winner, winner_weight, winner_odds,
+            event_name, event_date, weight_class, winner, winner_weight, winner_odds,
             loser, loser_weight, loser_odds, method, round, time, source_file
         ) VALUES %s
         """
 
         execute_values(cur, insert_query, records)
         conn.commit()
+
+        print(f"  Successfully loaded {len(df)} rows from {csv_file}")
 
     except pd.errors.EmptyDataError:
         print(f"  Warning: {csv_file} is empty, skipping")
