@@ -1,4 +1,16 @@
 date,event,weight_class,winner,winner_weight,winner_odds,loser,loser_weight,loser_odds,method,rnd,time
+"Aug 16, 2025",UFC 319 - Du Plessis vs. Chimaev,Middleweight Title Fight,Khamzat Chimaev,183,-238,Dricus Du Plessis,185,195,Decision (Unanimous),5,5:00
+"Aug 16, 2025",UFC 319 - Du Plessis vs. Chimaev,Featherweight,Lerone Murphy,146,154,Aaron Pico,145,-185,KO (Spinning Back Elbow),1,3:21
+"Aug 16, 2025",UFC 319 - Du Plessis vs. Chimaev,Welterweight,Carlos Prates,170,-250,Geoff Neal,171,205,KO (Spinning Back Elbow),1,4:59
+"Aug 16, 2025",UFC 319 - Du Plessis vs. Chimaev,Middleweight,Michael Page,186,-192,Jared Cannonier,186,160,Decision (Unanimous),3,5:00
+"Aug 16, 2025",UFC 319 - Du Plessis vs. Chimaev,Flyweight,Tim Elliott,126,250,Kai Asakura,126,-310,Submission (Guillotine Choke),2,4:39
+"Aug 16, 2025",UFC 319 - Du Plessis vs. Chimaev,Middleweight,Baysangur Susurkaev,186,NA,Eric Nolan,183,NA,Submission (Rear-Naked Choke),2,2:01
+"Aug 16, 2025",UFC 319 - Du Plessis vs. Chimaev,Middleweight,Michal Oleksiejczuk,186,-218,Gerald Meerschaert,185,180,TKO (Punches),1,3:03
+"Aug 16, 2025",UFC 319 - Du Plessis vs. Chimaev,Strawweight,Lupita Godinez,115,-148,Jessica Andrade,116,124,Decision (Unanimous),3,5:00
+"Aug 16, 2025",UFC 319 - Du Plessis vs. Chimaev,Lightweight,Alexander Hernandez,156,275,Chase Hooper,155,-345,TKO (Punches),1,4:58
+"Aug 16, 2025",UFC 319 - Du Plessis vs. Chimaev,Lightweight,Drakkar Klose,156,120,Edson Barboza,155.5,-142,Decision (Unanimous),3,5:00
+"Aug 16, 2025",UFC 319 - Du Plessis vs. Chimaev,Flyweight,Karine Silva,125,-218,Dione Barbosa,125.5,180,Decision (Unanimous),3,5:00
+"Aug 16, 2025",UFC 319 - Du Plessis vs. Chimaev,Flyweight,Joseph Morales,126,350,Alibi Idiris,126,-450,Submission (Triangle Choke),2,3:04
 "Aug 9, 2025",UFC on ESPN 72 - Dolidze vs. Hernandez,Middleweight,Anthony Hernandez,186,-350,Roman Dolidze,185.5,280,Submission (Rear-Naked Choke),4,2:45
 "Aug 9, 2025",UFC on ESPN 72 - Dolidze vs. Hernandez,Bantamweight,Steve Erceg,135.5,-400,Ode Osbourne,135.5,300,Decision (Unanimous),3,5:00
 "Aug 9, 2025",UFC on ESPN 72 - Dolidze vs. Hernandez,Strawweight,Iasmin Lucindo,115,-190,Angela Hill,116,150,Decision (Unanimous),3,5:00
