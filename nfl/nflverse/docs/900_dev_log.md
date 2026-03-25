@@ -1,3 +1,14 @@
+## 2026-03-22
+- recreate pbp database later if needed
+- focus on creating weekly stats
+- can use [`load_snap_counts`](https://nflreadr.nflverse.com/reference/load_snap_counts.html) for player snapcounts
+- for everything else (weekly player and team stats) use [`load_pbp`](https://nflreadr.nflverse.com/reference/load_pbp.html)
+
+
+## 2026-03-08
+- create a raw pbp database...
+    - use this to create your other tables
+
 ## 2026-02-14
 - teams (from teams precompiled dataset)
 - players (from players precompiled dataset)
