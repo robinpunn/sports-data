@@ -1,3 +1,8 @@
+## 2026-03-30
+- creating a script to exctract data dictionaries into a markdown file to make it easier to create my db schema
+- [`data dictionaries`](https://nflreadr.nflverse.com/reference/#data-dictionaries)
+
+
 ## 2026-03-22
 - recreate pbp database later if needed
 - focus on creating weekly stats
