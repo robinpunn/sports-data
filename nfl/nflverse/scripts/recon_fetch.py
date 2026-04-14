@@ -26,7 +26,7 @@ def parse_dictionary(html: str) -> pd.DataFrame:
     return df
 
 def render_dataset_markdown(dataset_id: str, label: str, df: pd.DataFrame) -> str:
-    header = f"## {label} ({dataset_id})\n\n"
+    header = f"## {label} ({dataset_id})\n"
     body = df.to_markdown(index=False)
     return f"{header}\n{body}\n"
 
@@ -36,7 +36,42 @@ def main():
             "id": "pbp",
             "label": "Play by Play",
             "url": "https://nflreadr.nflverse.com/articles/dictionary_pbp.html",
-        }
+        },
+        {
+            "id": "snap_counts",
+            "label": "Snap Counts",
+            "url": "https://nflreadr.nflverse.com/articles/dictionary_snap_counts.html",
+        },
+        {
+            "id": "participation",
+            "label": "Participation",
+            "url": "https://nflreadr.nflverse.com/articles/dictionary_participation.html",
+        },
+        {
+            "id": "injuries",
+            "label": "Injuries",
+            "url": "https://nflreadr.nflverse.com/articles/dictionary_injuries.html",
+        },
+        {
+            "id": "depth_chart",
+            "label": "Depth Chart",
+            "url": "https://nflreadr.nflverse.com/articles/dictionary_depth_charts.html",
+        },
+        {
+            "id": "ff_rankings",
+            "label": "FF Rankings",
+            "url": "https://nflreadr.nflverse.com/articles/dictionary_ff_rankings.html",
+        },
+        {
+            "id": "next_gen",
+            "label": "Next Gen Stats",
+            "url": "https://nflreadr.nflverse.com/articles/dictionary_nextgen_stats.html",
+        },
+        {
+            "id": "qbr",
+            "label": "ESPN QBR",
+            "url": "https://nflreadr.nflverse.com/articles/dictionary_espn_qbr.html",
+        },
     ]
     
     output = "# nlfverse Data Dictionaries \n\n"
@@ -49,7 +84,7 @@ def main():
 
         section = render_dataset_markdown(ds["id"], ds["label"], df)
 
-        output += section + "\n"
+        output += section + "\n\n"
 
         print(f"{ds['label']}: {df.shape[0]} fields extracted")
 
