@@ -1,11 +1,10 @@
 # nlfverse Data Dictionaries 
 
-Generated: 2026-04-01 12:33:40 UTC
+Generated: 2026-04-25 14:42:50 UTC
 
 ## Play by Play (pbp)
 
-
-| Field                                | Descriptions                                                                                                                                                                                                                                                                                                                                                | Type      |
+| Field                                | Description                                                                                                                                                                                                                                                                                                                                                 | Type      |
 |:-------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------|
 | play_id                              | Numeric play id that when used with game_id and drive provides the unique identifier for a single play.                                                                                                                                                                                                                                                     | numeric   |
 | game_id                              | Ten digit identifier for NFL game.                                                                                                                                                                                                                                                                                                                          | character |
@@ -379,5 +378,99 @@ Generated: 2026-04-01 12:33:40 UTC
 | xyac_fd                              | Probability play earns a first down based on where the ball was caught.                                                                                                                                                                                                                                                                                     | numeric   |
 | xpass                                | Probability of dropback scaled from 0 to 1.                                                                                                                                                                                                                                                                                                                 | numeric   |
 | pass_oe                              | Dropback percent over expected on a given play scaled from 0 to 100.                                                                                                                                                                                                                                                                                        | numeric   |
+
+
+## Snap Counts (snap_counts)
+
+| Field         | Description                          | Type      |
+|:--------------|:-------------------------------------|:----------|
+| game_id       | nflfastR game ID                     | character |
+| pfr_game_id   | PFR game ID                          | character |
+| season        | Season of game                       | numeric   |
+| game_type     | Type of game (regular or postseason) | character |
+| week          | Week of game in NFL season           | numeric   |
+| player        | Player name                          | character |
+| pfr_player_id | Player PFR ID                        | character |
+| position      | Position of player                   | character |
+| team          | Team of player                       | character |
+| opponent      | Opposing team of player              | character |
+| offense_snaps | Number of snaps on offense           | numeric   |
+| offense_pct   | Percent of offensive snaps taken     | numeric   |
+| defense_snaps | Number of snaps on defense           | numeric   |
+| defense_pct   | Percent of defensive snaps taken     | numeric   |
+| st_snaps      | Number of snaps on special teams     | numeric   |
+| st_pct        | Percent of special teams snaps taken | numeric   |
+
+
+## Participation (participation)
+
+| Field                  | Description                                                                                                                                                                                                                                                     | Type      |
+|:-----------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------|
+| nflverse_game_id       | nflverse identifier for games. Format is season, week, away_team, home_team                                                                                                                                                                                     | character |
+| old_game_id            | Legacy NFL game ID.                                                                                                                                                                                                                                             | character |
+| play_id                | Numeric play id that when used with game_id and drive provides the unique identifier for a single play.                                                                                                                                                         | integer   |
+| possession_team        | String abbreviation for the team with possession.                                                                                                                                                                                                               | character |
+| offense_formation      | Formation the offense lines up in to snap the ball.                                                                                                                                                                                                             | character |
+| offense_personnel      | The positions of the offensive personnel lined up on the field for a play.                                                                                                                                                                                      | character |
+| defenders_in_box       | Number of defensive players lined up in the box at the snap.                                                                                                                                                                                                    | integer   |
+| defense_personnel      | The positions of the defensive personnel lined up on the field for a play.                                                                                                                                                                                      | character |
+| number_of_pass_rushers | Number of defensive player who rushed the passer.                                                                                                                                                                                                               | integer   |
+| players_on_play        | A list of every player on the field for the play, by gsis_id                                                                                                                                                                                                    | character |
+| offense_players        | A list of every offensive player on the field for the play, by gsis_id                                                                                                                                                                                          | character |
+| defense_players        | A list of every defensive player on the field for the play, by gsis_id                                                                                                                                                                                          | character |
+| n_offense              | Number of offensive players on the field for the play                                                                                                                                                                                                           | integer   |
+| n_defense              | Number of defensive players on the field for the play                                                                                                                                                                                                           | integer   |
+| ngs_air_yards          | Legacy column. For 2023 and prior years, reflects the distance (in yards) that the ball traveled in the air on a given passing play as tracked by NGS. Is NA for 2024 on–we advise instead using the air_yards column from nflreadr::load_pbp() moving forward. | double    |
+| time_to_throw          | Duration (in seconds) between the time of the ball being snapped and the time of release of a pass attempt                                                                                                                                                      | double    |
+| was_pressure           | A boolean indicating whether or not the QB was pressured on a play                                                                                                                                                                                              | logical   |
+| route                  | A string indicating the route the primary receiver on a play took. Has the following possible values: “CORNER”, “DEEP OUT”, “GO”, “HITCH/CURL”, “IN/DIG”, “POST”, “QUICK OUT”, “SCREEN”, “SHALLOW CROSS/DRAG”, “SLANT”, “SWING”, “TEXAS/ANGLE”, “WHEEL”.        | character |
+| defense_man_zone_type  | A string indicating whether the defense was in man or zone coverage on a play                                                                                                                                                                                   | character |
+| defense_coverage_type  | A string indicating what type of cover the defense was in on a play. Has one of the following values: “COVER_0”, “COVER_1”, “COVER_2”, “2_MAN”, “COVER_3”, “COVER_4”, “COVER_6”, “COVER_9”, “COMBO”, “BLOWN”.                                                   | character |
+| offense_names          | A string listing all of the names of offensive players in the order of their gsis_ids in offense_players.                                                                                                                                                       | character |
+| defense_names          | A string listing all of the names of defensive players in the order of their gsis_ids in defense_players.                                                                                                                                                       | character |
+| offense_positions      | A string listing all of the positions of offensive players in the order of their gsis_ids in offense_players.                                                                                                                                                   | character |
+| defense_positions      | A string listing all of the positions of defensive players in the order of their gsis_ids in defense_players.                                                                                                                                                   | character |
+| offense_numbers        | A string listing all of the numbers of offensive players in the order of their gsis_ids in offense_players.                                                                                                                                                     | character |
+| defense_numbers        | A string listing all of the numbers of defensive players in the order of their gsis_ids in defense_players.                                                                                                                                                     | character |
+
+
+## Injuries (injuries)
+
+| Field                     | Description                                                                      | Type      |
+|:--------------------------|:---------------------------------------------------------------------------------|:----------|
+| season                    | 4 digit number indicating to which season(s) the specified timeframe belongs to. | numeric   |
+| season_type               | REG or POST indicating if the timeframe belongs to regular or post season.       | numeric   |
+| team                      | Team of injured player                                                           | character |
+| week                      | Week that injury occurred                                                        | numeric   |
+| gsis_id                   | Game Stats and Info Service ID: the primary ID for play-by-play data.            | numeric   |
+| position                  | Position of injured player                                                       | character |
+| full_name                 | Full name of player                                                              | character |
+| first_name                | First name of player                                                             | character |
+| last_name                 | Last name of player                                                              | character |
+| report_primary_injury     | Primary injury listed on official injury report                                  | character |
+| report_secondary_injury   | Secondary injury listed on official injury report                                | character |
+| report_status             | Player’s status for game on official injury report                               | character |
+| practice_primary_injury   | Primary injury listed on practice injury report                                  | character |
+| practice_secondary_injury | Secondary injury listed on practice injury report                                | character |
+| practice_status           | Player’s participation in practice                                               | character |
+| date_modified             | Date and time that injury information was updated                                | character |
+
+
+## Depth Chart (depth_chart)
+
+| Field       | Description                                                                                                                                                          | Type      |
+|:------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------|
+| dt          | The timestamp (ISO8601-formatted text) indicating when the data record was loaded. Can be used to assign the data set to a specific point in time during the season. | character |
+| team        | Team that depth chart belongs to                                                                                                                                     | character |
+| player_name | Full name of player                                                                                                                                                  | character |
+| espn_id     | ESPN Player ID                                                                                                                                                       | character |
+| gsis_id     | Game Stats and Info Service ID: the primary ID for play-by-play data                                                                                                 | character |
+| pos_grp_id  | Player position group identifier                                                                                                                                     | character |
+| pos_grp     | Player position group: formation of offense, defense, or special teams                                                                                               | character |
+| pos_id      | Player position identifier                                                                                                                                           | character |
+| pos_name    | Player position name                                                                                                                                                 | character |
+| pos_abb     | Player position abbreviation                                                                                                                                         | character |
+| pos_slot    | A number assigned to each position in a formation                                                                                                                    | numeric   |
+| pos_rank    | Player’s rank on depth chart grouped by pos_slot                                                                                                                     | numeric   |
 
 

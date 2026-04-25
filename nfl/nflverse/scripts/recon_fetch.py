@@ -12,18 +12,41 @@ def fetch_dictionary_html(url: str) -> str:
     response.raise_for_status()
     return response.text
 
-def parse_dictionary(html: str) -> pd.DataFrame:
-    soup = BeautifulSoup(html, 'html.parser')
-    script = soup.find('script', {'type': 'application/json'})
-    if not script or not script.string:
-        raise ValueError("No <script> with content found")
-
+def parse_script(script):
     data = json.loads(script.string)
     table_data = data["x"]["data"]
     df = pd.DataFrame(table_data).T
-    df.columns = ['Field', 'Descriptions', 'Type']
+    df.columns = ['Field', 'Description', 'Type']
 
     return df
+
+def parse_table(table):
+    df = pd.read_html(str(table))[0]
+    col_map = {
+        'field': 'Field',
+        'description': 'Description',
+        'data_type': 'Type',
+    }
+    df.columns = [col_map.get(c.lower().strip(), c) for c in df.columns]
+    expected = ['Field', 'Description', 'Type']
+    if all(c in df.columns for c in expected):
+        df = df[expected]
+    return df
+
+
+def parse_dictionary(html: str):
+    soup = BeautifulSoup(html, 'html.parser')
+    
+    script = soup.find('script', {'type': 'application/json'})
+    if script and script.string:
+        return parse_script(script)
+    
+    table = soup.find('table')
+    if table:
+        return parse_table(table)
+    
+    raise ValueError("Nothing found")
+    
 
 def render_dataset_markdown(dataset_id: str, label: str, df: pd.DataFrame) -> str:
     header = f"## {label} ({dataset_id})\n"
@@ -72,7 +95,7 @@ def main():
             "label": "ESPN QBR",
             "url": "https://nflreadr.nflverse.com/articles/dictionary_espn_qbr.html",
         },
-    ]
+            ]
     
     output = "# nlfverse Data Dictionaries \n\n"
     output += f"Generated: {pd.Timestamp.now().strftime('%Y-%m-%d %H:%M:%S')} UTC\n\n"
@@ -88,9 +111,10 @@ def main():
 
         print(f"{ds['label']}: {df.shape[0]} fields extracted")
 
-    output_path = project_root/ "docs" / "nflverse_data_dictionary.md" 
-    output_path.parent.mkdir(exist_ok=True)
-    output_path.write_text(output)
+        output_path = project_root/ "docs" / f"{ds['id']}.md" 
+        output_path.parent.mkdir(exist_ok=True)
+        output_path.write_text(output)
+        print(f"\n {ds["label"]} complete")
 
     print("\n Data dictionaries complete")
 
