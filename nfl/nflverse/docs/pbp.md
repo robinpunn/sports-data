@@ -1,6 +1,6 @@
-# nlfverse Data Dictionaries 
+# Play by Play Data Dictionary 
 
-Generated: 2026-04-25 14:42:50 UTC
+Generated: 2026-04-25 15:04:27 UTC
 
 ## Play by Play (pbp)
 
@@ -378,5 +378,3 @@ Generated: 2026-04-25 14:42:50 UTC
 | xyac_fd                              | Probability play earns a first down based on where the ball was caught.                                                                                                                                                                                                                                                                                     | numeric   |
 | xpass                                | Probability of dropback scaled from 0 to 1.                                                                                                                                                                                                                                                                                                                 | numeric   |
 | pass_oe                              | Dropback percent over expected on a given play scaled from 0 to 100.                                                                                                                                                                                                                                                                                        | numeric   |
-
-

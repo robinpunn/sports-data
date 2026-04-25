@@ -39,10 +39,12 @@ def parse_dictionary(html: str):
     
     script = soup.find('script', {'type': 'application/json'})
     if script and script.string:
+        print(">>> taking SCRIPT path")
         return parse_script(script)
     
     table = soup.find('table')
     if table:
+        print(">>> taking TABLE path")
         return parse_table(table)
     
     raise ValueError("Nothing found")
@@ -61,14 +63,14 @@ def main():
             "url": "https://nflreadr.nflverse.com/articles/dictionary_pbp.html",
         },
         {
-            "id": "snap_counts",
-            "label": "Snap Counts",
-            "url": "https://nflreadr.nflverse.com/articles/dictionary_snap_counts.html",
-        },
-        {
             "id": "participation",
             "label": "Participation",
             "url": "https://nflreadr.nflverse.com/articles/dictionary_participation.html",
+        },
+        {
+            "id": "snap_counts",
+            "label": "Snap Counts",
+            "url": "https://nflreadr.nflverse.com/articles/dictionary_snap_counts.html",
         },
         {
             "id": "injuries",
@@ -97,24 +99,20 @@ def main():
         },
             ]
     
-    output = "# nlfverse Data Dictionaries \n\n"
-    output += f"Generated: {pd.Timestamp.now().strftime('%Y-%m-%d %H:%M:%S')} UTC\n\n"
-
     for ds in datasets:
         print(f"Fetching {ds['label']}...")
         html = fetch_dictionary_html(ds["url"])
         df = parse_dictionary(html)
 
-        section = render_dataset_markdown(ds["id"], ds["label"], df)
-
-        output += section + "\n\n"
-
-        print(f"{ds['label']}: {df.shape[0]} fields extracted")
+        output = f"# {ds['label']} Data Dictionary \n\n"
+        output += f"Generated: {pd.Timestamp.now().strftime('%Y-%m-%d %H:%M:%S')} UTC\n\n"
+        output += render_dataset_markdown(ds["id"], ds["label"], df)
 
         output_path = project_root/ "docs" / f"{ds['id']}.md" 
         output_path.parent.mkdir(exist_ok=True)
         output_path.write_text(output)
-        print(f"\n {ds["label"]} complete")
+        
+        print(f"{ds['label']}: {df.shape[0]} fields extracted")
 
     print("\n Data dictionaries complete")
 
