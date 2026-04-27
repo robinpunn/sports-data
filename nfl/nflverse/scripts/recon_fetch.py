@@ -63,6 +63,16 @@ def main():
             "url": "https://nflreadr.nflverse.com/articles/dictionary_pbp.html",
         },
         {
+            "id": "player_stats",
+            "label": "Player Stats",
+            "url": "https://nflreadr.nflverse.com/articles/dictionary_player_stats.html",
+        },
+        {
+            "id": "team_stats",
+            "label": "Team Stats",
+            "url": "https://nflreadr.nflverse.com/articles/dictionary_team_stats.html",
+        },
+        {
             "id": "participation",
             "label": "Participation",
             "url": "https://nflreadr.nflverse.com/articles/dictionary_participation.html",
