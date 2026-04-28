@@ -1,6 +1,6 @@
 # Team Stats Data Dictionary 
 
-Generated: 2026-04-27 13:24:50 UTC
+Generated: 2026-04-28 12:15:42 UTC
 
 ## Team Stats (team_stats)
 

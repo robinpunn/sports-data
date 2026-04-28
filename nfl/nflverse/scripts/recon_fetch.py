@@ -63,6 +63,16 @@ def main():
             "url": "https://nflreadr.nflverse.com/articles/dictionary_pbp.html",
         },
         {
+            "id": "players",
+            "label": "Players",
+            "url": "https://nflreadr.nflverse.com/articles/dictionary_players.html",
+        },
+        {
+            "id": "schedules",
+            "label": "Schedules",
+            "url": "https://nflreadr.nflverse.com/articles/dictionary_schedules.html",
+        },
+        {
             "id": "player_stats",
             "label": "Player Stats",
             "url": "https://nflreadr.nflverse.com/articles/dictionary_player_stats.html",

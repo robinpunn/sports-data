@@ -1,6 +1,6 @@
 # Next Gen Stats Data Dictionary 
 
-Generated: 2026-04-27 13:24:50 UTC
+Generated: 2026-04-28 12:15:43 UTC
 
 ## Next Gen Stats (next_gen)
 
