@@ -1,3 +1,9 @@
+## 2026-04-29
+- creating smaller tables so i can move towards extracting from pbp in the future
+- right now, the plan is to create initial tables with aggregated data sets
+- in the future, i'll move towards updating tables with pbp data
+- right now, pbp data is only going to be used for redzone stats while everything else can be populated with aggregated data sets
+
 ## 2026-03-30
 - creating a script to exctract data dictionaries into a markdown file to make it easier to create my db schema
 - [`data dictionaries`](https://nflreadr.nflverse.com/reference/#data-dictionaries)

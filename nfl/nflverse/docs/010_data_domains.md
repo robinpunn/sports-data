@@ -1,117 +1,497 @@
 # nflverse - Data Domains
-How my nflverse sql database is is grouped
+How my nflverse sql database is is grouped with the data set source in ()
 
 ## Reference Tables
 ### teams
-- id (based on nflverse dataset)
-- name (city + team name)
-- abbr (city abreviation)
-- nickname (team name)
-- conference (temporal data... for now)
-- division (temporal data... for now)
+- id (teams)
+- name (teams)
+- abbr (teams)
+- nickname (teams)
+- conference (teams)
+- division (teams)
 ### players
-- player_id (gsid_id from nflverse dataset) 
-- full_name  (Isaako Aaitui)
-- short_name (I.Aatui)
-- birth_date 
-
-- nfl_id  
-- pfr_id 
-- pff_id 
-- espn_id
-
-- position 
-- position_group 
-
-- height 
-- weight 
-
-- college_name
-- college_conference 
-
-- draft_year 
-- draft_round 
-- draft_pick 
-- draft_team 
-
-- rookie_season 
-- status (temporal data... for now)
-- years_of_experience (temporal data... for now)
-- pff_status (temporal data... for now)
+- player_id (players... gsid_id) 
+- full_name  (players)
+- short_name (players)
+- birth_date (players)
+- nfl_id (players)
+- pfr_id (players) 
+- pff_id (players) 
+- espn_id (players)
+- position (players)
+- position_group (players)
+- height (players)
+- weight (players)
+### player_draft
+- player_id (players)
+- college_name (players)
+- college_conference (players)
+- draft_year (players)
+- draft_round (players)
+- draft_pick (players)
+- draft_team (players)
+### player_status
+- player_id (players)
+- rookie_season (players)
+- status (players)
+- years_of_experience (players)
+- pff_status (players)
 
 ## Games
 ### game
-- gameid
-- oldgameid
-
-- home team
-- away team
-
-- season
-- season type
-- week
-- divisional game
- 
-- home rest (need to calculate)
-- away rest (need to calculate)
- 
-- home score q1
-- home score q2
-- home score q3
-- home score q4
-- home score ot
-- away score q1
-- away score q2
-- away score q3
-- away score q4
-- away score ot
-
-- away score
-- home score
-- overtime (if game half includes overtime or quarter > 4)
-- result (Equals home_score - away_score and means the game outcome from the perspective of the home team)
-- total
- 
-- home_wp
-- away_wp
-- spread line (closing spread, + means home favored, - means away favored)
-- total line
- 
-- home coach
-- away coach
- 
-- location (home or neutral)
-- game date
-- start time
-- weather 
-- stadium
-- roof
-- surface
-- temp
-- wind
+- gameid (schedules)
+- oldgameid (schedules)
+- season (schedules)
+- game_type (schedules)
+- week (schedules)
+- gameday (schedules)
+- weekday (schedules)
+- gametime (schedules) 
+- away_team (schedules)
+- away_score (schedules)
+- home_team (schedules)
+- home_scores (schedules)
+- result (schedules)
+- total (schedules)
+- overtime (schedules) 
+### game_odds
+- gameid (schedules)
+- away_moneyline (schedules)
+- home_moneyline (schedules)
+- spread_line (schedules)
+- away_spread_odds (schedules)
+- home_spread_odds (schedules)
+- total_line (schedules)
+- under_odds (schedules)
+- over_odds (schedules)
+### game_context
+- gameid (schedules)
+- div_game (schedules)
+- away_coach (schedules)
+- home_coach (schedules)
+- referee (schedules)
+- away rest (schedules)
+- home rest (schedules)
+### game_conditions
+- gameid (schedules)
+- location (schedules)
+- roof (schedules)
+- surface (schedules)
+- temp (schedules)
+- wind (schedules)
+- stadium_id (schedules)
+- stadium (schedules)
 
 ## Weekly Player Stats
 ### snap_counts
-- game_id 
-- player_id 
-- player_name
-- team 
-- offense_snaps 
-- defense_snaps 
-- st_snaps 
-- total_snaps (sum of above)
-- offense_pct 
-- defense_pct 
-- st_pct 
+- player_id (snap_counts)
+- season (snap_counts)
+- week (snap_counts)
+- game_id (snap_counts)
+- player_name (snap_counts)
+- team (snap_counts)
+- offense_snaps (snap_counts)
+- defense_snaps (snap_counts)
+- st_snaps (snap_counts)
+- total_snaps (snap_counts... sum of above)
+- offense_pct (snap_counts)
+- defense_pct (snap_counts)
+- st_pct (snap_counts)
 
 ### passing_stats
+- player_id (player_stats)
+- season (player_stats)
+- week (player_stats)
+- season_type (player_stats)
+- completions (player_stats)
+- attempts (player_stats)
+- passing_yards (player_stats)
+- passing_tds (player_stats)
+- passing_interceptions (player_stats)
+- sacks_suffered (player_stats)
+- sack_yards_lost (player_stats)
+- sack_fumbles (player_stats)
+- sack_fumbles_lost (player_stats)
+- passing_air_yards (player_stats)
+- passing_yards_after_catch (player_stats)
+- passing_first_downs (player_stats)
+- passing_epa (player_stats)
+- passing_cpoe (player_stats)
+- passing_2pt_conversions (player_stats)
+- pacr (player_stats)
+### passing_advanced
+- player_gsis_id (next_gen)
+- season_type (pbp)
+- season (next_gen)
+- week (next_gen)
+- avg_time_to_throw (next_gen)
+- avg_completed_air_yards (next_gen)
+- avg_intended_air_yards (next_gen)
+- avg_intended_air_yards_differential (next_gen)
+- aggressiveness (next_gen)
+- max_completed_air_distance (next_gen)
+- avg_air_yards_to_sticks (next_gen)
+- passer_rating (next_gen)
+### passing_redzone
+- player_gsis_id (pbp)
+- season_type (pbp)
+- season (pbp)
+- week (pbp)
+- completions (pbp)
+- attempts (pbp)
+- passing_yards (pbp)
+- passing_tds (pbp)
+- passing_interceptions (pbp)
+- sacks_suffered (pbp)
+- sack_yards_lost (pbp)
+- sack_fumbles (pbp)
+- sack_fumbles_lost (pbp)
+### passing_extra
+- player_gsis_id (pbp)
+- gameid (pbp)
+- season_type (pbp)
+- season (pbp)
+- week (pbp)
+- shotgun (pbp)
+- qb_scrambles (pbp)
+- no_huddle (pbp)
+- qb_hit (pbp)
+
 ### rushing_stats
+- player_id (player_stats)
+- season (player_stats)
+- week (player_stats)
+- carries (player_stats)
+- rushing_yards (player_stats)
+- rushing_tds (player_stats)
+- rushing_fumbles (player_stats)
+- rushing_fumbles_lost (player_stats)
+- rushing_first_downs (player_stats)
+- rushing_epa (player_stats)
+- rushing_2pt_conversions (player_stats)
+### rushing_advanced
+- player_gsis_id (next_gen)
+- season_type (next_gen)
+- season (next_gen)
+- week (next_gen)
+- efficiency (next_gen)
+- percent_attempts_gte_eight_defenders (next_gen)
+- avg_time_to_los (next_gen)
+- expected_rush_yards (next_gen)
+- rush_yards_over_expected (next_gen)
+- avg_rush_yards (next_gen)
+- rush_yards_over_expected_per_att (next_gen)
+- rush_pct_over_expected (next_gen)
+### rushing_redzone
+- player_gsis_id (pbp)
+- season_type (pbp)
+- season (pbp)
+- week (pbp)
+- carries (pbp)
+- rushing_tds (pbp)
+- rushing_fumbles (pbp)
+- rushing_fumbles_lost (pbp)
+### rushing_extra
+- player_gsis_id (pbp)
+- season_type (pbp)
+- season (pbp)
+- week (pbp)
+- tackled_at_1yd (pbp)
+- explosive_run (pbp)
+
 ### receiving_stats
-### kicking_stats
-### defense_stats
+- player_id (player_stats)
+- season (player_stats)
+- week (player_stats)
+- receptions (player_stats)
+- targets (player_stats)
+- receiving_yards (player_stats)
+- receiving_tds (player_stats)
+- receiving_fumbles (player_stats)
+- receiving_fumbles_lost (player_stats)
+- receiving_air_yards (player_stats)
+- receiving_yards_after_catch (player_stats)
+- receiving_first_downs (player_stats)
+- receiving_epa (player_stats)
+- receiving_2pt_conversions (player_stats)
+- racr (player_stats)
+- target_share (player_stats)
+- air_yards_share (player_stats)
+- wopr (player_stats)
+### receiving_advanced
+- player_gsis_id (next_gen)
+- season_type (next_gen)
+- season (next_gen)
+- week (next_gen)
+- avg_air_distance (next_gen)
+- max_air_distance (next_gen)
+- avg_cushion (next_gen)
+- avg_separation (next_gen)
+- percent_share_of_intended_air_yards (next_gen)
+- catch_percentage (next_gen)
+- avg_yac (next_gen)
+- avg_expected_yac (next_gen)
+- avg_yac_above_expectation (next_gen)
+### receiving_redzone
+- player_gsis_id (pbp)
+- season_type (pbp)
+- season (pbp)
+- week (pbp)
+- targets (pbp)
+- receptions (pbp)
+- yards (pbp)
+- touchdowns (pbp)
+- receiving_fumbles (pbp)
+- receiving_fumbles_lost (pbp)
+### receiving_extra
+- player_gsis_id (pbp)
+- season_type (pbp)
+- season (pbp)
+- week (pbp)
+- tackled_at_1yd (pbp)
+- rec_20_plus_yards (pbp)
+
 ### special_teams_stats
+- player_id (player_stats)
+- season (player_stats)
+- week (player_stats)
+- season_type (player_stats)
+- punt_returns (player_stats)
+- punt_return_yards (player_stats)
+- kickoff_returns (player_stats)
+- kickoff_return_yards (player_stats)
+- special_teams_tds (player_stats)
+
+### kicking_stats
+- player_id (player_stats)
+- season (player_stats)
+- week (player_stats)
+- season_type (player_stats)
+- fg_made (player_stats)
+- fg_att (player_stats)
+- fg_missed (player_stats)
+- fg_blocked (player_stats)
+- fg_long (player_stats)
+- fg_pct (player_stats)
+- fg_made_0_19 (player_stats)
+- fg_made_20_29 (player_stats)
+- fg_made_30_39 (player_stats)
+- fg_made_40_49 (player_stats)
+- fg_made_50_59 (player_stats)
+- fg_made_60 (player_stats)
+- fg_missed_0_19 (player_stats)
+- fg_missed_20_29 (player_stats)
+- fg_missed_30_39 (player_stats)
+- fg_missed_40_49 (player_stats)
+- fg_missed_50_59 (player_stats)
+- fg_missed_60 (player_stats)
+- fg_made_list (player_stats)
+- fg_missed_list (player_stats)
+- fg_blocked_list (player_stats)
+- fg_made_distance (player_stats)
+- fg_missed_distance (player_stats)
+- fg_block_distance (player_stats)
+- pat_made (player_stats)
+- pat_att (player_stats)
+- pat_missed (player_stats)
+- pat_blocked (player_stats)
+- pat_pct (player_stats)
+- gwfg_made (player_stats)
+- gwfg_att (player_stats)
+- gwfg_missed (player_stats)
+- gwfg_blocked (player_stats)
+- gwfg_distance (player_stats)
+
+### defense_stats
+- player_id (player_stats)
+- season (player_stats)
+- week (player_stats)
+- season_type (player_stats)
+- def_tackles_solo (player_stats)
+- def_tackles_with_assist (player_stats)
+- def_tackle_assists (player_stats)
+- def_tackles_for_loss (player_stats)
+- def_tackles_for_loss_yards (player_stats)
+- def_fumbles_forced (player_stats)
+- def_sacks (player_stats)
+- def_sack_yards (player_stats)
+- def_qb_hits (player_stats)
+- def_interceptions (player_stats)
+- def_interception_yards (player_stats)
+- def_pass_defended (player_stats)
+- def_tds (player_stats)
+- def_fumbles (player_stats)
+- def_safties (player_stats)
+
+### player_misc_stats
+- player_id (player_stats)
+- season (player_stats)
+- week (player_stats)
+- season_type (player_stats)
+- misc_yards (player_stats)
+- fumble_recovery_own (player_stats)
+- fumble_recovery_yards_own (player_stats)
+- fumble_recovery_opp (player_stats)
+- fumble_recovery_yards_opp (player_stats)
+- fumble_recovery_tds (player_stats)
+- penalties (player_stats)
+- penalty_yards (player_stats)
+
 ## Weekly Team Stats
 ### team_offense_stats
+- team (team_stats)
+- season (team_stats)
+- week (team_stats)
+- season_type (team_stats)
+- completions (team_stats)
+- attempts (team_stats)
+- passing_yards (team_stats)
+- passing_tds (team_stats)
+- passing_interceptions (team_stats)
+- sacks_suffered (team_stats)
+- sack_yards_lost (team_stats)
+- sack_fumbles (team_stats)
+- sack_fumbles_lost (team_stats)
+- passing_air_yards (team_stats)
+- passing_yards_after_catch (team_stats)
+- passing_first_downs (team_stats)
+- passing_epa (team_stats)
+- passing_cpoe (team_stats)
+- passing_2pt_conversions (team_stats)
+- carries (team_stats)
+- rushing_yards (team_stats)
+- rushing_tds (team_stats)
+- rushing_fumbles (team_stats)
+- rushing_fumbles_lost (team_stats)
+- rushing_first_downs (team_stats)
+- rushing_epa (team_stats)
+- rushing_2pt_conversions (team_stats)
+- receptions (team_stats)
+- targets (team_stats)
+- receiving_yards (team_stats)
+- receiving_tds (team_stats)
+- receiving_fumbles (team_stats)
+- receiving_fumbles_lost (team_stats)
+- receiving_air_yards (team_stats)
+- receiving_yards_after_catch (team_stats)
+- receiving_first_downs (team_stats)
+- receiving_epa (team_stats)
+- receiving_2pt_conversions (team_stats)
+### team_redzone_offense
+- posteam (pbp)
+- game_id (pbp)
+- season (pbp)
+- week (pbp)
+- snaps (pbp)
+- completions (pbp)
+- attempts (pbp)
+- passing_yards (pbp)
+- passing_tds (pbp)
+- passing_interceptions (pbp)
+- sacks_suffered (pbp)
+- sack_yards_lost (pbp)
+- sack_fumbles (pbp)
+- sack_fumbles_lost (pbp)
+- carries (pbp)
+- rushing_tds (pbp)
+- rushing_fumbles (pbp)
+- rushing_fumbles_lost (pbp)
+- targets (pbp)
+- receptions (pbp)
+- yards (pbp)
+- touchdowns (pbp)
+- receiving_fumbles (pbp)
+- receiving_fumbles_lost (pbp)
+
+### team_offense_extra
+- third_down_converted (pbp)
+- third_down_failed (pbp)
+- fourth_down_converted (pbp)
+- fourth_down_failed (pbp)
+
 ### team_defense_stats
+- team (team_stats)
+- season (team_stats)
+- week (team_stats)
+- season_type (team_stats)
+- def_tackles_solo (team_stats)
+- def_tackles_with_assist (team_stats)
+- def_tackle_assists (team_stats)
+- def_tackles_for_loss (team_stats)
+- def_tackles_for_loss_yards (team_stats)
+- def_fumbles_forced (team_stats)
+- def_sacks (team_stats)
+- def_sack_yards (team_stats)
+- def_qb_hits (team_stats)
+- def_interceptions (team_stats)
+- def_interception_yards (team_stats)
+- def_pass_defended (team_stats)
+- def_tds (team_stats)
+- def_fumbles (team_stats)
+- def_safties (team_stats)
+
+### team_misc_stats
+- team (player_stats)
+- season (player_stats)
+- week (player_stats)
+- season_type (player_stats)
+- misc_yards (player_stats)
+- fumble_recovery_own (player_stats)
+- fumble_recovery_yards_own (player_stats)
+- fumble_recovery_opp (player_stats)
+- fumble_recovery_yards_opp (player_stats)
+- fumble_recovery_tds (player_stats)
+- penalties (player_stats)
+- penalty_yards (player_stats)
+
 ### team_kicking_stats
+- team (team_stats)
+- season (team_stats)
+- week (team_stats)
+- season_type (team_stats)
+- fg_made (team_stats)
+- fg_att (team_stats)
+- fg_missed (team_stats)
+- fg_blocked (team_stats)
+- fg_long (team_stats)
+- fg_pct (team_stats)
+- fg_made_0_19 (team_stats)
+
+
 ### team_special_teams_stats
+- team (team_stats)
+- season (team_stats)
+- week (team_stats)
+- season_type (team_stats)
+- punt_returns (team_stats)
+- punt_return_yards (team_stats)
+- kickoff_returns (team_stats)
+- kickoff_return_yards (team_stats)
+- special_teams_tds (team_stats)
+- fg_made_20_29 (player_stats)
+- fg_made_30_39 (player_stats)
+- fg_made_40_49 (player_stats)
+- fg_made_50_59 (player_stats)
+- fg_made_60 (player_stats)
+- fg_missed_0_19 (player_stats)
+- fg_missed_20_29 (player_stats)
+- fg_missed_30_39 (player_stats)
+- fg_missed_40_49 (player_stats)
+- fg_missed_50_59 (player_stats)
+- fg_missed_60 (player_stats)
+- fg_made_list (player_stats)
+- fg_missed_list (player_stats)
+- fg_blocked_list (player_stats)
+- fg_made_distance (player_stats)
+- fg_missed_distance (player_stats)
+- fg_block_distance (player_stats)
+- pat_made (player_stats)
+- pat_att (player_stats)
+- pat_missed (player_stats)
+- pat_blocked (player_stats)
+- pat_pct (player_stats)
+- gwfg_made (player_stats)
+- gwfg_att (player_stats)
+- gwfg_missed (player_stats)
+- gwfg_blocked (player_stats)
+- gwfg_distance (player_stats)
