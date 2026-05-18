@@ -1,3 +1,9 @@
+## 2026-05-15
+- finalized schema
+- next step is to test data ingestion from nflverse
+- nflverse tables are already "clean", so the plan is to 1) create staging tables and 2) update database
+- right now, creating scripts to test ingestion of data sets
+
 ## 2026-04-29
 - creating smaller tables so i can move towards extracting from pbp in the future
 - right now, the plan is to create initial tables with aggregated data sets
