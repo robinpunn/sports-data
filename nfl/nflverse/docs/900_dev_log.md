@@ -1,3 +1,159 @@
+## 2026-05-26
+- passing_redzone
+    - gameid
+    - season
+    - week
+    - season_type
+    - posteam
+    - play_type == pass
+    - pass == 1 (might not need this)
+    - yardline_100 <= 20
+    - pass_player_id
+    - pass_player_name
+    - pass_attempt
+    - completion
+    - passing_yards
+    - passing_tds
+    - passing_interceptions
+    - sack
+    - fumble
+    - fumble_lost
+- passing_extra
+    - gameid
+    - season
+    - week
+    - season_type
+    - posteam
+    - play_type == pass
+    - pass == 1 (might not need this)
+    - qb_scrambles
+    - qb_hit
+    - sack
+    - qb_spike
+    - shotgun
+    - no_huddle
+- rushing_redzone
+    - gameid
+    - season
+    - week
+    - season_type
+    - posteam
+    - play_type == run
+    - run == 1 (might not need this)
+    - yardline_100 <= 20
+    - rusher_player_id (this is how to track carries)
+    - rusher_player_name
+    - rushing_yards
+    - rushing_tds
+    - fumble
+    - fumble_lost
+- receiving_redzone
+    - gameid
+    - season
+    - week
+    - season_type
+    - posteam
+    - play_type == pass
+    - yardline_100 <= 20
+    - receiving_player_id (target)
+    - receiving_player_name
+    - complete_pass == 1 (reception)
+    - receiving_yards
+    - pass_touchdown
+    - fumble
+    - fumble_lost
+
+## 2026-05-25
+- figuring out how to determine a valid play using pbp
+- relevant fields i may need to use
+    - posteam (string of team with possession)
+    - side_of_field (which team's side of the field)
+    - yardline_100 (distance of yards from opponent's endzone)
+    - sp (binary for scoring plays)
+    - down (down for given play)
+    - goal_to_go (goal to go situations)
+    - yardstogo (numeric distance from 1st down or goal)
+    - desc (detailed string description of play)
+    - play (binary indicator if play was "normal" including penalties???)
+    - play_deleted (binary for deleted plays???)
+    - aborted_play (binary indicator if play was aborted???)
+    - special_teams_play (binary for special teams play)
+    - play_type (string indicating type of play)
+        - pass (includes sacks)
+        - run (includes scrambles)
+        - punt 
+        - field_goal
+        - kick_off
+        - extra_point
+        - qb_kneel
+        - qb_spike
+        - no_play (timeouts and penalties)
+        - missing (rows for indicating end of play???)
+    - pass (binary indicator if play was a pass)
+    - rush (binary indicator is play was a rush)
+    - first_down (binary indicator if play ended in a first down)
+    - yards_gained (excludes fumble recoveries and laterals)
+    - shotgun (binary for formation)
+    - no_huddle (binary for formation)
+    - qb_dropback (binary includes pass attempt, sack, scramble)
+    - qb_kneel (binary whether or not qb took knee)
+    - pass_length (string for short or deep)
+    - pass_location (string for left/middle/right)
+    - air_yards (numeric for yards perpendicular to los where wr did or didn't catch the ball)
+    - yards_after_catch (numeric for yards perpendicular to where ball is caught)
+    - run_location (string for left/middle/right)
+    - run_gap (string for end/guard/tackle)
+    - two_point_conv_result (string: success, failure, saftey, return)
+    - td_team (string for scoring team)
+    - td_player_name (string for scoring player name)
+    - td_player_id (id for scoring player)
+    - first_down_rush (binary if rush converted first down)
+    - first_down_pass (binary if pass converted first down)
+    - first_down_penalty (binary if penalty converted first down)
+    - third_down_converted (binary if 1st down was converted on 3rd)
+    - third_down_failed (binary if posteam failed convering 3rd down)
+    - fourth_down_converted (binary if 1st down converted on 4th down)
+    - incomplete_pass (binary if pass was incomplete)
+    - interception (binary if pass was intercepted)
+    - fumble_forced (binary if fumble was forced)
+    - fumble_not_forced (binary if fumble was not forced)
+    - fumble_out_of_bounds (binary if fumble went out of bounds)
+    - penalty (binary if penalty occured)
+    - fumble_lost (binary for fumble lost)
+    - qb_hit (binary for qb hit on play)
+    - rush_attempt (binary if play was a run)
+    - pass_attempt (binary if play was a pass, includes sacks)
+    - sack (binary if play resulted in sack)
+    - touchdown (binary if play resulted in TD)
+    - pass_touchdown (binary if play resulted in pass TD)
+    - rush_touchdown (binary if play resulted in rush TD)
+    - return_td (binary if play resulted in return TD)
+        - interception
+        - fumble
+        - kick_off
+        - punt
+        - blocked kicks
+    - fumble (binary if fumble occured)
+    - complete_pass (binary for completed passes)
+    - pass_player_id (id of passer)
+    - pass_player_name (name of passer)
+    - lateral_reception (binary if lateral occured on a reception)
+    - lateral_rush (binary if lateral occured on a rush)
+    - lateral_recovery (binary if lateral occured on fumble recovery)
+    - passing_yards (numeric yards for pass plays... includes laterals)
+    - receiver_player_id (id for player targeted on pass)
+    - receiver_player_name (string for targetted player)
+    - receiving_yards (numeric yards gained, does NOT include laterals) 
+    - rush_player_id (id for player that attempted run)
+    - rush_player_name (string for player that attempted run)
+    - rushing_yards (yards for rushing player, does NOT include laterals)
+    - lateral_receiver_player_id (id for player that received LAST lateral on pass play)
+    - lateral_receiver_player_name (string for player that received LAST lateral on pass play)
+    - lateral_receiving_yards (numeric yards for pass plays with laterals for the LAST lateral receiver)
+    - lateral_rush_player_id (id for player that received LAST lateral on a rush play)
+    - lateral_rush_player_named (string for player that received LAST lateral on a rush play)
+
+
 ## 2026-05-15
 - finalized schema
 - next step is to test data ingestion from nflverse

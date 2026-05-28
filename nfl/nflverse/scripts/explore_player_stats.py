@@ -4,6 +4,7 @@ import polars as pl
 weekly = nfl.load_player_stats(seasons=[2025])
 
 available = set(weekly.columns)
+print(weekly.columns)
 
 domains = {
     "passing": [
@@ -119,15 +120,25 @@ domains = {
         "special_teams_tds"
     ],
     "defense": [
-         "player_id",
-         "season",
-         "week",
-         "season_type",
-         "punt_returns",
-         "punt_return_yards",
-         "kickoff_returns",
-         "kickoff_return_yards",
-         "special_teams_tds"
+        "player_id",
+        "season",
+        "week",
+        "season_type",
+        "def_tackles_solo",
+        "def_tackles_with_assist",
+        "def_tackle_assists",
+        "def_tackles_for_loss",
+        "def_tackles_for_loss_yards",
+        "def_fumbles_forced",
+        "def_sacks",
+        "def_sack_yards",
+        "def_qb_hits",
+        "def_interceptions",
+        "def_interception_yards",
+        "def_pass_defended",
+        "def_tds",
+        "def_fumbles",
+        "def_safeties",
     ],
     "misc": [
          "player_id",
