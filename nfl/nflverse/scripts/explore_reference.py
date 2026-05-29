@@ -3,7 +3,7 @@ import polars as pl
 
 teams = nfl.load_teams()
 teams_available = set(teams.columns)
-#print("TEAM COLUMNS:", teams.columns)
+print("TEAM COLUMNS:", teams.columns)
 
 team_fields = [
     "team_id",
@@ -19,10 +19,11 @@ if missing:
     print(f"MISSING: {missing}")
 #print(teams.head())
 #print(teams.dtypes)
-print(teams.null_count().sum())
+#print(teams.null_count().sum())
 
 players = nfl.load_players()
 players_available = set(players.columns)
+print("PLAYER COLUMNS:", players.columns)
 
 tables = {
     "players": [
@@ -66,5 +67,5 @@ for name, fields, in tables.items():
         fields = [f for f in fields if f in players_available]
     subset = players[fields]
     #print(subset.columns)
-    print(subset.head())
+    #print(subset.head())
     #print(subset.null_count().sum())

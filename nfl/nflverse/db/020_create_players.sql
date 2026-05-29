@@ -1,4 +1,4 @@
-CREATE TABLE nflverse.players (
+CREATE TABLE IF NOT EXISTS nflverse.players (
     player_id TEXT PRIMARY KEY,
     full_name TEXT NOT NULL,
     short_name TEXT,
@@ -13,8 +13,8 @@ CREATE TABLE nflverse.players (
     weight INTEGER
 );
 
-CREATE TABLE nflverse.player_draft (
-    player_id TEXT PRIMARY KEY REFERENCES players(player_id),
+CREATE TABLE IF NOT EXISTS nflverse.player_draft (
+    player_id TEXT PRIMARY KEY REFERENCES nflverse.players(player_id),
     college_name TEXT,
     college_conference TEXT, 
     draft_year INTEGER,
@@ -23,8 +23,8 @@ CREATE TABLE nflverse.player_draft (
     draft_team TEXT
 );
 
-CREATE TABLE nflverse.player_status (
-    player_id TEXT PRIMARY KEY REFERENCES players(player_id),
+CREATE TABLE IF NOT EXISTS nflverse.player_status (
+    player_id TEXT PRIMARY KEY REFERENCES nflverse.players(player_id),
     rookie_season INTEGER,
     last_season INTEGER,
     status TEXT,
