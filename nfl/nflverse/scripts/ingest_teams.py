@@ -1,5 +1,7 @@
 import nflreadpy as nfl
-import psycopg
+from utils.db import run_ingestion
+
+CONFLICT = "team_id"
 
 teams = nfl.load_teams()
 
@@ -20,43 +22,6 @@ teams = teams.select([
     "division",
 ])
 
-conn = psycopg.connect(
-    dbname="nfl",
-    user="mayjasp",
-)
-
-cur = conn.cursor()
-
-for row in teams.iter_rows(named=True):
-    cur.execute(
-        """
-        INSERT INTO nflverse.teams (
-            team_id,
-            abbr,
-            name,
-            nickname,
-            conference,
-            division
-        )
-        VALUES (%s, %s, %s, %s, %s, %s)
-        ON CONFLICT (team_id) DO NOTHING
-        """,
-        (
-            row["team_id"],
-            row["abbr"],
-            row["name"],
-            row["nickname"],
-            row["conference"],
-            row["division"],
-        )
-    )
-
-try:
-    conn.commit()
-    print(f"Inserted {len(teams)} teams")
-except Exception as e:
-    conn.rollback()
-    print(f"Error: {e}")
-finally:
-    cur.close()
-    conn.close()
+run_ingestion([
+    ("teams", teams, CONFLICT),
+])

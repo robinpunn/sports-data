@@ -1,6 +1,8 @@
 import nflreadpy as nfl
-import psycopg
 import polars as pl
+from utils.db import run_ingestion
+
+WEEKLY_CONFLICT = "player_id, season, week, season_type"
 
 weekly = nfl.load_player_stats(seasons=2025)
 weekly = weekly.filter(
@@ -111,7 +113,8 @@ receiving = weekly.filter(
 })
 
 kicking = weekly.filter(
-    pl.col("fg_att") > 0
+    (pl.col("fg_att") > 0) |
+    (pl.col("pat_att") > 0)
 ).select([
     "player_id",
     "name",
@@ -281,38 +284,12 @@ misc = weekly.filter(
     "misc_yards": "yards",
 })
 
-conn = psycopg.connect(
-    dbname="nfl",
-    user="mayjasp",
-)
-
-cur = conn.cursor()
-
-def insert_rows(cur, table, df):
-    cols = df.columns
-    placeholders = ", ".join(["%s"] * len(cols))
-    col_names = ", ".join(cols)
-    query = f"""
-        INSERT INTO nflverse.{table} ({col_names})
-        VALUES ({placeholders})
-        ON CONFLICT (player_id, season, week, season_type) DO NOTHING
-    """
-    for row in df.iter_rows(named=True):
-        cur.execute(query, tuple(row.values()))
-    print(f"Inserted {len(df)} rows into {table}")
-
-try:
-    insert_rows(cur, "player_passing", passing)
-    insert_rows(cur, "player_rushing", rushing)
-    insert_rows(cur, "player_receiving", receiving)
-    insert_rows(cur, "player_kicking", kicking)
-    insert_rows(cur, "player_st", special_teams)
-    insert_rows(cur, "player_defense", defense)
-    insert_rows(cur, "player_misc", misc)
-    conn.commit()
-except Exception as e:
-    conn.rollback()
-    print(f"Error: {e}")
-finally:
-    cur.close()
-    conn.close()
+run_ingestion([
+    ("player_passing", passing, WEEKLY_CONFLICT),
+    ("player_rushing", rushing, WEEKLY_CONFLICT),
+    ("player_receiving", receiving, WEEKLY_CONFLICT),
+    ("player_kicking", kicking, WEEKLY_CONFLICT),
+    ("player_special_teams", special_teams, WEEKLY_CONFLICT),
+    ("player_defense", defense, WEEKLY_CONFLICT),
+    ("player_misc", misc, WEEKLY_CONFLICT),
+])
