@@ -16,10 +16,10 @@ CREATE TABLE IF NOT EXISTS nflverse.player_passing (
     air_yards INTEGER,
     yac INTEGER,
     first_down INTEGER,
-    epa INTEGER,
-    cpoe INTEGER,
+    epa FLOAT,
+    cpoe FLOAT,
     two_pt_conv INTEGER,
-    pacr INTEGER,
+    pacr FLOAT,
     PRIMARY KEY (player_id, season, week, season_type) 
 );
 
@@ -35,7 +35,7 @@ CREATE TABLE IF NOT EXISTS nflverse.player_rushing (
     fumbles INTEGER,
     fumbles_lost INTEGER,
     first_down INTEGER,
-    epa INTEGER,
+    epa FLOAT,
     two_pt_conv INTEGER,
     PRIMARY KEY (player_id, season, week, season_type) 
 );
@@ -55,12 +55,12 @@ CREATE TABLE IF NOT EXISTS nflverse.player_receiving (
     air_yards INTEGER,
     yac INTEGER,
     first_down INTEGER,
-    epa INTEGER,
+    epa FLOAT,
     two_pt_conv INTEGER,
-    racr INTEGER,
-    tar_share INTEGER,
-    a_y_share INTEGER,
-    wopr INTEGER,
+    racr FLOAT,
+    tar_share FLOAT,
+    a_y_share FLOAT,
+    wopr FLOAT,
     PRIMARY KEY (player_id, season, week, season_type) 
 ); 
 
@@ -75,7 +75,7 @@ CREATE TABLE IF NOT EXISTS nflverse.player_kicking (
     missed INTEGER,
     blocked INTEGER,
     fg_long INTEGER,
-    pct INTEGER,
+    pct FLOAT,
     made_0_19 INTEGER,
     made_20_29 INTEGER,
     made_30_39 INTEGER,
@@ -98,7 +98,7 @@ CREATE TABLE IF NOT EXISTS nflverse.player_kicking (
     pat_att INTEGER,
     pat_missed INTEGER,
     pat_blocked INTEGER,
-    pat_pct INTEGER,
+    pat_pct FLOAT,
     gwfg_made INTEGER,
     gwfg_att INTEGER,
     gwfg_missed INTEGER,
@@ -107,7 +107,7 @@ CREATE TABLE IF NOT EXISTS nflverse.player_kicking (
     PRIMARY KEY (player_id, season, week, season_type) 
 );
 
-CREATE TABLE IF NOT EXISTS nflverse.player_st (
+CREATE TABLE IF NOT EXISTS nflverse.player_special_teams (
     player_id TEXT REFERENCES nflverse.players(player_id),
     name TEXT NOT NULL,
     season INTEGER,

@@ -1,9 +1,12 @@
 import nflreadpy as nfl
 import polars as pl
 
+pl.Config.set_tbl_cols(-1)
+
 games = nfl.load_schedules(2025)
 games_available = set(games.columns)
 print("GAME COLUMNS:", games.columns)
+print(games.select(["away_team", "home_team"]).head(10))
 
 tables = {
     "game": [
