@@ -1,6 +1,8 @@
 import nflreadpy as nfl
 import polars as pl
 
+pl.Config.set_tbl_cols(-1)
+
 weekly = nfl.load_player_stats(seasons=[2025])
 
 available = set(weekly.columns)

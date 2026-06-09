@@ -9,10 +9,10 @@ CREATE TABLE IF NOT EXISTS nflverse.snaps (
     team TEXT,
     pfr_player_id TEXT,
     offense_snaps INTEGER,
-    offense_pct FLOAT,
+    offense_pct NUMERIC(5,4),
     defense_snaps INTEGER,
-    defense_pct FLOAT,
+    defense_pct NUMERIC(5,4),
     st_snaps INTEGER,
-    st_pct FLOAT,
+    st_pct NUMERIC(5,4),
     PRIMARY KEY (game_id, pfr_player_id) 
 );

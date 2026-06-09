@@ -1,15 +1,21 @@
 import nflreadpy as nfl
 import polars as pl
 from utils.db import run_ingestion
+from utils.args import get_args
 
 WEEKLY_CONFLICT = "player_id, season, week, season_type"
 
-weekly = nfl.load_player_stats(seasons=2025)
-weekly = weekly.filter(
-    (pl.col("week") ==1) &
+args = get_args()
+seasons = args.season or [2025]
+
+weekly = nfl.load_player_stats(seasons)
+
+if args.week:
+    weekly = weekly.filter(pl.col("week") == args.week)
+
+weekly = weekly.filter( 
     (pl.col("player_id").is_not_null())
-)
-weekly = weekly.rename({
+).rename({
     "player_display_name":"name"
 })
 
