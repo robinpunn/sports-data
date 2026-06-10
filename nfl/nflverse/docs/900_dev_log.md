@@ -1,3 +1,40 @@
+## 2026-06-10
+- found some type of "edge case" where 2025 week 1, nflverse doesn't seem to credit kaleb johnson with a fumble
+- yahoo, nfl, espn all show that kaleb johnson has a fumble (not lost)
+- using the pbp data, i see this is because the fumble happened during a kick off return
+- so the aggregated weekly stats, don't have a field for special teams fumbles
+- for now, im okay with this, but might consider making a special teams fumble field in a misc table...
+
+## 2026-06-09
+- added teams field to player stats tables
+- just makes querying easier...
+
+## 2026-06-08
+- created snap count schema/ingestion script
+- i shouldn't be using INTEGER for all numerical fields...
+- using NUMERIC(5,4) for percentages and NUMERIC(8,4) for advanced stats
+- changed db util script so it updates rather than 'do nothing'... 'do nothing' would ignore stat corrections
+
+## 2026-06-07
+- added utility script to add season/week arguments for ingestion scripts
+
+## 2026-06-05
+- created games schema and ingestion script
+
+## 2026-06-04
+- have a utility script that connects to the db and inserts as needed
+- this is going to be used in all ingestion scripts, so makes sense to create a utility function
+
+## 2026-06-01
+- weekly player stats schema and ingestion script are complete
+
+## 2026-05-29
+- i have the schema ready for all the tables i need
+- questioning whether i want to put the effor into to play by play tables
+- but right now, i'm creating sql scripts for schema and ingestion scripts to populate tables
+- have working ingestion scripts for teams and players... since these are reference tables, i don't have to worry about updating weekly...
+but i will update them occasionally... just not as frequently as the stats tables
+
 ## 2026-05-26
 - passing_redzone
     - gameid

@@ -1,4 +1,7 @@
 import nflreadpy as nfl
+import polars as pl
+
+pl.Config.set_tbl_cols(-1)
 
 passing_ngs = nfl.load_nextgen_stats(2025, stat_type="passing")
 rushing_ngs = nfl.load_nextgen_stats(2025, stat_type="rushing")
@@ -12,7 +15,7 @@ next_gen_domain = {
         "data": passing_ngs,
         "fields": [
             "player_gsis_id",
-            "player_display_name",
+            "name",
             "player_position",
             "season_type",
             "season",
@@ -24,7 +27,9 @@ next_gen_domain = {
             "aggressiveness",
             "max_completed_air_distance",
             "avg_air_yards_to_sticks",
-            "passer_rating"
+            "passer_rating",
+            "avg_air_distance",
+            "max_air_distance"
         ]
     },
     "rushing": {

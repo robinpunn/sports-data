@@ -1,9 +1,35 @@
 import nflreadpy as nfl
 import polars as pl
 
+pl.Config.set_tbl_cols(-1)
+
 pbp = nfl.load_pbp(2025)
 pbp = pbp.filter(pl.col("week") == 1)
-print("PBP COLUMNS:", len(pbp.columns))
+#print("PBP COLUMNS:", len(pbp.columns))
+
+pbp_pit = pbp.filter(
+    (pl.col("home_team") == "PIT") |
+    (pl.col("away_team") == "PIT")
+)
+
+fumbles = pbp_pit.filter(
+    pl.col("desc").str.contains("FUMBLES", literal=True)
+).select([
+    "game_id",
+    "play_id",
+    "qtr",
+    "passer_player_name",
+    "rusher_player_name",
+    "receiver_player_name"
+])
+
+#print(fumbles)
+
+plays = pbp_pit.filter(
+    pl.col("play_id").is_in([787.0, 1706.0, 2977.0])
+)
+
+print(plays.to_dict())
 
 #team_fields = [
 #    "team_id",

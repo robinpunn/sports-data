@@ -24,6 +24,7 @@ passing = weekly.filter(
 ).select([
     "player_id",
     "name",
+    "team",
     "season",
     "week",
     "season_type",
@@ -60,6 +61,7 @@ rushing = weekly.filter(
 ).select([
     "player_id",
     "name",
+    "team",
     "season",
     "week",
     "season_type",
@@ -86,6 +88,7 @@ receiving = weekly.filter(
 ).select([
     "player_id",
     "name",
+    "team",
     "season",
     "week",
     "season_type",
@@ -124,6 +127,7 @@ kicking = weekly.filter(
 ).select([
     "player_id",
     "name",
+    "team",
     "season",
     "week",
     "season_type",
@@ -206,6 +210,7 @@ special_teams = weekly.filter(
 ).select([
     "player_id",
     "name",
+    "team",
     "season",
     "week",
     "season_type",
@@ -230,6 +235,7 @@ defense = weekly.filter(
 ).select([
     "player_id",
     "name",
+    "team",
     "season",
     "week",
     "season_type",
@@ -275,6 +281,7 @@ misc = weekly.filter(
 ).select([
     "player_id",
     "name",
+    "team",
     "season",
     "week",
     "season_type",

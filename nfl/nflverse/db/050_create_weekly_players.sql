@@ -1,6 +1,7 @@
 CREATE TABLE IF NOT EXISTS nflverse.player_passing (
     player_id TEXT NOT NULL REFERENCES nflverse.players(player_id),
     name TEXT NOT NULL,
+    team TEXT,
     season INTEGER,
     week INTEGER,
     season_type TEXT,
@@ -26,6 +27,7 @@ CREATE TABLE IF NOT EXISTS nflverse.player_passing (
 CREATE TABLE IF NOT EXISTS nflverse.player_rushing (
     player_id TEXT REFERENCES nflverse.players(player_id),
     name TEXT NOT NULL,
+    team TEXT,
     season INTEGER,
     week INTEGER,
     season_type TEXT,
@@ -43,6 +45,7 @@ CREATE TABLE IF NOT EXISTS nflverse.player_rushing (
 CREATE TABLE IF NOT EXISTS nflverse.player_receiving (
     player_id TEXT REFERENCES nflverse.players(player_id),
     name TEXT NOT NULL,
+    team TEXT,
     season INTEGER,
     week INTEGER,
     season_type TEXT,
@@ -67,6 +70,7 @@ CREATE TABLE IF NOT EXISTS nflverse.player_receiving (
 CREATE TABLE IF NOT EXISTS nflverse.player_kicking (
     player_id TEXT REFERENCES nflverse.players(player_id),
     name TEXT NOT NULL,
+    team TEXT,
     season INTEGER,
     week INTEGER,
     season_type TEXT,
@@ -110,6 +114,7 @@ CREATE TABLE IF NOT EXISTS nflverse.player_kicking (
 CREATE TABLE IF NOT EXISTS nflverse.player_special_teams (
     player_id TEXT REFERENCES nflverse.players(player_id),
     name TEXT NOT NULL,
+    team TEXT,
     season INTEGER,
     week INTEGER,
     season_type TEXT,
@@ -124,6 +129,7 @@ CREATE TABLE IF NOT EXISTS nflverse.player_special_teams (
 CREATE TABLE IF NOT EXISTS nflverse.player_defense (
     player_id TEXT REFERENCES nflverse.players(player_id),
     name TEXT NOT NULL,
+    team TEXT,
     season INTEGER,
     week INTEGER,
     season_type TEXT,
@@ -148,6 +154,7 @@ CREATE TABLE IF NOT EXISTS nflverse.player_defense (
 CREATE TABLE IF NOT EXISTS nflverse.player_misc (
     player_id TEXT REFERENCES nflverse.players(player_id),
     name TEXT NOT NULL,
+    team TEXT,
     season INTEGER,
     week INTEGER,
     season_type TEXT,
