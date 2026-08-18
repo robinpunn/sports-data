@@ -2,6 +2,7 @@ import nflreadpy as nfl
 import polars as pl
 from utils.db import run_ingestion
 from utils.args import get_args
+from utils.fg_list import parse_fg_list
 
 WEEKLY_CONFLICT = "player_id, season, week, season_type"
 
@@ -190,12 +191,6 @@ kicking = weekly.filter(
     "fg_missed_distance": "missed_distance",
     "fg_blocked_distance": "blocked_distance",
 })
-
-def parse_fg_list(value):
-    if value is None or value == "":
-        return None
-    separator = ";" if ";" in value else ","
-    return [int(x) for x in value.split(separator)]
 
 kicking = kicking.with_columns([
     pl.col("made_list").map_elements(parse_fg_list, return_dtype=pl.List(pl.Int32)),
