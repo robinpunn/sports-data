@@ -1,7 +1,7 @@
 import nflreadpy as nfl
 from utils.db import run_ingestion
 
-CONFLICT = "team_id"
+CONFLICT = "abbr"
 
 teams = nfl.load_teams()
 
