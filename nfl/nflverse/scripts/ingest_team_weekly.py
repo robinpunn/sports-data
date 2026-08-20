@@ -7,7 +7,7 @@ from utils.fg_list import parse_fg_list
 WEEKLY_CONFLICT = "team, season, week, season_type"
 
 args = get_args()
-seasons = args.season or [2025]
+seasons = args.season
 
 weekly = nfl.load_team_stats(seasons)
 

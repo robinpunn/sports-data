@@ -6,7 +6,7 @@ from utils.args import get_args
 WEEKLY_CONFLICT = "game_id, pfr_player_id"
 
 args = get_args()
-seasons = args.season or [2025]
+seasons = args.season
 
 snaps = nfl.load_snap_counts(seasons)
 

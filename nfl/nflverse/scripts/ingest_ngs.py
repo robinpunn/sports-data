@@ -6,7 +6,7 @@ from utils.args import get_args
 WEEKLY_CONFLICT = "player_id, season, week, season_type"
 
 args = get_args()
-seasons = args.season or [2025]
+seasons = args.season
 
 passing_ngs = nfl.load_nextgen_stats(seasons, stat_type="passing")
 rushing_ngs = nfl.load_nextgen_stats(seasons, stat_type="rushing")

@@ -1,13 +1,17 @@
 import nflreadpy as nfl
-from utils.db import run_ingestion
 import polars as pl
+from utils.db import run_ingestion
+from utils.args import get_args
 
 CONFLICT = "game_id"
 
-games = nfl.load_schedules(2025)
+args = get_args()
+seasons = args.season 
 
-#print(games.filter(pl.col("game_id").is_null()).shape)
-#print(games.shape[0] - games.unique(subset=["game_id"]).shape[0])
+games = nfl.load_schedules(seasons)
+
+if args.week:
+    games = games.filter(pl.col("week") == args.week)
 
 games_core = games.select([
     "game_id",
