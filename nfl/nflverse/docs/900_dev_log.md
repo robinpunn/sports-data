@@ -1,3 +1,7 @@
+## 2026-08-22
+-switching gears to draftkings
+- the plan right now is to have an events table, a market table, and outcome table, and a snapshots table that i can use to get odds twice a day
+- i should be able to use the events to create queries with the nflverse table
 ## 2026-06-10
 - found some type of "edge case" where 2025 week 1, nflverse doesn't seem to credit kaleb johnson with a fumble
 - yahoo, nfl, espn all show that kaleb johnson has a fumble (not lost)
