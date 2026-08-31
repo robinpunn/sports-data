@@ -2,11 +2,8 @@
 
 ## events
 - event_id
-- league_id
-- sport_id
 - name (should be something like TEAM A @ TEAM B)
 - start_event_date
-- status (whether or not game is started/over)
 - home_team
 - away_team
 

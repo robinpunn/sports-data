@@ -1,7 +1,14 @@
+## 2026-08-26
+- have the dk data domains in the docs...
+- before populating with data during preseason week 2, still need to consider a few things
+- do i need dk event_id, participant_id, subcategory_id... i'm not sure i need all of this, i could just match player names to the nflverse db... but it could making querying easier...
+
 ## 2026-08-22
 -switching gears to draftkings
 - the plan right now is to have an events table, a market table, and outcome table, and a snapshots table that i can use to get odds twice a day
 - i should be able to use the events to create queries with the nflverse table
+- planning to update the dk db twice daily
+
 ## 2026-06-10
 - found some type of "edge case" where 2025 week 1, nflverse doesn't seem to credit kaleb johnson with a fumble
 - yahoo, nfl, espn all show that kaleb johnson has a fumble (not lost)
