@@ -2,7 +2,7 @@ CREATE SCHEMA IF NOT EXISTS draftkings;
 
 CREATE TABLE IF NOT EXISTS draftkings.events (
 	event_id TEXT PRIMARY KEY,
-	name TEXT NOT NULL,
+	season INTEGER, 
 	home_team TEXT,
 	away_team TEXT
 );
@@ -10,16 +10,24 @@ CREATE TABLE IF NOT EXISTS draftkings.events (
 CREATE TABLE IF NOT EXISTS draftkings.markets (
 	market_id TEXT PRIMARY KEY,
 	event_id TEXT NOT NULL REFERENCES draftkings.events(event_id),
-	name TEXT NOT NULL,
+	subcategory_id TEXT NOT NULL,
+	market_type_id TEXT NOT NULL,
+	name TEXT NOT NULL
+);
+
+CREATE TABLE IF NOT EXISTS draftkings.selections (	
+	selection_id TEXT PRIMARY KEY,
+	market_id TEXT NOT NULL REFERENCES draftkings.markets(market_id),
+	player TEXT,
+	venue_role TEXT,
+	side TEXT
 );
 
 CREATE TABLE IF NOT EXISTS draftkings.snapshots (
 	snapshot_id BIGSERIAL PRIMARY KEY,
-	market_id TEXT NOT NULL REFERENCES draftkings.markets(market_id),
-	player TEXT,
+	selection_id TEXT NOT NULL REFERENCES draftkings.selections(selection_id),
 	scraped_at TIMESTAMPTZ NOT NULL,
 	line NUMERIC(10,2),
-	side TEXT,
 	american_odds INTEGER,
 	decimal_odds NUMERIC(10,4),
 	fractional_odds TEXT,
