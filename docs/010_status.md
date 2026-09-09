@@ -1,12 +1,13 @@
 # Completed
- 
+- nflverse schema
+- nflverse update script
+- dk schema
+- dk update script
+
 # Current focus
-- Building the nflverse database schema
+- game lines database
 
 # Planned work
-- Advanced NFL stats
-- Player props
-- Game lines
-- MMA databases
-- ATP/WTA databases
+- nfl game lines
+- MMA database
 

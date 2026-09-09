@@ -33,6 +33,8 @@ SELECT
             + COALESCE(pat_made, 0)
         ),
         2
-    ) AS fantasy_points
+    ) AS fantasy_points,
+
+    1 AS games_played
 
 FROM nflverse.player_kicking;

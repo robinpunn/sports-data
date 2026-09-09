@@ -1,7 +1,3 @@
-\set season 2025
-\set start_week 1
-\set end_week 17
-
 SELECT
     player_id,
     full_name,
@@ -13,9 +9,9 @@ SELECT
         2
     ) AS ppg
 FROM nflverse.player_fantasy_weekly
-WHERE season = :season
-  AND week BETWEEN :start_week AND :end_week
-  AND position IN ('QB', 'RB', 'WR', 'TE')
+WHERE season = :player_ppg_season
+  AND week BETWEEN :player_ppg_start_week AND :player_ppg_end_week
+  AND position = ANY(:'player_ppg_positions'::text[]) 
 GROUP BY
     player_id,
     full_name,

@@ -1,3 +1,17 @@
+## 2026-09-09
+- the action network spider is opernational... running it once a day to keep track of game lines, spreads, totals
+- plan to create some views and join with the other views to create a 'best matchup' type view
+
+## 2026-09-04 
+- the dk scrapy spider is operational and im running once a day to populate my dk tables
+- i'm deferring to these player prop odds to prepare for the draft...
+- i understand this is flawed because the odds are only relevant for week 1, not taking the full season into consideration
+
+## 2026-09-02
+- made a lot of changes to the schema pattern
+- no longer have an outcomes table... well i still do, but it's named more approptriately to the selections...
+- the snapshot table only contains fields that change
+
 ## 2026-08-26
 - have the dk data domains in the docs...
 - before populating with data during preseason week 2, still need to consider a few things
