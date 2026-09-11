@@ -1,5 +1,5 @@
 \set season 2025
-
+-- nflverse
 -- wr rookie season
 \set rookie_season 2025
 \set current_season_for_rookie_wr :season
@@ -21,6 +21,12 @@
 \set def_player_ppg_start_week 1
 \set def_player_ppg_end_week 17
 \set def_player_ppg_position 'QB'
+
+-- defense ppg all positions
+\set team_d_all_pos_ppg_season 2025
+\set team_d_all_pos_start_week 1
+\set team_d_all_pos_end_week 17
+\set team_d_all_pos qb
 
 -- average kicking points per team
 \set team_k_season :season
@@ -45,13 +51,19 @@
 \set team_d_basic_end_week 4
 \set team_d_basic_order_by 'pts_allowed'
 
--- find kicker
-\set find_k_historical_season :season
+-- find kicker for week
+\set find_k_reference_season :season
 \set find_k_start_week 1
 \set find_k_end_week 17
 \set find_k_season_to_check 2026
 \set find_k_week_to_check 1
 
+--action network
+-- action network implied scores
+\set book_id 68
+\set act_imp_week 1
+
+-- draftkings
 -- dk props
 \set subcategory_id 9514
 

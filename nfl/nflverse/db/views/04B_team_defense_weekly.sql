@@ -6,7 +6,6 @@ SELECT
     da.week,
     da.season_type,
 
-    -- What the defense allowed
     da.passing_yards,
     da.rushing_yards,
     da.total_yards_allowed,
@@ -23,7 +22,6 @@ SELECT
     da.pat_made,
     da.special_teams_tds,
 
-    -- What the defense did
     COALESCE(td.def_fumbles_forced, 0) AS fumbles_forced,
     COALESCE(td.def_sacks, 0) AS sacks,
     COALESCE(td.def_qb_hits, 0) AS qb_hits,

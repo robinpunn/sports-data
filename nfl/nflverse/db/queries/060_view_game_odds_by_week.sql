@@ -1,4 +1,3 @@
--- sort games
 SELECT
     game_id,
     away_moneyline,
@@ -14,7 +13,6 @@ WHERE game_id LIKE '2026_%'
   AND split_part(game_id, '_', 2)::int BETWEEN 1 AND 17
 ORDER BY game_id;
 
--- sort games based on total and highest spread
 SELECT
     game_id,
     away_moneyline,

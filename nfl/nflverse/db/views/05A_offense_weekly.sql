@@ -1,6 +1,5 @@
 CREATE OR REPLACE VIEW nflverse.offense_weekly AS
 
--- Away team
 SELECT
     g.away_team AS offense,
     g.home_team AS opponent,
@@ -54,7 +53,6 @@ JOIN nflverse.team_kicking ak
 
 UNION ALL
 
--- Home team
 SELECT
     g.home_team AS offense,
     g.away_team AS opponent,

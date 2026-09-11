@@ -31,6 +31,9 @@ this `defense_allowed_weekly` view uses games, team_offense, team_kicking, team_
 ### team_defense_weekly
 the `defense_weekly` view uses the `defense_weekly_allowed` to combine the opponent's offensive production with the team's defensive stats...
 
+### offense_weekly
+uses the `games` table and joins `team_offense`, `team_defense`, `team_kicking` to create a view for general offense
+
 # nflverse/queries
 ### 010_wr_stats_by_rookie_year
 queries players and receiving tables... choose a rookie season, choose a year, and get the final stats for that year for all the players from that rookie season

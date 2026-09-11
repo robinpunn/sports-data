@@ -3,7 +3,7 @@ WITH team_kicking_avg AS (
         offense,
         ROUND(AVG(fg_attempts), 1) AS avg_fg_attempts
     FROM nflverse.offense_weekly
-    WHERE season = :find_k_historical_season
+    WHERE season = :find_k_reference_season
       AND week BETWEEN :find_k_start_week AND :find_k_end_week
     GROUP BY offense
 ),
@@ -13,7 +13,7 @@ defense_avg AS (
         defense,
         ROUND(AVG(fg_attempts), 1) AS avg_fg_attempts_allowed
     FROM nflverse.defense_weekly
-    WHERE season = :find_k_historical_season
+    WHERE season = :find_k_reference_season
       AND week BETWEEN :find_k_start_week AND :find_k_end_week
     GROUP BY defense
 ),
@@ -39,7 +39,7 @@ kicker_points_allowed AS (
                 g.home_team = k.team
                 OR g.away_team = k.team
             )
-        WHERE k.season = :find_k_historical_season
+        WHERE k.season = :find_k_reference_season
           AND k.week BETWEEN :find_k_start_week AND :find_k_end_week
         GROUP BY
             CASE
