@@ -1,5 +1,38 @@
 \set season 2025
 -- nflverse
+-- snaps by position for a week
+\set snap_stats_season :season
+\set snap_stats_week 1
+\set snap_stats_position '{QB,RB,WR,TE}'
+
+-- snaps by timeframe
+\set snap_timeframe_season :season
+\set snap_timeframe_start_week 1
+\set snap_timeframe_end_week 17
+\set snap_timeframe_position '{QB,RB,WR,TE}'
+\set snap_timeframe_sort snaps_game
+
+
+-- player receiving stats
+\set receiving_stats_season :season
+\set receiving_stats_start_week 1
+\set receiving_stats_end_week 17
+\set receiving_stats_sort tar_per_game
+
+-- player rushing stats
+\set rushing_stats_season :season
+\set rushing_stats_start_week 1
+\set rushing_stats_end_week 17
+\set rushing_stats_sort car
+\set rushing_stats_position '{QB,RB,WR,TE}'
+
+-- player passing stats
+\set passing_stats_season :season
+\set passing_stats_start_week 1
+\set passing_stats_end_week 17
+\set passing_stats_sort yds
+\set passing_stats_position '{QB,RB,WR,TE}'
+
 -- wr rookie season
 \set rookie_season 2025
 \set current_season_for_rookie_wr :season
