@@ -12,12 +12,12 @@
 \set snap_timeframe_position '{QB,RB,WR,TE}'
 \set snap_timeframe_sort snaps_game
 
-
 -- player receiving stats
 \set receiving_stats_season :season
 \set receiving_stats_start_week 1
 \set receiving_stats_end_week 17
 \set receiving_stats_sort tar_per_game
+\set receiving_stats_position '{QB,RB,WR,TE}'
 
 -- player rushing stats
 \set rushing_stats_season :season
@@ -93,13 +93,32 @@
 
 --action network
 -- action network implied scores
-\set book_id 68
+\set act_book_id 68
+\set act_season :season
 \set act_imp_week 1
 
 -- draftkings
+-- find player full name
+\set find_full_name NULL
+
+-- add player to map
+\set update_dk_player NULL
+\set update_nflverse_player_id NULL
+
+-- update missing player
+\set insert_nflverse_player_id NULL
+\set insert_dk_player NULL
+
 -- dk props
 \set subcategory_id 9514
+\set player_prop_positions '{QB,RB,WR,TE}'
 
 -- dk tds
 \set market_type_id 11019
+\set player_td_positions '{QB,RB,WR,TE}'
+
+-- sort games by week
+\set dk_events_season :season
+\set dk_events_start_week 1
+\set dk_events_end_week 1
 
